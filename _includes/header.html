@@ -16,22 +16,228 @@
 {% endif %}
 
 {% if site.is_dev %}
-  <link rel="stylesheet" href="/static/stylesheets/all.css">
+  <stub-link rel="stylesheet" href="/static/stylesheets/all.css">
 {% else %}
-  <link rel="stylesheet" href="https://visual-assault.org/static/stylesheets/all-618a500561.min.css">
+  <stub-link rel="stylesheet" href="https://visual-assault.org/static/stylesheets/all-618a500561.min.css">
 {% endif %}
 
   <style amp-boilerplate>
+    /*
+     * Use box-sizing
+     */
+    * {
+      -moz-box-sizing: border-box;
+      -webkit-box-sizing: border-box;
+      box-sizing: border-box;
+    }
     *:target {
       background: lightgreen;
       border: 1px dotted;
       padding: 0.25em;
     }
-    body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}
+
+    html,
+    button,
+    input,
+    select {
+      /* anti-aliasing
+       * Frankly, i don't know why anti-aliasing isn't enabled by default.
+       * It probably should be, but its nice that "good" developers
+       * can make their sites look nicer by opting-into antialiased type.
+       */
+      -webkit-font-smoothing: antialiased;
+      -moz-osx-font-smoothing: grayscale;
+      /* font-smooth: always; */
+
+      /* text size adjust
+       * allows Web authors to control if and how
+       * the text-inflating algorithm is applied to the textual content
+       * of the element it is applied to.
+       */
+      -webkit-text-size-adjust: none;
+      -moz-text-size-adjust: none;
+      -ms-text-size-adjust: none;
+      text-size-adjust: none;
+      /* Normalize font stack. */
+      font-family: Georgia, Times, "Times New Roman", serif; */
+      font-size: 100%;
+    }
+
+    body {
+      background: #FDF9F0;
+      color: #292929;
+      padding: 1.5em;
+    }
+    a {
+      color: #292929;
+      text-decoration: underline;
+    }
+    a:hover {
+      color: #0000cc;
+    }
+
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6 {
+      font-size: 1em;
+      margin: 1em 0;
+    }
+
+    img {
+      max-width: 100%;
+    }
+
+    /* ===== Objects =======================================================
+     * Objects
+     * OOCSS, design patterns, no cosmetic styles, begin using classes
+     * exclusively with agnostic names (e.g. 'ui-list').
+     * This is where the sculptor roughs in general shapes.
+     *
+     * o- is the prefix for all objects.
+     */
+
+    /* ===== o-Layout ======================================================
+     * Designates the main site horizontal widths
+     */
+    .o-Layout {
+      max-width: 57em;
+      margin: 0 auto;
+    }
+
+
+    /* ===== o-Center ======================================================
+     * Center text content
+     */
+    .o-Center {
+      text-align: center;
+    }
+
+    /* ===== Components ====================================================
+     * Components
+     * Fully designed pieces of UI, Still only utilizes class selectors. More
+     * expliciltly named (e.g. products-list).
+     * This is where the sculptor adds the features.
+     */
+
+    /* ===== c-Header ======================================================
+     * The global site header
+     * c-Header
+     */
+    .c-Header {
+      margin-bottom: 4.5em;
+    }
+
+    @media only screen and (min-width: 35.5em) {
+      .c-Header {
+        padding-right: 1.5em;
+      }
+    }
+
+
+    /* ===== c-GlobalNav ===================================================
+     * The global navigation links
+     */
+    .c-GlobalNav--Link:link {
+      background-color: transparent;
+      color: #292929;
+      padding-top: 0;
+      padding-bottom: 0;
+      text-decoration: none;
+    }
+    .c-GlobalNav--Item:first-child .c-GlobalNav--Link:link {
+      padding-left: 0;
+    }
+    .c-GlobalNav--Link:hover,
+    .c-GlobalNav--Item.is-active .c-GlobalNav--Link {
+      text-decoration: underline;
+    }
+    .c-GlobalNav--Link:hover {
+      background-color: transparent;
+    }
+
+
+    /* ===== c-Footer ======================================================
+     * Global site footer
+     */
+    .c-Footer {
+      margin: 1.5em auto;
+      border-top: 1px solid rgba(61, 70, 77, 0.1);
+    }
+
+
+    /* ===== c-Meta ========================================================
+     * Non-content styling
+     */
+    .c-Meta {
+      color: rgba(61, 70, 77, 0.6);
+    }
+
+    /* ===== c-License =====================================================
+     * Copyright and ownership styles
+     */
+    .c-License {
+      margin-top: 4em;
+      margin-bottom: 4em;
+    }
+    /* ===== Goole AMP ====================================================== */
+    body {
+      -webkit-animation: -amp-start 8s steps(1, end) 0s 1 normal both;
+      -moz-animation: -amp-start 8s steps(1, end) 0s 1 normal both;
+      -ms-animation: -amp-start 8s steps(1, end) 0s 1 normal both;
+      animation: -amp-start 8s steps(1, end) 0s 1 normal both
+    }
+    @-webkit-keyframes -amp-start {
+      from {
+        visibility: hidden
+      }
+      to {
+        visibility: visible
+      }
+    }
+    @-moz-keyframes -amp-start {
+      from {
+        visibility: hidden
+      }
+      to {
+        visibility: visible
+      }
+    }
+    @-ms-keyframes -amp-start {
+      from {
+        visibility: hidden
+      }
+      to {
+        visibility: visible
+      }
+    }
+    @-o-keyframes -amp-start {
+      from {
+        visibility: hidden
+      }
+      to {
+        visibility: visible
+      }
+    }
+    @keyframes -amp-start {
+      from {
+        visibility: hidden
+      }
+      to {
+        visibility: visible
+      }
+    }
   </style>
   <noscript>
     <style amp-boilerplate>
-      body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}
+      body {
+        -webkit-animation: none;
+        -moz-animation: none;
+        -ms-animation: none;
+        animation: none;
+      }
     </style>
   </noscript>
 

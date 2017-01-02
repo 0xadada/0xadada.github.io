@@ -10,11 +10,8 @@ permalink: pretty
 
 # Project settings
 exclude: [
-  bower.json,
   Gemfile,
   Gemfile.lock,
-  gulpfile.js,
-  package.json,
   node_modules,
   LICENSE,
   README.md
