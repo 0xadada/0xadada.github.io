@@ -1,0 +1,59 @@
+{% include header.html %}
+
+<article class="o-Layout pure-g hentry h-entry">
+  <header class="pure-u-sm-1-4 c-Header">
+    <h1 class="entry-title p-name">
+    {% if page.displayTitle %}
+      {{ page.displayTitle }}
+    {% endif %}
+    </h1>
+
+    <div class="t-visuallyhidden">
+      <span class="entry-summary p-summary">
+        {{ page.excerpt | strip_html }}
+      </span>
+      <a href="{{ site.url }}{{ page.url }}"
+        class="u-url"
+        rel="bookmark">
+        {{ page.displayTitle }}
+      </a>
+    </div>
+
+    {% if page.date %}
+    <time class="published updated dt-published"
+      datetime="{{ page.date | date_to_xmlschema }}"
+      pubdate>
+      {{ page.date | date: "%A %B %-d, %Y" }}
+    </time>
+    {% endif %}
+
+    {% if page.author %}
+    <br>
+    <span class="byline vcard h-card">
+      by:
+      <span class="author fn p-author p-name">
+        {{ page.author }}
+      </span>
+    </span>
+    {% endif %}
+  </header>
+
+  <div class="pure-u-sm-3-4 entry-content e-content">
+    {{ content }}
+  </div>
+
+  {% if page.license %}
+  <footer class="c-Meta c-License pure-g">
+    {% if page.license == "cc-by-nc-sa" %}
+    {% include cc-by-nc-sa.html %}
+    {% elsif page.license == "cc-by-sa" %}
+    {% include cc-by-sa.html %}
+    {% elsif page.license == "cc-by" %}
+    {% include cc-by.html %}
+    {% endif %}
+  </footer>
+  {% endif %}
+
+</article>
+
+{% include footer.html %}

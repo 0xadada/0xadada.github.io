@@ -1,0 +1,35 @@
+# .gitignore for visual assault
+
+# Ignore OS generated files #
+.DS_Store*
+Icon?
+Thumbs.db
+
+# Always-ignore these files and folders #
+*.diff
+*.err
+*.log
+*.orig
+*.rej
+*.swn
+*.swo
+*.swp
+._*
+*~
+
+# Vendor dependencies
+# bower_components/
+node_modules/
+
+# Jekyll specific
+.jekyll-assets-cache/
+.jekyll-metadata
+.bundle/
+_asset_bundler_cache/
+_site/
+Gemfile.lock
+.ruby-version
+.sass-cache
+
+# Environment-dependent files
+_config_local.yml

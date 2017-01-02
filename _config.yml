@@ -1,0 +1,21 @@
+# Site settings
+name: 0xADADA
+description: Homepage of 0xADADA
+url: https://0xadada.pub
+
+# Build settings
+markdown: kramdown
+paginate: 10
+permalink: pretty
+
+# Project settings
+exclude: [
+  bower.json,
+  Gemfile,
+  Gemfile.lock,
+  gulpfile.js,
+  package.json,
+  node_modules,
+  LICENSE,
+  README.md
+]

@@ -1,0 +1,22 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TECHNOLOGY TEAM
+
+    @0xADADA
+
+
+# UX/PRODUCT TEAM
+
+    @0xADADA
+
+
+# TECHNOLOGY COLOPHON
+
+Stack:
+    Jekyll
+Standards:
+    HTML5
+    CSS3
+Tools:
+    Vim

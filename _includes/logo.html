@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+  xmlns:xlink="http://www.w3.org/1999/xlink"
+  class="c-Logo"
+  height="64" width="64"
+  x="0px" y="0px"
+  viewbox="0 0 512 512">
+  <defs>
+    <style type="text/css">
+    <![CDATA[
+    /* ===== c-Logo ========================================================
+     * Header logo and animation.
+     */
+    .c-Logo--Char {
+        fill: #000000;
+    }
+    .c-Logo--Char.is-animated {
+      transform: translateX(-6em)
+          translateY(-8.5em);
+      animation-name: slide-into-place;
+      animation-duration: 1s;
+      animation-delay: 1s;
+      animation-timing-function: ease;
+      animation-direction: normal;
+      animation-iteration-count: 1;
+      animation-fill-mode: forwards;
+    }
+
+    @keyframes slide-into-place {
+      0% {
+        transform: translateX(-6em)
+          translateY(-8.5em);
+        fill: #000000;
+      }
+      50% {
+        transform: translateX(-3em)
+          translateY(-8.5em);
+      }
+      85% {
+        transform: translateX(-6em)
+          translateY(-1em);
+      }
+      100% {
+        transform: translateX(0)
+          translateY(0);
+        fill: #000000;
+      }
+    }
+    ]]>
+    </style>
+  </defs>
+  <g id="square">
+    <path class="c-Logo--Char c-Logo--Char---A is-animated"
+      d="M296.96,157.53h171.71L505,489H368l-1.55-53.26h-95.81L245.81,489H118.99L296.96,157.53z M364.34,354.94l0.39-124.88h-0.93l-55.92,124.88H364.34z"/>
+    <path class="c-Logo--Char c-Logo--Char---V"
+      d="M6,23h134.69l-8.29,258.94h0.93L237.88,23H364.7L200.16,354.47H28.91L6,23z"/>
+  </g>
+</svg>

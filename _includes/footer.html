@@ -1,0 +1,40 @@
+  <footer class="c-Footer o-Layout pure-g">
+    <div class="pure-u-sm-1-4">&nbsp;</div>
+    <p class="pure-u-sm-3-4 c-Meta">
+      &copy; {{ site.time | date: '%Y' }} 0xADADA (unless otherwise noted.)
+      <br>
+      <a class="c-Meta" href="mailto:website@0xadada.pub"
+        rel="external" title="Email 0xADADA">Email</a>
+      <a class="c-Meta" href="https://github.com/0xadada"
+        rel="external" title="0xADADA on GitHub">GitHub</a>
+    </p>
+  </footer>
+  {% if site.is_dev %}
+  <script src="//localhost:35729/livereload.js"></script>
+  {% endif %}
+
+  <script>
+  {% if page.alternate %}
+    document.location = document.querySelector('link[rel="alternate"]').href
+  {% endif %}
+    // Google Analytics placeholder
+    window._gaq = window._gaq || [];
+    window._gaq.push( ['_setSiteSpeedSampleRate', 75] );
+    window._gaq.push(
+      [ '_setAccount', 'UA-66660439-1' ],
+      [ '_setDomainName', '0xadada.pub' ],
+      [ '_trackPageview' ]
+    );
+    if( window.navigator.doNotTrack !== "1") {
+      ( function() {
+          var ga = document.createElement( 'script' );
+          ga.type = 'text/javascript';
+          ga.async = true;
+          ga.src = '//google-analytics.com/analytics.js';
+          var s = document.getElementsByTagName('script')[0];
+          s.parentNode.insertBefore( ga, s );
+      } )();
+    }
+  </script>
+</body>
+</html>
