@@ -13,32 +13,30 @@
         rel="external" title="0xADADA on Keybase">Keybase</a>
     </p>
   </footer>
+
   {% if site.is_dev %}
   <script src="//localhost:35729/livereload.js"></script>
   {% endif %}
 
-  <script>
   {% if page.alternate %}
+  <script>
     document.location = document.querySelector('link[rel="alternate"]').href
-  {% endif %}
-    // Google Analytics placeholder
-    window._gaq = window._gaq || [];
-    window._gaq.push( ['_setSiteSpeedSampleRate', 75] );
-    window._gaq.push(
-      [ '_setAccount', 'UA-66660439-1' ],
-      [ '_setDomainName', '0xadada.pub' ],
-      [ '_trackPageview' ]
-    );
-    if( window.navigator.doNotTrack !== "1") {
-      ( function() {
-          var ga = document.createElement( 'script' );
-          ga.type = 'text/javascript';
-          ga.async = true;
-          ga.src = '//google-analytics.com/analytics.js';
-          var s = document.getElementsByTagName('script')[0];
-          s.parentNode.insertBefore( ga, s );
-      } )();
-    }
   </script>
+  {% endif %}
+  <amp-analytics type="googleanalytics" id="analytics1">
+    <script type="application/json">
+      {
+        "vars": {
+          "account": "UA-66660439-1"
+        },
+        "triggers": {
+          "trackPageview": {
+            "on": "visible",
+            "request": "pageview"
+          }
+        }
+      }
+    </script>
+  </amp-analytics>
 </body>
 </html>

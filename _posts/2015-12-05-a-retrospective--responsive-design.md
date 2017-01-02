@@ -6,6 +6,7 @@ date: 2015-11-05 20:20:00
 metaDescription: "Not too long ago, there was a great debate between two sides of the web. The 'Responsive' web vs the 'm.'' web. One pushing for a single codebase that responds to user-context and another pushing for a second, mobile-only approach (typically using a subdomain starting with m.) Its clear now, the responsive web has won."
 metaKeywords: responsive, design, responsive design, web design, process
 metaOgType: "article"
+alternative: "https://medium.com/@0xadada/not-too-long-ago-there-was-a-great-debate-between-two-sides-of-the-web-515598a84ac1"
 author: Ron. A
 license: cc-by-nc-sa
 ---

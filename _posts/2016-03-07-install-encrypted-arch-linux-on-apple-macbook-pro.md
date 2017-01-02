@@ -527,13 +527,13 @@ balance my principals for privacy
 and security with practical usability and speed. Feel free to [read more
 on these settings](https://wiki.archlinux.org/index.php/Dm-crypt/Device_encryption#Encryption_options_for_LUKS_mode).
 
-  cryptsetup --cipher aes-xts-plain64 \
-    --key-size 512 \
-    --hash sha256 \
-    --iter-time 3000 \
-    --use-random \
-    --verify-passphrase \
-    luksFormat /dev/sda5
+    cryptsetup --cipher aes-xts-plain64 \
+      --key-size 512 \
+      --hash sha256 \
+      --iter-time 3000 \
+      --use-random \
+      --verify-passphrase \
+      luksFormat /dev/sda5
 
 Enter in a good passphrase (twice), and we should be good to go.
 

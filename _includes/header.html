@@ -3,9 +3,11 @@
 <head>
   <meta charset="utf-8">
   <script async src="https://cdn.ampproject.org/v0.js"></script>
+  <script async custom-element="amp-analytics" src="https://cdn.ampproject.org/v0/amp-analytics-0.1.js"></script>
   <title>{{ page.title }}</title>
   <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
   <link rel="shortcut icon" href="/favicon.ico">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Code+Pro|Source+Serif+Pro:400,700">
   <link rel="home" href="{{ site.url }}">
 
 {% if page.alternate %}
@@ -15,13 +17,8 @@
   <link rel="canonical" href="{{ site.url }}{{ page.url }}">
 {% endif %}
 
-{% if site.is_dev %}
-  <stub-link rel="stylesheet" href="/static/stylesheets/all.css">
-{% else %}
-  <stub-link rel="stylesheet" href="https://visual-assault.org/static/stylesheets/all-618a500561.min.css">
-{% endif %}
-
-  <style amp-boilerplate>
+  <style amp-boilerplate>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style><noscript><style amp-boilerplate>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style></noscript>
+  <style amp-custom>
     /*
      * Use box-sizing
      */
@@ -58,8 +55,9 @@
       -moz-text-size-adjust: none;
       -ms-text-size-adjust: none;
       text-size-adjust: none;
+
       /* Normalize font stack. */
-      font-family: Georgia, Times, "Times New Roman", serif; */
+      font-family: "Source Serif Pro", "Times New Roman", Times, serif;
       font-size: 100%;
     }
 
@@ -82,8 +80,13 @@
     h4,
     h5,
     h6 {
-      font-size: 1em;
-      margin: 1em 0;
+      font-weight: 700;
+    }
+
+    code,
+    pre {
+      background: lightblue;
+      font-family: 'Source Code Pro', monospace;
     }
 
     img {
@@ -182,64 +185,7 @@
       margin-top: 4em;
       margin-bottom: 4em;
     }
-    /* ===== Goole AMP ====================================================== */
-    body {
-      -webkit-animation: -amp-start 8s steps(1, end) 0s 1 normal both;
-      -moz-animation: -amp-start 8s steps(1, end) 0s 1 normal both;
-      -ms-animation: -amp-start 8s steps(1, end) 0s 1 normal both;
-      animation: -amp-start 8s steps(1, end) 0s 1 normal both
-    }
-    @-webkit-keyframes -amp-start {
-      from {
-        visibility: hidden
-      }
-      to {
-        visibility: visible
-      }
-    }
-    @-moz-keyframes -amp-start {
-      from {
-        visibility: hidden
-      }
-      to {
-        visibility: visible
-      }
-    }
-    @-ms-keyframes -amp-start {
-      from {
-        visibility: hidden
-      }
-      to {
-        visibility: visible
-      }
-    }
-    @-o-keyframes -amp-start {
-      from {
-        visibility: hidden
-      }
-      to {
-        visibility: visible
-      }
-    }
-    @keyframes -amp-start {
-      from {
-        visibility: hidden
-      }
-      to {
-        visibility: visible
-      }
-    }
   </style>
-  <noscript>
-    <style amp-boilerplate>
-      body {
-        -webkit-animation: none;
-        -moz-animation: none;
-        -ms-animation: none;
-        animation: none;
-      }
-    </style>
-  </noscript>
 
   {% if page.metaDescription %}
   <meta name="description" content="{{ page.metaDescription }}">
