@@ -10,6 +10,7 @@
 
 {% if page.alternate %}
   <link rel="alternate" href="{{ page.alternate }}">
+  <link rel="canonical" href="{{ page.alternate }}">
 {% else %}
   <link rel="canonical" href="{{ site.url }}{{ page.url }}">
 {% endif %}
