@@ -1,7 +1,7 @@
 {% include header.html %}
 
-<article class="o-Layout pure-g hentry h-entry">
-  <header class="pure-u-sm-1-4 c-Header">
+<article class="o-Layout c-Grid hentry h-entry">
+  <header class="c-Header c-Grid--1-4">
     <h1 class="entry-title p-name">
     {% if page.displayTitle %}
       {{ page.displayTitle }}
@@ -38,12 +38,12 @@
     {% endif %}
   </header>
 
-  <div class="pure-u-sm-3-4 entry-content e-content">
+  <div class="c-Grid--3-4 entry-content e-content">
     {{ content }}
   </div>
 
   {% if page.license %}
-  <footer class="c-Meta c-License pure-g">
+  <footer class="c-Meta c-License">
     {% if page.license == "cc-by-nc-sa" %}
     {% include cc-by-nc-sa.html %}
     {% elsif page.license == "cc-by-sa" %}

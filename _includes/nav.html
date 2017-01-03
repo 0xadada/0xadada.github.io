@@ -1,10 +1,10 @@
-<nav class="c-GlobalNav pure-menu pure-menu-horizontal" role="navigation">
-  <ul class="c-GlobalNav--List pure-menu-list">
+<nav class="c-GlobalNav" role="navigation">
+  <ul class="c-GlobalNav--List">
   {% assign pages = site.pages | sort:"url" %}
   {% for p in pages %}
   {% if p.inNav == true %}
-    <li class="c-GlobalNav--Item pure-menu-item{% if p.url == page.url %} is-active{% endif %}">
-      <a class="c-GlobalNav--Link pure-menu-link" href="{{ p.url }}">
+    <li class="c-GlobalNav--Item {% if p.url == page.url %} is-active{% endif %}">
+      <a class="c-GlobalNav--Link" href="{{ p.url }}">
         {% if p.navTitle %}
         {{ p.navTitle }}
         {% else %}
