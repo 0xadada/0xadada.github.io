@@ -1,0 +1,197 @@
+<style amp-boilerplate>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style><noscript><style amp-boilerplate>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style></noscript>
+<style amp-custom>
+
+  /*
+   * Use box-sizing
+   */
+  * {
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+  }
+  *:target {
+    background: lightgreen;
+    border: 1px dotted;
+    padding: 0.25em;
+  }
+
+  html,
+  button,
+  input,
+  select {
+    /* anti-aliasing
+     * Frankly, i don't know why anti-aliasing isn't enabled by default.
+     * It probably should be, but its nice that "good" developers
+     * can make their sites look nicer by opting-into antialiased type.
+     */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    /* font-smooth: always; */
+
+    /* text size adjust
+     * allows Web authors to control if and how
+     * the text-inflating algorithm is applied to the textual content
+     * of the element it is applied to.
+     */
+    -webkit-text-size-adjust: none;
+    -moz-text-size-adjust: none;
+    -ms-text-size-adjust: none;
+    text-size-adjust: none;
+
+    /* Normalize font stack. */
+    font-family: "Source Serif Pro", "Times New Roman", Times, serif;
+    font-size: 100%;
+  }
+
+  body {
+    background: #FDF9F0;
+    color: #292929;
+    padding: 1.5em;
+  }
+  a {
+    color: #292929;
+    text-decoration: underline;
+  }
+  a:hover {
+    color: #0000cc;
+  }
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    font-weight: 700;
+  }
+
+  code,
+  pre {
+    background: lightblue;
+    font-family: 'Source Code Pro', monospace;
+  }
+
+  img {
+    max-width: 100%;
+  }
+
+  /* ===== Tools ======================================================= */
+
+  /*
+   * Hide only visually, but have it available for screenreaders: h5bp.com/v
+   */
+  .t-visuallyhidden {
+    border: 0;
+    clip: rect(0 0 0 0);
+    height: 1px;
+    margin: -1px;
+    overflow: hidden;
+    padding: 0;
+    position: absolute;
+    width: 1px;
+  }
+  /*
+   * Extends the .visuallyhidden class to allow the element to be focusable
+   * when navigated to via the keyboard: h5bp.com/p
+   */
+  .t-visuallyhidden.focusable:active,
+  .t-visuallyhidden.focusable:focus {
+    clip: auto;
+    height: auto;
+    margin: 0;
+    overflow: visible;
+    position: static;
+    width: auto;
+  }
+
+  /* ===== Objects ======================================================= */
+
+  /* ===== o-Layout ======================================================
+   * Designates the main site horizontal widths
+   */
+  .o-Layout {
+    max-width: 57em;
+    margin: 0 auto;
+  }
+
+
+  /* ===== o-Center ====================================================== */
+  .o-Center {
+    text-align: center;
+  }
+
+  /* ===== Components ==================================================== */
+
+  /* ===== c-Header ======================================================
+   * The global site header
+   * c-Header
+   */
+  .c-Header {
+    margin-bottom: 4.5em;
+  }
+
+  /* ===== c-Grid ======================================================
+   * The grid component
+   * c-Grid
+   */
+  @media screen and (min-width: 35em) {
+    .c-Grid {
+      display: flex;
+      flex-wrap: wrap;
+    }
+    .c-Grid--1-4 {
+      flex: 0 0 25%;
+      max-width: 25%;
+    }
+    .c-Grid--3-4 {
+      flex: 0 0 75%;
+      max-width: 75%;
+    }
+  }
+
+
+  /* ===== c-GlobalNav ===================================================
+   * The global navigation links
+   */
+  .c-GlobalNav {
+    font-family: sans-serif;
+  }
+  .c-GlobalNav--List {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  .c-GlobalNav--Link:link {
+    color: #292929;
+    text-decoration: none;
+  }
+  .c-GlobalNav--Link:hover,
+  .c-GlobalNav--Item.is-active .c-GlobalNav--Link {
+    text-decoration: underline;
+  }
+
+
+  /* ===== c-Footer ======================================================
+   * Global site footer
+   */
+  .c-Footer {
+    margin: 1.5em auto;
+    border-top: 1px solid rgba(61, 70, 77, 0.1);
+  }
+
+
+  /* ===== c-Meta ========================================================
+   * Non-content styling
+   */
+  .c-Meta {
+    color: rgba(61, 70, 77, 0.6);
+  }
+
+  /* ===== c-License =====================================================
+   * Copyright and ownership styles
+   */
+  .c-License {
+    margin-top: 4em;
+    margin-bottom: 4em;
+  }
+ </style>
