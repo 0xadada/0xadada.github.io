@@ -1,5 +1,8 @@
 <nav class="c-GlobalNav" role="navigation">
   <ul class="c-GlobalNav--List">
+    <li class="c-GlobalNav--Item {% if p.url == page.url %} is-active{% endif %}">
+      <a class="c-GlobalNav--Link" href="/">Home</a>
+    </li>
   {% assign pages = site.pages | sort:"url" %}
   {% for p in pages %}
   {% if p.inNav == true %}

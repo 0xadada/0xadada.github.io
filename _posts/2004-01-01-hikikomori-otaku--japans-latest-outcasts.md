@@ -11,7 +11,13 @@ license: cc-by-nc-sa
 ---
 
 
-![Mt. Isolation NH, USA](/static/images/2003-01-01-hikikomori-mt-isolation.jpg)
+<amp-img src="/static/images/2003-01-01-hikikomori-mt-isolation.jpg"
+  alt="Mt. Isolation NH, USA" title="Mt. Isolation NH, USA"
+  width="1920" height="312" layout="responsive"></amp-img>
+<noscript>
+  <img src="/static/images/2003-01-01-hikikomori-mt-isolation.jpg"
+    alt="Mt. Isolation NH, USA" title="Mt. Isolation NH, USA">
+</noscript>
 
 
 ## Introduction

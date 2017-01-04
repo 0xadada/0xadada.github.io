@@ -33,7 +33,13 @@ a wall of legalese when the user clicks the check box.
 [see video illustration](http://gfycat.com/BeautifulInfiniteKob)
 
 <figure>
-  <img src="/static/images/2015-03-31-dnt-chrome.png" alt="Google Chrome settings panel">
+  <amp-img src="/static/images/2015-03-31-dnt-chrome.png"
+    alt="Google Chrome settings panel" title="Google Chrome settings panel"
+    width="644" height="367"></amp-img>
+  <noscript>
+    <img src="/static/images/2015-03-31-dnt-chrome.png"
+      alt="Google Chrome settings panel" title="Google Chrome settings panel">
+  </noscript>
   <figcaption>
     Google Chrome hides the Do Not Track feature behind a wall of legalese
   </figcaption>
@@ -45,8 +51,15 @@ contextual explanation, and provides no incentives to encourage
 activation.
 
 <figure>
-  <img src="/static/images/2015-03-31-dnt-firefox.png" alt="Firefox settings panel">
-  <figcaption>Firefox provides no incentives to activate the DNT feature.
+  <amp-img src="/static/images/2015-03-31-dnt-firefox.png"
+    alt="Google Chrome settings panel" title="Google Chrome settings panel"
+    width="605" height="673"></amp-img>
+  <noscript>
+    <img src="/static/images/2015-03-31-dnt-firefox.png"
+      alt="Google Chrome settings panel" title="Google Chrome settings panel">
+  </noscript>
+  <figcaption>Firefox provides no incentives to activate the DNT
+    feature.
   </figcaption>
 </figure>
 
@@ -60,7 +73,13 @@ users trip over.
 This of course, discourages users from enabling the setting.
 
 <figure>
-  <img src="/static/images/2015-03-31-dnt-safari.png" alt="Safari settings panel">
+  <amp-img src="/static/images/2015-03-31-dnt-safari.png"
+    alt="Safari settings panel" title="Safari settings panel"
+    width="673" height="355"></amp-img>
+  <noscript>
+    <img src="/static/images/2015-03-31-dnt-safari.png"
+      alt="Safari settings panel" title="Safari settings panel">
+  </noscript>
   <figcaption>The Safari setting misleads users into thinking that
     enabling DNT will be an opt-in to website tracking.</figcaption>
 </figure>
@@ -70,9 +89,16 @@ Microsoft made a bold choice by choosing to enable DNT on by default in Internet
 Again, the wording here misleads users into thinking that additional requests are made to sites they visit.
 
 <figure>
-  <img alt="Safari settings panel" src="/static/images/2015-03-31-dnt-ie.png">
+  <amp-img src="/static/images/2015-03-31-dnt-ie.png"
+    alt="IE 10 settings panel" title="IE 10 settings panel"
+    width="428" height="547"></amp-img>
+  <noscript>
+    <img src="/static/images/2015-03-31-dnt-ie.png"
+      alt="IE 10 settings panel" title="IE 10 settings panel">
+  </noscript>
   <figcaption>Internet Explorer 10 enables DNT by default.</figcaption>
 </figure>
+
 
 ### DNT is not a technical problem
 

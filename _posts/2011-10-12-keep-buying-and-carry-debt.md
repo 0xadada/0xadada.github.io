@@ -17,4 +17,10 @@ people remix its' message with both quirky or banal messages.
 This attempt tries to speak most directly to its underlying message of
 consumerism, amidst the current climate of the Occupy Movement.
 
-![Keep Buying and Carry Debt](/static/images/2011-10-12-keep-buying-and-carry-debt.png)
+<amp-img src="/static/images/2011-10-12-keep-buying-and-carry-debt.png"
+  alt="Keep Buying and Carry Debt" title="Keep Buying and Carry Debt"
+  width="492" height="700"></amp-img>
+<noscript>
+  <img src="/static/images/2011-10-12-keep-buying-and-carry-debt.png"
+    alt="Keep Buying and Carry Debt" title="Keep Buying and Carry Debt">
+</noscript>
