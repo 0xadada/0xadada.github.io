@@ -13,7 +13,13 @@ license: cc-by-nc-sa
 
 
 <figure>
-  <img src="/static/images/2016-10-24-travel-garbage.jpg" alt="Garbage truck in Turino, Italy">
+  <amp-img src="/static/images/2016-10-24-travel-garbage.jpg"
+    alt="Garbage truck in Turino, Italy" title="Garbage truck in Turino, Italy"
+    width="2417" height="2417" layout="responsive"></amp-img>
+  <noscript>
+    <img src="/static/images/2016-10-24-travel-garbage.jpg"
+      alt="Garbage truck in Turino, Italy" title="Garbage truck in Turino, Italy">
+  </noscript>
   <figcaption>Garbage truck in Turino, Italy</figcaption>
 </figure>
 
@@ -35,7 +41,15 @@ perception of 2,400 miles is two mediocre movies and a few bad in-flight
 meals, perhaps its not really "travel".
 
 <figure>
-  <img src="/static/images/2016-10-27-travel-val-ferret.jpg" alt="Looking northeast up the Italian side of the Val Ferret, to Switzerland">
+  <amp-img src="/static/images/2016-10-27-travel-val-ferret.jpg"
+    alt="Looking northeast up the Italian side of the Val Ferret, to Switzerland"
+    title="Looking northeast up the Italian side of the Val Ferret, to Switzerland"
+    width="3286" height="2432" layout="responsive"></amp-img>
+  <noscript>
+    <img src="/static/images/2016-10-27-travel-val-ferret.jpg"
+      alt="Looking northeast up the Italian side of the Val Ferret, to Switzerland"
+      title="Looking northeast up the Italian side of the Val Ferret, to Switzerland">
+  </noscript>
   <figcaption>Looking northeast up the Italian side of the Val Ferret, to Switzerland</figcaption>
 </figure>
 
@@ -52,7 +66,15 @@ there by any means. My goal was to hike across the border from italy into
 Switzerland via the Italian/Swiss Alps.
 
 <figure>
-  <img src="/static/images/2016-10-28-travel-val-ferret-pano.jpg" alt="Looking southwest from the Col Val Ferret into Italy">
+  <amp-img src="/static/images/2016-10-28-travel-val-ferret-pano.jpg"
+    alt="Looking southwest from the Col Val Ferret into Italy"
+    title="Looking southwest from the Col Val Ferret into Italy"
+    width="8504" height="2608" layout="responsive"></amp-img>
+  <noscript>
+    <img src="/static/images/2016-10-28-travel-val-ferret-pano.jpg"
+      alt="Looking southwest from the Col Val Ferret into Italy"
+      title="Looking southwest from the Col Val Ferret into Italy">
+  </noscript>
   <figcaption>Looking southwest from the Col Val Ferret into Italy</figcaption>
 </figure>
 
@@ -69,7 +91,15 @@ and opening oneself to finding them. One has to both open the door, but then be
 willing to walk through the doorway.
 
 <figure>
-  <img src="/static/images/2016-10-30-travel-augstmatthorn.jpg" alt="The ridge of the Augstmatthorn, Interlaken Switzerland">
+  <amp-img src="/static/images/2016-10-30-travel-augstmatthorn.jpg"
+    alt="The ridge of the Augstmatthorn, Interlaken Switzerland"
+    title="The ridge of the Augstmatthorn, Interlaken Switzerland"
+    width="5302" height="2634" layout="responsive"></amp-img>
+  <noscript>
+    <img src="/static/images/2016-10-30-travel-augstmatthorn.jpg"
+      alt="The ridge of the Augstmatthorn, Interlaken Switzerland"
+      title="The ridge of the Augstmatthorn, Interlaken Switzerland">
+  </noscript>
   <figcaption>The ridge of the Augstmatthorn, Interlaken Switzerland</figcaption>
 </figure>
 
@@ -80,7 +110,15 @@ can be an escape from oneself or ones responsibilities, an escape more powerful
 than other forms of escape.
 
 <figure>
-  <img src="/static/images/2016-10-31-travel-eiger.jpg" alt="The north face of the Eiger">
+  <amp-img src="/static/images/2016-10-31-travel-eiger.jpg"
+    alt="The north face of the Eiger"
+    title="The north face of the Eiger"
+    width="2662" height="4582" layout="responsive"></amp-img>
+  <noscript>
+    <img src="/static/images/2016-10-31-travel-eiger.jpg"
+      alt="The north face of the Eiger"
+      title="The north face of the Eiger">
+  </noscript>
   <figcaption>The north face of the Eiger</figcaption>
 </figure>
 
@@ -92,6 +130,14 @@ don't need to leave the house to do it. Travel doesn't change personal growth
 any more than puzzels improve intellectual growth.
 
 <figure>
-  <img src="/static/images/2016-11-06-travel-home.jpg" alt="Home, the journey inwards">
+  <amp-img src="/static/images/2016-11-06-travel-home.jpg"
+    alt="Home, the journey inwards"
+    title="Home, the journey inwards"
+    width="3036" height="4048" layout="responsive"></amp-img>
+  <noscript>
+    <img src="/static/images/2016-11-06-travel-home.jpg"
+      alt="Home, the journey inwards"
+      title="Home, the journey inwards">
+  </noscript>
   <figcaption>Home, the journey inwards</figcaption>
 </figure>
