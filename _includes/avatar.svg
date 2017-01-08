@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" class="c-Avatar"
-  height="660" width="660" viewbox="0 0 660 660"
+<svg xmlns="http://www.w3.org/2000/svg"
+  viewbox="0 0 660 660"
   onload="init()">
   <script type="text/javascript">
   // <![CDATA[
