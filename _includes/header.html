@@ -2,12 +2,15 @@
 <html ⚡ lang=en>
 <head>
   <meta charset="utf-8">
+  <script async src="https://cdn.ampproject.org/v0.js"></script>
+  <script async custom-element="amp-analytics" src="https://cdn.ampproject.org/v0/amp-analytics-0.1.js"></script>
   <title>{{ page.title }}</title>
   <link rel="shortcut icon" href="/favicon.ico">
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Code+Pro|Source+Serif+Pro:400,700">
   <link rel="home" href="{{ site.url }}">
 
 {% if page.alternate %}
+  <meta http-equiv="refresh" content="0;url={{ page.alternate }}" />
   <link rel="alternate" href="{{ page.alternate }}">
   <link rel="canonical" href="{{ page.alternate }}">
 {% else %}

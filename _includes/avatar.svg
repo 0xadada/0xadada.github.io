@@ -29,7 +29,7 @@
     50% {
       transform: translateX(-3em)
         translateY(-8.5em);
-      opacity: 0.3;
+      opacity: 0.5;
     }
     85% {
       transform: translateX(-6em)
@@ -10837,13 +10837,13 @@
 </svg>
 <script>
   let paths = document.querySelector('.c-Avatar').querySelectorAll('path');
-    path = null;
   for (var i = 0; i < paths.length; i++) {
     let path = paths[i];
-    var randTimeout = Math.floor(Math.random() * (750 - 100) + 100);
+    let randTimeout = Math.floor(Math.random() * (1500 - 1) + 1);
     window.setTimeout(function() {
-      console.log(`timeout: ${randTimeout}`);
-      path.classList.add('is-animated');
+      window.requestAnimationFrame( function() {
+        path.classList.add('is-animated');
+      });
     }, randTimeout);
   }
 </script>
