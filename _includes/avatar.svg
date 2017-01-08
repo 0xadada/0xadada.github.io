@@ -25,7 +25,7 @@
   .p.is-animated {
     animation-name: slide-into-place;
     animation-duration: 1s;
-    animation-delay: 5s;
+    animation-delay: 1s;
     animation-timing-function: ease;
     animation-direction: normal;
     animation-iteration-count: 1;
