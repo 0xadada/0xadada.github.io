@@ -1,9 +1,21 @@
 <svg xmlns="http://www.w3.org/2000/svg" class="c-Avatar"
-  height="64" width="64" viewbox="0 0 660 660">
+  height="660" width="660" viewbox="0 0 660 660"
+  onload="init()">
   <script type="text/javascript">
   // <![CDATA[
-    alert('helllo');
-  / ]]>
+  function init() {
+    let paths = document.querySelectorAll('path');
+    for (var i = 0; i < paths.length; i++) {
+      let path = paths[i];
+      let randTimeout = Math.floor(Math.random() * (1500 - 1) + 1);
+      window.setTimeout(function() {
+        window.requestAnimationFrame( function() {
+          path.classList.add('is-animated');
+        });
+      }, randTimeout);
+    }
+  }
+  // ]]>
   </script>
   <style>
 <![CDATA[
@@ -10827,15 +10839,4 @@
   <path class="p AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA" d="M540 660l-45 5h99"/>
   <path class="p XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX" d="M630 660l-36 5 46-5"/>
 </svg>
-<script>
-  let paths = document.querySelector('.c-Avatar').querySelectorAll('path');
-  for (var i = 0; i < paths.length; i++) {
-    let path = paths[i];
-    let randTimeout = Math.floor(Math.random() * (1500 - 1) + 1);
-    window.setTimeout(function() {
-      window.requestAnimationFrame( function() {
-        path.classList.add('is-animated');
-      });
-    }, randTimeout);
-  }
-</script>
+
