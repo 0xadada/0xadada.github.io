@@ -1,7 +1,7 @@
 # Site settings
-name: 0xADADA
-description: Homepage of 0xADADA
-url: https://0xadada.pub
+name: "0xADADA"
+description: "Homepage of 0xADADA"
+url: "https://0xadada.pub"
 
 # Build settings
 markdown: kramdown
