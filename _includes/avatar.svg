@@ -1,16 +1,16 @@
 <svg xmlns="http://www.w3.org/2000/svg" class="c-Avatar"
   height="64" width="64" viewbox="0 0 660 660">
+  <script type="text/javascript">
+  // <![CDATA[
+    alert('helllo');
+  / ]]>
+  </script>
   <style>
 <![CDATA[
-  /* ===== c-Logo ========================================================
-   * Header logo and animation.
-   */
   .p {
     opacity: 0;
   }
   .p.is-animated {
-    transform: translateX(-6em)
-        translateY(-8.5em);
     animation-name: slide-into-place;
     animation-duration: 1s;
     animation-delay: 5s;
@@ -21,26 +21,18 @@
   }
 
   @keyframes slide-into-place {
-    0% {
-      transform: translateX(-6em)
-        translateY(-8.5em);
-      opacity: 0.1;
-    }
-    50% {
-      transform: translateX(-3em)
-        translateY(-8.5em);
-      opacity: 0.5;
-    }
-    85% {
-      transform: translateX(-6em)
-        translateY(-1em);
-      opacity: 0.85;
-    }
-    100% {
-      transform: translateX(0)
-        translateY(0);
-      opacity: 1;
-    }
+    0% { opacity: 1; }
+    5% { opacity: 0; }
+    15% { opacity: 1; }
+    17% { opacity: 0; }
+    50% { opacity: 1; }
+    55% { opacity: 0; }
+    60% { opacity: 1; }
+    75% { opacity: 0.25; }
+    85% { opacity: 0.85; }
+    90% { opacity: 0; }
+    95% { opacity: 0.25; }
+    100% { opacity: 1; }
   }
 
   .a{
