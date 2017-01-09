@@ -51,14 +51,14 @@ opacity until the last frame finally sets it to `1`.
 
 ```css
 .p {
-  # each polygon "path" starts fully transparent
+  // each polygon "path" starts fully transparent
   opacity: 0;
 }
 
 // ...
 
-# a set of keyframes that incrementally toggle opacity, this 
-# keyframes set is called "slide-into-place"
+// a set of keyframes that incrementally toggle opacity, this 
+// keyframes set is called "slide-into-place"
 @keyframes slide-into-place {
   0% { opacity: 1; }
   5% { opacity: 0; }
@@ -82,15 +82,15 @@ the keyframes to the SVG paths.
 
 ```css
 .p.is-animated {
-  # sets the keyframes to use for animation 
+  // sets the keyframes to use for animation 
   animation-name: slide-into-place;
-  # how long the animation lasts
+  // how long the animation lasts
   animation-duration: 1s;
-  # pause before animation starts
+  // pause before animation starts
   animation-delay: 1s;
   animation-timing-function: ease;
   animation-direction: normal;
-  # Run the animation only once
+  // Run the animation only once
   animation-iteration-count: 1;
   animation-fill-mode: forwards;
 }
@@ -117,10 +117,10 @@ function init() {
   let paths = document.querySelectorAll('path');
   for (var i = 0; i < paths.length; i++) {
     let path = paths[i];
-    let randTimeout = Math.floor(Math.random() * (1500 - 1) + 1);  # Line-B
-    window.setTimeout(function() {  # Line-C
-      window.requestAnimationFrame( function() {  # Line-D
-        path.classList.add('is-animated');  # Line-A
+    let randTimeout = Math.floor(Math.random() * (1500 - 1) + 1);  // Line-B
+    window.setTimeout(function() {  // Line-C
+      window.requestAnimationFrame( function() {  // Line-D
+        path.classList.add('is-animated');  // Line-A
       });
     }, randTimeout);
   }
