@@ -4,7 +4,7 @@ title: "Animating SVG with CSS"
 displayTitle: "Animating SVG with CSS"
 date: 2017-01-08 14:12:00
 metaDescription: "How to use SVG and CSS to create dynamic imagery"
-metaImage: /static/images/avatar.svg
+metaImage: /static/images/meta/apple-touch-icon.png
 metaKeywords: graphics, vector, animation, css
 metaOgType: "article"
 author: Ron. A
