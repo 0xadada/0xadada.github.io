@@ -19,10 +19,10 @@
   </script>
   <style>
 <![CDATA[
-  .p {
+  svg .p {
     opacity: 0;
   }
-  .p.is-animated {
+  svg .p.is-animated {
     animation-name: slide-into-place;
     animation-duration: 1s;
     animation-delay: 1s;
