@@ -6,7 +6,7 @@ metaDescription: "Writing of 0xADADA"
 metaOgType: "website"
 ---
 
-<ol>
+<ol class="c-Index">
 {% for post in site.posts %}
   {% if post.hidden != true %}
   <li>
