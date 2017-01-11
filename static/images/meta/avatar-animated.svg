@@ -4,28 +4,32 @@
   <script type="text/javascript">
   // <![CDATA[
   function init() {
-    let paths = document.querySelectorAll('path');
-    for (var i = 0; i < paths.length; i++) {
+    var paths = document.querySelectorAll('path'),
+      i = 0,
+      randTimeout = null;
+      path = null;
+    for (i = 0; i < paths.length; i++) {
       let path = paths[i];
-      let randTimeout = Math.floor(Math.random() * (1500 - 1) + 1);
-      window.setTimeout(function() {
-        window.requestAnimationFrame( function() {
-          path.classList.add('is-animated');
-        });
-      }, randTimeout);
+      randTimeout = Math.floor(Math.random() * (1500 - 1) + 1);
+      path.style.animationDelay = randTimeout + 'ms';
+      path.classList.add('is-animated');
     }
   }
   // ]]>
   </script>
   <style>
 <![CDATA[
-  .p {
+  svg .p {
     opacity: 0;
+    -webkit-transform: translateZ(0);
+    -moz-transform: translateZ(0);
+    -ms-transform: translateZ(0);
+    -o-transform: translateZ(0);
+    transform: translateZ(0);
   }
-  .p.is-animated {
+  svg .p.is-animated {
     animation-name: slide-into-place;
     animation-duration: 1s;
-    animation-delay: 1s;
     animation-timing-function: ease;
     animation-direction: normal;
     animation-iteration-count: 1;

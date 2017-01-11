@@ -51,14 +51,12 @@ opacity until the last frame finally sets it to `1`.
 
 ```css
 .p {
-  // each polygon "path" starts fully transparent
+  /* each polygon "path" starts fully transparent */
   opacity: 0;
 }
 
-// ...
-
-// a set of keyframes that incrementally toggle opacity, this 
-// keyframes set is called "slide-into-place"
+/* a set of keyframes that incrementally toggle opacity, this */
+/* keyframes set is called "slide-into-place" */
 @keyframes slide-into-place {
   0% { opacity: 1; }
   5% { opacity: 0; }
@@ -82,15 +80,13 @@ the keyframes to the SVG paths.
 
 ```css
 .p.is-animated {
-  // sets the keyframes to use for animation 
+  /* sets the keyframes to use for animation */
   animation-name: slide-into-place;
-  // how long the animation lasts
-  animation-duration: 1s;
-  // pause before animation starts
+  /* pause before animation starts */
   animation-delay: 1s;
   animation-timing-function: ease;
   animation-direction: normal;
-  // Run the animation only once
+  /* Run the animation only once */
   animation-iteration-count: 1;
   animation-fill-mode: forwards;
 }
@@ -98,31 +94,28 @@ the keyframes to the SVG paths.
 
 To attach the keyframe animation to the SVG `<path>`, the only think necessary
 is to add the `is-animated` classname to the element. We do this on `Line-A`.
+This is done inside a loop that iterates over all the `<path>` elements.
 
 If I just add the `is-animated` class to the element, all polygons will flicker
 at the same time, looking like the entire image is flickering- which isn't what
 I want. To address this, I need to randomize the start-time of when each polygon
 begins flickering. This makes each polygon flicker on its own timeline. I get
-a random number on `Line-B` and use that as a timeout period for
-`window.setTimeout`. 
+a random number on `Line-B` and use that as a delay to begin the flickering.
 
-`window.setTimeout` (on `Line-C`) is used to wait for a randomized timeout
-period and then add the `is-animated` class to the `<path>` element. You'll
-notice I invoke `window.requestAnimationFrame` (on `Line-D`) to invoke a
-callback that adds the class to the `<path>` element. This is a performance
-optimization that allows the browser to batch paint events together.
+`path.style.animationDelay` (on `Line-C`) is used to wait for a randomized timeout
+(`Line-B`) period before animation starts. 
 
 ```javascript
 function init() {
-  let paths = document.querySelectorAll('path');
-  for (var i = 0; i < paths.length; i++) {
+  var paths = document.querySelectorAll('path'),
+    i = 0,
+    randTimeout = null;
+    path = null;
+  for (i = 0; i < paths.length; i++) {
     let path = paths[i];
-    let randTimeout = Math.floor(Math.random() * (1500 - 1) + 1);  // Line-B
-    window.setTimeout(function() {  // Line-C
-      window.requestAnimationFrame( function() {  // Line-D
-        path.classList.add('is-animated');  // Line-A
-      });
-    }, randTimeout);
+    randTimeout = Math.floor(Math.random() * (1500 - 1) + 1);  // Line-B
+    path.style.animationDelay = randTimeout + 'ms';  // Line-C
+    path.classList.add('is-animated');  // Line-A
   }
 }
 ```
