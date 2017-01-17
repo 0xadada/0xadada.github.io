@@ -5,11 +5,20 @@ displayTitle: "Before Trump Takes Office"
 date: 2017-01-16 15:54:00
 metaDescription: "A description of the high-water mark before Trump takes office."
 metaKeywords: politics, trump
+metaImage: /static/images/2017-01-16-before-trump.jpg
 metaOgType: "article"
 author: Ron. A
 license: cc-by-nc-sa
 ---
 
+
+<amp-img src="/static/images/2017-01-16-before-trump.jpg"
+  alt="Trump" title=""
+  width="1024" height="512" layout="responsive"></amp-img>
+<noscript>
+  <img src="/static/images/2017-01-16-before-trump.jpg"
+    alt="Trump" title="Trump">
+</noscript>
 
 Before Trump takes office, I want to create a picture of the high-water mark, 
 something I can point to and say "That was how it was" without the fog of time,
