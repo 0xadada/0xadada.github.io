@@ -11,7 +11,7 @@ license: cc-by-nc-sa
 ---
 
 
-Before Trump takes office, I want to create the picture of a high-water mark, 
+Before Trump takes office, I want to create a picture of the high-water mark, 
 something I can point to and say "That was how it was" without the fog of time,
 or the distortions of propaganda and ideology. I was inspired by Sarah
 Kendzior:
@@ -33,34 +33,34 @@ Kendzior:
 
 ## The Spectacle of 2016
 
-The 2016 election was a farce and a tipping point, politics have finally become
-an extension of what Guy Debord called "The Spectable". Both "viable" candidates
-offered the same neoliberal flavor of poison. It was a choice between
-"Coke vs Pepsi".
+The 2016 election was a farce and a tipping point where politics have finally become
+an extension of what Guy Debord called "The Spectacle"<sup>[2](#2)</sup>.
+Both "viable" candidates offered the same neoliberal flavor of poison. It was a
+false choice between "Coke vs Pepsi".
 
 Clinton campaigned on a platform powered by a misplaced faith in Big Data. She
 spoke in a language of clinical rhetoric to nobody except Wall Street.  She was
 a status quo candidate that lacked any vision, offering nothing except
-a hedge against the fascism of Trump.  Her speaches were empty, dispassonate and
+a hedge against the fascism of Trump.  Her speaches were empty, dispassionate and
 simply disengaged from the reality of life in most of the United States.
 Her campaign and the DNC was corrupt from the start, and didn't try to hide it.
 
 Trump is simply an angsty teenager who uses knee-jerk reactions and emotion
 to speak to those disgusted, disenfranchised, and ignored by the Washington
 Consensus.  The Republican party nearly destroyed itself by failing
-to field a "status quo" candidate from their own ranks. This opened a gap
-which Trump was able to fill by speaking directly to the middle-class fear
+to field a status quo candidate from their own ranks. This opened a gap
+which Trump was able to fill by speaking directly to the middle class fear
 of sliding into the lower classes. This fear has been stoked by mainstream media
 after the economic crisis that started in 2008 and has continued
 up to today.
 
 The candidates lie, and we know they're lying, and they know we know they're lying.
 It doesn't matter because there is no longer an alternative vision for the future
-and there is no accountability.
+and there is no longer any accountability.
  
 If one thing is clear from this election, its the contradictions inherent in the
 policies that Trump wishes to enact, as well as the contradictions inherent in
-the system of Neoliberal Capitalism:
+Neoliberal Capitalism:
 
 * Trump believes that government regulation is preventing economic growth in the US
   and wishes to deregulate. Yet regulation is the peoples best means to prevent
@@ -68,9 +68,9 @@ the system of Neoliberal Capitalism:
   as prevent tax-shelters, and incentivize hiring and manufacturing at home.
 * Trump says he is against war abroad, and yet wants to deploy more troops to Iraq and
   Afghanistan.
-* The inability to account for economic contradictions such as "overproduction
-  relative to demand", with unemployment due to automation and a lack of
-  discretionary spending in the middle class.
+* The contridiction of an inability to account for economic contradictions such as
+  "overproduction relative to demand", with unemployment due to automation and a
+  lack of discretionary spending in the middle class.
 * Military contradictions including rising tensions between the US, NATO, and
   its military allies, along with the increasing economic unsustainability of
   war.
@@ -90,13 +90,13 @@ where he pours fuel on the fire of trans-national capitalism, while funding the
 NSA/FBI/CIA to go after those who dissent against a corporate-sponsored deep-state. 
 
 In such a Intelliofascist nightmare, the US uses it military might to act as the
-private security arm of Boeing, Microsoft, Google, Facebook, Chase & J.P. Morgan. 
+private security arm of Boeing, Microsoft, Google, Facebook, Chase & JP Morgan. 
 We will see a deeper criminalization of copyright infringement, boycotting, and
 more forced-purchase agreements like the current "Mandatory Health Insurance"
-programs that force taxpayers to use their income buy big-corporate services. At
+programs that force taxpayers to use their income to buy big-corporate services. At
 the same time, we will see a gutting of "commonwealth" programs like the ACA and
 Planned Parenthood. These programs will not be abolished, but will instead be
-privatized much in the same way that vast portions of the Russian national state
+privatized much in the same way vast portions of the Russian national state
 was privatized after 1989. In its wake we will see the rise of a new corporate
 oligarchy.
 
@@ -112,10 +112,11 @@ be gathering forces in our local communities with the friends, coworkers and fam
 that impact our daily lives.  Think global; act local is a cliche, but it works, and
 its our best defense against the shitstorm to come.
 
+
 ## Looking Back
 
 I can freely drive from home to any state in the US, without interference from
-the police or border patrol. Border patrol thinks can have their way with folks
+the police or border patrol. Border patrol thinks they can have their way with folks
 along the border, but its just a hassle. TSA wastes time with security theater
 at airports, but you can travel to any country without problem. Be polite, say 
 as little as possible, and the headache goes away.
@@ -127,10 +128,10 @@ Don't talk to the police, but be polite (being respectful is different) and the
 headache goes away.
 
 Censorship isn't political in the US. The US addresses censorship as a market
-failure. If folks tend to pirate movies, then companies fill the gap by providing
-a (relatively) cheap service to make it convienient to pay for the movie. It seems
+opportunity. If folks are pirating movies, then companies service that gap by providing
+a (relatively) cheap service to make it convenient to pay for the movie. It seems
 the biggest addressed form of censorship in the states is peoples choice to NOT
-buy something. The retoric around "Fake News" is alarming however. It echoes the
+buy something. The rhetoric of alarm around "Fake News" is alarming however. It echoes the
 rationale the Chinese government used to censor social media due to "rumors" causing
 fractures in social cohesion. Perhaps the Trump administration will take a similar
 path.
@@ -140,7 +141,7 @@ establishment; its a national pastime. The Daily Show and Colbert Report are bui
 getting laughs due to the deep cynicism of the Left. I post my criticism to my site,
 twitter, etc and don't expect the police to visit my house, my work, or to worry
 about them asking about the post the next time I get pulled over for a traffic
-infringement or at border control. I feel relaxed to post my opinion, go to protests
+infringement or at border control. I feel relaxed to voice my opinion, go to protests
 and engage in local politics. I consider these acts to be part of my civic duty and
 expect the government to NOT ask about my activities. An expectation otherwise would result
 in the erosion of civic activity due to self-censorship- the most pernicious form of
@@ -150,7 +151,7 @@ My associations with friends, family, coworkers and neighbors are private, and
 I expect them to remain private. I worry about my peers, who continue to 
 dilvulge the nature of their personal relationships and love-lives to social
 media companies. This is the slow commodification of relationships. I worry
-that these companies (Facebook, Tindr, etc) are increasingly mediating 
+that these companies (Facebook, Tinder, etc) are increasingly mediating 
 cherished relationships between people. 
 
 Obama deported more undocumented migrants than any previous administration, he
@@ -158,10 +159,16 @@ unilaterally dropped ~26,000 bombs on Syria, Libya, Afghanistan, Yemen, Iraq and
 countries. I expect this to continue. I don't worry about going to war, either
 at home or abroad. War has been a venture for the Washington Consensus to 
 control foreign access and control to natural resources and access to markets
-for our trans-national corporate interests. This impacts the poor who volunteer
-to fight, and for immigrants who see a path to citizenship. The Consensus
+for our trans-national corporate interests. This impacts the poor, those who
+volunteer to fight, and immigrants who see a path to citizenship. The Consensus
 seems wise enough to know the majority is war-fatigued, and fear protest
-or resistance if a draft was ever reinstated.
+or resistance if a draft was ever reinstated. I don't expect the middle class
+to rally behind Trumps wars, and I certainly will never support his wars.
+
+During difficult times, there is a blossoming of arts and culture
+in response to authoritarian oppression. While I have no expectations for
+positive reform in federal politics, I have high hopes for local
+community action.
 
 
 ## References
@@ -175,4 +182,7 @@ or resistance if a draft was ever reinstated.
    </em><br>
    The Correspondent.com<br>
    2016.
+   </div>
+1. <div id="2"><a name="2"></a>
+   <a href="https://en.wikipedia.org/wiki/The_Society_of_the_Spectacle">Guy Debord, The Society of the Spectacle</a>
    </div>
