@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: long
 title: "Travel Writing - Redux, Italy & Switzerland Edition"
 displayTitle: "Travel Writing, the Redux, Italy & Switzerland Edition"
 date: 2016-11-06 22:17:00

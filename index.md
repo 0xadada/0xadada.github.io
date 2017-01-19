@@ -9,7 +9,7 @@ metaOgType: "website"
 <ol class="c-Index">
 {% for post in site.posts %}
   {% if post.hidden != true %}
-  <li>
+  <li class="c-Index--Item">
     <a href="{{ post.url }}" title="{{ post.title }}">
       <span>{{ post.title }}</span>
     </a>
