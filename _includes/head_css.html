@@ -40,6 +40,7 @@
     /* Normalize font stack. */
     font-family: "Source Serif Pro", "Times New Roman", Times, serif;
     font-size: 100%;
+    line-height: 1.4;
   }
 
   body {
@@ -55,12 +56,7 @@
     color: #0000cc;
   }
 
-  h1,
-  h2,
-  h3,
-  h4,
-  h5,
-  h6 {
+  h1, h2, h3, h4, h5, h6 {
     font-weight: 700;
   }
 
@@ -72,6 +68,9 @@
   img {
     max-width: 100%;
   }
+
+  time { color: darkgrey; }
+
   /* ===== code highlighting =========================================== */
   .highlight  { background: #ffffff; }
   .highlight .c { color: #999988; font-style: italic } /* Comment */
@@ -197,6 +196,26 @@
     margin-bottom: 4.5em;
   }
 
+  /* ===== c-Long ======================================================
+   * The longread component
+   */
+  .c-Long .c-Header,
+  .c-Long h2,
+  .c-Long h3,
+  .c-Long h4,
+  .c-Long h5,
+  .c-Long h6 {
+    text-align: center;
+  }
+  .c-Long .c-Header h1 { margin-bottom: 0; }
+  @media screen and (min-width: 35em) {
+    .c-Long h1 { font-size: 3em; }
+    .c-Long h2 { font-size: 2em; }
+    .c-Long .entry-content {
+      font-size: 1.25em;
+    }
+  }
+
   /* ===== c-Grid ======================================================
    * The grid component
    * c-Grid
@@ -248,6 +267,7 @@
    * The global index nav
    */
   .c-Index { list-style-type: upper-roman; }
+  .c-Index--Item { margin-bottom: 0.5em; }
 
 
   /* ===== c-Footer ======================================================

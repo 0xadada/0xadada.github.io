@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: long
 title: "Approaches for Pushing Do Not Track to the edges"
 displayTitle: "Approaches for Pushing Do-Not-Track to the edges"
 date: 2015-03-31 20:01:00
