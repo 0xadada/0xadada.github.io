@@ -193,5 +193,6 @@ community action.
    2016.
    </div>
 1. <div id="2"><a name="2"></a>
-   <a href="https://en.wikipedia.org/wiki/The_Society_of_the_Spectacle">Guy Debord, The Society of the Spectacle</a>
+     Guy Debord,
+     <a href="https://www.marxists.org/reference/archive/debord/society.htm">The Society of the Spectacle</a>
    </div>
