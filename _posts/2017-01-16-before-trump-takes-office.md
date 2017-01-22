@@ -45,18 +45,20 @@ Kendzior:
 The 2016 election was a farce and a tipping point where politics have finally become
 an extension of what Guy Debord called "The Spectacle"<sup>[2](#2)</sup>.
 Both "viable" candidates offered the same neoliberal flavor of poison. It was a
-false choice between "Coke vs Pepsi".
+false choice between "Coke vs Pepsi."
 
-Clinton campaigned on a platform powered by a misplaced faith in Big Data. She
+Clinton campaigned on a platform powered by a misplaced faith<sup>[3](#3)</sup>
+in Big Data<sup>[4](#4)</sup>. She
 spoke in a language of clinical rhetoric to nobody except Wall Street.  She was
-a status quo candidate that lacked any vision, offering nothing except
-a hedge against the fascism of Trump.  Her speaches were empty, dispassionate and
-simply disengaged from the reality of life in most of the United States.
-Her campaign and the DNC was corrupt from the start, and didn't try to hide it.
+a status quo candidate that lacked vision, offering nothing except
+a hedge against the fascism of Trump.  Her speeches were empty, dispassionate and
+simply disengaged from reality.  Her campaign and the DNC were corrupt from the
+start, and they didn't try to hide it.
 
-Trump is simply an angsty teenager who uses knee-jerk reactions and emotion
-to speak to those disgusted, disenfranchised, and ignored by the Washington
-Consensus.  The Republican party nearly destroyed itself by failing
+In my view, Trump is an angsty teenager who uses knee-jerk reactions and emotion
+to speak to those disgusted, disenfranchised, and ignored by the [Washington
+Consensus](https://en.wikipedia.org/wiki/Washington_Consensus).  The Republican
+party nearly destroyed itself by failing
 to field a status quo candidate from their own ranks. This opened a gap
 which Trump was able to fill by speaking directly to the middle class fear
 of sliding into the lower classes. This fear has been stoked by mainstream media
@@ -64,27 +66,30 @@ after the economic crisis that started in 2008 and has continued
 up to today.
 
 The candidates lie, and we know they're lying, and they know we know they're lying.
-It doesn't matter because there is no longer an alternative vision for the future
-and there is no longer any accountability.
+It doesn't matter because there is [no longer an alternative vision for the
+future](https://en.wikipedia.org/wiki/End_of_history) and there is no longer any
+accountability for those in power.
  
-If one thing is clear from this election, its the contradictions inherent in the
+If one thing is clear from this election, it is the contradictions inherent in the
 policies that Trump wishes to enact, as well as the contradictions inherent in
 Neoliberal Capitalism:
 
 * Trump believes that government regulation is preventing economic growth in the US
-  and wishes to deregulate. Yet regulation is the peoples best means to prevent
+  and wishes to deregulate. Yet regulation is the people's best means to prevent
   corporate abuses of power: It can be used to prevent job flight abroad, as well
   as prevent tax-shelters, and incentivize hiring and manufacturing at home.
 * Trump says he is against war abroad, and yet wants to deploy more troops to Iraq and
   Afghanistan.
-* The contridiction of an inability to account for economic contradictions such as
+* An inability to account for economic contradictions such as
   "overproduction relative to demand", with unemployment due to automation and a
-  lack of discretionary spending in the middle class.
+  shrinking of discretionary spending in the middle class.
 * Military contradictions including rising tensions between the US, NATO, and
-  its military allies, along with the increasing economic unsustainability of
+  its military allies, as shown with the recent spying scandals revealed by
+  Edward Snowden; along with the increasing economic unsustainability of
   war.
 * Cultural contradictions including tensions between US Judeo-Christianity,
-  Islam, and other minorities.
+  Islam, and other minorities as we see a rising trend of anti-Muslim sentiment
+  growing in the "Alt-Right".
 * Social contradictions encompassing the increasing gulf between the so-called
   ‘American Dream’, the belief that everyone can prosper in America through
   hard work, and the reality of American life (the fact that more and more
@@ -98,7 +103,7 @@ Hillary Clinton would've brought with her, but instead a form of "Corporate Fasc
 where he pours fuel on the fire of trans-national capitalism, while funding the
 NSA/FBI/CIA to go after those who dissent against a corporate-sponsored deep-state. 
 
-In such a Intelliofascist nightmare, the US uses it military might to act as the
+In such a Intellio fascist nightmare, the US uses it military might to act as the
 private security arm of Boeing, Microsoft, Google, Facebook, Chase & JP Morgan. 
 We will see a deeper criminalization of copyright infringement, boycotting, and
 more forced-purchase agreements like the current "Mandatory Health Insurance"
@@ -195,4 +200,25 @@ community action.
 1. <div id="2"><a name="2"></a>
      Guy Debord,
      <a href="https://www.marxists.org/reference/archive/debord/society.htm">The Society of the Spectacle</a>
+   </div>
+1. <div id="3"><a name="3"></a>
+   Siegel, Eric<br>
+   <em>
+     <a href="https://blogs.scientificamerican.com/guest-blog/how-hillary-s-campaign-is-almost-certainly-using-big-data/">
+     How Hillary's Campaign Is (Almost Certainly) Using Big Data
+     </a>
+   </em><br>
+   Scientific American<br>
+   2016.
+   </div>
+1. <div id="4"><a name="4"></a>
+   Wagner, John<br>
+   <em>
+     <a href="https://www.washingtonpost.com/news/post-politics/wp/2016/11/09/clintons-data-driven-campaign-relied-heavily-on-an-algorithm-named-ada-what-didnt-she-see/">
+     Clinton’s data-driven campaign relied heavily on an algorithm named Ada.
+     What didn’t she see?
+     </a>
+   </em><br>
+   The Washington Post<br>
+   2016.
    </div>
