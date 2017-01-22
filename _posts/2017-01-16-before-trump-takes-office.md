@@ -117,7 +117,7 @@ oligarchy.
 This election I made a conscious decision not to debate my coworkers, friends and
 family over the candidates or "the issues". The 2016 campaign pitted two candidates
 against each other in a way that drastically simplified and framed discourse in
-moral absolutes.  These absolutes were curated and made digestable for mainstream
+moral absolutes.  These absolutes were curated and made digestible for mainstream
 media and social media. 
 
 Only the ignorant deal in moal absolutes. Debate isn't
@@ -129,22 +129,21 @@ importantly, we lose sight of the bigger picture when the majority is split acro
 artificially imposed lines. Now is the time we should be gathering forces in our
 local communities with the friends, coworkers and families that actually impact
 our daily lives.  Think global; act local is a cliche, but it works, and
-its our best defense against the shitstorm to come.
+it's our best defense against the shitstorm to come.
 
 
 ## At Present
 
 I can freely drive from home to any state in the US, without interference from
 the police or border patrol. Border patrol thinks they can have their way with folks
-along the border, but its just a hassle. TSA wastes time with security theater
+along the border, but it's just a hassle. TSA wastes time with security theater
 at airports, but I can travel to any country without problem. Be polite, say 
 as little as possible, and the headache goes away.
 
 When planes fly overhead, I sometimes look to the sky and wonder where those
 travellers are going. I don't worry about drone strikes at home. When I hear
 police sirens, I typically don't even notice, its probably a traffic infraction.
-Don't talk to the police, but be polite (being respectful is different) and the
-headache goes away.
+Don't talk to the police, but be polite and the headache (usually) goes away.
 
 I will express my opinions and disagreements with the U.S.A government as I
 always have. I will continue to be anti-war, anti-drone, anti-neoliberal,
@@ -159,9 +158,9 @@ similar to the rationale the Chinese government is using to censor social media,
 administration will take a similar path.
 
 The media, press, bloggers and social media are free to criticize the political
-establishment; its a national pastime. The Daily Show and Colbert Report are built on
+establishment; it's a national pastime. The Daily Show and Colbert Report are built on
 getting laughs from the deep cynicism of the Left. I post my criticism to my site,
-twitter, etc and don't expect the police to visit my house, my work, or to worry
+twitter, etc. and don't expect the police to visit my house, my work, or to worry
 about them asking about the post the next time I get pulled over for a traffic
 infringement or at border control. I'm relaxed when expressing my views, I go
 to protests and engage in local politics. I consider these acts to be part of my
@@ -171,7 +170,7 @@ the most pernicious form of censorship because the censorship has become interna
 
 My associations with friends, family, coworkers and neighbors are private, and
 I expect them to remain private. I worry about my peers, who continue to 
-dilvulge the nature of their personal relationships and love-lives to social
+divulge the nature of their personal relationships and love-lives to social
 media companies. This is the slow commodification of relationships. I worry
 that these companies (Facebook, Tinder, etc) are increasingly mediating 
 cherished relationships between people. 
@@ -190,7 +189,7 @@ to rally behind Trumps wars, and I certainly will never support his wars.
 During difficult times, there is a blossoming of arts and culture
 in response to authoritarian oppression. While I have no expectations for
 positive reform in federal politics, I have high hopes for local
-community action.
+community action and the arts.
 
 
 ## References
