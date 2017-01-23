@@ -213,37 +213,45 @@ community action and the arts.
 ## References
 
 1. <div id="1"><a name="1"></a>
-   Kendzior, Sarah<br>
-   <em>
-     <a href="https://thecorrespondent.com/5696/were-heading-into-dark-times-this-is-how-to-be-your-own-light-in-the-age-of-trump/1611114266432-e23ea1a6">
-       We're heading into dark times. This is how to be your own light in the
-       Age of Trump.</a>
-   </em><br>
-   The Correspondent.com<br>
-   2016.
+   Kendzior, Sarah.
+   <a href="https://thecorrespondent.com/5696/were-heading-into-dark-times-this-is-how-to-be-your-own-light-in-the-age-of-trump/1611114266432-e23ea1a6">
+   "We're heading into dark times. This is how to be your own light in the Age
+   of Trump"</a>.
+   <em>The Correspondent</em>.
+   The Correspondent,
+   18 Nov. 2016.
+   Web.
+   3 Jan. 2017.
    </div>
 1. <div id="2"><a name="2"></a>
-     Guy Debord,
-     <a href="https://www.marxists.org/reference/archive/debord/society.htm">The Society of the Spectacle</a>
+   Debord, Guy.
+   <em>
+     <a href="https://www.marxists.org/reference/archive/debord/society.htm">The
+       Society of the Spectacle
+     </a>
+   </em>.
+   Detroit: Black & Red,
+   Print.
+   1983.
    </div>
 1. <div id="3"><a name="3"></a>
-   Siegel, Eric<br>
-   <em>
-     <a href="https://blogs.scientificamerican.com/guest-blog/how-hillary-s-campaign-is-almost-certainly-using-big-data/">
-     How Hillary's Campaign Is (Almost Certainly) Using Big Data
-     </a>
-   </em><br>
-   Scientific American<br>
+   Siegel, Eric.
+   <a href="https://blogs.scientificamerican.com/guest-blog/how-hillary-s-campaign-is-almost-certainly-using-big-data/">
+   How Hillary's Campaign Is (Almost Certainly) Using Big Data
+   </a>.
+   <em>Scientific American</em>.
+   Scientific American,
+   Web.
    2016.
    </div>
 1. <div id="4"><a name="4"></a>
-   Wagner, John<br>
-   <em>
-     <a href="https://www.washingtonpost.com/news/post-politics/wp/2016/11/09/clintons-data-driven-campaign-relied-heavily-on-an-algorithm-named-ada-what-didnt-she-see/">
-     Clinton’s data-driven campaign relied heavily on an algorithm named Ada.
-     What didn’t she see?
-     </a>
-   </em><br>
-   The Washington Post<br>
+   Wagner, John.
+   <a href="https://www.washingtonpost.com/news/post-politics/wp/2016/11/09/clintons-data-driven-campaign-relied-heavily-on-an-algorithm-named-ada-what-didnt-she-see/">
+   "Clinton’s data-driven campaign relied heavily on an algorithm named Ada.
+   What didn’t she see?"
+   </a>.
+   <em>The Washington Post</em>.
+   The Washington Post,
+   Web.
    2016.
    </div>

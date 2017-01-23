@@ -422,34 +422,40 @@ creates and reinforces.
 1. De Vos, George A.
   _Social Cohesions and Alienation: Minorities in the United States
   and Japan_.
-  Boulder, Colorado
+  Boulder, Colorado:
   Westview Press, Inc.
+  Print.
   1992.
 1. Christopher, Robert C.
   _The Japanese Mind_.
-  New York
+  New York:
   Fawcett Columbine.
+  Print.
   1983.
 1. Dower, John.
   _War without mercy: Race and power in the pacific War_.
   "The Demonic Other"
-  New York
+  New York:
   Pantheon Books.
+  Print.
   1986.
 1. Smith, Patrick L.
   _Japan: A Reinterpretation_.
-  New York
+  New York:
   Vintage Books.
+  Print.
   1998.
 1. Murakami, Ryu.
-  _Japan's Lost Generation_
+  [_Japan's Lost
+  Generation_](http://www.time.com/time/asia/magazine/2000/0501/japan.essaymurakami.html)
   [1](http://web.archive.org/web/20110219091725/http://www.time.com/time/asia/magazine/2000/0501/japan.essaymurakami.html)
-  [2](http://www.time.com/time/asia/magazine/2000/0501/japan.essaymurakami.html).
-  New York
+  New York:
   Time, Inc.
+  Web.
   2000.
 1. Kerr, Alex.
   _Dogs and Demons: Tales from the Dark Side of Japan_.
-  New York
+  New York:
   Hill and Wang.
+  Print.
   2001.
