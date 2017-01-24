@@ -161,8 +161,9 @@ These manufacturers seem to be building computers with "Apples' scraps
 and leftovers".
 
 Put simply; I don't see any manufacturers building laptops at the same
-level of quality that Apple does, and yet, I can't buy a product that is
-so tightly controlled, and designed to be obsolete in two years.
+level of quality that Apple does, and yet, I can't buy a product <sup>[1](#r.1)</sup>
+that is so tightly controlled. Finally, I refuse to buy a product that is
+designed to be obsolete in two years.
 
 
 ### Why Arch?
@@ -1454,6 +1455,12 @@ inspiration.
 * [ArchWiki MacBookPro11,x](https://wiki.archlinux.org/index.php/MacBookPro11,x)
 * [Arch Linux Running on my
    MacBook - Phil Plückthun](https://medium.com/@philpl/arch-linux-running-on-my-macbook-2ea525ebefe3#.ai90cnihe)
+* <div id="r.1"><a name="r.1"></a>
+    <a href="https://www.youtube.com/watch?v=Fzmm87oVQ6c">My personal fight
+      against the modern laptop</a>
+      A talk discussing our decreasing ability to change our hardware to suit
+      our needs.
+  </div>
 
 
 ## Updates
