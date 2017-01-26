@@ -1,0 +1,129 @@
+/*
+ * components
+ */
+
+/** ===== c-Avatar ============================================================
+ * Doge profile avatar in the header
+ */
+.c-Avatar {
+  border-radius: 2em;
+  display: inline-block;
+  height: 4em;
+  overflow: hidden;
+  width: 4em;
+}
+
+/** ===== c-Header ============================================================
+ * The global site header
+ */
+.c-Header {
+  margin-bottom: 4.5em;
+}
+
+/** ===== c-Long ===============================================================
+ * The longread component
+ */
+.c-Long .c-Header,
+.c-Long h2,
+.c-Long h3,
+.c-Long h4,
+.c-Long h5,
+.c-Long h6 {
+  text-align: center;
+}
+
+.c-Long .c-Header h1 {
+  margin-bottom: 0;
+}
+
+@media screen and (min-width: 35em) {
+  .c-Long h1 { font-size: 3em; }
+  .c-Long h2 { font-size: 2em; }
+  .c-Long .entry-content {
+    font-size: 1.25em;
+  }
+}
+
+/** ===== c-Grid ==============================================================
+ * The grid component
+ */
+@media screen and (min-width: 35em) {
+  .c-Grid {
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+  .c-Grid--1-4 {
+    flex: 0 0 25%;
+    max-width: 25%;
+  }
+
+  .c-Grid--3-4 {
+    flex: 0 0 75%;
+    max-width: 75%;
+  }
+}
+
+
+/** ===== c-GlobalNav =========================================================
+ * The global navigation links
+ */
+.c-GlobalNav {
+  font-family: sans-serif;
+}
+
+.c-GlobalNav--List {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.c-GlobalNav--Item {
+  display: inline-block;
+  padding: 0 1em;
+}
+
+.c-GlobalNav--Item:first-child { padding-left: 0; }
+.c-GlobalNav--Item:last-child { padding-right: 0; }
+.c-GlobalNav--Link:link {
+  color: #292929;
+  text-decoration: none;
+}
+
+.c-GlobalNav--Link:hover,
+.c-GlobalNav--Item.is-active .c-GlobalNav--Link {
+  text-decoration: underline;
+}
+
+
+/** ===== c-Index =============================================================
+ * The global index nav
+ */
+.c-Index { list-style-type: upper-roman; }
+.c-Index--Item { margin-bottom: 0.5em; }
+
+
+/** ===== c-Footer =============================================================
+ * Global site footer
+ */
+.c-Footer {
+  margin: 1.5em auto;
+  border-top: 1px solid rgba(61, 70, 77, 0.1);
+}
+
+
+/** ===== c-Meta ==============================================================
+ * Non-content styling
+ */
+.c-Meta {
+  color: rgba(61, 70, 77, 0.6);
+}
+
+/** ===== c-License ===========================================================
+ * Copyright and ownership styles
+ */
+.c-License {
+  margin-top: 4em;
+  margin-bottom: 4em;
+}
+

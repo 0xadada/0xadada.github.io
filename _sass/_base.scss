@@ -1,0 +1,78 @@
+/*
+ * Use box-sizing
+ */
+* {
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+*:target {
+  background: lightgreen;
+  border: 1px dotted;
+  padding: 0.25em;
+}
+
+html,
+button,
+input,
+select {
+  /* anti-aliasing
+   * Frankly, i don't know why anti-aliasing isn't enabled by default.
+   * It probably should be, but its nice that "good" developers
+   * can make their sites look nicer by opting-into antialiased type.
+   */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  /* font-smooth: always; */
+
+  /* text size adjust
+   * allows Web authors to control if and how
+   * the text-inflating algorithm is applied to the textual content
+   * of the element it is applied to.
+   */
+  -webkit-text-size-adjust: none;
+  -moz-text-size-adjust: none;
+  -ms-text-size-adjust: none;
+  text-size-adjust: none;
+
+  /* Normalize font stack. */
+  font-family: "Source Serif Pro", "Times New Roman", Times, serif;
+  font-size: 100%;
+  line-height: 1.4;
+}
+
+body {
+  background: #FDF9F0;
+  color: #292929;
+  padding: 1.5em;
+}
+
+a {
+  color: #292929;
+  text-decoration: underline;
+}
+a:hover {
+  color: #0000cc;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-weight: 700;
+}
+
+code,
+pre {
+  font-family: 'Source Code Pro', monospace;
+}
+
+img {
+  max-width: 100%;
+}
+
+time { color: darkgrey; }
+

@@ -7,6 +7,8 @@ url: "https://0xadada.pub"
 markdown: kramdown
 paginate: 10
 permalink: pretty
+sass:
+  style: compressed
 
 # Project settings
 exclude: [

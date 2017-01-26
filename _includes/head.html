@@ -15,9 +15,14 @@
 {% else %}
   <link rel="canonical" href="{{ site.url }}{{ page.url }}">
 {% endif %}
-
   {% include head_meta.html %}
-  {% include head_css.html %}
+  {% include head_amp_boilerplate.html %}
+  {% capture styles %}
+  {% include styles.css %}
+  {% endcapture %}
+  <style amp-custom>
+  {{ styles | scssify }}
+  </style>
 
   <link rel="manifest" href="/static/images/meta/manifest.json">
   <link rel="apple-touch-icon" sizes="180x180" href="/static/images/meta/apple-touch-icon.png">
@@ -30,7 +35,7 @@
 <header class="o-Layout c-Header c-Grid">
   <div class="c-Grid--1-4">
     <a class="c-GlobalNav--Link c-Avatar" href="/" title="Home">
-      <amp-img src="/static/images/meta/android-chrome-192x192.png"
+      <amp-img src="/static/images/meta/avatar.svg"
         alt="0xADADA" height=64 width=64></amp-img>
     </a>
   </div>
