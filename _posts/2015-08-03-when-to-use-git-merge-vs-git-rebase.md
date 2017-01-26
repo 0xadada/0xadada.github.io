@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: long
 title: "When to Use Git Merge vs Git Rebase"
 displayTitle: "When to Use Git Merge vs Git Rebase"
 date: 2015-08-03 07:31:00
@@ -49,14 +49,28 @@ on Feature:
 
 on Master:
 
-* merge feature ```--no-ff```
+* merge feature `--no-ff`
 
 This produces the following graph:
+
 <figure>
-  <img src="/static/images/2015-08-03-git-merge-vs-rebase-01.png" alt="Typical workflow diagram">
+  <amp-img src="/static/images/2015-08-03-git-merge-vs-rebase-01.png"
+    alt="Graph of a typical git workflow. Numbered commits occur along Master.
+    Alphabetized commits occur along Feature."
+    title="Graph of a typical git workflow. Numbered commits occur along Master.
+    Alphabetized commits occur along Feature."
+    width="495" height="202" layout="responsive"></amp-img>
+  <noscript>
+    <img src="/static/images/2015-08-03-git-merge-vs-rebase-01.png"
+      alt="Graph of a typical git workflow. Numbered commits occur along Master.
+        Alphabetized commits occur along Feature." title="Graph of a typical git
+        workflow. Numbered commits occur along Master.  Alphabetized commits occur
+        along Feature.">
+  </noscript>
   <figcaption>Graph of a typical git workflow. Numbered commits occur
   along Master. Alphabetized commits occur along Feature.</figcaption>
 </figure>
+
 
 This workflow performs well for a single developer because while the
 feature development occurred on the feature branch, the sequence of
@@ -87,14 +101,23 @@ on Master:
 
 on Master:
 
-* git merge feature ```--no-ff```
+* git merge feature `--no-ff`
 
 This produces the following graph:
+
 <figure>
-  <img src="/static/images/2015-08-03-git-merge-vs-rebase-02.png" alt="Typical workflow diagram">
-  <figcaption>Graph of a typical git workflow when upstream Master
-  commits are made in parallel to the feature branch. Merge into Master
-  is not yet possible.</figcaption>
+  <amp-img src="/static/images/2015-08-03-git-merge-vs-rebase-02.png"
+    alt="Typical workflow diagram"
+    title="Typical workflow diagram"
+    width="402" height="210" layout="responsive"></amp-img>
+  <noscript>
+    <img src="/static/images/2015-08-03-git-merge-vs-rebase-02.png"
+      alt="Typical workflow diagram" title="Typical workflow diagram">
+  </noscript>
+  <figcaption>
+    Graph of a typical git workflow. Numbered commits occur along Master.
+    Alphabetized commits occur along Feature.
+  </figcaption>
 </figure>
 
 In the above scenario the developer runs into the problem where Feature
@@ -116,11 +139,20 @@ on Master:
 * merge feature
 
 This produces the following graph:
+
 <figure>
-  <img src="/static/images/2015-08-03-git-merge-vs-rebase-03.png"
-    alt="Diagram showing merged upstream changes">
-  <figcaption>Note how the final git log interleaves the commits on
-  Feature between commits on Master.</figcaption>
+  <amp-img src="/static/images/2015-08-03-git-merge-vs-rebase-03.png"
+    alt="Typical workflow diagram"
+    title="Typical workflow diagram"
+    width="539" height="218" layout="responsive"></amp-img>
+  <noscript>
+    <img src="/static/images/2015-08-03-git-merge-vs-rebase-03.png"
+      alt="Typical workflow diagram" title="Typical workflow diagram">
+  </noscript>
+  <figcaption>
+    Note how the final git log interleaves the commits on
+    Feature between commits on Master.
+  </figcaption>
 </figure>
 
 I call this workflow the “Branch-Merge-Merge” workflow because in the
@@ -176,14 +208,23 @@ on Feature:
 
 on Master:
 
-* git merge feature ```--squash```
+* git merge feature `--squash`
 
 This produces the following graph:
+
 <figure>
-  <img src="/static/images/2015-08-03-git-merge-vs-rebase-04.png"
-    alt="MergeSquash diagram with upstream changes">
-  <figcaption>The git log sequence of events shows a linear series of
-  feature integrations.</figcaption>
+  <amp-img src="/static/images/2015-08-03-git-merge-vs-rebase-04.png"
+    alt="Typical workflow diagram"
+    title="Typical workflow diagram"
+    width="586" height="202" layout="responsive"></amp-img>
+  <noscript>
+    <img src="/static/images/2015-08-03-git-merge-vs-rebase-04.png"
+      alt="Typical workflow diagram" title="Typical workflow diagram">
+  </noscript>
+  <figcaption>
+    The git log sequence of events shows a linear series of
+    feature integrations.
+  </figcaption>
 </figure>
 
 Looking at the above graph, feature branch Feature has been merged
@@ -193,7 +234,7 @@ each indicating a complete feature integration. The squash flag has
 collapsed Feature branch commit #a, #b and #c into single commit #5.
 
 In the case where branch Feature introduced a bug into the Master branch,
-a rollback will be as simple as running ```git reset --hard HEAD^```
+a rollback will be as simple as running `git reset --hard HEAD^`
 because of how the Feature branch was a single commit appended onto Master.
 In this scenario, the Master branch maintainer would tell the Feature
 branch maintainer to fix the problem, and they could attempt the merge
@@ -246,19 +287,37 @@ on Master:
 on Feature:
 
 <figure>
-  <img src="/static/images/2015-08-03-git-merge-vs-rebase-05.png"
-    alt="Feature with upstream changes before rebase">
-  <figcaption>On the Feature branch, the graph appears after
-  commit #2 prior to rebase.</figcaption>
+  <amp-img src="/static/images/2015-08-03-git-merge-vs-rebase-05.png"
+    alt="Feature with upstream changes before rebase"
+    title="Feature with upstream changes before rebase"
+    width="444" height="213" layout="responsive"></amp-img>
+  <noscript>
+    <img src="/static/images/2015-08-03-git-merge-vs-rebase-05.png"
+      alt="Feature with upstream changes before rebase"
+      title="Feature with upstream changes before rebase">
+  </noscript>
+  <figcaption>
+    On the Feature branch, the graph appears after
+    commit #2 prior to rebase.
+  </figcaption>
 </figure>
 
 * rebase master
 
 <figure>
-  <img src="/static/images/2015-08-03-git-merge-vs-rebase-06.png"
-    alt="Feature with upstream changes after rebase">
-  <figcaption>After rebase, Feature branch commits #a and #b originate
-  from parent commit #4</figcaption>
+  <amp-img src="/static/images/2015-08-03-git-merge-vs-rebase-06.png"
+    alt="Feature with upstream changes after rebase"
+    title="Feature with upstream changes after rebase"
+    width="539" height="218" layout="responsive"></amp-img>
+  <noscript>
+    <img src="/static/images/2015-08-03-git-merge-vs-rebase-06.png"
+      alt="Feature with upstream changes after rebase"
+      title="Feature with upstream changes after rebase">
+  </noscript>
+  <figcaption>
+    After rebase, Feature branch commits #a and #b originate
+    from parent commit #4
+  </figcaption>
 </figure>
 
 We have now changed the origin commit of branch Feature to commit #4.
@@ -267,18 +326,28 @@ the end of Master branch.
 
 on Master:
 
-* merge feature ```--squash```
+* merge feature `--squash`
 
 We’ve now switched to the Master branch, and merged in the rebased
 Feature branch, appending a single commit #5 to the end of the Master
 branch containing all of the Feature branch.
 
 This produces the final graph:
+
 <figure>
-  <img src="/static/images/2015-08-03-git-merge-vs-rebase-07.png"
-    alt="Feature with upstream changes after rebase">
-  <figcaption>After merging the Feature into Master, commit #5 containing
-  the final result of all Feature branch commits #a and #b.</figcaption>
+  <amp-img src="/static/images/2015-08-03-git-merge-vs-rebase-07.png"
+    alt="Feature with upstream changes after rebase"
+    title="Feature with upstream changes after rebase"
+    width="565" height="209" layout="responsive"></amp-img>
+  <noscript>
+    <img src="/static/images/2015-08-03-git-merge-vs-rebase-07.png"
+      alt="Feature with upstream changes after rebase"
+      title="Feature with upstream changes after rebase">
+  </noscript>
+  <figcaption>
+    After merging the Feature into Master, commit #5 containing
+    the final result of all Feature branch commits #a and #b.</figcaption>
+  </figcaption>
 </figure>
 
 The final sequence of events on the Master branch read cleanly, showcasing
@@ -298,7 +367,7 @@ merging the feature branch into the master branch.
 
 The [downside of this workflow is when sharing a feature branch after a
 rebase](http://blog.sourcetreeapp.com/2012/08/21/merge-or-rebase/).
-Pushing to GitHub will require the ```--force``` flag, and anyone
+Pushing to GitHub will require the `--force` flag, and anyone
 else working on the feature branch will see changes to the branch history
 when they pull an update. This is why I don’t recommend this workflow
 for shared feature branches.
