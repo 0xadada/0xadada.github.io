@@ -14,13 +14,13 @@ license: cc-by-nc-sa
 
 <figure>
   <amp-img src="/static/images/2016-10-24-travel-garbage.jpg"
-    alt="Garbage truck in Turino, Italy" title="Garbage truck in Turino, Italy"
+    alt="Garbage truck in Torino, Italy" title="Garbage truck in Torino, Italy"
     width="2417" height="2417" layout="responsive"></amp-img>
   <noscript>
     <img src="/static/images/2016-10-24-travel-garbage.jpg"
-      alt="Garbage truck in Turino, Italy" title="Garbage truck in Turino, Italy">
+      alt="Garbage truck in Torino, Italy" title="Garbage truck in Torino, Italy">
   </noscript>
-  <figcaption>Garbage truck in Turino, Italy</figcaption>
+  <figcaption>Garbage truck in Torino, Italy</figcaption>
 </figure>
 
 [In 2011 I wrote](/2011/12/01/travel-writing/):
