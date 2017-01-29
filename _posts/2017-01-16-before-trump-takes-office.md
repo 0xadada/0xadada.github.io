@@ -173,6 +173,14 @@ class, political party, and merit. These differences should be embraced and
 celebrated, not used to divide us. We are all 99% similar, and the differences
 are what make us unique.
 
+I refuse to engage in consumerist activism. I wont be buying Che Guevara t-shirts
+to lend my personal brand more progressive looking street-cred. I wont be cheering
+for corporations making donations to political causes when it serves their bottom
+line. These types of activism are counterproductive as they subjugate real
+social activism via personal relationships into a [relationship mediated by
+physical goods](https://en.wikipedia.org/wiki/Reification_(Marxism))
+and associations to brands.
+
 I will express my opinions and disagreements with the U.S.A government as I
 always have. I will continue to be anti-war, anti-drone, anti-neoliberal,
 anti-imperialist, anti-capitalist, and violently anti-fascist (if the fascists
