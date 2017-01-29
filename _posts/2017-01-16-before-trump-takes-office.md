@@ -212,7 +212,7 @@ community action and the arts.
 
 ## References
 
-1. <div id="1"><a name="1"></a>
+1. <div id="1">
    Kendzior, Sarah.
    <a href="https://thecorrespondent.com/5696/were-heading-into-dark-times-this-is-how-to-be-your-own-light-in-the-age-of-trump/1611114266432-e23ea1a6">
    "We're heading into dark times. This is how to be your own light in the Age
@@ -223,18 +223,15 @@ community action and the arts.
    Web.
    3 Jan. 2017.
    </div>
-1. <div id="2"><a name="2"></a>
+1. <div id="2">
    Debord, Guy.
-   <em>
-     <a href="https://www.marxists.org/reference/archive/debord/society.htm">The
-       Society of the Spectacle
-     </a>
-   </em>.
+   <em>The Society of the Spectacle</em>.
+   Perlman, Fredy (Translator).
    Detroit: Black & Red,
    Print.
    1983.
    </div>
-1. <div id="3"><a name="3"></a>
+1. <div id="3">
    Siegel, Eric.
    <a href="https://blogs.scientificamerican.com/guest-blog/how-hillary-s-campaign-is-almost-certainly-using-big-data/">
    How Hillary's Campaign Is (Almost Certainly) Using Big Data
@@ -244,7 +241,7 @@ community action and the arts.
    Web.
    2016.
    </div>
-1. <div id="4"><a name="4"></a>
+1. <div id="4">
    Wagner, John.
    <a href="https://www.washingtonpost.com/news/post-politics/wp/2016/11/09/clintons-data-driven-campaign-relied-heavily-on-an-algorithm-named-ada-what-didnt-she-see/">
    "Clinton’s data-driven campaign relied heavily on an algorithm named Ada.
