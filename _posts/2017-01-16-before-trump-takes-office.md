@@ -181,6 +181,12 @@ social activism via personal relationships into a [relationship mediated by
 physical goods](https://en.wikipedia.org/wiki/Reification_(Marxism))
 and associations to brands.
 
+I refuse to acknowledge the <abbr title="Department of Homeland Security">DHS</abbr>,
+<abbr title="Customs and Border Protection">CBP</abbr>
+as necessary or helpful to US national security, as defenders of the constitution or
+more generally as upkeepers of the rule of law. At their worst, they're oppressive
+thugs for a racist deep state.
+
 I will express my opinions and disagreements with the U.S.A government as I
 always have. I will continue to be anti-war, anti-drone, anti-neoliberal,
 anti-imperialist, anti-capitalist, and violently anti-fascist (if the fascists
