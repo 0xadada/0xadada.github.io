@@ -1,4 +1,4 @@
-/*
+/**
  * tools & objects
  */
 
@@ -31,8 +31,7 @@
 }
 
 
-/** ===== o-Layout ============================================================
- * Designates the main site horizontal widths
+/** o-Layout
  */
 .o-Layout {
   max-width: 57em;
@@ -40,10 +39,17 @@
 }
 
 
-/** ===== o-Center ============================================================
- * Center shit
+/** o-Center
  */
 .o-Center {
   text-align: center;
+}
+
+/** other
+ * ========================================================================== */
+.byline,
+.byline .author,
+.published {
+  color: darkgrey;
 }
 

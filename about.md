@@ -7,7 +7,6 @@ displayTitle: About
 metaDescription: "About 0xADADA"
 metaOgType: "article"
 metaImage: /static/images/meta/apple-touch-icon.png
-author: "0xADADA"
 ---
 
 0xADADA is a dirtbag backpacker, Developer 
