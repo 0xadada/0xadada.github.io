@@ -206,7 +206,7 @@ similar to the rationale the Chinese government is using to censor social media,
 "danger of rumors" causing fractures in social cohesion. I'm worried the Trump
 administration will take a similar path.
 
-I will oppose the reappropriate of language. I will not use terms they
+I will oppose the reappropriation of language. I will not use terms they
 redefine, nor use <a class="Annotation-ref" href="#note.2">new terms they make</a>.
 <span name="note.2" class="Annotation">Terms like Bigly, Fake News, etc.</span>
 We must preserve the true meaning of words, and reconsider the use of language
