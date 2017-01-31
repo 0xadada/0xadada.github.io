@@ -171,7 +171,9 @@ that serve the interests of authority and power. The differences used to separat
 can be based on race, nationality, religion, gender, sexuality,
 class, political party, and merit. These differences should be embraced and
 celebrated, not used to divide us. We are all 99% similar, and the differences
-are what make us unique.
+are what make us unique. If they attack our minorities, they attack us all.
+Our strength lies in unity against bigotry, hatred, and fear. We are united
+as one people for the good of all.
 
 I refuse to engage in consumerist activism. I wont be buying Che Guevara t-shirts
 to lend my personal brand more progressive looking street-cred.
@@ -203,6 +205,12 @@ of alarm around "Fake News" is alarming however. It's beginning to sound eerily
 similar to the rationale the Chinese government is using to censor social media, the
 "danger of rumors" causing fractures in social cohesion. I'm worried the Trump
 administration will take a similar path.
+
+I will oppose the reappropriate of language. I will not use terms they
+redefine, nor use <a class="Annotation-ref" href="#note.2">new terms they make</a>.
+<span name="note.2" class="Annotation">Terms like Bigly, Fake News, etc.</span>
+We must preserve the true meaning of words, and reconsider the use of language
+to simplify discourse and bias our perspectives.
 
 The media, press, bloggers and social media are free to criticize the political
 establishment; it's a national pastime. The Daily Show and Colbert Report are built on
