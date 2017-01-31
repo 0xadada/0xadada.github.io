@@ -18,7 +18,7 @@ metaOgType: "website"
     <span>{{ post.metaDescription }}</span>
     {% endif %}
     <br>
-    <time datetime="{{ post.date | date: "%Y-%m-%d" }}">{{ post.date | date: "%A %B %-d, %Y" }}</time>
+    <time class="published" datetime="{{ post.date | date: "%Y-%m-%d" }}">{{ post.date | date: "%A %B %-d, %Y" }}</time>
   </li>
   {% endif %}
 {% endfor %}

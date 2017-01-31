@@ -59,7 +59,7 @@ This produces the following graph:
     Alphabetized commits occur along Feature."
     title="Graph of a typical git workflow. Numbered commits occur along Master.
     Alphabetized commits occur along Feature."
-    width="495" height="202" layout="responsive"></amp-img>
+    width="495" height="202"></amp-img>
   <noscript>
     <img src="/static/images/2015-08-03-git-merge-vs-rebase-01.png"
       alt="Graph of a typical git workflow. Numbered commits occur along Master.
@@ -109,7 +109,7 @@ This produces the following graph:
   <amp-img src="/static/images/2015-08-03-git-merge-vs-rebase-02.png"
     alt="Typical workflow diagram"
     title="Typical workflow diagram"
-    width="402" height="210" layout="responsive"></amp-img>
+    width="402" height="210"></amp-img>
   <noscript>
     <img src="/static/images/2015-08-03-git-merge-vs-rebase-02.png"
       alt="Typical workflow diagram" title="Typical workflow diagram">
@@ -144,7 +144,7 @@ This produces the following graph:
   <amp-img src="/static/images/2015-08-03-git-merge-vs-rebase-03.png"
     alt="Typical workflow diagram"
     title="Typical workflow diagram"
-    width="539" height="218" layout="responsive"></amp-img>
+    width="539" height="218"></amp-img>
   <noscript>
     <img src="/static/images/2015-08-03-git-merge-vs-rebase-03.png"
       alt="Typical workflow diagram" title="Typical workflow diagram">
@@ -216,7 +216,7 @@ This produces the following graph:
   <amp-img src="/static/images/2015-08-03-git-merge-vs-rebase-04.png"
     alt="Typical workflow diagram"
     title="Typical workflow diagram"
-    width="586" height="202" layout="responsive"></amp-img>
+    width="586" height="202"></amp-img>
   <noscript>
     <img src="/static/images/2015-08-03-git-merge-vs-rebase-04.png"
       alt="Typical workflow diagram" title="Typical workflow diagram">
@@ -290,7 +290,7 @@ on Feature:
   <amp-img src="/static/images/2015-08-03-git-merge-vs-rebase-05.png"
     alt="Feature with upstream changes before rebase"
     title="Feature with upstream changes before rebase"
-    width="444" height="213" layout="responsive"></amp-img>
+    width="444" height="213"></amp-img>
   <noscript>
     <img src="/static/images/2015-08-03-git-merge-vs-rebase-05.png"
       alt="Feature with upstream changes before rebase"
@@ -308,7 +308,7 @@ on Feature:
   <amp-img src="/static/images/2015-08-03-git-merge-vs-rebase-06.png"
     alt="Feature with upstream changes after rebase"
     title="Feature with upstream changes after rebase"
-    width="539" height="218" layout="responsive"></amp-img>
+    width="539" height="218"></amp-img>
   <noscript>
     <img src="/static/images/2015-08-03-git-merge-vs-rebase-06.png"
       alt="Feature with upstream changes after rebase"
@@ -338,7 +338,7 @@ This produces the final graph:
   <amp-img src="/static/images/2015-08-03-git-merge-vs-rebase-07.png"
     alt="Feature with upstream changes after rebase"
     title="Feature with upstream changes after rebase"
-    width="565" height="209" layout="responsive"></amp-img>
+    width="565" height="209"></amp-img>
   <noscript>
     <img src="/static/images/2015-08-03-git-merge-vs-rebase-07.png"
       alt="Feature with upstream changes after rebase"

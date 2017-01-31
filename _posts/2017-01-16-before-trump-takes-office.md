@@ -174,9 +174,14 @@ celebrated, not used to divide us. We are all 99% similar, and the differences
 are what make us unique.
 
 I refuse to engage in consumerist activism. I wont be buying Che Guevara t-shirts
-to lend my personal brand more progressive looking street-cred. I wont be cheering
-for corporations making donations to political causes when it serves their bottom
-line. These types of activism are counterproductive as they subjugate real
+to lend my personal brand more progressive looking street-cred.
+<a class="Annotation-ref" href="#note.1">I wont be cheering
+  for corporations making donations to political causes when it serves their bottom
+  line.</a><span class="Annotation" name="note.1">I've collected a few examples of this
+  type of behavior <a href="https://twitter.com/i/moments/817897786301710336">
+  Performative Anti-Trump Activism</a> in a Twitter Moment.
+</span>
+These types of activism are counterproductive as they subjugate real
 social activism via personal relationships into a [relationship mediated by
 physical goods](https://en.wikipedia.org/wiki/Reification_(Marxism))
 and associations to brands.
