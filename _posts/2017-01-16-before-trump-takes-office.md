@@ -179,7 +179,7 @@ I refuse to engage in consumerist activism. I wont be buying Che Guevara t-shirt
 to lend my personal brand more progressive looking street-cred.
 <a class="Annotation-ref" href="#note.1">I wont be cheering
   for corporations making donations to political causes when it serves their bottom
-  line.</a><span class="Annotation" name="note.1">I've collected a few examples of this
+  line.</a><span class="Annotation" id="note.1">I've collected a few examples of this
   type of behavior <a href="https://twitter.com/i/moments/817897786301710336">
   Performative Anti-Trump Activism</a> in a Twitter Moment.
 </span>
@@ -208,7 +208,7 @@ administration will take a similar path.
 
 I will oppose the reappropriation of language. I will not use terms they
 redefine, nor use <a class="Annotation-ref" href="#note.2">new terms they make</a>.
-<span name="note.2" class="Annotation">Terms like Bigly, Fake News, etc.</span>
+<span id="note.2" class="Annotation">Terms like Bigly, Fake News, etc.</span>
 We must preserve the true meaning of words, and reconsider the use of language
 to simplify discourse and bias our perspectives.
 

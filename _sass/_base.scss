@@ -37,7 +37,7 @@ select {
   text-size-adjust: none;
 
   /* Normalize font stack. */
-  font-family: "Source Serif Pro", "Times New Roman", Times, serif;
+  font-family: 'Source Serif Pro', 'Times New Roman', Times, serif;
   font-size: 100%;
   line-height: 1.4;
 }
@@ -46,6 +46,10 @@ body {
   background: #FDF9F0;
   color: #292929;
   padding: 1.5em;
+  -webkit-animation-duration: 50ms;
+  -moz-animation-duration: 50ms;
+  -ms-animation-duration: 50ms;
+  animation-duration: 50ms;
 }
 
 a {
@@ -73,4 +77,3 @@ pre {
 img {
   max-width: 100%;
 }
-
