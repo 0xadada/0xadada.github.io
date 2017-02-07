@@ -1,1 +1,2 @@
 # Hello friends.
+Sitemap: https://0xadada.pub/sitemap.xml
