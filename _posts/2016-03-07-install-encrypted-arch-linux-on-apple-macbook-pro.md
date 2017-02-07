@@ -161,7 +161,7 @@ These manufacturers seem to be building computers with "Apples' scraps
 and leftovers".
 
 Put simply; I don't see any manufacturers building laptops at the same
-level of quality that Apple does, and yet, I can't buy a product <sup>[1](#r.1)</sup>
+level of quality that Apple does, and yet, I can't buy a product <sup>[[1](#ref-1)]</sup>
 that is so tightly controlled. Finally, I refuse to buy a product that is
 designed to be obsolete in two years.
 
@@ -366,7 +366,7 @@ noted above.
 
     diskutil partitionDisk /dev/diskX 1 "Free Space" "unused" "100%"
 
-Now<sup>[4](#4)</sup> we can write the iso file to the USB
+Now<sup>[[4](#cite-4)]</sup> we can write the iso file to the USB
 drive. **Note** We use `/dev/rdisk*` instead of `/dev/disk` because
 it provides Raw disk access without the typical buffering the operating
 systemprovides. Substitute `DESTINATION` with the name of the `iso` file
@@ -795,12 +795,12 @@ that looks like this:
     initrd  /initramfs-linux.img
     options cryptdevice=/dev/sdaX:vgcrypt:allow-discards root=/dev/mapper/vgcrypt-root rw
 
-**Note**:<sup>[7](#7)</sup> On the options line, make sure you replace `/dev/sdaX` with the
+**Note**:<sup>[[7](#cite-7)]</sup> On the options line, make sure you replace `/dev/sdaX` with the
 path to the encrypted linux partition we previously created on your device (It was
 `/dev/sda5` in this guide). Additionally, if your drive is *not* a SSD, make sure to
 remove `:allow-discards`.
 
-**Note**:<sup>[9](#9)</sup> Its been reported by some users that when booting to USB, the
+**Note**:<sup>[[9](#cite-9)]</sup> Its been reported by some users that when booting to USB, the
 USB drive is assigned device id `/dev/sda` and the hard drive to `/dev/sdb`. When rebooting
 without USB drive (boot to new encrypted linux drive partition), the hard drive is reassigned
 to device id `/dev/sda` which may invalidate the above `arch.conf` boot loader entry. In this
@@ -950,7 +950,7 @@ For Macbookpro 7,1 (Mid-2010 or 8,2 (Early-2011):
 
     # pacman -S xf86-video-intel mesa-libgl libva-intel-driver libva
 
-For Macbookpro 11,3 (Late-2013)<sup>[8](#8)</sup>
+For Macbookpro 11,3 (Late-2013)<sup>[[8](#cite-8)]</sup>
 
     # pacman -S nvidia mesa-libgl libva-intel-driver libva
 
@@ -979,6 +979,13 @@ and font- rendering libraries that we'll be tweaking later.
 
 
 ### Improved Typography
+
+**Update<sup>[[10](#cite-10)]</sup>**
+
+**It appears [the package maintainer for Infinality has gone
+dark](https://github.com/bohoomil/fontconfig-ultimate/issues/191)**. Skip this
+section and [continue to the next](#window-manager-awesome) until there is a
+solution for better typography on the linux desktop.
 
 If you use the web and appreciate typography, you'll want to install a
 set of decent fonts.
@@ -1035,7 +1042,7 @@ To install:
 
     # pacman -S awesome
 
-Added this<sup>[5](#5)</sup> to run `awesome` when x starts:
+Added this<sup>[[5](#cite-5)]</sup> to run `awesome` when x starts:
 
     echo exec awesome > .xinitrc
 
@@ -1097,7 +1104,7 @@ uninstall and reinstall the `broadcom-wl` package so it updates with the new
 linux-header.
 
 We need to stop the dhcpcd service we were using for the ethernet and start
-the `wifi-menu`<sup>[1](#1)</sup> utility. Keeping both running can cause conflicts.
+the `wifi-menu`<sup>[[1](#cite-1)]</sup> utility. Keeping both running can cause conflicts.
 
     # systemctl disable dhcpcd.service
     # wifi-menu
@@ -1194,7 +1201,7 @@ this as your normal user, not as root.
 
 The power management from Arch out of the box is not very good.
 There are a few good tools out there, but `PowerTOP` is nice because of
-its benchmarking utilities<sup>[2](#2)</sup>.
+its benchmarking utilities<sup>[[2](#cite-2)]</sup>.
 
 > PowerTOP is a tool provided by Intel to enable various powersaving modes
 > in userspace, kernel and hardware. It is possible to monitor processes
@@ -1235,7 +1242,7 @@ current boot session.
 
 ### Laptop Mode Tools
 
-Laptop Mode Tools<sup>[6](#6)</sup> is a laptop power saving package for
+Laptop Mode Tools<sup>[[6](#cite-6)]</sup> is a laptop power saving package for
 Linux systems. It is the primary way to enable the Laptop Mode feature of
 the Linux kernel, which allows you to tweak a number of other power-related
 settings using a simple configuration file. Combined with `acpid` and CPU
@@ -1405,7 +1412,7 @@ file:
 
 ### Apple Trackpad
 
-Finally<sup>[3](#3)</sup>, we'll setup a Bluetooth Apple Trackpad. To do this, we'll install some bluetooth core
+Finally<sup>[[3](#cite-3)]</sup>, we'll setup a Bluetooth Apple Trackpad. To do this, we'll install some bluetooth core
 utilities
 
     # pacman -S bluez bluez-utils
@@ -1455,7 +1462,7 @@ inspiration.
 * [ArchWiki MacBookPro11,x](https://wiki.archlinux.org/index.php/MacBookPro11,x)
 * [Arch Linux Running on my
    MacBook - Phil Plückthun](https://medium.com/@philpl/arch-linux-running-on-my-macbook-2ea525ebefe3#.ai90cnihe)
-* <div id="r.1"><a name="r.1"></a>
+* <cite id="ref-1">
     <a href="https://www.youtube.com/watch?v=Fzmm87oVQ6c">My personal fight
       against the modern laptop</a>
       A talk discussing our decreasing ability to change our hardware to suit
@@ -1467,41 +1474,45 @@ inspiration.
 
 Any changes to this article will be annotated with a footnote and explained here.
 
-1. <div id="1"><a name="1"></a>
+1. <cite id="cite-1">
    March 6, 2016: Previously used <code>NetworkManager</code> to detect
    and connect to WiFi networks, but have changed to use
    <code>netctl</code> and <code>wifi-menu</code> as these commands are
    more low-level and have fewer dependencies.
-   </div>
-1. <div id="2"><a name="2"></a>
+   </cite>
+1. <cite id="cite-2">
    March 8, 2016: Previously omitted the <code>-S</code> option in
    yaourt, fixed.
-   </div>
-1. <div id="3"><a name="3"></a>
+   </cite>
+1. <cite id="cite-3">
    March 8, 2016: Added a section covering the Apple Trackpad.
-   </div>
-1. <div id="4"><a name="4"></a>
+   </cite>
+1. <cite id="cite-4">
    March 14, 2016: Thanks
    <a href="https://www.reddit.com/r/archlinux/comments/493k4n/installing_encrypted_arch_linux_on_an_apple/d0y36h4?context=3">Fr0gm4n</a>
    for suggestions simplifying the writing of <code>iso</code>
    images to USB.
-   </div>
-1. <div id="5"><a name="5"></a>
+   </cite>
+1. <cite id="cite-5">
    March 18, 2016: Changed references to <code>.Xinitrc</code> to the
    correct filename, <code>.xinitrc</code>.
-   </div>
-1. <div id="6"><a name="6"></a>
+   </cite>
+1. <cite id="cite-6">
    March 24, 2016: Added two new sections documenting Laptop Mode Tools
    and <code>acpid</code>.
-   </div>
-1. <div id="7"><a name="7"></a>
+   </cite>
+1. <cite id="cite-7">
    April 2, 2016: Thanks
    <a href="https://www.reddit.com/r/archlinux/comments/493k4n/installing_encrypted_arch_linux_on_an_apple/d1mleow?context=3">Perceptes</a>
    for helping to clarify the text explaining how to configure the bootloader.
-   </div>
-1. <div id="8"><a name="8"></a>
+   </cite>
+1. <cite id="cite-8">
    July 28, 2016: Updated to support Macbookpro 11,3 devices with NVidia cards. This device uses NVIDIA GeForce GT 750M (Codename NVE7/GK107).
-   </div>
-1. <div id="9"><a name="9"></a>
+   </cite>
+1. <cite id="cite-9">
    December 2, 2016: Thanks to Joshua Brown for clarifications to writing the bootloader line.
-   </div>
+   </cite>
+1. <cite id="cite-10">
+   February 6, 2017: If anyone has a solution to the loss of Infinality bundle
+   typography, please drop me a line.
+   </cite>

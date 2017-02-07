@@ -1,7 +1,8 @@
 # Site settings
 name: "0xADADA"
-description: "Homepage of 0xADADA"
+description: "Writing of 0xADADA"
 url: "https://0xadada.pub"
+author: "0xADADA"
 
 # Build settings
 markdown: kramdown
@@ -9,6 +10,11 @@ paginate: 10
 permalink: pretty
 sass:
   style: compressed
+
+# Jekyll plugins
+gems:
+  - jekyll-feed
+  - jekyll-sitemap
 
 # Project settings
 exclude: [

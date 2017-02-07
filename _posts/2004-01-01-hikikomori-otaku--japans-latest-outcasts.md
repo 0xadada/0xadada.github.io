@@ -59,7 +59,7 @@ must look, speak, act, and most importantly be by-blood, Japanese.
 > not just by common citizenship or common language but by common bloodlines,
 > common racial memory and common tribal codes, so of which stretch back
 > into prehistory."
-> <cite>(Christopher, Robert C., 51)</cite>
+> <cite>(Christopher, Robert C., 51)<sup>[[2](#cite-2)]</sup></cite>
 
 Japanese society distinguishes itself from other cultures based on in-groups
 and out-groups. The groups that are not Japanese, not local, and different
@@ -111,7 +111,7 @@ outsiders because of the way they were seen and accepted by society.
 > powers. The stranger our outsider might have skills pleasing or valuable
 > to the community and be the harbinger of good fortune in general, but he
 > or she could equally well be the bringer of calamity, the bearer of evil."
-> <cite>(Dower, John., 234)</cite>
+> <cite>(Dower, John., 234)<sup>[[3](#cite-3)]</sup></cite>
 
 Koreans have been a largely disenfranchised group of Japanese society since
 Korea was colonized in 1910. The situation of Koreans in Japan is that many
@@ -151,15 +151,16 @@ rest of society, its' members are not allowed to communicate with the
 outside world. With the acts of terrorism in 1995 by this cult,
 cults are now seen as outsiders by the majority of Japanese society.
 
-Otaku (Jap. おたく) have arisen out of the early 1980s as a new group of
-mostly teenage and twenty-something year olds who share a common obsession.
-The term Otaku is derived from its ancient meaning of addressing someone
-from another household, and implies that you are unconcerned with the
-details of the other persons family and circumstances. It prevented the
-discovery that there were differences between 'I' and 'You'
-<cite>(Smith, 80-81)</cite>.
+> Otaku (Jap. おたく) have arisen out of the early 1980s as a new group of
+> mostly teenage and twenty-something year olds who share a common obsession.
+> The term Otaku is derived from its ancient meaning of addressing someone
+> from another household, and implies that you are unconcerned with the
+> details of the other persons family and circumstances. It prevented the
+> discovery that there were differences between 'I' and 'You'.
+> <cite>(Smith, 80-81)<sup>[[4](#cite-4)]</sup></cite>
 
 Today the term is used to mean
+
 > "I am not interested in you or your inner life. I share with you only
 > a narrow interest.”
 
@@ -221,7 +222,7 @@ implications.
 > of the unfamiliar. Students in the ancient schools of tea ceremony were
 > like otaku. Every member had to be a mirror of every other member.
 > The otaku represent rebellion as parodic conformity."
-> <cite>(Smith, 81)</cite>
+> <cite>(Smith, 81)<sup>[[4](#cite-4)]</sup></cite>
 
 The media have recently jumped on the rash of violent activities of a few
 otaku and have made the group into monsters. The rate of teenage violent
@@ -293,7 +294,7 @@ individual who works towards the common goal of prosperity for the nation.
 > This is not an accident or a lapse. Rote learning is the child's next
 > lesson is dependence. To think is an act of autonomy; to memorize the
 > given is to rely upon authority."
-> <cite>(Smith, 78)</cite>
+> <cite>(Smith, 78)<sup>[[4](#cite-4)]</sup></cite>
 
 This type of education system, rote learning, is measured by intense
 examinations that will judge if you have conformed, as well as if you have
@@ -313,7 +314,7 @@ society.
 > (by official design) ignorant of large patches of their own history.
 > Outside of a few conventional settings-karaoke bars are one-they
 > display little sense of autonomy".
-> <cite>(Smith, 79)</cite>
+> <cite>(Smith, 79)<sup>[[4](#cite-4)]</sup></cite>
 
 Otaku are the direct result of this type of education system. They are an
 extreme example of an authoritarian and militaristic rote learning system
@@ -334,7 +335,7 @@ an example of otaku outside the realm of the academic system.
 > that have plagued other countries. All this is on the plus side of the
 > balance. But there is a minus side, which, like so many other modern
 > Japanese problems, has to do with once-good ideas carried too far."
-> <cite>(Kerr, 285)</cite>
+> <cite>(Kerr, 285)<sup>[[6](#cite-6)]</sup></cite>
 
 Hikikomori, on the other hand, also exhibit symptoms rooting from problems
 within the education system. These problems are from a different issue
@@ -346,7 +347,7 @@ individual as a contributor to the society.
 > what 350 years of isolation could not: a triumph over regionalism and
 > individuality. It was probably Japan's single most serious modern
 > maladaptation."
-> (Kerr, 282)
+> <cite>(Kerr, 282)<sup>[[6](#cite-6)]</sup></cite>
 
 When children start schooling in kindergarten, the teacher assigns the
 students into "kumi" or groups. These groups will stay together until
@@ -419,43 +420,55 @@ creates and reinforces.
 ## References
 
 
-1. De Vos, George A.
-  _Social Cohesions and Alienation: Minorities in the United States
-  and Japan_.
-  Boulder, Colorado:
-  Westview Press, Inc.
-  Print.
-  1992.
-1. Christopher, Robert C.
-  _The Japanese Mind_.
-  New York:
-  Fawcett Columbine.
-  Print.
-  1983.
-1. Dower, John.
-  _War without mercy: Race and power in the pacific War_.
-  "The Demonic Other"
-  New York:
-  Pantheon Books.
-  Print.
-  1986.
-1. Smith, Patrick L.
-  _Japan: A Reinterpretation_.
-  New York:
-  Vintage Books.
-  Print.
-  1998.
-1. Murakami, Ryu.
-  [_Japan's Lost
-  Generation_](http://www.time.com/time/asia/magazine/2000/0501/japan.essaymurakami.html)
-  [1](http://web.archive.org/web/20110219091725/http://www.time.com/time/asia/magazine/2000/0501/japan.essaymurakami.html)
-  New York:
-  Time, Inc.
-  Web.
-  2000.
-1. Kerr, Alex.
-  _Dogs and Demons: Tales from the Dark Side of Japan_.
-  New York:
-  Hill and Wang.
-  Print.
-  2001.
+1. <cite id="cite-1">
+   De Vos, George A.
+   _Social Cohesions and Alienation: Minorities in the United States
+   and Japan_.
+   Boulder, Colorado:
+   Westview Press, Inc.
+   Print.
+   1992.
+   </cite>
+1. <cite id="cite-2">
+   Christopher, Robert C.
+   _The Japanese Mind_.
+   New York:
+   Fawcett Columbine.
+   Print.
+   1983.
+   </cite>
+1. <cite id="cite-3">
+   Dower, John.
+   _War without mercy: Race and power in the pacific War_.
+   "The Demonic Other"
+   New York:
+   Pantheon Books.
+   Print.
+   1986.
+   </cite>
+1. <cite id="cite-4">
+   Smith, Patrick L.
+   _Japan: A Reinterpretation_.
+   New York:
+   Vintage Books.
+   Print.
+   1998.
+   </cite>
+1. <cite id="cite-5">
+   Murakami, Ryu.
+   [_Japan's Lost
+   Generation_](http://www.time.com/time/asia/magazine/2000/0501/japan.essaymurakami.html)
+   <sup>[1](http://web.archive.org/web/20110219091725/http://www.time.com/time/asia/magazine/2000/0501/japan.essaymurakami.html)</sup>
+   New York:
+   Time, Inc.
+   Web.
+   2000.
+   </cite>
+1. <cite id="cite-6">
+   Kerr, Alex.
+   _Dogs and Demons: Tales from the Dark Side of Japan_.
+   New York:
+   Hill and Wang.
+   Print.
+   2001.
+   </cite>
