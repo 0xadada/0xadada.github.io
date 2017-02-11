@@ -41,6 +41,7 @@
   .c-Long h2 { font-size: 2em; }
   .c-Long .entry-content {
     font-size: 1.25em;
+    text-align: justify;
   }
 }
 
@@ -54,8 +55,9 @@
   }
 
   .c-Grid--1-4 {
-    flex: 0 0 25%;
-    max-width: 25%;
+    flex: 0 0 24%;
+    max-width: 24%;
+    margin-right: 1%;
   }
 
   .c-Grid--3-4 {

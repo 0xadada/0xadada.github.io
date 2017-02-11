@@ -73,7 +73,7 @@ The candidates lie, and we know they're lying, and they know we know they're lyi
 It doesn't matter because there is [no longer an alternative vision for the
 future](https://en.wikipedia.org/wiki/End_of_history) and there is no longer any
 accountability for those in power.
- 
+
 If one thing is clear from this election, it is the contradictions inherent in the
 policies that Trump wishes to enact, as well as the contradictions inherent in
 Neoliberal Capitalism:
@@ -244,6 +244,25 @@ volunteer to fight, and immigrants who see a path to citizenship. The Consensus
 seems wise enough to know the majority is war-fatigued, and fear protest
 or resistance if a draft was ever reinstated. I don't expect the middle class
 to rally behind Trumps wars, and I certainly will never support his wars.
+
+The worst aspect of the Obama administration is that it quelled the energy of
+left-oriented grassroots movements. People thought "Oh, Obama is like me, hes
+smart and he's got this covered."  It kept the Left at ease, and this mindset
+resulting in eight years of political inaction.
+
+The one redeeming side-effect of the Trump
+administration is that it will reveal the true nature of modern neoliberal power
+politics in the United State. Trumps' administration will brazenly take action
+without the pretenses of conciliatory compromise, or mutual respect for any
+existing political party or an adversarial press.  His administration
+will be the "Big Reveal" of the level of corruption in our body politic. Trump
+will accomplish this by placing the big influencers (who, up to this point, have
+been outside advisors) in direct positions of power; e.g. Instead of having Exxon
+Mobile acting as an external industry advisor, Trump will
+make him the CEO the Secretary of State.  These acts will tear down the facade
+of a disinterested political apparatus and reveal the true nature of politics
+rigged from top down to reward the biggest corporations.  This will help the
+Left appeal to the middle by pointing out readily apparent and brazen corrpution.
 
 During difficult times, there is a blossoming of arts and culture
 in response to authoritarian oppression. While I have no expectations for
