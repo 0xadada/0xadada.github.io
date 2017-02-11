@@ -11,9 +11,10 @@ license: cc-by-nc-sa
 ---
 
 
-In “Understanding Media<sup>[1](#1)</sup>,” McLuhan describes the shift in western
-society from an agrarian economy to an industrial economy as a template for the
-next shift from an industrial economy to an information economy.
+In “Understanding Media<sup class="Ref" id="ref:cite:1">[[1](#cite:1)]</sup>,”
+McLuhan describes the shift in western society from an agrarian economy to an
+industrial economy as a template for the next shift from an industrial economy
+to an information economy.
 
 > Another characteristic reversal after passing a road break boundary is that the 
 > country ceases to be the center of all work, and the city ceases to be the 
@@ -50,7 +51,7 @@ as they continue to provide useful insight.
 
 ## References
 
-1. <div id="1"><a name="1"></a>
+1. <cite id="cite:1">
    McLuhan, Marshall.
    <em>
      <a href="https://mitpress.mit.edu/books/understanding-media">
@@ -60,4 +61,5 @@ as they continue to provide useful insight.
    Cambridge: MIT,
    Print.
    1994.
-   </div>
+   <a class="RefBack" href="#ref:cite:1"></a>
+   </cite>

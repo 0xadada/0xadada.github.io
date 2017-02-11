@@ -39,18 +39,20 @@ Kendzior:
 > Because it is possible that in the next year, you will either believe them or
 > be forced to say you believe them.
 >
-> <cite>Sarah Kendzior<sup>[[1](#cite-1)]</sup></cite>
+> <cite>Sarah Kendzior<sup class="Ref" id="ref:cite:1">[[1](#cite:1)]</sup></cite>
 
 
 ## The Spectacle of 2016
 
 The 2016 election was a farce and a tipping point where politics have finally become
-an extension of what Guy Debord called "The Spectacle"<sup>[[2](#cite-2)]</sup>.
+an extension of what Guy Debord called "The
+Spectacle"<sup class="Ref" id="ref:cite:2">[[2](#cite:2)]</sup>.
 Both "viable" candidates offered the same neoliberal flavor of poison. It was a
 false choice between "Coke vs Pepsi."
 
-Clinton campaigned on a platform powered by a misplaced faith<sup>[[3](#cite-3)]</sup>
-in Big Data<sup>[[4](#cite-4)]</sup>. She
+Clinton campaigned on a platform powered by a misplaced
+faith<sup class="Ref" id="ref:cite:3">[[3](#cite:3)]</sup>
+in Big Data<sup class="Ref" id="ref:cite:4">[[4](#cite:4)]</sup>. She
 spoke in a language of clinical rhetoric to nobody except Wall Street.  She was
 a status quo candidate that lacked vision, offering nothing except
 a hedge against the fascism of Trump.  Her speeches were empty, dispassionate and
@@ -179,9 +181,9 @@ as one people for the good of all.
 
 I refuse to engage in consumerist activism. I wont be buying Che Guevara t-shirts
 to lend my personal brand more progressive looking street-cred.
-<a class="Annotation-ref" href="#note.1">I wont be cheering
+<a class="Annotation-ref" href="#note:1">I wont be cheering
   for corporations making donations to political causes when it serves their bottom
-  line.</a><span class="Annotation" id="note.1">I've collected a few examples of this
+  line.</a><span class="Annotation" id="note:1">I've collected a few examples of this
   type of behavior <a href="https://twitter.com/i/moments/817897786301710336">
   Performative Anti-Trump Activism</a> in a Twitter Moment.
 </span>
@@ -251,7 +253,7 @@ community action and the arts.
 
 ## References
 
-1. <cite id="cite-1">
+1. <cite id="cite:1">
    Kendzior, Sarah.
    <a href="https://thecorrespondent.com/5696/were-heading-into-dark-times-this-is-how-to-be-your-own-light-in-the-age-of-trump/1611114266432-e23ea1a6">
      "We're heading into dark times. This is how to be your own light in the Age
@@ -261,16 +263,20 @@ community action and the arts.
    18 Nov. 2016.
    Web.
    3 Jan. 2017.
+   <a class="RefBack" href="#ref:cite:1"></a>
    </cite>
-1. <cite id="cite-2">
+
+1. <cite id="cite:2">
    Debord, Guy.
    <em>The Society of the Spectacle</em>.
    Perlman, Fredy (Translator).
    Detroit: Black & Red,
    Print.
    1983.
+   <a class="RefBack" href="#ref:cite:2"></a>
    </cite>
-1. <cite id="cite-3">
+
+1. <cite id="cite:3">
    Siegel, Eric.
    <a href="https://blogs.scientificamerican.com/guest-blog/how-hillary-s-campaign-is-almost-certainly-using-big-data/">
      How Hillary's Campaign Is (Almost Certainly) Using Big Data</a>.
@@ -278,8 +284,10 @@ community action and the arts.
    Scientific American,
    Web.
    2016.
+   <a class="RefBack" href="#ref:cite:3"></a>
    </cite>
-1. <cite id="cite-4">
+
+1. <cite id="cite:4">
    Wagner, John.
    <a href="https://www.washingtonpost.com/news/post-politics/wp/2016/11/09/clintons-data-driven-campaign-relied-heavily-on-an-algorithm-named-ada-what-didnt-she-see/">
      "Clinton’s data-driven campaign relied heavily on an algorithm named Ada.
@@ -288,5 +296,6 @@ community action and the arts.
    The Washington Post,
    Web.
    2016.
+   <a class="RefBack" href="#ref:cite:4"></a>
    </cite>
 

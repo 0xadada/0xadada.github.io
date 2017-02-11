@@ -7,12 +7,6 @@
   box-sizing: border-box;
 }
 
-*:target {
-  background: lightgreen;
-  border: 1px dotted;
-  padding: 0.25em;
-}
-
 html,
 button,
 input,
@@ -54,6 +48,12 @@ a {
 }
 a:hover {
   color: #0000cc;
+}
+
+*:target {
+  background: lightgreen;
+  border: 1px dotted;
+  padding: 0.25em;
 }
 
 h1,
