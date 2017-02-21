@@ -70,6 +70,10 @@ pre {
   font-family: 'Source Code Pro', monospace;
 }
 
+p {
+  hyphens: auto;
+}
+
 cite {
   display: block;
   font-style: normal;
@@ -81,4 +85,3 @@ blockquote cite {
 img {
   max-width: 100%;
 }
-
