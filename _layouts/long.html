@@ -34,10 +34,17 @@ layout: compress
     <br>
     <span class="byline vcard h-card">
       by:
+      {% if page.authorUrl %}
+      <a class="author fn p-author p-name" href="{{ page.authorUrl }}"
+        rel="nofollow">
+        {{ page.author }}
+      </a>
+      {% else %}
       <a class="author fn p-author p-name" href="https://0xadada.pub/about/"
         rel="me">
         {{ page.author }}
       </a>
+      {% endif %}
     </span>
     {% endif %}
   </header>
