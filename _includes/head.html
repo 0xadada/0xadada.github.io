@@ -2,7 +2,6 @@
 <html ⚡ lang=en>
 <head>
   <meta charset="utf-8">
-  <script async src="https://cdn.ampproject.org/v0.js"></script>
   <title>{{ page.title }}</title>
   <link rel="shortcut icon" href="/favicon.ico">
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Code+Pro|Source+Serif+Pro:400,700">
@@ -18,11 +17,10 @@
   <link rel="canonical" href="{{ site.url }}{{ page.url }}">
 {% endif %}
   {% include head_meta.html %}
-  {% include head_amp_boilerplate.html %}
   {% capture styles %}
   {% include styles.scss %}
   {% endcapture %}
-  <style amp-custom>
+  <style>
   {{ styles | scssify }}
   </style>
 
@@ -37,12 +35,8 @@
 <header class="o-Layout c-Header c-Grid">
   <div class="c-Grid--1-4">
     <a class="c-GlobalNav--Link c-Avatar" href="/" title="Home">
-      <amp-img src="/static/images/meta/avatar.svg"
-        alt="0xADADA" height=64 width=64></amp-img>
-      <noscript>
-        <img src="/static/images/meta/avatar.svg"
-          alt="0xADADA" height=64 width=64>
-      </noscript>
+      <img src="/static/images/meta/avatar.svg"
+        alt="0xADADA" height=64 width=64>
     </a>
   </div>
   <div class="c-Grid--3-4">

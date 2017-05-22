@@ -13,13 +13,8 @@ license: cc-by-nc-sa
 
 
 <figure>
-  <amp-img src="/static/images/2016-10-24-travel-garbage.jpg"
-    alt="Garbage truck in Torino, Italy" title="Garbage truck in Torino, Italy"
-    width="2417" height="2417" layout="responsive"></amp-img>
-  <noscript>
-    <img src="/static/images/2016-10-24-travel-garbage.jpg"
-      alt="Garbage truck in Torino, Italy" title="Garbage truck in Torino, Italy">
-  </noscript>
+  <img src="/static/images/2016-10-24-travel-garbage.jpg"
+    alt="Garbage truck in Torino, Italy" title="Garbage truck in Torino, Italy">
   <figcaption>Garbage truck in Torino, Italy</figcaption>
 </figure>
 
@@ -41,15 +36,9 @@ perception of 2,400 miles is two mediocre movies and a few bad in-flight
 meals, perhaps its not really "travel".
 
 <figure>
-  <amp-img src="/static/images/2016-10-27-travel-val-ferret.jpg"
-    alt="Looking northeast up the Italian side of the Val Ferret, to Switzerland"
-    title="Looking northeast up the Italian side of the Val Ferret, to Switzerland"
-    width="3286" height="2432" layout="responsive"></amp-img>
-  <noscript>
-    <img src="/static/images/2016-10-27-travel-val-ferret.jpg"
+  <img src="/static/images/2016-10-27-travel-val-ferret.jpg"
       alt="Looking northeast up the Italian side of the Val Ferret, to Switzerland"
       title="Looking northeast up the Italian side of the Val Ferret, to Switzerland">
-  </noscript>
   <figcaption>Looking northeast up the Italian side of the Val Ferret, to Switzerland</figcaption>
 </figure>
 
@@ -66,15 +55,9 @@ there by any means. My goal was to hike across the border from italy into
 Switzerland via the Italian/Swiss Alps.
 
 <figure>
-  <amp-img src="/static/images/2016-10-28-travel-val-ferret-pano.jpg"
+  <img src="/static/images/2016-10-28-travel-val-ferret-pano.jpg"
     alt="Looking southwest from the Col Val Ferret into Italy"
-    title="Looking southwest from the Col Val Ferret into Italy"
-    width="8504" height="2608" layout="responsive"></amp-img>
-  <noscript>
-    <img src="/static/images/2016-10-28-travel-val-ferret-pano.jpg"
-      alt="Looking southwest from the Col Val Ferret into Italy"
-      title="Looking southwest from the Col Val Ferret into Italy">
-  </noscript>
+    title="Looking southwest from the Col Val Ferret into Italy">
   <figcaption>Looking southwest from the Col Val Ferret into Italy</figcaption>
 </figure>
 
@@ -91,15 +74,9 @@ and opening oneself to finding them. One has to both open the door, but then be
 willing to walk through the doorway.
 
 <figure>
-  <amp-img src="/static/images/2016-10-30-travel-augstmatthorn.jpg"
+  <img src="/static/images/2016-10-30-travel-augstmatthorn.jpg"
     alt="The ridge of the Augstmatthorn, Interlaken Switzerland"
-    title="The ridge of the Augstmatthorn, Interlaken Switzerland"
-    width="5302" height="2634" layout="responsive"></amp-img>
-  <noscript>
-    <img src="/static/images/2016-10-30-travel-augstmatthorn.jpg"
-      alt="The ridge of the Augstmatthorn, Interlaken Switzerland"
-      title="The ridge of the Augstmatthorn, Interlaken Switzerland">
-  </noscript>
+    title="The ridge of the Augstmatthorn, Interlaken Switzerland">
   <figcaption>The ridge of the Augstmatthorn, Interlaken Switzerland</figcaption>
 </figure>
 
@@ -110,15 +87,9 @@ can be an escape from oneself or ones responsibilities, an escape more powerful
 than other forms of escape.
 
 <figure>
-  <amp-img src="/static/images/2016-10-31-travel-eiger.jpg"
+  <img src="/static/images/2016-10-31-travel-eiger.jpg"
     alt="The north face of the Eiger"
-    title="The north face of the Eiger"
-    width="2662" height="4582" layout="responsive"></amp-img>
-  <noscript>
-    <img src="/static/images/2016-10-31-travel-eiger.jpg"
-      alt="The north face of the Eiger"
-      title="The north face of the Eiger">
-  </noscript>
+    title="The north face of the Eiger">
   <figcaption>The north face of the Eiger</figcaption>
 </figure>
 
@@ -130,14 +101,8 @@ don't need to leave the house to do it. Travel doesn't change personal growth
 any more than puzzels improve intellectual growth.
 
 <figure>
-  <amp-img src="/static/images/2016-11-06-travel-home.jpg"
+  <img src="/static/images/2016-11-06-travel-home.jpg"
     alt="Home, the journey inwards"
-    title="Home, the journey inwards"
-    width="3036" height="4048" layout="responsive"></amp-img>
-  <noscript>
-    <img src="/static/images/2016-11-06-travel-home.jpg"
-      alt="Home, the journey inwards"
-      title="Home, the journey inwards">
-  </noscript>
+    title="Home, the journey inwards">
   <figcaption>Home, the journey inwards</figcaption>
 </figure>

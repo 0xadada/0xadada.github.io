@@ -12,13 +12,8 @@ license: cc-by-nc-sa
 ---
 
 
-<amp-img src="/static/images/2011-12-01-travel-writing-bologna-italy-alleyway.jpg"
-  alt="Alleyway in Bologna, Italy" title="Alleyway in Bologna, Italy"
-  width="960" height="720" layout="responsive"></amp-img>
-<noscript>
-  <img src="/static/images/2011-12-01-travel-writing-bologna-italy-alleyway.jpg"
-    alt="Alleyway in Bologna, Italy" title="Alleyway in Bologna, Italy">
-</noscript>
+<img src="/static/images/2011-12-01-travel-writing-bologna-italy-alleyway.jpg"
+  alt="Alleyway in Bologna, Italy" title="Alleyway in Bologna, Italy">
 
 Travel opens my mind to new perspectives and allows me to
 recontextualize existing systems of thought.

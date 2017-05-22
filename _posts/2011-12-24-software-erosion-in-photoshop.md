@@ -17,11 +17,6 @@ are in Adobe Photoshop. You may be surprised.
 
 I've counted four in Adobe Photoshop CS5.
 
-<amp-img src="/static/images/2011-12-24-photoshop-scrollbar-study.png"
-  alt="Photoshop Scollbars" title="Photoshop Scollbars"
-  width="385" height="660"></amp-img>
-<noscript>
-  <img src="/static/images/2011-12-24-photoshop-scrollbar-study.png"
-    alt="Photoshop Scollbars" title="Photoshop Scollbars">
-</noscript>
+<img src="/static/images/2011-12-24-photoshop-scrollbar-study.png"
+  alt="Photoshop Scollbars" title="Photoshop Scollbars">
 

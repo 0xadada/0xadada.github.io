@@ -54,19 +54,11 @@ on Master:
 This produces the following graph:
 
 <figure>
-  <amp-img src="/static/images/2015-08-03-git-merge-vs-rebase-01.png"
-    alt="Graph of a typical git workflow. Numbered commits occur along Master.
-    Alphabetized commits occur along Feature."
-    title="Graph of a typical git workflow. Numbered commits occur along Master.
-    Alphabetized commits occur along Feature."
-    width="495" height="202"></amp-img>
-  <noscript>
     <img src="/static/images/2015-08-03-git-merge-vs-rebase-01.png"
       alt="Graph of a typical git workflow. Numbered commits occur along Master.
         Alphabetized commits occur along Feature." title="Graph of a typical git
         workflow. Numbered commits occur along Master.  Alphabetized commits occur
         along Feature.">
-  </noscript>
   <figcaption>Graph of a typical git workflow. Numbered commits occur
   along Master. Alphabetized commits occur along Feature.</figcaption>
 </figure>
@@ -106,14 +98,8 @@ on Master:
 This produces the following graph:
 
 <figure>
-  <amp-img src="/static/images/2015-08-03-git-merge-vs-rebase-02.png"
-    alt="Typical workflow diagram"
-    title="Typical workflow diagram"
-    width="402" height="210"></amp-img>
-  <noscript>
-    <img src="/static/images/2015-08-03-git-merge-vs-rebase-02.png"
+  <img src="/static/images/2015-08-03-git-merge-vs-rebase-02.png"
       alt="Typical workflow diagram" title="Typical workflow diagram">
-  </noscript>
   <figcaption>
     Graph of a typical git workflow. Numbered commits occur along Master.
     Alphabetized commits occur along Feature.
@@ -141,14 +127,8 @@ on Master:
 This produces the following graph:
 
 <figure>
-  <amp-img src="/static/images/2015-08-03-git-merge-vs-rebase-03.png"
-    alt="Typical workflow diagram"
-    title="Typical workflow diagram"
-    width="539" height="218"></amp-img>
-  <noscript>
-    <img src="/static/images/2015-08-03-git-merge-vs-rebase-03.png"
+  <img src="/static/images/2015-08-03-git-merge-vs-rebase-03.png"
       alt="Typical workflow diagram" title="Typical workflow diagram">
-  </noscript>
   <figcaption>
     Note how the final git log interleaves the commits on
     Feature between commits on Master.
@@ -213,14 +193,8 @@ on Master:
 This produces the following graph:
 
 <figure>
-  <amp-img src="/static/images/2015-08-03-git-merge-vs-rebase-04.png"
-    alt="Typical workflow diagram"
-    title="Typical workflow diagram"
-    width="586" height="202"></amp-img>
-  <noscript>
-    <img src="/static/images/2015-08-03-git-merge-vs-rebase-04.png"
+  <img src="/static/images/2015-08-03-git-merge-vs-rebase-04.png"
       alt="Typical workflow diagram" title="Typical workflow diagram">
-  </noscript>
   <figcaption>
     The git log sequence of events shows a linear series of
     feature integrations.
@@ -287,15 +261,9 @@ on Master:
 on Feature:
 
 <figure>
-  <amp-img src="/static/images/2015-08-03-git-merge-vs-rebase-05.png"
-    alt="Feature with upstream changes before rebase"
-    title="Feature with upstream changes before rebase"
-    width="444" height="213"></amp-img>
-  <noscript>
-    <img src="/static/images/2015-08-03-git-merge-vs-rebase-05.png"
+  <img src="/static/images/2015-08-03-git-merge-vs-rebase-05.png"
       alt="Feature with upstream changes before rebase"
       title="Feature with upstream changes before rebase">
-  </noscript>
   <figcaption>
     On the Feature branch, the graph appears after
     commit #2 prior to rebase.
@@ -305,15 +273,9 @@ on Feature:
 * rebase master
 
 <figure>
-  <amp-img src="/static/images/2015-08-03-git-merge-vs-rebase-06.png"
-    alt="Feature with upstream changes after rebase"
-    title="Feature with upstream changes after rebase"
-    width="539" height="218"></amp-img>
-  <noscript>
-    <img src="/static/images/2015-08-03-git-merge-vs-rebase-06.png"
+  <img src="/static/images/2015-08-03-git-merge-vs-rebase-06.png"
       alt="Feature with upstream changes after rebase"
       title="Feature with upstream changes after rebase">
-  </noscript>
   <figcaption>
     After rebase, Feature branch commits #a and #b originate
     from parent commit #4
@@ -335,15 +297,9 @@ branch containing all of the Feature branch.
 This produces the final graph:
 
 <figure>
-  <amp-img src="/static/images/2015-08-03-git-merge-vs-rebase-07.png"
-    alt="Feature with upstream changes after rebase"
-    title="Feature with upstream changes after rebase"
-    width="565" height="209"></amp-img>
-  <noscript>
-    <img src="/static/images/2015-08-03-git-merge-vs-rebase-07.png"
+  <img src="/static/images/2015-08-03-git-merge-vs-rebase-07.png"
       alt="Feature with upstream changes after rebase"
       title="Feature with upstream changes after rebase">
-  </noscript>
   <figcaption>
     After merging the Feature into Master, commit #5 containing
     the final result of all Feature branch commits #a and #b.</figcaption>
