@@ -9,10 +9,8 @@ metaOgType: "article"
 metaImage: /static/images/meta/apple-touch-icon.png
 ---
 
-0xADADA is a dirtbag backpacker, Developer 
-at [@CinchFinancial](https://twitter.com/cinchfinancial)
-ex [@NaraLogics](https://twitter.com/naralogics), privacy and encryption advocate.
-Open web enthusiast. Recovering techno-utopian. Idealist.
+🎒🌎👁🔑Backpacker, Web developer & open web enthusiast, privacy and encryption
+advocate. Recovering techno-utopian. Idealist. 
 
 
 ## References
@@ -55,12 +53,12 @@ for file transfers. For getting shit done, my
 [homebrew manifest](https://github.com/0xadada/dotfiles/blob/master/brew.sh#L27)
 will tell you the regular tools I use.
 Otherwise, Fuck Facebook, Fuck Dropbox, fuck Google. I use Android on the Phone with
-[Wunderlist](https://www.wunderlist.com/) for ToDos,
+[Todoist](https://www.todoist.com/) for ToDos,
 [Strava](https://www.strava.com/),
 [Betterment](https://www.betterment.com) for saving/investing,
 [Goodreads](https://www.goodreads.com),
 [Pocket](https://getpocket.com),
-and [Podcast Addict](https://play.google.com/store/apps/details?id=com.bambuna.podcastaddict)
+and [Player.fm](https://player.fm)
 for podcasts.
 * *When did you start web development?*<br>
 In high school back in 1996, shortly after I got on the internet. I made a fake
