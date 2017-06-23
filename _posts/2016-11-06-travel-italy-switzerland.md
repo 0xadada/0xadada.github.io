@@ -31,23 +31,47 @@ mood" to open ones mind and experience life from a new perspective.
 The distance travelled is of no importance when the most distant places on
 Earth can be connected to within a 24-hour period and a few short layovers.
 The travel doesn't even begin until you have arrived at your destination.
-Perhaps its how the distances are percieved that really matters. If ones
+Perhaps it’s how the distances are percieved that really matters. If ones
 perception of 2,400 miles is two mediocre movies and a few bad in-flight
-meals, perhaps its not really "travel".
+meals, perhaps it’s not really "travel".
 
-<figure>
-  <img src="/static/images/2016-10-27-travel-val-ferret.jpg"
-      alt="Looking northeast up the Italian side of the Val Ferret, to Switzerland"
-      title="Looking northeast up the Italian side of the Val Ferret, to Switzerland">
-  <figcaption>Looking northeast up the Italian side of the Val Ferret, to Switzerland</figcaption>
-</figure>
+After travelling through Croatia in 2014, I wrote:
 
-Its October 2016. I have the luxury of quitting my job at an Artificial
+> I most enjoyed the activities where we weren't charged an entry fee.
+> 
+> * Riding a scooter through the countryside of Hvar
+> * Swimming off the coast of the island of Vis, free to explore the coves and rock formations
+> * Aimlessly wandering the streets of ancient Croatian cities
+>
+> When an entrance fee is charged, I felt a certain manicured, restricted, and
+> “ushered” experience. Krka National Park— while attempting to showcase the natural
+> beauty of the region, it failed because the experience was limited to a short
+> walk along a wooden boardwalk. A long queue of tourists snaked around the park,
+> each one experiencing the same thing, taking photographs on cue from
+> the designated "Scenic Vista" points along the way.
+> 
+> It was a nature park that offered a menu of canned experiences devoid of
+> anything approaching natural.
+> 
+> Entry fees and queues are a good sign that more authentic experiences can
+> probably be found elsewhere. Freely wandering without a guide, without a
+> destination, and without expectation can get you very far.
+
+Its October 2016. I have the privilege of quitting my job at an Artificial
 Intelligence startup in Cambridge that I've been helping to build for the last
 four and a half years. I'm ready for some serious alone-time, away
 from computers, the internet, and people. I need time to myself, time to have
 unstructured thought, time to get outside my own skull. I've got a little more
 than two weeks of unscheduled time to tramp around from Italy into Switzerland.
+
+<figure>
+  <img src="/static/images/2016-10-27-travel-val-ferret.jpg"
+      alt="Looking northeast up the Italian side of the Val Ferret, to Switzerland"
+      title="Looking northeast up the Italian side of the Val Ferret, to Switzerland">
+  <figcaption>
+    Looking northeast up the Italian side of the Val Ferret, to Switzerland
+  </figcaption>
+</figure>
 
 This trip was about actually travelling between places on my own feet. Navigating
 terra incognita by push my own limits- setting a goal on the horizon and getting
