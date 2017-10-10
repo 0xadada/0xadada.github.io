@@ -4,13 +4,12 @@ title: "One Year with Ember"
 displayTitle: "One Year with Ember"
 date: 2017-10-09 20:26:00
 excerpt: "Thoughts on Ember.js after a year of use."
-metaDescription: ""
+metaDescription: "Thoughts on Ember.js after a year of use."
 metaKeywords: javascript, frameworks, web development, software development, progressive web apps,
 metaOgType: "article"
 author: Ron. A
 license: cc-by-nc-sa
---
-
+---
 
 In early 2015, I was working at an artificial intelligence startup. My team was planning to build a web application to connect to our neural network platform. The team as a whole had experience (on the AI–side) with Python, and the web team had a lot of experience using Django. We'd implemented a hybrid-app in Cordova using Backbone.js the previous year. My task was to evaluate the state-of-the-art in the frontend development landscape. 
 
