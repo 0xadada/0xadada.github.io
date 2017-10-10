@@ -302,7 +302,7 @@ This produces the final graph:
       title="Feature with upstream changes after rebase">
   <figcaption>
     After merging the Feature into Master, commit #5 containing
-    the final result of all Feature branch commits #a and #b.</figcaption>
+    the final result of all Feature branch commits #a and #b.
   </figcaption>
 </figure>
 

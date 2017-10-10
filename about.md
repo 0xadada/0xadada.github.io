@@ -9,10 +9,8 @@ metaOgType: "article"
 metaImage: /static/images/meta/apple-touch-icon.png
 ---
 
-0xADADA is a dirtbag backpacker, Developer 
-at [@CinchFinancial](https://twitter.com/cinchfinancial)
-ex [@NaraLogics](https://twitter.com/naralogics), privacy and encryption advocate.
-Open web enthusiast. Recovering techno-utopian. Idealist.
+🎒🌎👁🔑Backpacker, Web developer & open web enthusiast, privacy and encryption
+advocate. Recovering techno-utopian. Idealist. 
 
 
 ## References
@@ -53,13 +51,14 @@ use. Firefox is my primary browser and Chome for development. I use
 For getting shit done, my
 [homebrew manifest](https://github.com/0xadada/dotfiles/blob/master/brew.sh#L27)
 will tell you the regular tools I use.
-Otherwise, Fuck Facebook, Fuck Dropbox, fuck Google. On Android i like 
+Otherwise, Fuck Facebook, Fuck Dropbox. On Android i like 
 [Todoist](https://todoist.com/) for ToDos,
 [Strava](https://www.strava.com/) for logging miles,
 [Betterment](https://www.betterment.com) for saving/investing,
 [Goodreads](https://www.goodreads.com) for reading, and
 [Pocket](https://getpocket.com) has a great text-to-speech mode that makes it easy
-to listen to my reads while working out or running.
+to listen to my reads while working out or running. I listen to podcasts with
+[Player.fm](https://player.fm).
 * *When did you start web development?*<br>
 In high school back in 1996, shortly after I got on the internet. I made a fake
 "web consulting" agency website, and companies started hiring me to build
