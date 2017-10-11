@@ -3,8 +3,8 @@ layout: long
 title: "One Year with Ember"
 displayTitle: "One Year with Ember"
 date: 2017-10-09 20:26:00
-excerpt: "Thoughts on Ember.js after a year of use."
-metaDescription: "Thoughts on Ember.js after a year of use."
+excerpt: "Thoughts on Ember after a year of use."
+metaDescription: "Thoughts on Ember after a year of use."
 metaKeywords: javascript, frameworks, web development, software development, progressive web apps,
 metaOgType: "article"
 author: Ron. A
@@ -13,15 +13,15 @@ license: cc-by-nc-sa
 
 In early 2015, I was working at an artificial intelligence startup. My team was planning to build a web application to connect to our neural network platform. The team as a whole had experience (on the AI–side) with Python, and the web team had a lot of experience using Django. We'd implemented a hybrid-app in Cordova using Backbone.js the previous year. My task was to evaluate the state-of-the-art in the frontend development landscape. 
 
-I included React, Angular and Ember to the list of contenders for comparison. We read the docs, implemented [ToDo MVC](http://todomvc.com/) apps, prototypes, and reviewed the community. We produced comparison spreadsheets and went to local meetups. We reviewed design docs and discussed the merits of each approach. Finally, we discussed our findings. Boths Embers FastBoot and Reacts server-side pipeline were not yet ready for production. The Angular community was in flames from the v2 rewrite. Angular 4 was yet another rewrite that was shaping up to look disastrous. The core Angular team had abandoned ship. Instead of making a final decision on a framework, the team wanted to wait until we understood more of our applications use cases.
+I included React, Angular and Ember to the list of contenders for comparison. We read the docs, implemented [ToDo MVC](http://todomvc.com/) apps, prototypes, and reviewed the community. We produced comparison spreadsheets and went to local meetups. We reviewed design docs and discussed the merits of each approach. Finally, we discussed our findings. Both Ember's FastBoot and React's server-side pipeline were not yet ready for production. The Angular community was in flames from the v2 rewrite. Angular 4 was yet another rewrite that was shaping up to look disastrous. The core Angular team had abandoned ship. Instead of making a final decision on a framework, the team wanted to wait until we understood more of our applications use cases.
 
-**TL;DR**: We decided to defer the decision We ended up writing the app with a "NOJS-first" approach. The implementation was simple, using HTML forms. Using progressive enhancement, we could add a richer frontend in the future.
+**TL;DR**: We decided to defer the decision. Instead we wrote the app with a "NOJS-first" approach. The implementation was simple, using HTML forms. Using progressive enhancement, we could add a richer frontend in the future.
 
 The experience investigating Ember stuck with me. Ember was using web-standards and best practices. Convention-over-configuration came from Ruby on Rails. It borrowed performance UI rendering strategies from React. It had a first-class testing and documentation story much like Django. Ember was distilling the best ideas and practices and placing them at the core of their project.
 
 A year later, our decision was working out well, and the project was humming along. It was well-tested, performant, and had frequent new feature additions. I decided a change of pace would be fun and challenging. The app was in good hands.
 
-When starting my job search, I focused on companies that were using Ember.js. One of the major considerations for my next job was getting my hands deep into Ember. In November 2016, I joined a startup using Ember to build a personal finance application.
+When starting my job search, I focused on companies that were using Ember. One of the major considerations for my next job was getting my hands deep into Ember. In November 2016, I joined a startup using Ember to build a personal finance application.
 
 Almost a year of working in Ember, I'd like to summarize my thoughts about what makes it a great framework. There are a million articles comparing the big JS frameworks; this isn't one of those. This article focuses on what keeps me happy about the decision to continue using Ember.
 
