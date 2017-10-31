@@ -12,6 +12,31 @@ metaImage: /static/images/meta/apple-touch-icon.png
 🎒🌎👁🔑Backpacker, Web developer & open web enthusiast, privacy and encryption
 advocate. Recovering techno-utopian. Idealist. 
 
+## Introduction
+
+In '04 I was employed by a series of technology concerns doing business as a
+software engineer, as a specialist in the production of web and mobile applications.
+I begin experimenting with Bitcoin toward the end of 2012, where I divided my
+time between taming web applications and analyzing Bitcoin. I attended M.65 Blockchain
+Technology class at the MIT Media Lab in the autumn of 2015. About a year later
+I agreed to give all of my time to FinTech; and shortly afterwards I left Nara
+Logics, and moved over to Cinch Financial in Boston. I have been there ever since.
+
+I was married in July, 2014, to my wife, whom I had met while living in
+Somerville, in 2010.
+
+Occasionally I get away from Boston for a few days, to attend the meeting of some
+Meetup society or for a trip to the mountains. Regularly during the spring and
+summer and fall I get “up river” or into the woods on weekends and holidays to
+make up for the hours which I have to waste in the office and workshop.
+
+I never have had time nor strength to take any part in public life, but I have
+managed to do a good deal of open source development work in connection with
+technical problems on the web and with the occasional rabble-rousing with various
+social justice groups. Once in a while I publish an article on my blog or on
+Medium.com. I belong to twitter, as well as to others online, and I am also a
+member of the Ember.js Meetup Group of Boston. Social clubs do not appeal to me.
+
 
 ## References
 
