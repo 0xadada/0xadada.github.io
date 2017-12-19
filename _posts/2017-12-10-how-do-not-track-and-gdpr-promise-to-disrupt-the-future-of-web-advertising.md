@@ -98,7 +98,7 @@ DNT and anti-tracking technologies are making the previously hidden practices of
 
 Safari web browser has a new feature called "Intelligent Tracking Protection" or ITP, which purges third-party cookies that are determined to be able to track users across sites. After 24 hours, the third-party cookies can only be used for log-in purposes if the user visits that site as a top-level domain. All cookies are purged after 30 days. The software utilizes a machine learning model to classify which top privately-controlled domains have the ability to track the user cross-site, and those determined to be trackers will be deleted from the browser.
 
-Firefox will soon allow users to prevent tracking cookies in the “Tracking Protection” feature. Eventually, cookies set without explicit DNT consent will be blocked if the user has enabled Tracking Protection. It remains to be seen if this feature will be enabled by default.
+Firefox will soon allow users to prevent tracking cookies in the “Tracking Protection” feature. Eventually, cookies set without explicit DNT consent will be blocked if the user has enabled Tracking Protection. It remains to be seen if this feature will be enabled by default. Firefox 57 [introduced a change](https://www.janbambas.cz/firefox-57-delays-requests-tracking-domains/) to how the browser loads scripts matching domains in their Tracking Protection database. This has the effect of reducing the perceptual page load time for the 1st-party site, and making tracking ads load more slowly. 
 
 Google Chrome will begin filtering obtrusive ads [by default in early 2018](
 https://support.google.com/webtools/answer/7308033?hl=en)
