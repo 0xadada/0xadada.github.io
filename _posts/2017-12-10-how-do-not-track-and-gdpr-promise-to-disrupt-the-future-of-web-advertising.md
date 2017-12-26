@@ -101,7 +101,7 @@ Safari web browser has a new feature called "Intelligent Tracking Protection" or
 Firefox will soon allow users to prevent tracking cookies in the “Tracking Protection” feature. Eventually, cookies set without explicit DNT consent will be blocked if the user has enabled Tracking Protection. It remains to be seen if this feature will be enabled by default. Firefox 57 [introduced a change](https://www.janbambas.cz/firefox-57-delays-requests-tracking-domains/) to how the browser loads scripts matching domains in their Tracking Protection database. This has the effect of reducing the perceptual page load time for the 1st-party site, and making tracking ads load more slowly. 
 
 Google Chrome will begin filtering obtrusive ads [by default in early 2018](
-https://support.google.com/webtools/answer/7308033?hl=en)
+https://developers.google.com/web/updates/2017/12/better-ads).
 
 Chrome filtering will work by the Google search engine conducting an “[ad experience review](https://support.google.com/webtools/answer/7072706?hl=en&ref_topic=7073503)”. Reviews are periodic, and result in a “passing”, “warning” or “failing” grade for the site under review. The ad review engine crawls a subset of site pages, conducts “user-like” interactions, and compares ad experiences to their “[better ads standards](https://www.betterads.org/standards/)”. If the site detects violations of the standard, the report will result in a “failure”. Sites with ads with a failing Ad Experience Report will have their ads filtered in Chrome. It remains to be seen if this feature will be enabled by default.
 
