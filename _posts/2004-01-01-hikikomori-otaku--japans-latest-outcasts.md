@@ -6,7 +6,7 @@ date: 2003-01-01 12:00:00
 metaDescription: "This article will describe an overview, differentiation from otaku, potential social causes, victimization, and the social impact of acute social-withdrawl or hikikomori in Japanese society."
 metaKeywords: hikikomori, 引きこもり, otaku, おたく, Burakumin, 部落民, sociology, The Other, hinin, 非人, futoko, 不登校
 metaOgType: "article"
-author: Ron. A (Northeastern University)
+author: "0xADADA"
 license: cc-by-nc-sa
 ---
 

@@ -7,7 +7,7 @@ excerpt: "Thoughts on Ember after a year of use."
 metaDescription: "Thoughts on Ember after a year of use."
 metaKeywords: javascript, frameworks, web development, software development, progressive web apps,
 metaOgType: "article"
-author: Ron. A
+author: "0xADADA"
 license: cc-by-nc-sa
 ---
 

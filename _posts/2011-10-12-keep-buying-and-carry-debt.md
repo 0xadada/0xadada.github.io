@@ -6,7 +6,7 @@ date: 2011-10-12 07:35:00
 metaDescription: "A visual commentary on the Keep Calm and Carry On poster"
 metaOgType: "article"
 metaImage: /static/images/2011-10-12-keep-buying-and-carry-debt.png
-author: Ron. A
+author: "0xADADA"
 license: "cc-by-nc-ca"
 ---
 

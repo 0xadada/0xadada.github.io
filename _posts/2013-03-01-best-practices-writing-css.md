@@ -5,7 +5,7 @@ displayTitle: "Best Practices for Writing CSS"
 date: 2013-03-01 20:01:00
 metaDescription: "Conventions to help writing performant, maintainable stylesheets"
 metaOgType: "article"
-author: Ron. A
+author: "0xADADA"
 license: cc-by-sa
 ---
 

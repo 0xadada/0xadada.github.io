@@ -9,7 +9,7 @@ metaKeywords: politics, trump
 image: /static/images/2017-01-16-before-trump.jpg
 metaImage: /static/images/2017-01-16-before-trump.jpg
 metaOgType: "article"
-author: Ron. A
+author: "0xADADA"
 license: cc-by-nc-sa
 ---
 

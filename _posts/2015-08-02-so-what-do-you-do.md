@@ -7,7 +7,7 @@ excerpt: "Performativity in idle conversation is annoying and harmful"
 metaDescription: "Performativity in idle conversation is annoying and harmful"
 metaKeywords: conversation, language, performativity, society, class
 metaOgType: "article"
-author: Ron. A
+author: "0xADADA"
 license: cc-by-nc-sa
 ---
 

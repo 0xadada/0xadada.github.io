@@ -7,7 +7,7 @@ excerpt: "Since the advent of the first banner ads, web tracking has gradually d
 metaDescription: "Since the advent of the first banner ads, web tracking has gradually developed practices that are intrinsically based on a disrespect for peoples privacy, DNT and the EU GDPR will disrupt those practices."
 metaKeywords: dnt, do not track, EU GDPR, privacy, performance, tracking, analytics, malvertising, advertising
 metaOgType: "article"
-author: Ron. A
+author: "0xADADA"
 license: cc-by-nc-sa
 ---
 
@@ -136,7 +136,7 @@ With technology and law moving forward in lockstep, I see a positive path forwar
       Logics</a> in 2015, and later at 
     <a href="https://cinchfinancial.com" title="Cinch Financial" rel="nofollow">Cinch
       Financial</a> in 2017.
-    Ron ██████ (last name redacted) is a software engineer and consultant.
+    0xADADA (name redacted) is a software engineer and consultant.
     He speaks about the intersection of technology, privacy, law, and
     cryptocurrencies. You can find him online by the pseudonym “0xADADA”.
   </em>

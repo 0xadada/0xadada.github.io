@@ -6,7 +6,7 @@ date: 2015-11-03 07:55:00
 metaDescription: "This article explains the advantages of using Docker over automated configuration management tools, and describes a workflow from development through QA and into production deployment using Amazons' Elastic Beanstalk."
 metaKeywords: docker, elastic beanstalk, amazon aws, python, django, development, lifecycle, engineering, workflow
 metaOgType: "article"
-author: Ron. A
+author: "0xADADA"
 license: cc-by-nc-sa
 ---
 

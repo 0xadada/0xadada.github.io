@@ -7,7 +7,7 @@ metaDescription: "How travel provides new perspectives and meaning."
 metaImage: /static/images/2011-12-01-travel-writing-bologna-italy-alleyway.jpg
 metaKeywords: travel, writing, perspective
 metaOgType: "article"
-author: Ron. A
+author: "0xADADA"
 license: cc-by-nc-sa
 ---
 

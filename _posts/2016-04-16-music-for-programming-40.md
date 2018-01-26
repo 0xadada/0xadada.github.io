@@ -6,7 +6,7 @@ date: 2016-04-16 19:47:00
 metaDescription: "a DJ set of ambient, drone and EDM intended to help concentration."
 metaKeywords: music, programming, ambient, drone, sci-fi, DJ set, mix
 metaOgType: "article"
-author: Ron. A
+author: "0xADADA"
 license: cc-by-nc-sa
 ---
 

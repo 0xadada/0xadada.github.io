@@ -6,7 +6,7 @@ date: 2015-08-03 07:31:00
 metaDescription: "This article will attempt to provide an overview to the different workflows, and explain when merge and rebase are the more appropriate workflow to use."
 metaOgType: "article"
 metaImage: /static/images/2015-08-03-git-merge-vs-rebase-07.png
-author: Ron. A
+author: "0xADADA"
 license: cc-by
 ---
 

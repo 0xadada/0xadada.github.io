@@ -6,7 +6,7 @@ date: 2015-03-17 15:54:00
 metaDescription: "Understanding Media, even more relevant today."
 metaKeywords: politics, mass media, media, media studies, television, Marshall McLuhan, McLuhan
 metaOgType: "article"
-author: Ron. A
+author: "0xADADA"
 license: cc-by-nc-sa
 ---
 

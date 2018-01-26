@@ -7,7 +7,7 @@ metaDescription: "How to use SVG and CSS to create dynamic imagery"
 metaImage: /static/images/meta/apple-touch-icon.png
 metaKeywords: graphics, vector, animation, css
 metaOgType: "article"
-author: Ron. A
+author: "0xADADA"
 license: cc-by-nc-sa
 ---
 

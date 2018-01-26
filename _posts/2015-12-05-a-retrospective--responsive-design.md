@@ -7,7 +7,7 @@ metaDescription: "Not too long ago, there was a great debate between two sides o
 metaKeywords: responsive, design, responsive design, web design, process
 metaOgType: "article"
 alternative: "https://medium.com/@0xadada/not-too-long-ago-there-was-a-great-debate-between-two-sides-of-the-web-515598a84ac1"
-author: Ron. A
+author: "0xADADA"
 license: cc-by-nc-sa
 ---
 

@@ -6,7 +6,7 @@ date: 2016-03-05 11:35:00
 metaDescription: "A howto guide for installing encrypted Arch Linux on an Apple MacBook Pro with battery optimization and the Awesome window manager."
 metaKeywords: Apple, MacBook, MacBook Pro, encryption, linux, Arch Linux, GNU/Linux,
 metaOgType: "article"
-author: Ron. A
+author: "0xADADA"
 license: cc-by-nc-sa
 ---
 

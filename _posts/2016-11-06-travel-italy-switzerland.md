@@ -7,7 +7,7 @@ metaDescription: "How travel does not provide new perspectives or meaning."
 metaImage: /static/images/2016-10-27-travel-val-ferret.jpg
 metaKeywords: travel, writing, perspective
 metaOgType: "article"
-author: Ron. A
+author: "0xADADA"
 license: cc-by-nc-sa
 ---
 
