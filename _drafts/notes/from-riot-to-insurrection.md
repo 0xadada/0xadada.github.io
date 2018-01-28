@@ -1,0 +1,19 @@
+Workers are being thrown into a more competitive environment (via globalization) with the aim being to increase productive capacity and lower costs to increase profit.
+
+Those on the inside will extol the virtues of the qualitative benefits of "flexible" work hours, "freedom" to be creative (within the constraints of profit). Those on the outside, without the skills to remain competitive or simply not wanting to participate within the laws of capitalism and not prepared to accept the degrading minimal levels of survival assigned to them by the state (i.e. Welfare, Military Service & Prisons) and by society which increasingly sees this group as a relic of the past, as the society worships the fictional-ideology of the "self-made man".
+
+The eventual consciousness of the priviliged of their meaningless and morally bankrupt privilidge coming at the expense of systemic discrimination and exploitation of 3rd world countries will lead to insurrection.
+
+Consciousness of the misery and subjugation of one part of society poisons the appearance of well-being and freedom within the ivory towers into a virtual prison.
+
+Just as the industrialization of work in the late 1800s reduced the individuals capacity to a life of self-determination to a small set of life/work decisions based within a framework of industrialized labor, we are now seeing a new shift that will further remove self-determination away from industrial labor and into computerized labor.
+
+Education is shifting from teaching skills universal to any life to only those skills that serve the interests of a post-industrial computerized society. Learning any skills outside increasing productivity inside that framework will first be eliminated, then discouraged, next disparaged, and finally banned (raising chickens in urban areas was dropped from education programs, then went through the stages of disparagegment for unclenliness, and is now banned in most cities).
+
+Industry is shifting rom a primarily manufacturing center, with energy providing the catalyst and finance providing the strategic resources to one of services is the power center. The catalyst will be information and "Big Data", and the strategic resources will be knowledge and research developments on theory. Technology is shifting from a mechanical resource to an intellectual resource. Ownership is shifting from ownership of physical/mechanical means of production to Intellectual Property, Copyright an the ability to censor those the Renters deem are in violation of their Intellectual Property. The primary worker is the "Data Scientist".
+
+> We are speaking here of a possible repressive development that would deprive the excluded from the very possibility of communicating with the included. by greatly reducing the utility of the written word, and gradually replacing books and newspapers with images (instagram, twitter), color and music, for example, the power structure of tomorrow could construct a language aimed at the excluded alone.<cite>pp34</cite>
+
+The major problem with inequality in the U.S. today isn't that the poor don't have enough food, or don't have TV, Smartphones or nice clothes. The problem is that they have no opportunity to improve their lives, to move between classes, or to give their children a chance for a life better than their own.
+
+The excluded will rise up for emotional and irrational reasons without an objective beyond venting their frustrations. This can be channeled into rational insurrection only if goals and objectives are aligned and made. In order to realize a struggle for ideological goals, we must organize the excluded not to realize our ideologic goals but to realize practical goals, rooted in reality and practicality. Goals that are tangible and easily understood and illustrated. The goals is to transform irrational and emotional situations of riot into insurrectional and revolutionary reality.
