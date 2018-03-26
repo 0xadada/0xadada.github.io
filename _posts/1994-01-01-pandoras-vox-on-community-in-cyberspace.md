@@ -12,8 +12,7 @@ authorUrl: "http://alphavilleherald.com/2004/05/introducing_hum.html"
 ---
 
 <aside>
-  <em>This is a guest post by
-    Carmen Hermosillo.</em>
+  <em>This essay was written by Carmen Hermosillo, 1994.</em>
 </aside>
 
 when i went into cyberspace i went into it thinking that it was a place like any other place and that it would be a human interaction like any other human interaction. i was wrong when i thought that. it was a terrible mistake.
