@@ -7,7 +7,8 @@ excerpt: "when i went into cyberspace i went into it thinking that it was a plac
 metaDescription: "when i went into cyberspace i went into it thinking that it was a place like any other place and that it would be a human interaction like any other human interaction. i was wrong when i thought that"
 metaKeywords: politics, cyberspace, 
 metaOgType: "article"
-author: "Carmen Hermosillo"
+author: "humdog"
+authorUrl: "http://alphavilleherald.com/2004/05/introducing_hum.html"
 ---
 
 <aside>
