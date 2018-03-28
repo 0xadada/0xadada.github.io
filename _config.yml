@@ -24,3 +24,8 @@ exclude: [
   LICENSE,
   README.md
 ]
+
+collections:
+  tags:
+    output: true
+    permalink: /tag/:name/

@@ -8,6 +8,7 @@ metaDescription: "RASpec Impreza 2.0 Subaru WRX STI race car - Full specificatio
 metaOgType: "article"
 metaImage: /static/images/2015-08-15-raspec-impreza-exterior-front-left-01-far.jpg
 author: Ron. A
+tags: [projects]
 ---
 
 ## About the Car

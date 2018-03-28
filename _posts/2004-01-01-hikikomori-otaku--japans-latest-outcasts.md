@@ -8,6 +8,7 @@ metaKeywords: hikikomori, 引きこもり, otaku, おたく, Burakumin, 部落�
 metaOgType: "article"
 author: "0xADADA"
 license: cc-by-nc-sa
+tags: [essays]
 ---
 
 
