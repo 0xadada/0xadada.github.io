@@ -105,7 +105,15 @@ willing to walk through the doorway.
 </figure>
 
 Travel is just a big distraction of novelty and the remarkable. It's easy to forget
-everything and be immersed in the distraction. So if you are looking for something
+everything and be immersed in the distraction.
+
+> Tourism, human circulation considered as consumption, a by-product of the
+> circulation of commodities, is fundamentally nothing more than the leisure 
+> of going to see what has become banal. The economic organization of visits
+> to different places is already in itself the guarantee of their equivalence.
+> <cite>Guy Debord<sup class="Ref" id="ref:cite:1">[[1](#cite:1)]</sup></cite>
+
+So if you are looking for something
 inwards, be prepared to focus on whats inside, not whats outside. Travel
 can be an escape from oneself or ones responsibilities, an escape more powerful
 than other forms of escape.
@@ -130,3 +138,15 @@ any more than puzzels improve intellectual growth.
     title="Home, the journey inwards">
   <figcaption>Home, the journey inwards</figcaption>
 </figure>
+
+## References
+
+1. <cite id="cite:1">
+   Debord, Guy.
+   _The Society of the Spectacle_.
+   Trans. Fredy Perlman.
+   Detroit: Black & Red,
+   Print.
+   1983.
+   <a class="RefBack" href="#ref:cite:1">1</a>
+   </cite>
