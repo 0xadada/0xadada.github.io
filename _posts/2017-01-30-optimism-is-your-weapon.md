@@ -9,6 +9,7 @@ metaKeywords: politics, trump
 metaOgType: "article"
 author: "Stephen Shellenberger"
 authorUrl: "https://bostonapothecary.com"
+tags: [guests]
 ---
 
 <aside>

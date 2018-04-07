@@ -16,6 +16,7 @@ gems:
   - jekyll-feed
   - jekyll-sitemap
 
+include: ["_pages"]
 # Project settings
 exclude: [
   Gemfile,
@@ -26,6 +27,6 @@ exclude: [
 ]
 
 collections:
-  tags:
+  my_tags:
     output: true
-    permalink: /tag/:name/
+    permalink: /tag/:slug/

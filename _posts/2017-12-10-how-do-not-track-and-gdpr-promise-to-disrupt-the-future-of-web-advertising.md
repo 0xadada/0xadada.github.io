@@ -9,7 +9,7 @@ metaKeywords: dnt, do not track, EU GDPR, privacy, performance, tracking, analyt
 metaOgType: "article"
 author: "0xADADA"
 license: cc-by-nc-sa
-tags: [essays]
+tags: [essays, privacy]
 ---
 
 

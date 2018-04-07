@@ -8,6 +8,7 @@ metaKeywords: Apple, MacBook, MacBook Pro, encryption, linux, Arch Linux, GNU/Li
 metaOgType: "article"
 author: "0xADADA"
 license: cc-by-nc-sa
+tags: [projects, open-source, linux]
 ---
 
 

@@ -7,6 +7,7 @@ metaDescription: "This paper documents the creation and testing of a game playin
 metaKeywords: ai, artificial intelligence, machine learning, connect four
 metaOgType: "article"
 license: cc-by
+tags: [projects]
 ---
 
 

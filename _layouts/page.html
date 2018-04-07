@@ -46,17 +46,31 @@ layout: compress
     {{ content }}
   </div>
 
-  {% if page.license %}
   <footer class="c-Meta c-License">
-    {% if page.license == "cc-by-nc-sa" %}
-    {% include cc-by-nc-sa.html %}
-    {% elsif page.license == "cc-by-sa" %}
-    {% include cc-by-sa.html %}
-    {% elsif page.license == "cc-by" %}
-    {% include cc-by.html %}
+    {% if page.license %}
+      {% if page.license == "cc-by-nc-sa" %}
+      {% include cc-by-nc-sa.html %}
+      {% elsif page.license == "cc-by-sa" %}
+      {% include cc-by-sa.html %}
+      {% elsif page.license == "cc-by" %}
+      {% include cc-by.html %}
+    {% endif %}
+
+    <aside>
+      Posted under:
+      {% if post %}
+        {% assign tags = post.tags %}
+      {% else %}
+        {% assign tags = page.tags %}
+      {% endif %}
+      {% for tag in tags %}
+        <span class="entry-tags">
+          <a href="{{ site.url }}/{{ tag }}/" rel="tag">
+            {{ tag }}</a>{% unless forloop.last %},{% endunless %}
+        </span>
+      {% endfor %}
     {% endif %}
   </footer>
-  {% endif %}
 
 </article>
 

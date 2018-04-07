@@ -8,6 +8,7 @@ metaOgType: "article"
 metaImage: /static/images/2011-12-24-photoshop-scrollbar-study.png
 author: "0xADADA"
 license: "cc-by"
+tags: [projects]
 ---
 
 Take a moment to count the number of unique scrollbar widget types there

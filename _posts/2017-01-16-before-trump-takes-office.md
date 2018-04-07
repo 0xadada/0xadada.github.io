@@ -11,6 +11,7 @@ metaImage: /static/images/2017-01-16-before-trump.jpg
 metaOgType: "article"
 author: "0xADADA"
 license: cc-by-nc-sa
+tags: [essays]
 ---
 
 

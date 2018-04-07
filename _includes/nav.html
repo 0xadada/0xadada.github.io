@@ -1,7 +1,16 @@
 <nav class="c-GlobalNav" role="navigation">
   <ul class="c-GlobalNav--List">
     <li class="c-GlobalNav--Item {% if p.url == page.url %} is-active{% endif %}">
-      <a class="c-GlobalNav--Link" href="/">Home</a>
+      <a class="c-GlobalNav--Link" href="/essays/">Essays</a>
+    </li>
+    <li class="c-GlobalNav--Item {% if p.url == page.url %} is-active{% endif %}">
+      <a class="c-GlobalNav--Link" href="/projects/">Projects</a>
+    </li>
+    <li class="c-GlobalNav--Item {% if p.url == page.url %} is-active{% endif %}">
+      <a class="c-GlobalNav--Link" href="/privacy/">Privacy</a>
+    </li>
+    <li class="c-GlobalNav--Item {% if p.url == page.url %} is-active{% endif %}">
+      <a class="c-GlobalNav--Link" href="/guests/">Guests</a>
     </li>
   {% assign pages = site.pages | sort:"url" %}
   {% for p in pages %}

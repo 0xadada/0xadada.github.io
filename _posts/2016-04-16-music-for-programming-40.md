@@ -8,6 +8,7 @@ metaKeywords: music, programming, ambient, drone, sci-fi, DJ set, mix
 metaOgType: "article"
 author: "0xADADA"
 license: cc-by-nc-sa
+tags: [projects]
 ---
 
 
