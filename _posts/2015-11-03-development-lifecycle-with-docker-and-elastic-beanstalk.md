@@ -8,6 +8,7 @@ metaKeywords: docker, elastic beanstalk, amazon aws, python, django, development
 metaOgType: "article"
 author: "0xADADA"
 license: cc-by-nc-sa
+tags: [essays]
 ---
 
 

@@ -9,6 +9,7 @@ metaKeywords: politics, cyberspace,
 metaOgType: "article"
 author: "humdog"
 authorUrl: "http://alphavilleherald.com/2004/05/introducing_hum.html"
+tags: [guests]
 ---
 
 <aside>

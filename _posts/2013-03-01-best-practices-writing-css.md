@@ -7,6 +7,7 @@ metaDescription: "Conventions to help writing performant, maintainable styleshee
 metaOgType: "article"
 author: "0xADADA"
 license: cc-by-sa
+tags: [essays]
 ---
 
 ## General High-Order Principles

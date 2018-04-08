@@ -9,6 +9,7 @@ metaKeywords: conversation, language, performativity, society, class
 metaOgType: "article"
 author: "0xADADA"
 license: cc-by-nc-sa
+tags: [essays]
 ---
 
 

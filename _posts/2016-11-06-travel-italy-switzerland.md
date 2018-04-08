@@ -9,6 +9,7 @@ metaKeywords: travel, writing, perspective
 metaOgType: "article"
 author: "0xADADA"
 license: cc-by-nc-sa
+tags: [essays]
 ---
 
 

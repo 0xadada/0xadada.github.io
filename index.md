@@ -22,4 +22,9 @@ metaOgType: "website"
   </li>
   {% endif %}
 {% endfor %}
+
 </ol>
+
+{% for tag in site.tags %}
+  {{ tag.name }} - {{ tag.slug }}
+{% endfor %}

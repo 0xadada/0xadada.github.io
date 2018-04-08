@@ -8,6 +8,7 @@ metaOgType: "article"
 metaImage: /static/images/2011-10-12-keep-buying-and-carry-debt.png
 author: "0xADADA"
 license: "cc-by-nc-ca"
+tags: [projects]
 ---
 
 From comic book stores to Facebook to message boards, it seems that the "Keep

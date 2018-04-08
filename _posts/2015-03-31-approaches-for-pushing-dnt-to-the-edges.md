@@ -8,6 +8,7 @@ metaOgType: "article"
 metaImage: /static/images/2015-03-31-dnt-firefox.png
 author: "0xADADA"
 license: cc-by-nc-sa
+tags: [essays, privacy]
 ---
 
 Lets face it, Do Not Track (DNT) is dying a slow death. Content providers

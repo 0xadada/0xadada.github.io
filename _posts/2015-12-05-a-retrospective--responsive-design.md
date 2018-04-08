@@ -9,6 +9,7 @@ metaOgType: "article"
 alternative: "https://medium.com/@0xadada/not-too-long-ago-there-was-a-great-debate-between-two-sides-of-the-web-515598a84ac1"
 author: "0xADADA"
 license: cc-by-nc-sa
+tags: [essays]
 ---
 
 

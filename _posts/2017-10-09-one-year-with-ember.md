@@ -9,6 +9,7 @@ metaKeywords: javascript, frameworks, web development, software development, pro
 metaOgType: "article"
 author: "0xADADA"
 license: cc-by-nc-sa
+tags: [essays, open-source]
 ---
 
 In early 2015, I was working at an artificial intelligence startup. My team was planning to build a web application to connect to our neural network platform. The team as a whole had experience (on the AI–side) with Python, and the web team had a lot of experience using Django. We'd implemented a hybrid-app in Cordova using Backbone.js the previous year. My task was to evaluate the state-of-the-art in the frontend development landscape. 

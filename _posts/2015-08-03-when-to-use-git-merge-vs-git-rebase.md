@@ -8,6 +8,7 @@ metaOgType: "article"
 metaImage: /static/images/2015-08-03-git-merge-vs-rebase-07.png
 author: "0xADADA"
 license: cc-by
+tags: [essays]
 ---
 
 I’ve seen many articles and discussions online discussing the merits of

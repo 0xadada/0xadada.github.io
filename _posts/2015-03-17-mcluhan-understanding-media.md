@@ -8,6 +8,7 @@ metaKeywords: politics, mass media, media, media studies, television, Marshall M
 metaOgType: "article"
 author: "0xADADA"
 license: cc-by-nc-sa
+tags: [essays]
 ---
 
 
