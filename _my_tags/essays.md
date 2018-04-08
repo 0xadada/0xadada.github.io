@@ -2,6 +2,7 @@
 layout: tags
 slug: essays
 name: Essays
+displayTitle: Essays
 permalink: /essays/
 ---
 

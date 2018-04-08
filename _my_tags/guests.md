@@ -2,6 +2,7 @@
 layout: tags
 slug: guests
 name: Guests
+displayTitle: Guests
 permalink: /guests/
 ---
 

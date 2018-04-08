@@ -2,6 +2,7 @@
 layout: tags
 slug: privacy
 name: Privacy
+displayTitle: Privacy
 permalink: /privacy/
 ---
 
