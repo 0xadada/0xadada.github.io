@@ -1,8 +1,8 @@
 ---
 layout: page
 title: "0xADADA"
-displayTitle: Writing
-metaDescription: "Writing of 0xADADA"
+displayTitle: "Homepage of 0xADADA"
+metaDescription: "Homepage of 0xADADA"
 metaOgType: "website"
 ---
 
@@ -22,9 +22,4 @@ metaOgType: "website"
   </li>
   {% endif %}
 {% endfor %}
-
 </ol>
-
-{% for tag in site.tags %}
-  {{ tag.name }} - {{ tag.slug }}
-{% endfor %}

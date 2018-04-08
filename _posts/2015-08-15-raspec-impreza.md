@@ -1,13 +1,14 @@
 ---
 layout: page
-title: "RASpec Impreza 2.0 - Subaru Impreza WRX STI Race Car for Sale"
-navTitle: RASpec Impreza
-inNav: true
+title: "RASpec Impreza 2.0 - Subaru Impreza WRX STI Race Car - Full specifications"
+date: 2015-08-15 12:00:00
 displayTitle: "visual assault / DSG RASpec Impreza 2.0"
-metaDescription: "RASpec Impreza 2.0 Subaru WRX STI race car - Full specifications"
+metaDescription: "Build specifications for a Subaru WRX STI time attack race car"
+metaKeywords: Subaru, Impreza, WRX, WRX STI, race car, NASIOC
 metaOgType: "article"
 metaImage: /static/images/2015-08-15-raspec-impreza-exterior-front-left-01-far.jpg
-author: Ron. A
+author: "0xADADA"
+license: cc-by-nc-sa
 tags: [projects]
 ---
 
@@ -16,6 +17,10 @@ tags: [projects]
 The goal I established for the RASpec Impreza was a cross-campaign race
 car capable of competing in time attack, time trial, hillclimb and
 wheel-to-wheel racing series up and down the East Coast.
+
+This car was originally purchased in 2004, and gradually transformed from street
+car into full race car. The build was done iteratively informed from performance
+metrics during race events.
 
 <figure>
   <img src="/static/images/2015-08-15-raspec-impreza-exterior-front-left-01-far.jpg" alt>
