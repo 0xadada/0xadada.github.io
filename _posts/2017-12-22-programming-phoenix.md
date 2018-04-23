@@ -254,12 +254,12 @@ Ecto relationships are explicit:
 
 Ecto allows us to preload associations directly as part of a query:
 
-    iex> Repo.all from u in User,
-         join: v in assoc(u, :videos),
-         join: c in assoc(v, :category),
-         where: c.name == "Comedy",
-         select: {u, v}
-    [{%Rumbl.User{...}, %Rumbl.User{...}}]
+> iex> Repo.all from u in User,
+>      join: v in assoc(u, :videos),
+>      join: c in assoc(v, :category),
+>      where: c.name == "Comedy",
+>      select: {u, v}
+> [{%Rumbl.User{...}, %Rumbl.User{...}}]
 
 Constraints allow developers to use underlying relational, and can solve potential race conditions:
 
