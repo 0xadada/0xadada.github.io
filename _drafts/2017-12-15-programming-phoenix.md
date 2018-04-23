@@ -170,82 +170,96 @@ assoc is convenient in that it returns an Ecto.Query all videos scoped to a spec
 
 Seeds are small scripts that populate the database with values every time the script is run. Phoenix stores seed scripts in priv/repo/seeds.ex. Mix tasks will run these scripts. Use mix run priv/repo/seeds.exs to add the seed data to the database.
 
-Repo.all from c in Category, select: c.name
-Repo.all means return all rows, from is a macro that builds a query, c in Category means we're pulling rows (labeled c) from the Category schema. select: c.name means we're going to return only the name field.
-Repo.all from c in Category, order_by: c.name, select: c.name
+    Repo.all from c in Category, select: c.name
+
+`Repo.all` means return all rows, `from` is a macro that builds a query, `c in Category` means we're pulling rows (labeled c) from the Category schema. `select: c.name` means we're going to return only the name field.
+
+    Repo.all from c in Category, order_by: c.name, select: c.name
+
 will order the results by name and return a tuple containing the name and the id fields.
 
 Ecto queries are composable, you don't need to define the entire query at once, you can combine them bit-by-bit.
-iex> query = Category
-iex> query = from c in query, order_by: c.name
-iex> query = from c in query, select: {c.name, c.id}
-#Ecto.Query<>
-iex> Repo.all(query)
-[...]
-This works because Ecto defines a queryable protocol. from receives a queryable, and you can use any queryable as a base for a new query. An Elixir protocol defines an API for specific language features, this one defines the API for something that can be queried. This is why we can invoke Repo.all(Category) or Repo.all(query) because both Category and query implement the Ecto.Queryable protocol. By abiding to the protocol, developer can quickly layer together sophisticaed queries with Ecto.Query, maintaining sophistication without complexity.
+
+    iex> query = Category
+    iex> query = from c in query, order_by: c.name
+    iex> query = from c in query, select: {c.name, c.id}
+    #Ecto.Query<>
+    iex> Repo.all(query)
+    [...]
+    
+This works because Ecto defines a queryable protocol. from receives a queryable, and you can use any queryable as a base for a new query. An Elixir protocol defines an API for specific language features, this one defines the API for something that can be queried. This is why we can invoke Repo.all(Category) or Repo.all(query) because both Category and query implement the `Ecto.Queryable` protocol. By abiding to the protocol, developer can quickly layer together sophisticaed queries with Ecto.Query, maintaining sophistication without complexity.
 
 Code that builds and transforms queries, and code that interacts with the repository should belong to the context. Code that makes requests for the data should belong to the controller—because the controller is where the web logic should live, and the database layer should be hidden within the application context with the rest of the business logic.
 
-iex> username = "josevalim"
-iex> Repo.one(from u in User, where: u.username == ^username)
-%Rumbl.User{...}
+    iex> username = "josevalim"
+    iex> Repo.one(from u in User, where: u.username == ^username)
+    %Rumbl.User{...}
 
-Repo.one returns one row, from u in user means read from the User schema. where u.username == ^username means return the row where u.username == ^username, using the pin ^ operator means we don't want to assign the username but use its value.
+Repo.one returns one row, from u in user means read from the User schema. where u.username == ^username means return the row `where u.username == ^username`, using the pin `^` operator means we don't want to assign the username but use its value.
 
-Repo.one does not mean "return the first result" but "one result is expected", so if there is more, it fails. The Ecto Query API is not about composing query strings, it uses Elixir macros such that Ecto knows where user-defined variables are located, it's easier to protect the user from security flaws like SQL-injection attacks. It also helps a bit with query normalization and leverages the data types as defined in the schema for casting values at runtime.
+`Repo.one` does not mean "return the first result" but "one result is expected", so if there is more, it fails. The Ecto Query API is not about composing query strings, it uses Elixir macros such that Ecto knows where user-defined variables are located, it's easier to protect the user from security flaws like SQL-injection attacks. It also helps a bit with query normalization and leverages the data types as defined in the schema for casting values at runtime.
 
 Any functions with side effects—the ones that change the world—should remain in the controllers, while the context, model, and view layers remain side effect free. The controller receives data, either from a traditional web request, reading data from a socket, and this data is passed from the controller to various functions that transform it as it moves through the functions to the shape of our business-model requirements. Finally it makes changes to the world around us, either delivering emails, adding entries to a database, or invoking a view which is again written to the connection (another side effect), any of which can result in a business operation.
 
-The query API supports many operators: ==, !=, <=, >=, <, >, and, or, not, in, like, ilike, is_nil, count, avg, sum, min, max, datetime_add, date_add, fragment, field, type.
+The query API supports many operators: `==, !=, <=, >=, <, >, and, or, not, in, like, ilike, is_nil, count, avg, sum, min, max, datetime_add, date_add, fragment, field, type`.
 
 Keyword syntax uses a keyword list to express a query.
-iex> Repo.one from u in User,
-              select: count(u.id),
-              where: ilike(u.username, ^"j%") or
-                     ilike(u.username, ^"c%")
+
+    iex> Repo.one from u in User,
+                  select: count(u.id),
+                  where: ilike(u.username, ^"j%") or
+                         ilike(u.username, ^"c%")
+                         
 the u variable is bound as part of Ecto's from macro, representing entries from the User schema. Each join in a query gets a special binding.
-# count users
-iex> users_count = from u in User, select: count(u.id)
-#Ecto.Query<from u in Rumbl.User, select: count(u.id)>
-# count usernames with a j
-iex> j_users = from u in users_count, where: ilike(u.username, ^"%j%")
-#Ecto.Query<from u in Rumbl.User, where: ilike(u.username, ^"%j%"), select: count(u.id)>
+
+    # count users
+    iex> users_count = from u in User, select: count(u.id)
+    #Ecto.Query<from u in Rumbl.User, select: count(u.id)>
+    # count usernames with a j
+    iex> j_users = from u in users_count, where: ilike(u.username, ^"%j%")
+    #Ecto.Query<from u in Rumbl.User, where: ilike(u.username, ^"%j%"), select: count(u.id)>
+    
 This query builds up a new query, normalizing as it builds, upon the saved query, we even built the query using the same bound variable name, u, but we didn't have to.
 
 The pipe syntax allows developer to build queries by piping through query macros. Each pipe takes a queryable and returns a queryable.
-iex> User |>
-     select([u], count(u.id)) |>
-     where([u], ilike(u.username, ^"j%") or ilike(u.username, ^"c%")) |>
-     Repo.one()
-[debug] QUERY OK source="users" db=4.5ms
-SELECT count(u0."id") FROM "users" AS u0 WHERE ((u0."username" ILIKE $1) OR (u0."username" ILIKE $2)) ["j%", "c%"]
-5
+
+    iex> User |>
+         select([u], count(u.id)) |>
+         where([u], ilike(u.username, ^"j%") or ilike(u.username, ^"c%")) |>
+         Repo.one()
+    [debug] QUERY OK source="users" db=4.5ms
+    SELECT count(u0."id") FROM "users" AS u0 WHERE ((u0."username" ILIKE $1) OR (u0."username" ILIKE $2)) ["j%", "c%"]
+    5
+    
 Because each segment of the pipe works independently of the others, we need to specify the binding manually for each one.
 
 Fragments offer an escape hatch from Ecto's Query API. The best abstractions offer an escape hatch, and since Ecto's Query API doesn't represent every query the database layer can provide, Ecto's query fragments send part of the query directly to the database but allows you to construct it in a safe way, like this:
-iex> from(u in User,
-     where: fragment("lower(username) = ?",
-                     ^String.downcase(uname)))
+    iex> from(u in User,
+         where: fragment("lower(username) = ?",
+                         ^String.downcase(uname)))
 
 When all else fails, you can directly run SQL statements with Ecto.Adapters.SQL.Query:
-iex> Ecto.Adapters.SQL.query(Rumbl.Repo, "SELECT power($1, $2)", [2, 10])
-SELECT power($1, $2) [2, 10]
-{:ok, %Postgrex.Result{ columns: ["power"], command: :select, connection_id: 5979, num_rows: 1, rows: [[1024.0]] }}
+
+    iex> Ecto.Adapters.SQL.query(Rumbl.Repo, "SELECT power($1, $2)", [2, 10])
+    SELECT power($1, $2) [2, 10]
+    {:ok, %Postgrex.Result{ columns: ["power"], command: :select, connection_id: 5979, num_rows: 1, rows: [[1024.0]] }}
 
 Ecto relationships are explicit:
 
     iex> user = Repo.one from(u in User, limit: 1)
     iex> user.videos
     #Ecto.Association.NotLoaded<association :videos is not loaded>
-iex> user = Repo.preload(user, :videos)
-iex> []
+    iex> user = Repo.preload(user, :videos)
+    iex> []
+
 Ecto allows us to preload associations directly as part of a query:
-iex> Repo.all from u in User,
-     join: v in assoc(u, :videos),
-     join: c in assoc(v, :category),
-     where: c.name == "Comedy",
-     select: {u, v}
-[{%Rumbl.User{...}, %Rumbl.User{...}}]
+
+    iex> Repo.all from u in User,
+         join: v in assoc(u, :videos),
+         join: c in assoc(v, :category),
+         where: c.name == "Comedy",
+         select: {u, v}
+    [{%Rumbl.User{...}, %Rumbl.User{...}}]
 
 Constraints allow developers to use underlying relational, and can solve potential race conditions:
 
@@ -338,7 +352,7 @@ ExUnit has three main macros, setup macro specifies setup code that runs before 
 
 This code runs two tests, first setup is run, then the "pass" test case. Next setup is run, and the "fail" test case. The output is a passing test case and a failing test case.
 
-Tests will generally use <AppName>.ConnCase meaning you get <AppName>.Router.Helpers, and Ecto imports along for free.
+Tests will generally use `<AppName>.ConnCase` meaning you get `<AppName>.Router.Helpers`, and Ecto imports along for free.
 
 ExUnit calls tests with
 
@@ -393,7 +407,7 @@ Writing unit tests directly against a function like the Auth plug will result in
       assert conn.halted
     end
   
-The setup block calls bypass_through, passing the router and the :browser pipeline to invoke. When the get request is invoked, it accesses the endpoint and stops at the browser pipeline, as requested. The path "/" given to the get isn't used by the router when bypassing, its just stored in the connection, this provides all the requirements for a plug with a valid session and flash message support.
+The setup block calls `bypass_through`, passing the router and the :browser pipeline to invoke. When the get request is invoked, it accesses the endpoint and stops at the browser pipeline, as requested. The path "/" given to the get isn't used by the router when bypassing, its just stored in the connection, this provides all the requirements for a plug with a valid session and flash message support.
 
 Since most repository-related functionality will be tested with integration tests as they insert and update records, but we want to be sure to catch some error conditions as close to the breaking point as possible. One example is the uniqueness constraint checks in the changeset. It has side effects because we're going to need to create a record and then test against it.
 
@@ -457,7 +471,7 @@ Each channel module can receive events in three ways
     handle_out intercepts broadcast events
     handle_info receives OTP messages
 
-handle_info is invoked whenever an Elixir message reaches the channel.
+`handle_info` is invoked whenever an Elixir message reaches the channel.
 
 Session-based authentication makes sense for request/response–type applications, but for channels, token authentication works better because the connection is a long-duration connection. With token authentication, each user gets a unique token. Tokens allow for a secure authentication mechanism that doesn't reply on any specific transport. Once the user is already authenticated using the request/response traditional approach, the application can expose the token to the frontend, and this token can be used by the channel.
 
