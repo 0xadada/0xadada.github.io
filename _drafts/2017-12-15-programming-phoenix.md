@@ -11,7 +11,7 @@ license: cc-by-nc-sa
 tags: [essays]
 ---
 
-Ch.1
+## Ch.1
 
 The layers of phoenix, the endpoint is where the HTTP connection contacts phoenix, from there it goes to the router which directs a request to the appropriate controller, passing through a series of pipelines. Pipelines chain functions together to handle tasks that span across multiple controllers, such as browser requests vs API requests.
 
@@ -70,14 +70,14 @@ The pipeline(s) above will be things like :browser, handling common tasks as pre
 
 The controller is where business logic specific to your application lives, making data available for a view. The view subsequently substitutes values inside a template which is rendered.
 
-Ch.2
+## Ch.2
 
 Start an interactive Elixir shell within an Elixir application project:
 iex -S mix
 
 Structs add a constraint to Maps in that they offer protection from bad or misspelled keynames at compilation time, while Maps only throw errors during runtime when the key is first accessed. Under the covers, a Struct is just a Map with a __struct__ key.
 
-Ch3
+## Ch3
 
 A view is a module containing a rendering function that converts data into a format the user will consume, like HTML or JSON. A template is a function on the view module, compiled from a file containing raw markup language and embedded Elixir code to process substitutions and loops. Views are modules responsible for rendering, and templates are the compiled functions that have static markup and native code to build pages.
 
@@ -89,7 +89,7 @@ In Phoenix, after compilation, templates are just functions. These templates are
 
 When a template is added to Phoenix, the view module extracts the template from the filesystem and adds it as a function on the module itself, thats why the view module is required in the first place.
 
-Ch.4
+## Ch.4
 
 Ecto uses a DSL that specifies how the fields in a struct map to database tables and columns. The DSL is built using Elixir macros. Virtual fields are not persisted to the database.
 
@@ -97,7 +97,7 @@ Models (called contexts & schemas in Phoenix 1.3) are layers of functions to tra
 
 Ecto helps you write code to make the minimal required database operation to update a record. Ecto can enforce constraints without hitting the database.
 
-Ch.5
+## Ch.5
 
 Ecto.Changeset.cast converts a bare Map to a changeset, for security it limits the incoming parameters to those specified.
 
@@ -107,7 +107,7 @@ To share a Plug across more than one module, you want to use a Module Plug. All 
 
 Any values stored in conn.assigns.* is automatically available with the same name in our view. So if you assign to current_user, then @current_user can be used directly in a view.
 
-Ch.6 Generators & Relationships
+## Ch.6 Generators & Relationships
 
 Generating resources, phx.gen.html generates simple HTML based scaffolds, phx.gen.json generates a REST-based API using JSON. They create resources for CRUD operations, creating migrations, controllers, and templates as well as tests.
 
@@ -156,7 +156,7 @@ iex> Repo.all(query)
 [%Rumbl.Video{...}]
 assoc is convenient in that it returns an Ecto.Query all videos scoped to a specific user, or a list of users, we convert this query into data by calling Repo.all.
 
-Ch.7 Ecto Queries and Constraints
+## Ch.7 Ecto Queries and Constraints
 
 Seeds are small scripts that populate the database with values every time the script is run. Phoenix stores seed scripts in priv/repo/seeds.ex. Mix tasks will run these scripts. Use mix run priv/repo/seeds.exs to add the seed data to the database.
 
@@ -293,7 +293,7 @@ because the foreign key is established in the videos table, we need to explicitl
 
 The *_constraint changeset functions are useful when the constraint being mapped is triggered by external data, often as part of the user request. Using changeset constraints only makes sense if the error message can be something the user can take useful action on.
 
-Ch.8 Testing MVC
+## Ch.8 Testing MVC
 
 Testing principals
 Fast — tests should run quickly and concurrently if possible
@@ -340,6 +340,7 @@ this also exists for JSON called json_response that allow for assertions like
 assert %{user_id: user.id} = json_response(conn, 200)
 
 ExUnit tags help when setup is different from test to test. When specifying a tag, ExUnit makes that information available within the setup block via callbacks.
+
 setup %{conn: conn} = config do
   if username = config[:login_as] do
     user = insert_user(username: username)
@@ -373,7 +374,7 @@ The setup block calls bypass_through, passing the router and the :browser pipeli
 
 Since most repository-related functionality will be tested with integration tests as they insert and update records, but we want to be sure to catch some error conditions as close to the breaking point as possible. One example is the uniqueness constraint checks in the changeset. It has side effects because we're going to need to create a record and then test against it.
 
-Chapter 9: Watching Videos
+## Ch. 9: Watching Videos
 
 alter table(:videos) do
   add :slug, :string
@@ -395,7 +396,7 @@ end
 The advantage of implementing this behavior change as a Protocol implementation is the clean polymorphism we get by extending Phoenix parameters without having to change Phoenix itself or the Video module itself.
 
 
-Chapter 10: Using Channels
+## Ch. 10: Using Channels
 
 A client connects to a channel over a socket, then sends and receives messages, that's it. A Phoenix channel is a conversation, the channel sends messages, receives messages, and keeps state. Just as controllers receive requests, channels receive events.
 
@@ -436,7 +437,7 @@ handle_info is invoked whenever an Elixir message reaches the channel.
 
 Session-based authentication makes sense for request/response–type applications, but for channels, token authentication works better because the connection is a long-duration connection. With token authentication, each user gets a unique token. Tokens allow for a secure authentication mechanism that doesn't reply on any specific transport. Once the user is already authenticated using the request/response traditional approach, the application can expose the token to the frontend, and this token can be used by the channel.
 
-Chapter 11: OTP
+## Ch. 11: OTP
 
 OTP is a way to think about concurrency and distribution, using patterns that allow developer to use concurrency to build state without language features that rely on mutability.
 
@@ -467,8 +468,7 @@ OTP applications protect in both directions, that is, if the Phoenix server itse
 
 Because GenServer's are meant to be generic servers, they hold both computation and state. However, in many cases, we want a process to store state only, or only execute a particular function. An agent is a simple GenServer
 
-Chapter 12: Observer and Umbrellas
-
+## Chapter 12: Observer and Umbrellas
 
 Umbrella projects allow developer to develop and test multiple child applications in isolation side by side while providing conveniences for configuring and building them only once. Instead of breaking the application into multiple applications in distinct source-code repositories, which adds too much overhead to the development workflow, you can use Umbrella projects. The combination of Mix and OTP make this abstraction a good one for separating core concerns and dealing with complexity.
 
@@ -485,7 +485,7 @@ Each Umbrella has a parent directory that defines
 
 to create new Umbrella projects, use mix new <name> --umbrella outside of your application, which stubs out a simpler Phoenix app, this project can then be moved inside the parent project.
 
-Chapter 13: Testing Channels and OTP
+## Chapter 13: Testing Channels and OTP
 Stubs and mocks are both testing fixtures that replace real world implementations. A stub replaces real-world libraries with simpler, predictable behavior. With a stub, developer can bypass code that would be difficult to test. Stubs should have nothing to say whether a test should pass or fail. Stubs are a simple scaffold implementation standing in for a more complex real-world implementation.
 
 A mock is similar, but replaces real-world behavior just as a stub does, but it allows developer to specify expectations and results, playing back those expectations at runtime. A mock will fail a test if the test code doesn't receive the expected function calls. A mock is an implementation that records expected behavior at definition time and plays it back at runtime, expecting those results.
@@ -495,3 +495,12 @@ Within the Elixir community, avoid mocking whenever possible. Most mocking libra
 A better strategy is to identify code that's difficult to test live, and to build a configurable, replaceable testing implementation rather than a dynamic mock. The development and production code will use the simple :httpc client, and the testing code will use a stub that is called during the tests.
 
 A major advantage of writing asynchronous tests in OTP is the tests run concurrently, meaning they can be run in parallel, so the entire suite of tests can finish more quickly than their synchronous counterparts.
+
+## References
+
+
+McCord, Chris. Tate, Bruce. Valim, José.
+(2016).
+_Programming Phoenix_.
+The Pragmatic Programmers.
+Print.
