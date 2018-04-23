@@ -2,7 +2,7 @@
 layout: long
 title: "Notes on Programming Phoenix for Elixir"
 displayTitle: "Notes on Programming Phoenix for Elixir"
-date: 2017-12-15 15:54:00
+date: 2017-12-22 15:54:00
 metaDescription: "Notes and observations on the Phoenix web framework for Elixir"
 metaKeywords: elixir, phoenix, web development, programming, software engineering
 metaOgType: "article"
