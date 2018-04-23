@@ -259,7 +259,7 @@ Ecto allows us to preload associations directly as part of a query:
 >      join: c in assoc(v, :category),
 >      where: c.name == "Comedy",
 >      select: {u, v}
-> [{%Rumbl.User{...}, %Rumbl.User{...}}]
+> [{Rumbl.User{...}, %Rumbl.User{...}}]
 
 Constraints allow developers to use underlying relational, and can solve potential race conditions:
 
