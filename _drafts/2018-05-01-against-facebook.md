@@ -56,7 +56,7 @@ The reality of the media, however, is driven by a simple business rules: Sell wh
 
 > The increase in the ads delivered was driven by an increase in users and their engagement and an increase in the number and frequency of ads displayed on News Feed, partially offset by increasing user engagement with video content and other product changes.
 
-We think we’re immune to the persuasiveness of advertising, but remember, advertising is a $600 billion dollar industry that is the financial basis of the monoliths of the tech sector. The massive profits these companies have built have been done so on the backs of advertising campaigns.
+We think we’re immune to the persuasiveness of advertising, but remember, advertising is a $600 billion dollar industry that is the financial basis of the tech sector. The massive profits these companies have built have been done so on the backs of advertising campaigns.
 
 Facebooks’ (Google, etc) real agenda is to display and sell ads— not to help people “build meaningful and connected relationships”. During testimony before congress, Senator Hatch asked Mark Zuckerberg “How do you sustain a business model in which people don’t pay for your service?” his response was as straightforward as it could’ve been: “Senator, we run ads”. (Oddshot Compilations, 2018).
 
