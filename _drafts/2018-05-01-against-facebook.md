@@ -103,12 +103,13 @@ We propose a collective media consumption strike, and rather than allowing our a
 
 The rules can be simple:
 
-* No TV
+* No TV/Netflix/Youtube
 * No radio
 * No podcasts
 * No social media, delete your Facebook account
 * No messaging/chat
 * No idle web browsing
+* No news aggregation sites
 * No gaming
 * No using a computer if it is not directly related to creating
 
@@ -120,11 +121,13 @@ Enable Do Not Disturb on your phone, this will establish designated mental space
 
 Remove anything that provides _variable information rewards_, these are features in apps and games designed to give a random, pleasant surprise. Slot machines are designed to do this to create addiction. Social media platforms like Facebook, Twitter, and video games like Candy Crush use “loot crates” to create the same type of addiction. Email can operate similarly. Turn off the red Notification dot on all your apps.
 
-Remove Facebook, Snapchat, Twitter, Slack, Instagram, YouTube and any other social media apps from your devices. This makes it tougher to have instant access to these forms of media since it's not immediately at your fingertips. Don’t cheat and use the web interface. Disable notifications for any apps that you keep. Remove any of the other chat apps from your smartphone: Snapchat, Facebook Messenger, WhatsApp, Mastodon, Viber. If our friends need to reach us, they can txt or call. We should be the masters of our own time, and our network of friends isn’t in control of our time. Our inbox isn’t the worlds way to add items to our TODO list.
+Remove Facebook, Snapchat, Twitter, Slack, Instagram, Youtube and any other social media apps from your devices. This makes it tougher to have instant access to these forms of media since it's not immediately at your fingertips. Don’t cheat and use the web interface. Disable notifications for any apps that you keep. Turn off all lock screen notifications, this also improves privacy. Remove any of the other chat apps from your smartphone: Snapchat, Facebook Messenger, WhatsApp, Mastodon, Viber. If our friends need to reach us, they can txt or call. We should be the masters of our own time, and our network of friends isn’t in control of our time. Our inbox isn’t the worlds way to add items to our TODO list.
 
 Remove any Bookmarks or Recently Viewed sites from your browser to prevent 1-click-away sites from distracting us. Some software like SelfControl will block habitual sites for you. Reddit, BuzzFeed, Upworthy, Medium are great sites to block.
 
 Try to limit checking email to once a day. Set a schedule at a set time, and stick to it. Do the same for messaging. Set an auto-responder if that helps reduce anxiety.
+
+The idea behind this practice is to stop the urge to immediately unlock our phone whenever we have idle time. Our idle time should be owned by us.
 
 ## Conclusion
 
