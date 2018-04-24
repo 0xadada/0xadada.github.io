@@ -64,7 +64,11 @@ Facebooks’ (Google, etc) real agenda is to display and sell ads— not to help
 
 Through the investment of our attention, we allow the commodities and ideologies of the platform to bombard our unconscious and subtly shape our behavior. The process of "exchanging time for image, provides the counterflow to the moving image and as advertising revenues would indicate, is itself productive of value." (Beller 2006, p.79)
 
+> "Facebook’s nearly one billion users have become the largest unpaid workforce in history" (Laney, 2012).
+
 The intended effect the media wishes to create is media-driven neuroticism, that is, a love of change for its own sake, neomania, a love of new things. Ultimately, neomania together with the media has a negative effect on our moods, which isn’t surprising considering most of what makes the daily news is negative. The effect leaves us feeling powerless, that the world is falling apart. Social media allows us to witness the (seemingly) beautiful lives of celebrities, and the romantic and exciting lives of our friends and family. This often drives the compulsion to compare our own lives with those of the people we see on social media. This creates feelings of inadequacy, loneliness, and jealousy. These feelings are misguided however, since the lives we see in the media and social platforms are a tightly edited and curated spectacle of people presenting an _image of how they want to appear, not of how they actually are._
+
+
 ## Practical Defense Against Unpaid Microwork
 
 Today it's popular to hear about the media detox or a social media diet. The concept is often framed as a metaphor for eating and weight loss. We can extend this metaphor to consider the microwork tasks we find ourselves doing on a daily basis. Are the habits and media and we consume daily like the healthy foods that we can use to build a healthy mind and body? Or will they ultimately poison us? To live a healthy life we should moderate our media consumption the same way we do with the things we eat.
@@ -514,7 +518,6 @@ Hern, Alex.
 https://www.theguardian.com/technology/2017/oct/25/facebook-orwellian-journalists-democracy-guatemala-slovakia
 (Retrieved on April 10, 2018).
 
-
 Hern, Alex.
 (January 23, 2018).
 ‘Never get high on your own supply’ – why social media bosses don’t use social media.
@@ -556,6 +559,12 @@ Lanchester, John.
 You Are the Product.
 https://www.lrb.co.uk/v39/n16/john-lanchester/you-are-the-product
 (Retrieved on April 9, 2018).
+
+Laney, Doug.
+(May 3, 2012).
+To Facebook You're Worth $80.95.
+https://blogs.wsj.com/cio/2012/05/03/to-facebook-youre-worth-80-95/
+(Retrieved April 24, 2018).
 
 Lewis, Paul.
 (October 6, 2017).
