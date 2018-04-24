@@ -21,7 +21,11 @@ _Arrive at work, no matter if you’re pulling espresso shots, serving tables, o
 <figure>
   <img src="/static/images/2018-04-24-against-facebook.jpg"
     alt="News Feed, by Beeple" title="News Feed, by Beeple">
-  <figcaption>"News Feed", by Beeple</figcaption>
+  <figcaption>
+    <a href="https://www.artstation.com/artwork/6VW95" title="News Feed">"News
+      Feed"</a>,
+    by Beeple.
+  </figcaption>
 </figure>
 
 Social media companies like Facebook, Google, Twitter and Snapchat have created a marketplace for our attention, it's sold to advertisers who are subtly changing our behaviour to buy products and services for their own benefit. This type of persuasion is most effective when these platforms command our attention with a heightened level of distraction. We create the content that is then used to command the attention of our peers. This attention is then used to sell advertising space. The ads and surrounding content is measured for engagement, and the results are analysed to optimize the next round of ad placement.
