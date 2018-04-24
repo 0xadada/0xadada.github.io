@@ -7,7 +7,7 @@ metaDescription: "On the commodification of attention, the abuses of unpaid micr
 metaKeywords: Surveillance capitalism, social networks, social media, facebook, heteromation, microwork
 metaOgType: "article"
 author: "0xADADA"
-tags: [essays]
+tags: [essays, privacy]
 license: cc-by-nc-sa
 ---
 
