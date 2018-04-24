@@ -641,7 +641,7 @@ https://techcrunch.com/2018/02/12/facebook-starts-pushing-its-data-tracking-onav
 Parrish, Shane.
 (January 24, 2018).
 Most of what you’re going to read today is pointless.
-https://medium.com/@farnamstreet/most-of-what-youre-going-to-read-today-is-pointless-4b774acff368](https://medium.com/@farnamstreet/most-of-what-youre-going-to-read-today-is-pointless-4b774acff368
+https://medium.com/@farnamstreet/most-of-what-youre-going-to-read-today-is-pointless-4b774acff368
 (Retrieved on April 10, 2018).
 
 Perlroth, Nicole, Frenkel, Sheera & Shane, Scott.
