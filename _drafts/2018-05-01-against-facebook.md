@@ -135,9 +135,9 @@ The idea behind this practice is to stop the urge to immediately unlock our phon
 
 ## Conclusion
 
-The net effect these platforms have on us is to alienate us from our very lives. Instead of focusing on what is valuable and good, we tend to focus on what we lack, or what we’re missing out on.  If we divest ourselves from this tendency, ignore the rare incidents and ephemeral content that has no actual relevance to our daily lives, the net effect is beneficial to our mind and spirit. It can allow us to reclaim our imaginations.
+The net effect these platforms have on us is to alienate us from our very lives. Instead of focusing on what is valuable and good, we tend to focus on what we lack, or what we’re missing out on.  If we divest ourselves from this tendency, ignore the rare incidents and ephemeral content that has no actual relevance to our daily lives, the net effect is beneficial to our mind and spirit. The resulting autonomy of attention can allow us to connect to the people and environments around us, and reclaim our very imaginations.
 
-_The author was an early adopter of Facebook in 2004, and deleted his account in 2015; and thinks you should too._
+_0xADADA is a software developer working for AI and web related startups in Boston; graduated from Northeastern University with degrees in Computer Science and Cognitive Psychology. 0xADADAs' Facebook account was created in 2004 and deleted in 2015._
 
 
 ## Appendix: Reasons to Quit Facebook
