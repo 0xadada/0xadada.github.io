@@ -230,7 +230,7 @@ Facebook makes it easy for us to hand-over self-incriminating data that can be u
 
 Facebook blocked the account of activist Shaun King after he posted a racist email that was sent to him. (Stallman, 2016).
 
-Facebook enforces a real name policy, allowing corporations and nation-states to be able to connect users accounts with their real identity. This is dangerous for marginalized people, and makes them vulnerable to blackmail lest their real identities be exposed. The real name policy forces people to have a single identity when in reality people have flexible identities that change depending on social context. Using ones real name inhibits one from experimenting with alternative identities, limiting personal growth to concepts of identity that are normative. (Stallman, 2016).
+Facebook enforces a real name policy, allowing corporations and nation-states to be able to connect users accounts with their real identity. This is dangerous for marginalized people, and makes them vulnerable to blackmail lest their real identities be exposed. The real name policy forces people to have a single identity when in reality people have flexible identities that change depending on social context. Using ones real name inhibits one from experimenting with alternative identities, limiting personal growth to normative concepts of identity. (Stallman, 2016).
 
 Facebook has censored posts for Israel, Russia, China, Turkey, the UK, and routinely suppresses content for political reasons using algorithmic promotion and depromotion. (Stallman, 2016).
 
