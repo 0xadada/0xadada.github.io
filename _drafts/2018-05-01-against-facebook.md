@@ -50,6 +50,12 @@ Instead of blindly activating our social media habit for that quick dopamine fix
 
 ## What They Say vs What They Do
 
+<figure>
+  <img src="/static/images/2018-05-01-facebook-spectacle.png"
+    alt="The Society of the Facebook" title="The Society of the Facebook">
+  <figcaption>The Society of the Facebook</figcaption>
+</figure>
+
 Newspapers, cable news, and social media platforms are trying to turn us all into media addicts. These businesses rely on persuading us to consume more and more (keyword: “increase engagement”) in order to curate an “interest in current affairs” (e.g. New York Times) or to “build meaningful and connected relationships with our community” (e.g. Facebook.)
 
 The reality of the media, however, is driven by a simple business rules: Sell what sells best: clickbait, memes, curated lifestyles, celebrity gossip, salacious headlines, and freak events. The media tends to focus on the rare incidents that have no actual influence on our daily lives, and the goal of these platforms is to keep us addicted. Facebooks’ 2017 Annual Report makes it clear:
