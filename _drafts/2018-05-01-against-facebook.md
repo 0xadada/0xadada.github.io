@@ -5,6 +5,8 @@ displayTitle: "Against Facebook"
 date: 2018-05-01 15:54:00
 metaDescription: "On the commodification of attention, the abuses of unpaid microwork and strategies of resistance."
 metaKeywords: Surveillance capitalism, social networks, social media, facebook, heteromation, microwork
+image: /static/images/2018-04-24-against-facebook-preview.jpg
+metaImage: /static/images/2018-04-24-against-facebook-preview.jpg
 metaOgType: "article"
 author: "0xADADA"
 tags: [essays, privacy]
