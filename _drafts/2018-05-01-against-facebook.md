@@ -154,6 +154,10 @@ The ideological rationale that keeps platforms like Facebook profiting from the 
 
 Facebook outsources data exploitation for political manipulation to companies like Cambridge Analytica. (Cadwalladr, Graham-Harrison, 2018).
 
+Facebook has democratized surveilance, where we have normalized reporting upon the intimate details of the status of our friends and family. (e.g. "X got engaged to Y", "Tagged my friend A in this photo, at location X", "B works at company C."). 
+
+Without privacy, people resort to self-censorship, and therefore removing any aspect of political action or critique from themselves, thus becoming normalized to political impotence. (Assange, Appelbaum, Müller-Maguhn, Zimmermann, 2012).
+
 Former founding President Sean Parker, along with former vice-president of user growth Chamath Palihapitiya have both objected to Facebooks’ use of dopamine-driven feedback loops to increase addictive behavior. (Hern, 2018).
 
 Former Chief Information Security Officer Alex Stamos resigned from Facebook over an internal disagreement in how much Facebook should publicly share about how nation-states used the platform in the run-up to the 2016 elections. (Perlroth, Frenkel, Shane, 2018).
@@ -265,6 +269,8 @@ Facebook abuses our innate tendencies to track our progress and assess our self-
 
 Facebook photo data is used by Nashville company Facedeals to identify shoppers in stores with the stores own security cameras and facial recognition software. These profiles are then used to increase purchase behavior using personalized promotions and deals. (Dormehl, 2014).
 
+> "The problem with the web and its associated technologies is that it has made it so easy to share information about ourselves that doing so begins to like an obligation, a sentence, a sysiphean curse; another day, another photo of lunch to post." (Beato, G.)
+
 Facebook manipulates our emotions with experiments on the News Feed. (Booth, 2014).
 
 Facebook owns a patent for determining our location by identifying objects in our photos and videos based on neural networks of nearby images. (Facebook, 2014).
@@ -319,11 +325,23 @@ Twitter.
 https://mobile.twitter.com/jashkenas/status/981672970098589696
 (Retrieved on April 19, 2018)
 
+Assange, Julian., Appelbaum, Jacob., Müller-Maguhn, Andy., Zimmermann, Jérémie.
+(2012).
+Cypherpunks: Freedom and the Future of the Internet.
+OR Books.
+Print.
+
 Balkan, Aral.
 (February 18, 2017).
 Encouraging individual sovereignty and a healthy commons.
 https://ar.al/notes/encouraging-individual-sovereignty-and-a-healthy-commons/
 (Retrieved on January 13, 2018).
+
+Beato, G.
+(March 2012).
+Disposable Hip.
+https://thebaffler.com/odds-and-ends/disposable-hip
+(Retrieved April 27, 2018).
 
 Berthelot, Martin R.
 (2013). 
