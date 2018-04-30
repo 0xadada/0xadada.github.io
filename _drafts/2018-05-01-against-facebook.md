@@ -13,22 +13,19 @@ tags: [essays, privacy]
 license: cc-by-nc-sa
 ---
 
+On the commodification of attention, the abuses of unpaid microwork and strategies of resistance.
+
+<figure>
+  <img src="/static/images/2018-05-01-against-facebook-title.jpg"
+    alt="Against Facebook" title="Against Facebook">
+</figure>
+
 _The alarm on the phone goes off, time to wake up. Snooze the alarm, and thus begins a series of repeated habits occurring throughout the day: check email, check Facebook, check Twitter, check Snapchat, rinse; repeat; no new posts? Check it again. Not a second spared to compose our thoughts, to reflect on dreams quickly fading away. The rest of the day continues the same way. It’s difficult to imagine five minutes to sit down and relax, to let the mind wander through unstructured thought, or just daydream. Every spare moment must capture value, must increase engagement. Our imagination is not given space to create grand narratives, to solve big problems, our attention is atomized into small slices of microwork. It's only ever time to catch up, read, listen, swipe right, like, pull-to-refresh, to scroll to infinity._ 
 
 _Arrive at work, no matter if you’re pulling espresso shots, serving tables, or playing with computers all day: they all end the same: Netflix & chill, the guardian of sleep, TV, our collective lullaby. Wake up with screens, go to bed with screens. We no longer shit alone. This is death of idleness._
 
 
 ## The Commodification of Microwork
-
-<figure>
-  <img src="/static/images/2018-04-24-against-facebook.jpg"
-    alt="News Feed, by Beeple" title="News Feed, by Beeple">
-  <figcaption>
-    <a href="https://www.artstation.com/artwork/6VW95" title="News Feed">"News
-      Feed"</a>,
-    by Beeple.
-  </figcaption>
-</figure>
 
 Social media companies like Facebook, Google, Twitter and Snapchat have created a marketplace for our attention, it's sold to advertisers who are subtly changing our behaviour to buy products and services for their own benefit. This type of persuasion is most effective when these platforms command our attention with a heightened level of distraction. We create the content that is then used to command the attention of our peers. This attention is then used to sell advertising space. The ads and surrounding content is measured for engagement, and the results are analysed to optimize the next round of ad placement.
 
@@ -78,6 +75,16 @@ The intended effect the media wishes to create is media-driven neuroticism, that
 
 
 ## Practical Defense Against Unpaid Microwork
+
+<figure>
+  <img src="/static/images/2018-04-24-against-facebook.jpg"
+    alt="News Feed, by Beeple" title="News Feed, by Beeple">
+  <figcaption>
+    <a href="https://www.artstation.com/artwork/6VW95" title="News Feed">"News
+      Feed"</a>,
+    by Beeple.
+  </figcaption>
+</figure>
 
 Today it's popular to hear about the media detox or a social media diet. The concept is often framed as a metaphor for eating and weight loss. We can extend this metaphor to consider the microwork tasks we find ourselves doing on a daily basis. Are the habits and media and we consume daily like the healthy foods that we can use to build a healthy mind and body? Or will they ultimately poison us? To live a healthy life we should moderate our media consumption the same way we do with the things we eat.
 
