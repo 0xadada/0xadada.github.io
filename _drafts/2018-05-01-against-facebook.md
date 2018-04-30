@@ -319,7 +319,7 @@ Ashkenas, Jeremy.
 (April 4, 2018).
 "You know, I really hate to keep beating a downed zuckerberg, but to the extent that expensive patents indicate corporate intent and direction —Come along for a ride, and let’s browse a few of Facebook’s recent U.S.P.T.O. patent applications…".
 Twitter.
-https://mobile.twitter.com/jashkenas/status/981672970098589696
+[https://mobile.twitter.com/jashkenas/status/981672970098589696](https://mobile.twitter.com/jashkenas/status/981672970098589696)
 (Retrieved on April 19, 2018)
 
 Assange, Julian., Appelbaum, Jacob., Müller-Maguhn, Andy., Zimmermann, Jérémie.
@@ -330,83 +330,73 @@ Print.
 
 Balkan, Aral.
 (February 18, 2017).
-Encouraging individual sovereignty and a healthy commons.
-https://ar.al/notes/encouraging-individual-sovereignty-and-a-healthy-commons/
+[Encouraging individual sovereignty and a healthy commons](https://ar.al/notes/encouraging-individual-sovereignty-and-a-healthy-commons/).
 (Retrieved on January 13, 2018).
 
 Beato, G.
 (March 2012).
-Disposable Hip.
-https://thebaffler.com/odds-and-ends/disposable-hip
+[Disposable Hip](https://thebaffler.com/odds-and-ends/disposable-hip).
 (Retrieved April 27, 2018).
 
 Berthelot, Martin R.
 (2013). 
-Spectacle and Resistance in the Modern and Postmodern Eras.
-Ottawa, Canada.
-https://ruor.uottawa.ca/bitstream/10393/24272/1/Berthelot_Martin_2013_thesis.pdf
+[Spectacle and Resistance in the Modern and Postmodern Eras](https://ruor.uottawa.ca/bitstream/10393/24272/1/Berthelot_Martin_2013_thesis.pdf).
 (Retrieved on April 18, 2018)
 
 Berthelot, Martin R.
 (2013). 
-Spectacle & Resistance.
-https://vimeo.com/64727252
+[Spectacle & Resistance](https://vimeo.com/64727252).
 (Retrieved on April 18, 2018)
 
 Beller, Jonathan.
 (2006).
 The cinematic mode of production: attention economy and the society of the spectacle. Hanover, N.H.
 Dartmouth College Press, University Press of New England.
+Print.
 
 Booth, Robert.
 (January 29, 2014).
-Facebook Reveals News Feed Experiment to Control Emotions. https://www.theguardian.com/technology/2014/jun/29/facebook-users-emotions-news-feeds
+[Facebook Reveals News Feed Experiment to Control Emotions](https://www.theguardian.com/technology/2014/jun/29/facebook-users-emotions-news-feeds).
 (Retrieved April 19, 2018)
 
 Boykis, Vicki.
 (February 1, 2017).
-What should you think about when using Facebook?.
-https://veekaybee.github.io/2017/02/01/facebook-is-collecting-this/ 
+[What should you think about when using Facebook?](https://veekaybee.github.io/2017/02/01/facebook-is-collecting-this/).
 (Retrieved on January 13, 2018).
 
 Brown, Andrew.
 (May 14, 2010).
-Facebook is not your friend.
-https://www.theguardian.com/commentisfree/andrewbrown/2010/may/14/facebook-not-your-friend
+[Facebook is not your friend](https://www.theguardian.com/commentisfree/andrewbrown/2010/may/14/facebook-not-your-friend).
 (Retrieved on June 5, 2016).
 
 Burrington, Ingrid.
 (December 4, 2015).
-A Journey Into the Heart of Facebook.
-https://www.theatlantic.com/technology/archive/2015/12/facebook-data-center-tk/418683/
+[A Journey Into the Heart of Facebook](https://www.theatlantic.com/technology/archive/2015/12/facebook-data-center-tk/418683/).
 (Retrieved on January 3, 2016).
 
 Cadwalladr, Carole, Graham-Harrison, Emma.
 (March 17, 2018).
-How Cambridge Analytica turned Facebook ‘likes’ into a lucrative political tool. https://www.theguardian.com/technology/2018/mar/17/facebook-cambridge-analytica-kogan-data-algorithm.
+[How Cambridge Analytica turned Facebook ‘likes’ into a lucrative political tool](https://www.theguardian.com/technology/2018/mar/17/facebook-cambridge-analytica-kogan-data-algorithm).
 (Retrieved on April 10, 2018).
 
 Cadwalladr, Carole, Graham-Harrison, Emma.
 (March 17, 2018).
-Revealed: 50 million Facebook profiles harvested for Cambridge Analytica in major data breach. https://www.theguardian.com/news/2018/mar/17/cambridge-analytica-facebook-influence-us-election.
+[Revealed: 50 million Facebook profiles harvested for Cambridge Analytica in major data breach](https://www.theguardian.com/news/2018/mar/17/cambridge-analytica-facebook-influence-us-election).
 (Retrieved on April 10, 2018).
 
 Carlson, Nicholas.
 (March 5, 2010).
-In 2004, Mark Zuckerberg Broke into a Facebook User's Private Email Account.
-http://www.businessinsider.com/how-mark-zuckerberg-hacked-into-the-harvard-crimson-2010-3/?IR=T
+[In 2004, Mark Zuckerberg Broke into a Facebook User's Private Email Account](http://www.businessinsider.com/how-mark-zuckerberg-hacked-into-the-harvard-crimson-2010-3/?IR=T).
 (Retrieved April 21, 2018).
 
 CB insights.
 (June 1, 2017).
-Facebook’s Emotion Tech: Patents Show New Ways For Detecting And Responding To Users’ Feelings.
-https://www.cbinsights.com/blog/facebook-emotion-patents-analysis/
+[Facebook’s Emotion Tech: Patents Show New Ways For Detecting And Responding To Users’ Feelings](https://www.cbinsights.com/blog/facebook-emotion-patents-analysis/).
 (Retrieved on June 5, 2017).
 
 Clark, Bryan.
 (February 11, 2016).
-‘I have nothing to hide’ is killing the privacy argument.
-https://thenextweb.com/opinion/2016/02/11/i-have-nothing-to-hide-is-killing-the-privacy-argument/
+[‘I have nothing to hide’ is killing the privacy argument](https://thenextweb.com/opinion/2016/02/11/i-have-nothing-to-hide-is-killing-the-privacy-argument/).
 (Retrieved on January 13, 2017).
 
 Crary, Jonathan.
@@ -423,72 +413,66 @@ Detroit: Black & Red, Print.
 
 Derakhshan, Hossein.
 (December 29, 2015).
-Iran's blogfather: Facebook, Instagram and Twitter are killing the web.
-https://www.theguardian.com/technology/2015/dec/29/irans-blogfather-facebook-instagram-and-twitter-are-killing-the-web
+[Iran's blogfather: Facebook, Instagram and Twitter are killing the web](https://www.theguardian.com/technology/2015/dec/29/irans-blogfather-facebook-instagram-and-twitter-are-killing-the-web).
 (Retrieved on January 13, 2018).
 
 Derakhshan, Hossein.
 (July 14, 2015).
-The Web We Have to Save. https://medium.com/matter/the-web-we-have-to-save-2eb1fe15a426?mod=e2this (Retrieved on January 13, 2018).
+[The Web We Have to Save](https://medium.com/matter/the-web-we-have-to-save-2eb1fe15a426?mod=e2this).
+(Retrieved on January 13, 2018).
 
 Derakhshan, Hossein.
 (May 11, 2016).
-Mark Zuckerberg is a hypocrite - Facebook has destroyed the open web.
-http://www.ibtimes.co.uk/mark-zuckerberg-hypocrite-facebook-has-destroyed-open-web-1559298
+[Mark Zuckerberg is a hypocrite - Facebook has destroyed the open web](http://www.ibtimes.co.uk/mark-zuckerberg-hypocrite-facebook-has-destroyed-open-web-1559298).
 (Retrieved on January 13, 2018).
 
 Dillet, Romain. 
 (October 20, 2017).
-How I cured my tech fatigue by ditching feeds. https://techcrunch.com/2017/10/28/how-i-cured-my-tech-fatigue-by-ditching-feeds/ (Retrieved on April 10, 2018)
+[How I cured my tech fatigue by ditching feeds](https://techcrunch.com/2017/10/28/how-i-cured-my-tech-fatigue-by-ditching-feeds/).
+(Retrieved on April 10, 2018)
 
 Dormehl, Luke.
 (2014).
 The Formula.
-New York: Perigee, Print.
+New York: Perigee.
+Print.
 
 Dowling, Tim. 
 (June 6, 2017).
-On Facebook, even Harvard students can’t be too paranoid.
-https://www.theguardian.com/commentisfree/2017/jun/06/on-facebook-even-harvard-students-cant-be-too-paranoid
+[On Facebook, even Harvard students can’t be too paranoid](https://www.theguardian.com/commentisfree/2017/jun/06/on-facebook-even-harvard-students-cant-be-too-paranoid).
 (Retrieved on June 5, 2016).
 
 Ekbia, Hamid., Nardi, Bonnie.
 (June 2, 2014).
-Heteromation and its (dis)contents: The invisible division of labor between humans and machines
-http://journals.uic.edu/ojs/index.php/fm/article/view/5331/4090
+[Heteromation and its (dis)contents: The invisible division of labor between humans and machines](http://journals.uic.edu/ojs/index.php/fm/article/view/5331/4090).
 (Retrieved on April 23, 2018).
 
 Gruber, John.
 (June 6, 2017).
-Fuck Facebook.
-https://daringfireball.net/2017/06/fuck_facebook
+[Fuck Facebook](https://daringfireball.net/2017/06/fuck_facebook).
 (Retrieved on June 6, 2017).
 
 Facebook, Inc.
 (2017).
-Facebook 2017 Annual Report, Form 10-K.
-US Securities and Exchange Commission
-https://www.sec.gov/Archives/edgar/data/1326801/000132680118000009/fb-12312017x10k.htm
+[Facebook 2017 Annual Report, Form 10-K](https://www.sec.gov/Archives/edgar/data/1326801/000132680118000009/fb-12312017x10k.htm).
+US Securities and Exchange Commission.
 (Retrieved on April 19, 2018)
 
 Facebook, Inc. 
 (June 28, 2013). 
-User Activity Tracking System. 
-https://patents.google.com/patent/US20150005030A1/en
+[User Activity Tracking System](https://patents.google.com/patent/US20150005030A1/en).
 US Patent Office.
 (Retrieved April 24, 2018).
 
 Facebook, Inc. 
-(December 30, 2014). 
-Systems and methods for image object recognition based on location information and object categories.
-https://patents.google.com/patent/US20170300784A1/en
+(December 30, 2014).
+[Systems and methods for image object recognition based on location information and object categories](https://patents.google.com/patent/US20170300784A1/en).
 US Patent Office.
 (Retrieved April 24, 2018).
 
 Facebook, Inc. 
 (March 15, 2013). 
-Multi-Factor Location Verification.
-https://patents.google.com/patent/US20170261590A1/en
+[Multi-Factor Location Verification](https://patents.google.com/patent/US20170261590A1/en).
 US Patent Office.
 (Retrieved April 24, 2018).
 
@@ -496,254 +480,213 @@ Faliszek, Chet.
 (April 2, 2018).
 “I recently posted about Oculus/Facebook and their data collection. Let me go more in depth and this isn’t just about today this is about the future of XR. At the heart of the matter are these points where their privacy policy and actions differ from other XR companies. 1/many”.
 Twitter. 
-https://twitter.com/chetfaliszek/status/980861065989783552
+[https://twitter.com/chetfaliszek/status/980861065989783552](https://twitter.com/chetfaliszek/status/980861065989783552).
 (Retrieved on April 19, 2018)
 
 Ferri, Jessica.
 (2018).
-How Swipe Left, Swipe Right Became a Cultural Phenomenon.
-https://iq.intel.com/how-swipe-left-swipe-right-became-a-cultural-phenomenon/
+[How Swipe Left, Swipe Right Became a Cultural Phenomenon](https://iq.intel.com/how-swipe-left-swipe-right-became-a-cultural-phenomenon/).
 (Retrieved on April 19, 2018)
 
 Frost, Brad.
-Facebook, You Needy sonofabitch.
 (September 11, 2017).
-bradfrost.com/blog/post/facebook-you-needy-sonofabitch/
+[Facebook, You Needy sonofabitch](bradfrost.com/blog/post/facebook-you-needy-sonofabitch/).
 (Retrieved April 21, 2018).
 
 Greenwald, Glenn, MacAskill, Ewen.
 (June 7, 2013).
-NSA Prism Program Taps in to User Data of Apple, Google and others. https://www.theguardian.com/world/2013/jun/06/us-tech-giants-nsa-data
+[NSA Prism Program Taps in to User Data of Apple, Google and others](https://www.theguardian.com/world/2013/jun/06/us-tech-giants-nsa-data).
 (Retrieved April 18, 2018)
 
 Harris, Tristan.
 (May 18, 2016).
-How Technology is Hijacking Your Mind — from a Magician and Google Design Ethicist.
-https://journal.thriveglobal.com/how-technology-hijacks-peoples-minds-from-a-magician-and-google-s-design-ethicist-56d62ef5edf3#.j5lx8mxbi
+[How Technology is Hijacking Your Mind — from a Magician and Google Design Ethicist](https://journal.thriveglobal.com/how-technology-hijacks-peoples-minds-from-a-magician-and-google-s-design-ethicist-56d62ef5edf3#.j5lx8mxbi).
 (Retrieved on April 9, 2018).
 
 Hawley, Charles.
 (June 8, 2012).
-Critique of German Credit Agency Plan to Mine Facebook for Data.
-www.spiegel.de/international/germany/critique-of-german-credit-agency-plan-to-mine-facebook-for-data-a-837713.html
+[Critique of German Credit Agency Plan to Mine Facebook for Data](www.spiegel.de/international/germany/critique-of-german-credit-agency-plan-to-mine-facebook-for-data-a-837713.html).
 (Retrieved April 21, 2018).
 
 Head, Beverley.
 (October 6, 2014).
-MasterCard to Access Facebook User Data. 
-https://www.theage.com.au/technology/mastercard-to-access-facebook-user-data-20141006-10qrqy.html
+[MasterCard to Access Facebook User Data](https://www.theage.com.au/technology/mastercard-to-access-facebook-user-data-20141006-10qrqy.html).
 (Retrieved April 21, 2018).
-
 
 Hern, Alex.
 (October 25, 2017).
-'Downright Orwellian': journalists decry Facebook experiment's impact on democracy.
-https://www.theguardian.com/technology/2017/oct/25/facebook-orwellian-journalists-democracy-guatemala-slovakia
+['Downright Orwellian': journalists decry Facebook experiment's impact on democracy](https://www.theguardian.com/technology/2017/oct/25/facebook-orwellian-journalists-democracy-guatemala-slovakia).
 (Retrieved on April 10, 2018).
 
 Hern, Alex.
 (January 23, 2018).
-‘Never get high on your own supply’ – why social media bosses don’t use social media.
-https://www.theguardian.com/media/2018/jan/23/never-get-high-on-your-own-supply-why-social-media-bosses-dont-use-social-media
+[‘Never get high on your own supply’ – why social media bosses don’t use social media](https://www.theguardian.com/media/2018/jan/23/never-get-high-on-your-own-supply-why-social-media-bosses-dont-use-social-media).
 (Retrieved on April 10, 2018).
 
 Hess, Amanda.
 (May 9, 2017).
-How Privacy Became a Commodity for the Rich and Powerful. https://www.nytimes.com/2017/05/09/magazine/how-privacy-became-a-commodity-for-the-rich-and-powerful.html
+[How Privacy Became a Commodity for the Rich and Powerful](https://www.nytimes.com/2017/05/09/magazine/how-privacy-became-a-commodity-for-the-rich-and-powerful.html).
 (Retrieved on November 3, 2017).
 
 Hill, Kashmir.
 (July 11, 2017).
-How Facebook Figures Out Everyone You've Ever Met.
-https://gizmodo.com/how-facebook-figures-out-everyone-youve-ever-met-1819822691
+[How Facebook Figures Out Everyone You've Ever Met](https://gizmodo.com/how-facebook-figures-out-everyone-youve-ever-met-1819822691).
 (Retrieved on April 10, 2018).
 
 Kaplan, Frederic.
 (August 1, 2014).
-Linguistic Capitalism and Algorithmic Mediation.
+[Linguistic Capitalism and Algorithmic Mediation](https://doi.org/10.1525/rep.2014.127.1.57).
 University of California Press Journals.
-https://doi.org/10.1525/rep.2014.127.1.57
-https://drive.google.com/open?id=1s-ToJv0DxlN46z2txSV7FTNL7y-ThrI6
 (Retrieved April 18, 2018)
 
 Kalish, Alyse.
 (February 7, 2018).
-15 Things you should be doing after work instead of watching TV.
-http://www.businessinsider.com/15-things-you-should-be-doing-after-work-instead-of-watching-tv-2018-2
+[15 Things you should be doing after work instead of watching TV](http://www.businessinsider.com/15-things-you-should-be-doing-after-work-instead-of-watching-tv-2018-2).
 (Retrieved on April 19, 2018)
 
 Krause, Kati.
 (December 11, 2015).
-Facebook’s Mental Health Problem. https://medium.com/anxy-magazine/facebook-s-mental-health-problem-9c48374c1bd8
+[Facebook’s Mental Health Problem](https://medium.com/anxy-magazine/facebook-s-mental-health-problem-9c48374c1bd8).
 (Retrieved on January 3, 2016).
 
 Lanchester, John.
 (August 17, 2017).
-You Are the Product.
-https://www.lrb.co.uk/v39/n16/john-lanchester/you-are-the-product
+[You Are the Product](https://www.lrb.co.uk/v39/n16/john-lanchester/you-are-the-product).
 (Retrieved on April 9, 2018).
 
 Laney, Doug.
 (May 3, 2012).
-To Facebook You're Worth $80.95.
-https://blogs.wsj.com/cio/2012/05/03/to-facebook-youre-worth-80-95/
+[To Facebook You're Worth $80.95](https://blogs.wsj.com/cio/2012/05/03/to-facebook-youre-worth-80-95/).
 (Retrieved April 24, 2018).
 
 Lewis, Paul.
 (October 6, 2017).
-'Our minds can be hijacked': the tech insiders who fear a smartphone dystopia.
-https://www.theguardian.com/technology/2017/oct/05/smartphone-addiction-silicon-valley-dystopia
+['Our minds can be hijacked': the tech insiders who fear a smartphone dystopia](https://www.theguardian.com/technology/2017/oct/05/smartphone-addiction-silicon-valley-dystopia).
 (Retrieved on April 9, 2018).
 
 Lomas, Natasha.
 (February 19, 2018).
-Facebook’s tracking of non-users ruled illegal again.
-https://techcrunch.com/2018/02/19/facebooks-tracking-of-non-users-ruled-illegal-again/
+[Facebook’s tracking of non-users ruled illegal again](https://techcrunch.com/2018/02/19/facebooks-tracking-of-non-users-ruled-illegal-again/).
 (Retrieved on April 10, 2018).
 
 Machkovech, Sam.
 (May 1, 2017).
-Report: Facebook helped advertisers target teens who feel “worthless”.
-https://arstechnica.com/information-technology/2017/05/facebook-helped-advertisers-target-teens-who-feel-worthless/
+[Report: Facebook helped advertisers target teens who feel “worthless”](https://arstechnica.com/information-technology/2017/05/facebook-helped-advertisers-target-teens-who-feel-worthless/).
 (Retrieved on November 3, 2017).
-
 
 Malik, Om.
 (February 20, 2018).
-The #1 Reason Facebook Won't Ever Change. https://om.co/2018/02/20/the-1-reason-facebook-wont-ever-change/
+[The #1 Reason Facebook Won't Ever Change](https://om.co/2018/02/20/the-1-reason-facebook-wont-ever-change/).
 (Retrieved April 19, 2018)
 
 Marlinspike, Moxie.
 (June 13, 2013).
-Why 'I Have Nothing to Hide' Is the Wrong Way to Think About Surveillance
-https://www.wired.com/2013/06/why-i-have-nothing-to-hide-is-the-wrong-way-to-think-about-surveillance/
+[Why 'I Have Nothing to Hide' Is the Wrong Way to Think About Surveillance](https://www.wired.com/2013/06/why-i-have-nothing-to-hide-is-the-wrong-way-to-think-about-surveillance/).
 (Retrieved on January 3, 2017).
 
 Musser, Cody.
 (December 28, 2015).
-I’m quitting Facebook in 2016—and you should too.
-https://www.dailydot.com/via/quit-facebook-in-2016/
+[I’m quitting Facebook in 2016—and you should too](https://www.dailydot.com/via/quit-facebook-in-2016/).
 (Retrieved on January 13, 2018).
 
 Miller, Joe.
 (May 26, 2016).
-How Facebook's tentacles reach further than you think. http://www.bbc.com/news/business-39947942
+[How Facebook's tentacles reach further than you think](http://www.bbc.com/news/business-39947942).
 (Retrieved on August 1, 2017).
-
 
 Nelson, Joe.
 (April 20, 2015).
-Going "Write-Only".
-https://begriffs.com/posts/2015-04-20-going-write-only.html
+[Going "Write-Only"](https://begriffs.com/posts/2015-04-20-going-write-only.html).
 (Retrieved April 20, 2018)
 
 Newton, Casey.
 (February 6, 2018).
-Facebook hired a full-time pollster to monitor Zuckerberg’s approval ratings.
-https://www.theverge.com/2018/2/6/16976328/facebook-mark-zuckerberg-pollster-tavis-mcginn-honest-data
+[Facebook hired a full-time pollster to monitor Zuckerberg’s approval ratings](https://www.theverge.com/2018/2/6/16976328/facebook-mark-zuckerberg-pollster-tavis-mcginn-honest-data).
 (Retrieved on April 10, 2018).
 
 Nunez, Michael.
 (May 9, 2016).
-Former Facebook Workers: We Routinely Suppressed Conservative News.
-https://gizmodo.com/former-facebook-workers-we-routinely-suppressed-conser-1775461006
+[Former Facebook Workers: We Routinely Suppressed Conservative News](https://gizmodo.com/former-facebook-workers-we-routinely-suppressed-conser-1775461006).
 (Retrieved on November 3, 2017).
 
 Nunez, Michael.
 (May 3, 2016).
-Want to Know What Facebook Really Thinks of Journalists? Here's What Happened When It Hired Some.
-https://gizmodo.com/want-to-know-what-facebook-really-thinks-of-journalists-1773916117
+[Want to Know What Facebook Really Thinks of Journalists? Here's What Happened When It Hired Some](https://gizmodo.com/want-to-know-what-facebook-really-thinks-of-journalists-1773916117).
 (Retrieved on November 3, 2017).
 
 Oddshot Compilations.
 (April 11, 2018).
-Mark Zuckerberg: "We run ads" (U.S. Senate Hearing). https://www.youtube.com/watch?v=av3xi07NIQs
+[Mark Zuckerberg: "We run ads": U.S. Senate Hearing](https://www.youtube.com/watch?v=av3xi07NIQs)
 (Retrieved April 23, 2018).
-
 
 Parakilas, Sandy.
 (November 19, 2017).
-We Can’t Trust Facebook to Regulate Itself.
-https://www.nytimes.com/2017/11/19/opinion/facebook-regulation-incentive.html
+[We Can’t Trust Facebook to Regulate Itself](https://www.nytimes.com/2017/11/19/opinion/facebook-regulation-incentive.html).
 (Retrieved on April 18, 2018).
 
 Parez, Sarah.
 (February 12, 2018).
-Facebook is pushing its data-tracking Onavo VPN within its main mobile app.
-https://techcrunch.com/2018/02/12/facebook-starts-pushing-its-data-tracking-onavo-vpn-within-its-main-mobile-app/
+[Facebook is pushing its data-tracking Onavo VPN within its main mobile app](https://techcrunch.com/2018/02/12/facebook-starts-pushing-its-data-tracking-onavo-vpn-within-its-main-mobile-app/).
 (Retrieved on April 10, 2018).
 
 Parrish, Shane.
 (January 24, 2018).
-Most of what you’re going to read today is pointless.
-https://medium.com/@farnamstreet/most-of-what-youre-going-to-read-today-is-pointless-4b774acff368
+[Most of what you’re going to read today is pointless](https://medium.com/@farnamstreet/most-of-what-youre-going-to-read-today-is-pointless-4b774acff368).
 (Retrieved on April 10, 2018).
 
 Perlroth, Nicole, Frenkel, Sheera & Shane, Scott.
 (March 19, 2018).
-Facebook Exit Hints at Dissent on Handling of Russian Trolls.
-https://www.nytimes.com/2018/03/19/technology/facebook-alex-stamos.html
+[Facebook Exit Hints at Dissent on Handling of Russian Trolls](https://www.nytimes.com/2018/03/19/technology/facebook-alex-stamos.html).
 (Retrieved on April 10, 2018).
 
 Reynolds, Emily.
 (November 1, 2016).
-What could Facebook target next? Our mental health data.
-https://www.theguardian.com/commentisfree/2016/nov/01/facebook-target-mental-health-data-online
+[What could Facebook target next? Our mental health data](https://www.theguardian.com/commentisfree/2016/nov/01/facebook-target-mental-health-data-online).
 (Retrieved on November 1, 2016).
 
-
 Russell, Bertrand.
-(1930/2013).
+(2013).
 The Conquest of Happiness.
 Liveright, Print.
 
 Satyal, Parimal.
 (November 2, 2017).
-Against an Increasingly User-Hostile Web.
-https://www.neustadt.fr/essays/against-a-user-hostile-web/#track-the-trackers-an-experiment 
+[Against an Increasingly User-Hostile Web](https://www.neustadt.fr/essays/against-a-user-hostile-web/#track-the-trackers-an-experiment).
 (Retrieved on April 10, 2018).
 
 Solnit, Rebecca.
 (May 1, 2018).
-Driven to Distraction.
-https://harpers.org/archive/2018/05/easy-chair-15/
+[Driven to Distraction](https://harpers.org/archive/2018/05/easy-chair-15/).
 (Retrieved April 23, 2018).
 
 Solon, Olivia.
 (June 16, 2017).
-Revealed: Facebook exposed identities of moderators to suspected terrorists.
-https://www.theguardian.com/technology/2017/jun/16/facebook-moderators-identity-exposed-terrorist-groups
+[Revealed: Facebook exposed identities of moderators to suspected terrorists](https://www.theguardian.com/technology/2017/jun/16/facebook-moderators-identity-exposed-terrorist-groups).
 (Retrieved on April 9, 2018).
-
 
 Smith, Jack IV.
 (February 24, 2016).
-Facebook Is Using Those New "Like" Emojis to Keep Tabs on Your Emotions.
-https://mic.com/articles/136111/facebook-is-using-those-new-like-emojis-to-learn-a-whole-lot-more-about-you#.9G7G7uxJr
+[Facebook Is Using Those New "Like" Emojis to Keep Tabs on Your Emotions](https://mic.com/articles/136111/facebook-is-using-those-new-like-emojis-to-learn-a-whole-lot-more-about-you#.9G7G7uxJr).
 (Retrieved on April 20, 2018)
 
 Srnicek, Nick.
 (August 30, 2017).
-We need to nationalise Google, Facebook and Amazon. Here’s why.
-https://www.theguardian.com/commentisfree/2017/aug/30/nationalise-google-facebook-amazon-data-monopoly-platform-public-interest
+[We need to nationalise Google, Facebook and Amazon. Here’s why](https://www.theguardian.com/commentisfree/2017/aug/30/nationalise-google-facebook-amazon-data-monopoly-platform-public-interest).
 (Retrieved on April 9, 2018).
 
 Stallman, Richard.
 (2016).
-Reasons not to use Facebook.
-https://stallman.org/facebook.html
+[Reasons not to use Facebook](https://stallman.org/facebook.html).
 (Retrieved on June 5, 2016).
 
 Staltz, André.
 (October 30, 2017).
-The Web began dying in 2014, here's how.
-https://staltz.com/the-web-began-dying-in-2014-heres-how.html
+[The Web began dying in 2014, here's how](https://staltz.com/the-web-began-dying-in-2014-heres-how.html).
 (Retrieved on April 10, 2018).
 
 Stern, Joanna.
 (March 7, 2018).
-Facebook Really Is Spying on You, Just Not Through Your Phone’s Mic.
-https://www.wsj.com/articles/facebook-really-is-spying-on-you-just-not-through-your-phones-mic-1520448644
+[Facebook Really Is Spying on You, Just Not Through Your Phone’s Mic](https://www.wsj.com/articles/facebook-really-is-spying-on-you-just-not-through-your-phones-mic-1520448644).
 (Retrieved on April 10, 2018).
 
 Taleb, Nassim Nicholas.
@@ -760,43 +703,35 @@ Print.
 
 Turner, Fred.
 (October 5, 2017).
-The arts at Facebook: An aesthetic infrastructure for surveillance capitalism
-http://fredturner.stanford.edu/wp-content/uploads/Turner-Art-at-Facebook-Poetics-Preprint.pdf
+[The arts at Facebook: An aesthetic infrastructure for surveillance capitalism](http://fredturner.stanford.edu/wp-content/uploads/Turner-Art-at-Facebook-Poetics-Preprint.pdf).
 (Retrieved on April 21, 2018).
-
 
 Thoreau, Henry David.
 (1863). 
-Life Without Principle. 
-http://xroads.virginia.edu/~HYPER2/thoreau/life.html
+[Life Without Principle](http://xroads.virginia.edu/~HYPER2/thoreau/life.html).
 (Retrieved on April 19, 2018)
 
 Tucker, Ian.
 (February 12, 2016).
-Douglas Rushkoff: 'I’m thinking it may be good to be off social media altogether'.
-https://www.theguardian.com/technology/2016/feb/12/digital-capitalism-douglas-rushkoff 
+[Douglas Rushkoff: 'I’m thinking it may be good to be off social media altogether'](https://www.theguardian.com/technology/2016/feb/12/digital-capitalism-douglas-rushkoff).
 (Retrieved on January 13, 2018).
 
 Virani, Salim.
 (January 29, 2015).
-Get your loved ones off Facebook.
-http://www.salimvirani.com/facebook/
+[Get your loved ones off Facebook](http://www.salimvirani.com/facebook/).
 (Retrieved on April 9, 2018).
 
 Wald, Chelsea.
 (December 3, 2015).
-Is Facebook Luring You Into Being Depressed?.
-http://nautil.us/issue/31/stress/is-facebook-luring-you-into-being-depressed
+[Is Facebook Luring You Into Being Depressed?](http://nautil.us/issue/31/stress/is-facebook-luring-you-into-being-depressed).
 (Retrieved on January 3, 2016).
 
 Wolford, Ben.
 (October 23, 2017).
-The product Facebook sells is you.
-https://medium.com/@benwolford/ad-transparency-is-a-distraction-from-the-real-problem-with-facebook-6352239cc116
+[The product Facebook sells is you](https://medium.com/@benwolford/ad-transparency-is-a-distraction-from-the-real-problem-with-facebook-6352239cc116).
 (Retrieved on January 3, 2016).
 
 Zuboff, Shoshana.
 (May 3, 2016)
-The Secrets of Surveillance Capitalism.
-http://www.faz.net/aktuell/feuilleton/debatten/the-digital-debate/shoshana-zuboff-secrets-of-surveillance-capitalism-14103616.html
+[The Secrets of Surveillance Capitalism](http://www.faz.net/aktuell/feuilleton/debatten/the-digital-debate/shoshana-zuboff-secrets-of-surveillance-capitalism-14103616.html).
 (Retrieved on January 3, 2017).
