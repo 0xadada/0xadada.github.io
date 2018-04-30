@@ -593,15 +593,20 @@ Marlinspike, Moxie.
 [Why 'I Have Nothing to Hide' Is the Wrong Way to Think About Surveillance](https://www.wired.com/2013/06/why-i-have-nothing-to-hide-is-the-wrong-way-to-think-about-surveillance/).
 (Retrieved on January 3, 2017).
 
-Musser, Cody.
-(December 28, 2015).
-[I’m quitting Facebook in 2016—and you should too](https://www.dailydot.com/via/quit-facebook-in-2016/).
-(Retrieved on January 13, 2018).
+McMillen, Stuart.
+(March 2012).
+[Amusing Ourselves to Death](https://www.stuartmcmillen.com/blog/amusing-ourselves-to-death/).
+(Retrieved on April 30, 2018).
 
 Miller, Joe.
 (May 26, 2016).
 [How Facebook's tentacles reach further than you think](http://www.bbc.com/news/business-39947942).
 (Retrieved on August 1, 2017).
+
+Musser, Cody.
+(December 28, 2015).
+[I’m quitting Facebook in 2016—and you should too](https://www.dailydot.com/via/quit-facebook-in-2016/).
+(Retrieved on January 13, 2018).
 
 Nelson, Joe.
 (April 20, 2015).
