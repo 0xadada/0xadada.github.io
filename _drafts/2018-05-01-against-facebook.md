@@ -12,7 +12,7 @@ author: "0xADADA"
 tags: [essays, privacy]
 license: cc-by-nc-sa
 ---
-behaviour 
+ 
 On the commodification of attention, the abuses of unpaid microwork and strategies of resistance.
 
 <figure>
