@@ -62,7 +62,7 @@ Newspapers, cable news, and social media platforms are trying to turn us all int
 
 The reality of the media, however, is driven by a simple business rules: Sell what sells best: clickbait, memes, curated lifestyles, celebrity gossip, salacious headlines, and freak events. The media tends to focus on the rare incidents that have no actual influence on our daily lives, and the goal of these platforms is to keep us addicted. Facebooks’ 2017 Annual Report makes it clear:
 
-> The increase in the ads delivered was driven by an increase in users and their engagement and an increase in the number and frequency of ads displayed on News Feed, partially offset by increasing user engagement with video content and other product changes.
+> The increase in the ads delivered was driven by an increase in users and their engagement and an increase in the number and frequency of ads displayed on News Feed, partially offset by increasing user engagement with video content and other product changes. (Facebook, 2017).
 
 We think we’re immune to the persuasiveness of advertising, but remember, advertising is a $600 billion dollar industry that is the financial basis of the tech sector. The massive profits these companies have built have been done so on the backs of advertising campaigns.
 
@@ -254,7 +254,6 @@ Facebook hurts the power of the website: “the Stream means you don’t need to
 
 Facebook (even more so, Instagram) is the cul de sac of the internet. Its’ where content can no longer be enriched with annotations external to itself. It’s where conversations wither and content goes to stare inwards at itself.
 
-
 Facebook analyses the contents of messages sent between users on the platform to better target advertisements. (Virani, 2015).
 
 Facebook uses friends to gather additional information about us. Tagging friends in photos, answering questions about a friends marital status are all ways we're tricked into snitching on our friends. (Virani, 2015).
@@ -298,24 +297,22 @@ You should delete your Facebook account, but please share this essay before you 
 
 Angwin, Julia. Mattu, Surya. Parris Jr, Terry.
 (December 27, 2016).
-Facebook Doesn't Tell Users Everything It Really Knows About Them.
-https://www.propublica.org/article/facebook-doesnt-tell-users-everything-it-really-knows-about-them
+[Facebook Doesn't Tell Users Everything It Really Knows About Them](https://www.propublica.org/article/facebook-doesnt-tell-users-everything-it-really-knows-about-them).
 (Retrieved April 21, 2018).
 
 Ahmed, Nafeez.
 (December 29, 2017).
-Facebook will become more powerful than the NSA in less than 10 years — unless we stop it. https://medium.com/insurge-intelligence/how-facebook-will-infiltrate-national-elections-and-rule-the-world-in-less-than-10-years-unless-732da197b8fd.
+[Facebook will become more powerful than the NSA in less than 10 years — unless we stop it](https://medium.com/insurge-intelligence/how-facebook-will-infiltrate-national-elections-and-rule-the-world-in-less-than-10-years-unless-732da197b8fd).
 (Retrieved April 10, 2018).
 
 Allen, Tom.
 (2016).
-How my Location Independent Lifestyle Works. http://tomallen.info/how-my-location-independent-lifestyle-works/
+[How my Location Independent Lifestyle Works](http://tomallen.info/how-my-location-independent-lifestyle-works/).
 (Retrieved on April 19, 2018)
 
 Allsop, John.
 (February 17, 2017).
-Not My Digital Detox
-https://www.webdirections.org/blog/not-my-digital-detox/
+[Not My Digital Detox](https://www.webdirections.org/blog/not-my-digital-detox/).
 (Retrieved April 19, 2018)
 
 Ashkenas, Jeremy.
