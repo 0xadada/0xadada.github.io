@@ -169,6 +169,8 @@ Former founding President Sean Parker, along with former vice-president of user 
 
 Former Chief Information Security Officer Alex Stamos resigned from Facebook over an internal disagreement in how much Facebook should publicly share about how nation-states used the platform in the run-up to the 2016 elections. (Perlroth, Frenkel, Shane, 2018).
 
+Co-founder of WhatsApp (acquired by Facebook) Brian Acton has said people should #DeleteFacebook. (Newton, 2018).
+
 Facebook correlates data from loyalty program providers (e.g. Walgreens cards from Nielsen-Catalina Solutions) who have access to brick-and-mortar purchase history with individual Facebook accounts. Companies like Johnson & Johnson can buy this data from the broker and use Facebook tools to target individual users for ads promoting products they've previously purchased. (Stern, 2018).
 
 Facebook has been fined for breaking privacy laws in the EU for using cookies, social plugins and breaking privacy laws. (Lomas, 2018). 
@@ -297,8 +299,9 @@ Facebook makes it very difficult to quit, using social reciprocity and UX design
 
 Facebooks CEO Mark Zuckerburg hacked into Harvard Crimson editors private email accounts. (Carlson, 2010).
 
+Wikipedia has an excellent article covering even more reasons to [delete Facebook](https://en.wikipedia.org/wiki/Criticism_of_Facebook).
 
-You should delete your Facebook account, but please share this essay before you do 😉!
+You should #DeleteFacebook today, but please share this essay before you do 😉!
 
 
 ## References
@@ -617,6 +620,11 @@ Newton, Casey.
 (February 6, 2018).
 [Facebook hired a full-time pollster to monitor Zuckerberg’s approval ratings](https://www.theverge.com/2018/2/6/16976328/facebook-mark-zuckerberg-pollster-tavis-mcginn-honest-data).
 (Retrieved on April 10, 2018).
+
+Newton, Casey.
+(March 20, 2018).
+[WhatsApp co-founder tells everyone to delete Facebook](https://www.theverge.com/2018/3/20/17145200/brian-acton-delete-facebook-whatsapp).
+(Retrieved on April 30, 2018).
 
 Nunez, Michael.
 (May 9, 2016).
