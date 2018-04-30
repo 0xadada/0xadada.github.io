@@ -12,7 +12,7 @@ author: "0xADADA"
 tags: [essays, privacy]
 license: cc-by-nc-sa
 ---
-
+behaviour 
 On the commodification of attention, the abuses of unpaid microwork and strategies of resistance.
 
 <figure>
@@ -27,7 +27,7 @@ _Arrive at work, no matter if you’re pulling espresso shots, serving tables, o
 
 ## The Commodification of Microwork
 
-Social media companies like Facebook, Google, Twitter and Snapchat have created a marketplace for our attention, it's sold to advertisers who are subtly changing our behaviour to buy products and services for their own benefit. This type of persuasion is most effective when these platforms command our attention with a heightened level of distraction. We create the content that is then used to command the attention of our peers. This attention is then used to sell advertising space. The ads and surrounding content is measured for engagement, and the results are analysed to optimize the next round of ad placement.
+Social media companies like Facebook, Google, Twitter and Snapchat have created a marketplace for our attention, it's sold to advertisers who are subtly changing our behavior to buy products and services for their own benefit. This type of persuasion is most effective when these platforms command our attention with a heightened level of distraction. We create the content that is then used to command the attention of our peers. This attention is then used to sell advertising space. The ads and surrounding content is measured for engagement, and the results are analysed to optimize the next round of ad placement.
 
 This process is the commodification of microwork— the seemingly small tasks that we are compelled to do by force of habit, tasks that aren't in our own interests but in the interests of the platforms and advertisers using our attention and time to pad their bottom lines. Also known as “heteromation” (Ekbia, Nardi, 2014), microwork includes reading timelines, posting photos & updates, liking, retweeting, and generally dedicating our time, attention, and emotions to these platforms. 
 
