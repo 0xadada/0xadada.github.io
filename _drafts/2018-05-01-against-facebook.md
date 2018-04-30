@@ -40,11 +40,11 @@ Platforms like Facebook are attempting to create systems for the generation of d
 
 > “conditions that individuate, immobilize, and separate subjects, even within a world in which mobility and circulation are ubiquitous. In this way attention becomes key to the operation of noncoercive forms of power” (Crary, 2001, pg. 74)
 
-Over time, these systems continually push our attention and distraction to new limits and thresholds. For example, Youtube & Netflix discovered that by auto-playing the next related video, views increase dramatically. Twitter invented the "pull-to-refresh" UI gesture that leveraged variable rewards to trigger addictive behavior as a way to increase user engagement with the Twitter timeline. Facebook invented the “red dot” notifications that keep people checking their phone for the next new thing to look at.
+Over time, these systems continually push our attention and distraction to new limits and thresholds. For example, Youtube & Netflix discovered that by auto-playing the next related video, views increase dramatically. Twitter invented the "pull-to-refresh" UI gesture that leveraged variable rewards to trigger addictive behavior as a way to increase user engagement with the Twitter timeline. Facebook invented the “red dot” notifications that keep people checking their phone for the next new thing to look at. These gadgets are designed to create a supernormal stimulus, that is, a stimulus that produces a stronger than natural response. We can even internalize the supernormal stimulus, an example is the "phantom vibrate" we sometimes feel in our pocket when no vibration occurs. In the case of social media, the supernormal stimulus is used to exploit our reponse to novelty in order to elicit a behavior that works in the interests of the social media provider.
 
 This eventually leads to a crisis of attentiveness, where the system must maintain an increased level of distraction. In order to continually distract us, the visual landscape must continually change and require reorientation of attention, shifting from one thing to another as its natural state (e.g. the Instagram “Explore” tab). Over time, we begin to value our attention while the platforms struggle to get more and more of what they previously got for free. This is not sustainable, as newer products need to continually revolutionize the means of distraction or else we will realize how distracted we really are. With a loss of distraction, we can more easily achieve self actualization.
 
-This process of commodification has turned us all into tastemakers, reviewers, likers, retweeters and brand ambassadors. The platform takes our real authentic friendships and first commodifies them, reifies them, and sells it back to us as an “image of friendship”, one that is bankrupt of any real social value. These platforms are gradually changing us all into unpaid advertising agencies. We promote goods, services, lifestyles and desires to our friends. In doing so, the platform gradually redefines what we once considered real friendship into a relationship with the platform, mediated by features and “images of friendship” within the platform. These features include Liked and Retweeted posts, Snapchat streaks, Follow requests, posted text, images or even how we reduce our emotions into a series of emoji (Smith, 2016).
+This process of commodification has turned us all into tastemakers, reviewers, likers, retweeters and brand ambassadors. The platform takes our real authentic friendships and first commodifies them, reifies them, and sells it back to us as an “image of friendship”, but one that is bankrupt of any real social value. These platforms are gradually changing us all into unpaid advertising agencies. We promote goods, services, lifestyles and desires to our friends. The images we produce have been weaponized to generate feelings of jealously and FOMO amonst our peers during those idle moments when they feel most bored. These idle moments are key, because they are when we are most vulnerable, psychologically primed to accept the supernormal stimulus. The platform is able to capitalize on this vulnerability, and over time the platform gradually redefines what we once considered real friendship into a relationship with the platform, mediated by features and “images of friendship” within the platform. These features include Liked and Retweeted posts, Snapchat streaks, Follow requests, posted text, images or even how we reduce our emotions into a series of emoji (Smith, 2016).
 
 In this way the platform is able to monetize our friendships, tastes, opinions and even emotions. Our internal thoughts and experiences are increasingly becoming commodifiable assets, measured as engagements. These engagements will be analyzed, A-B tested, optimized and charted, they will be touted by executives in PowerPoint presentations at board meetings. They will be packaged and sold, and we are not paid a dime.
 
@@ -293,6 +293,7 @@ Facebooks CEO Mark Zuckerburg hacked into Harvard Crimson editors private email 
 
 You should delete your Facebook account, but please share this essay before you do 😉!
 
+
 ## References
 
 Angwin, Julia. Mattu, Surya. Parris Jr, Terry.
@@ -324,7 +325,7 @@ Twitter.
 
 Assange, Julian., Appelbaum, Jacob., Müller-Maguhn, Andy., Zimmermann, Jérémie.
 (2012).
-Cypherpunks: Freedom and the Future of the Internet.
+_Cypherpunks: Freedom and the Future of the Internet_.
 OR Books.
 Print.
 
@@ -350,7 +351,8 @@ Berthelot, Martin R.
 
 Beller, Jonathan.
 (2006).
-The cinematic mode of production: attention economy and the society of the spectacle. Hanover, N.H.
+_The cinematic mode of production: attention economy and the society of the spectacle_.
+Hanover, N.H.
 Dartmouth College Press, University Press of New England.
 Print.
 
@@ -401,13 +403,13 @@ Clark, Bryan.
 
 Crary, Jonathan.
 (2001).
-Suspensions of perception: attention, spectacle, and modern culture.
+_Suspensions of perception: attention, spectacle, and modern culture_.
 London, England.
 MIT Press.
 
 Debord, Guy.
 (1983). 
-The Society of the Spectacle. 
+_The Society of the Spectacle_.
 Trans. Fredy Perlman. 
 Detroit: Black & Red, Print.
 
@@ -433,7 +435,7 @@ Dillet, Romain.
 
 Dormehl, Luke.
 (2014).
-The Formula.
+_The Formula_.
 New York: Perigee.
 Print.
 
@@ -646,7 +648,7 @@ Reynolds, Emily.
 
 Russell, Bertrand.
 (2013).
-The Conquest of Happiness.
+_The Conquest of Happiness_.
 Liveright, Print.
 
 Satyal, Parimal.
@@ -691,13 +693,13 @@ Stern, Joanna.
 
 Taleb, Nassim Nicholas.
 (2012).
-Antifragile: Things That Gain from Disorder.
+_Antifragile: Things That Gain from Disorder_.
 Random House.
 Print.
 
 Thaler, Richard H., and Cass R. Sunstein.
 (2008).
-Nudge: Improving Decisions About Health, Wealth, and Happiness.
+_Nudge: Improving Decisions About Health, Wealth, and Happiness_.
 New Haven: Yale University Press.
 Print.
 
