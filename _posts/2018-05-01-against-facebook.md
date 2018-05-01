@@ -2,7 +2,7 @@
 layout: long
 title: "Against Facebook"
 displayTitle: "Against Facebook"
-date: 2018-04-30 15:54:00
+date: 2018-05-01 08:15:00
 metaDescription: "On the commodification of attention, the abuses of unpaid microwork and strategies of resistance."
 metaKeywords: Surveillance capitalism, social networks, social media, facebook, heteromation, microwork
 image: /static/images/2018-04-24-against-facebook-preview.jpg
