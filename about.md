@@ -67,7 +67,7 @@ with Cherry MX brown switches and keytravel
 reducer o-rings.<br>
 * *What Software?*<br>
 macOS Sierra, Android and Chrome OS. iTerm2 and RXVT terminals get a ton of
-use. Firefox is my primary browser and Chome for development. I use
+use. Firefox is my primary browser and Chrome for development. I use
 [neovim](https://github.com/neovim/neovim) for development and writing.
 [ProtonMail](https://protonmail.com/) for email.
 [Signal](https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms)
