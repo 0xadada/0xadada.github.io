@@ -170,6 +170,8 @@ Former founding President Sean Parker, along with former vice-president of user 
 
 Former Chief Information Security Officer Alex Stamos resigned from Facebook over an internal disagreement in how much Facebook should publicly share about how nation-states used the platform in the run-up to the 2016 elections. (Perlroth, Frenkel, Shane, 2018).
 
+Co-founder of WhatsApp (acquired by Facebook) Brian Acton has said people should #DeleteFacebook. (Newton, 2018).
+
 Facebook correlates data from loyalty program providers (e.g. Walgreens cards from Nielsen-Catalina Solutions) who have access to brick-and-mortar purchase history with individual Facebook accounts. Companies like Johnson & Johnson can buy this data from the broker and use Facebook tools to target individual users for ads promoting products they've previously purchased. (Stern, 2018).
 
 Facebook has been fined for breaking privacy laws in the EU for using cookies, social plugins and breaking privacy laws. (Lomas, 2018). 
