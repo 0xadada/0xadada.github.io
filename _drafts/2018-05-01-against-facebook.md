@@ -2,7 +2,7 @@
 layout: long
 title: "Against Facebook"
 displayTitle: "Against Facebook"
-date: 2018-05-01 15:54:00
+date: 2018-04-30 15:54:00
 metaDescription: "On the commodification of attention, the abuses of unpaid microwork and strategies of resistance."
 metaKeywords: Surveillance capitalism, social networks, social media, facebook, heteromation, microwork
 image: /static/images/2018-04-24-against-facebook-preview.jpg
@@ -20,16 +20,14 @@ On the commodification of attention, the abuses of unpaid microwork and strategi
     alt="Against Facebook" title="Against Facebook">
 </figure>
 
-_The alarm on the phone goes off, time to wake up. Snooze the alarm, and thus begins a series of repeated habits occurring throughout the day: check email, check Facebook, check Twitter, check Snapchat, rinse; repeat; no new posts? Check it again. Not a second spared to compose our thoughts, to reflect on dreams quickly fading away. The rest of the day continues the same way. It’s difficult to imagine five minutes to sit down and relax, to let the mind wander through unstructured thought, or just daydream. Every spare moment must capture value, must increase engagement. Our imagination is not given space to create grand narratives, to solve big problems, our attention is atomized into small slices of microwork. It's only ever time to catch up, read, listen, swipe right, like, pull-to-refresh, to scroll to infinity._ 
-
-_Arrive at work, no matter if you’re pulling espresso shots, serving tables, or playing with computers all day: they all end the same: Netflix & chill, the guardian of sleep, TV, our collective lullaby. Wake up with screens, go to bed with screens. We no longer shit alone. This is death of idleness._
+_Alarm goes off, time to wake up. Snooze alarm, and then repeat: check email, check Facebook, check Twitter, check Snapchat, rinse; repeat again; no new posts? Check again. No second spared to compose a thought; dreams fade away. Day continues just the same way — rise, rinse, repeat, repeat. Can't spare time to sit and relax, can't let your mind wander not five minutes, no unstructured thought or daydream; just repeat. Every moment captures value — must increase engagement! must repeat! —no time for grander narratives, to solve for bigger problems. Atomize attention into smaller slice of microwork, then catch up, read, listen, swipe right, repeat, like, pull-to-refresh, to scroll to infinity, and then again. No matter if you’re pulling espresso shots, serving tables, or playing with computers all day: they all end the same: Netflix & chill, the guardian of sleep, TV, our collective lullaby. Wake up with screens, go to bed with screens. We no longer shit alone. The death of idleness._
 
 
 ## The Commodification of Microwork
 
-Social media companies like Facebook, Google, Twitter and Snapchat have created a marketplace for our attention, it's sold to advertisers who are subtly changing our behavior to buy products and services for their own benefit. This type of persuasion is most effective when these platforms command our attention with a heightened level of distraction. We create the content that is then used to command the attention of our peers. This attention is then used to sell advertising space. The ads and surrounding content is measured for engagement, and the results are analysed to optimize the next round of ad placement.
+Social media companies like Facebook, Google, Twitter and Snapchat have created a marketplace for our attention, where we become the product sold to advertisers who subtly change our behaviour to buy products and services for their own benefit. This type of persuasion is most effective when these platforms command our attention with a heightened level of distraction. We create the content that is then used to command the attention of our peers, which is then used to sell advertising space while the surrounding content is measured for engagement, and the results are analysed to optimize the next round of ad placement.
 
-This process is the commodification of microwork— the seemingly small tasks that we are compelled to do by force of habit, tasks that aren't in our own interests but in the interests of the platforms and advertisers using our attention and time to pad their bottom lines. Also known as “heteromation” (Ekbia, Nardi, 2014), microwork includes reading timelines, posting photos & updates, liking, retweeting, and generally dedicating our time, attention, and emotions to these platforms. 
+This process is the commodification of microwork— the seemingly small tasks that we are compelled to do by force of habit, tasks that aren't in our own interests but in the interests of the platforms and advertisers using our attention and time to pad their bottom lines. Also known as “heteromation” (Ekbia, Nardi, 2014), microwork includes reading timelines, posting photos & updates, liking, retweeting, and generally dedicating our time, attention, and emotions to these platforms—each tiny action its own form of labor, given over freely to the advertisers. 
 
 > “The new media of surveillance capitalism solicit social behaviors, monitor those behaviors, map social interactions, and resell what they learn to advertisers and others.” (Turner, 2017).
 
@@ -37,15 +35,16 @@ Platforms like Facebook are attempting to create systems for the generation of d
 
 > “conditions that individuate, immobilize, and separate subjects, even within a world in which mobility and circulation are ubiquitous. In this way attention becomes key to the operation of noncoercive forms of power” (Crary, 2001, pg. 74)
 
-Over time, these systems continually push our attention and distraction to new limits and thresholds. For example, Youtube & Netflix discovered that by auto-playing the next related video, views increase dramatically. Twitter invented the "pull-to-refresh" UI gesture that leveraged variable rewards to trigger addictive behavior as a way to increase user engagement with the Twitter timeline. Facebook invented the “red dot” notifications that keep people checking their phone for the next new thing to look at. These gadgets are designed to create a supernormal stimulus, that is, a stimulus that produces a stronger than natural response. We can even internalize the supernormal stimulus, an example is the "phantom vibrate" we sometimes feel in our pocket when no vibration occurs. In the case of social media, the supernormal stimulus is used to exploit our response to novelty in order to elicit a behavior that works in the interests of the social media provider.
+Over time, these systems continually push our attention and distraction to new limits and thresholds. Youtube & Netflix discovers that auto-playing the next related video dramatically increases views; Twitter invents the "pull-to-refresh" UI gesture that leverages variable rewards to trigger addictive behavior as a way to increase user engagement with the timeline; Facebook invents the “red dot” notifications that keep people checking their phone for the next new thing. These gadgets are designed to create a “supernormal stimulus,” that is, a stimulus that produces a stronger than natural response. We can even internalize the supernormal stimulus—an example is the "phantom vibrate" we sometimes feel in our pocket when no vibration occurs. In the case of social media, the supernormal stimulus is used to exploit our response to novelty in order to elicit a behavior that works in the interests of the social media provider.
 
-This eventually leads to a crisis of attentiveness, where the system must maintain an increased level of distraction. In order to continually distract us, the visual landscape must continually change and require reorientation of attention, shifting from one thing to another as its natural state (e.g. the Instagram “Explore” tab). Over time, we begin to value our attention while the platforms struggle to get more and more of what they previously got for free. This is not sustainable, as newer products need to continually revolutionize the means of distraction or else we will realize how distracted we really are. With a loss of distraction, we can more easily achieve self actualization.
+This eventually leads to a crisis of attentiveness, where the system must maintain an increased level of distraction. In order to continually distract us, the visual landscape must constantly change, requiring us to reorient our attention until the shift from one thing to another becomes the natural state (e.g. the Instagram “Explore” tab). Over time, we begin to value our attention while the platforms struggle to get more and more of what they previously got for free. This is not sustainable, as newer products need to continually revolutionize the means of distraction or else we will realize how distracted we really are. With a loss of distraction, we can more easily achieve self actualization.
 
-This process of commodification has turned us all into tastemakers, reviewers, likers, retweeters and brand ambassadors. The platform takes our real authentic friendships and first commodifies them, reifies them, and sells it back to us as an “image of friendship”, but one that is bankrupt of any real social value. These platforms are gradually changing us all into unpaid advertising agencies. We promote goods, services, lifestyles and desires to our friends. The images we produce have been weaponized to generate feelings of jealousy and FOMO amongst our peers during those idle moments when they feel most bored. These idle moments are when we are most vulnerable, we’re psychologically primed to accept the supernormal stimulus. The platform is able to capitalize on this vulnerability, and over time the platform gradually redefines what we once considered real friendship into a relationship with the platform, mediated by features and “images of friendship” within the platform. These features include Liked and Retweeted posts, Snapchat streaks, Follow requests, posted text, images or even how we reduce our emotions into a series of emoji (Smith, 2016).
+This process of commodification has turned us all into tastemakers, reviewers, likers, retweeters and brand ambassadors. The platform takes our real authentic friendships and first commodifies them, reifies them, and then sells them back to us as an “image of friendship”, but one that is bankrupt of any genuine social value. Over time, these platforms transform us all into unpaid advertising agencies. We promote goods, services, lifestyles and desires to our friends, weaponizing images to generate feelings of jealousy and FOMO amongst our peers during those idle moments when they feel most bored. These idle moments are when we are most vulnerable, and thus we’re psychologically primed to accept the supernormal stimulus. The platform capitalizes on this vulnerability, and over time begins to redefine what we once considered “real” friendship into a relationship with the platform itself, mediated by the features and “images of friendship” within it through Liked and Retweeted posts, Snapchat streaks, Follow requests, posted text, images or even how we reduce our emotions into a series of emoji (Smith, 2016).
 
-In this way the platform is able to monetize our friendships, tastes, opinions and even emotions. Our internal thoughts and experiences are increasingly becoming commodifiable assets, measured as engagements. These engagements will be analyzed, A-B tested, optimized and charted, they will be touted by executives in PowerPoint presentations at board meetings. They will be packaged and sold, and we are not paid a dime.
+In this way, the platform is able to monetize our friendships, tastes, opinions, and even our emotions. Our internal thoughts and experiences become commodifiable assets, measured as engagements to be analyzed, A-B tested, optimized and charted, then touted by executives in PowerPoint presentations at board meetings. Our experiences are packaged and sold, and we are not paid a dime.
 
-Instead of blindly activating our social media habit for that quick dopamine fix, consider who is benefiting. Are you performing a microwork task for Facebook or Snapchat? Why aren't you paid?
+Instead of blindly activating our social media habit for that quick dopamine fix, consider who actually benefits. Are you performing a microwork task for Facebook or Snapchat? If so, then why aren't you being paid?
+
 
 ## What They Say vs What They Do
 
@@ -57,21 +56,23 @@ Instead of blindly activating our social media habit for that quick dopamine fix
 
 Newspapers, cable news, and social media platforms are trying to turn us all into media addicts. These businesses rely on persuading us to consume more and more (keyword: “increase engagement”) in order to curate an “interest in current affairs” (e.g. New York Times) or to “build meaningful and connected relationships with our community” (e.g. Facebook.)
 
-The reality of the media, however, is driven by a simple business rules: Sell what sells best: clickbait, memes, curated lifestyles, celebrity gossip, salacious headlines, and freak events. The media tends to focus on the rare incidents that have no actual influence on our daily lives, and the goal of these platforms is to keep us addicted. Facebooks’ 2017 Annual Report makes it clear:
+The reality of the media, however, is driven by a simple business rule: Sell what sells best, whether it’s clickbait, memes, curated lifestyles, celebrity gossip, salacious headlines, and freak events. The media tends to focus on the rare incidents that have no actual influence on our daily lives, and the goal of these platforms is to keep us addicted. Facebooks’ 2017 Annual Report makes it clear:
 
 > The increase in the ads delivered was driven by an increase in users and their engagement and an increase in the number and frequency of ads displayed on News Feed, partially offset by increasing user engagement with video content and other product changes. (Facebook, 2017).
 
 We think we’re immune to the persuasiveness of advertising, but remember, advertising is a $600 billion dollar industry that is the financial basis of the tech sector. The massive profits these companies have built have been done so on the backs of advertising campaigns.
 
-Facebooks’ (Google, etc) real agenda is to display and sell ads— not to help people “build meaningful and connected relationships”. During testimony before congress, Senator Hatch asked Mark Zuckerberg “How do you sustain a business model in which people don’t pay for your service?” his response was as straightforward as it could’ve been: “Senator, we run ads”. (Oddshot Compilations, 2018).
+Facebooks’ (and Google’s, etc) real agenda is to display and sell ads— not to help people “build meaningful and connected relationships”. At no point was this more clear than during Mark Zuckerberg’s testimony before congress. When Senator Hatch asked him “How do you sustain a business model in which people don’t pay for your service?” his response was as straightforward as it could’ve been: “Senator, we run ads”. (Oddshot Compilations, 2018).
 
-“Building Relationships” is the rationale used in order to serve the advertisements, but the advertisements themselves are the real content of these platforms. The business arrangement of the platform is a simple one: ads are the content, the advertisers are the clients, the user doing microwork tasks are the workers, and _we are the product_. We are building relationships to the platform, not to each other.
+“Building Relationships” is the rationale used in order to serve the advertisements, but the advertisements themselves are the real content of these platforms. The business arrangement of the platform is a simple one: ads are the content, the advertisers are the clients, the user doing microwork tasks are the workers, and _we are the product_.
+
+As a result, we end up building relationships to the platform—not to each other.
 
 Through the investment of our attention, we allow the commodities and ideologies of the platform to bombard our unconscious and subtly shape our behavior. The process of "exchanging time for image, provides the counterflow to the moving image and as advertising revenues would indicate, is itself productive of value." (Beller 2006, p.79)
 
 > "Facebook’s nearly one billion users have become the largest unpaid workforce in history" (Laney, 2012).
 
-The intended effect the media wishes to create is media-driven neuroticism, that is, a love of change for its own sake, neomania, a love of new things. Ultimately, neomania together with the media has a negative effect on our moods, which isn’t surprising considering most of what makes the daily news is negative. The effect leaves us feeling powerless, that the world is falling apart. Social media allows us to witness the (seemingly) beautiful lives of celebrities, and the romantic and exciting lives of our friends and family. This often drives the compulsion to compare our own lives with those of the people we see on social media. This creates feelings of inadequacy, loneliness, and jealousy. These feelings are misguided however, since the lives we see in the media and social platforms are a tightly edited and curated spectacle of people presenting an _image of how they want to appear, not of how they actually are._
+The intended effect the media wishes to create is media-driven neuroticism—a love of change for its own sake, or neomania, a love of new things. Ultimately, neomania together with the media has a negative effect on our moods, which isn’t surprising considering most of what makes the daily news is negative. This leaves us feeling powerless, like the world is falling apart. So we turn to social media to witness the (seemingly) beautiful lives of celebrities, and the romantic and exciting lives of our friends and family. But this ends up driving the compulsion to compare our own lives with those of the people we see on social media, creating feelings of inadequacy, loneliness, and jealousy. These feelings are misguided however, since the lives we see in the media and social platforms are a tightly edited and curated spectacle of people presenting an _image of how they want to appear, not of how they actually are._
 
 
 ## Practical Defense Against Unpaid Microwork
@@ -92,11 +93,9 @@ The toxicity of the media can be understood as a signal-to-noise problem. The mo
 
 > Distraction could be described as a phenomenon in which you connect, inadvertently or absentmindedly, to more things than you intended. The noise drowns out the signal. (Solnit, 2018).
 
-A much better way of learning about current affairs is to step away from the hourly, daily, weekly media cycle, and read books. Books benefit from the perspective of time, which results in more settled and established facts with increased depth of analysis. If our goal is to have a wider perspective, and a balanced understanding of the major forces at work in the world, our best bet is from reading _good_ books.
-
 A practical approach for a healthy relationship with the media we consume is to create distance between ourselves and the media that surrounds us on a daily basis. Distance creates an opportunity to gain new perspectives on the media (and life in general.) This distance reduces the influence of these platforms, and creates a space for our ideas and imagination to flourish.
 
-Idleness and imagination is essential to our wellbeing, it’s the wellspring of mental clarity, and the backstop for memory. Take a few minutes each day to cultivate idleness and some mental space. 
+Idleness and imagination is essential to our wellbeing, it’s the wellspring of mental clarity, and the backstop for memory. Take a few minutes each day to cultivate idleness and some mental space. Step away from the hourly, daily, weekly media cycle, and read books instead. Books benefit from the perspective of time, which results in more settled and established facts with increased depth of analysis. If our goal is to have a wider perspective, and a balanced understanding of the major forces at work in the world, our best bet is from reading _good_ books.
 
 This essay gives us the task of avoiding contact with the mundane, cheap, and ephemeral media that surrounds us on a daily basis; to avoid having our attention distracted, redirected, exploited, and abused against our own interests. We should ignore those things that bring no happiness or value to our lives. Instead, we should focus our attention on our imagination, quality thought, friends and family, idleness; on things that matter. We should explore effective ways to reclaim clarity of thought, and autonomy of attention. 
 
@@ -110,11 +109,12 @@ This essay proposes the *survivorship* bias as the criteria to determine which m
 
 Survivorship is a simple heuristic with which to judge media, be it books, news, social media, television, academic journal articles or even video games. A clickbait article can go viral and get millions of views the first day it's published, but according to the survivorship bias, its newness means that its likely to be obsolete the next day. Rather than trying to judge for yourself if media is worth your attention, try letting the survivorship bias do the work for you.
 
-The survivorship bias has a few knock-on effects that are worth mentioning. Media tends to be discounted as it ages, video games are always on sale a few months or especially years after they’ve been released. Books and movies are always cheaper well after release. Newspapers are free the day after they were published. Beyond saving our attention from instantly obsolete media, we will also be saving money simply by waiting long enough. With time also comes more in-depth analysis from the surrounding community, reviews and deep interpretations of the rich meaning behind film and video games benefit from the additional time it takes for this analysis to blossom. This cultural analysis isn’t available to those following the cult-of-the-new.
+The survivorship bias has a few knock-on effects that are worth mentioning. Media tends to be discounted as it ages. Video games are always on sale a few months and especially years after they’ve been released; Books and movies are always cheaper well after their release as well; Newspapers are free the day after they were published; and so on. Beyond saving our attention from instantly obsolete media, we will also be saving money simply by waiting long enough. With time also comes more in-depth analysis from the surrounding community, reviews and deep interpretations of the rich meaning behind film and video games benefit from the additional time it takes for this analysis to blossom. This cultural analysis isn’t available to those following the cult-of-the-new.
+
 
 ## Media Consumption Strike
 
-Our challenge is to not only read this essay as a think piece, but to apply the ideas in practice until they form new habits that encourage idleness and mental spaciousness.
+Now that we understand how the territory of our attention has been colonized, we can begin to resist. Our challenge is to put the following strategies in practice until they form new habits that encourage idleness and mental spaciousness. We have the tools to reclaim our time and imaginations, we must take action! 
 
 > The inadvertent laboring towards the propagation of the spectacle is another example of the ways that the spectacle takes advantage of its subordination of the masses. It is a process to which they have no control other than to renounce image culture completely which in a hyperreal world is almost inconceivable. (Berthelot, 2013)
 
@@ -130,15 +130,15 @@ The rules can be simple:
 * No idle web browsing
 * No news aggregation sites
 * No gaming
-* No using a computer if it is not directly related to creating
+* No using a computer if it is not directly related to creating or resisting (not consuming)
 
-Don’t be a fundamentalist about the rules. Rules are meant to be broken. If it’s art, the rules are more loose, if its corporate media, more strict. Cinema, literature, sci-fi, comic books, indy games: as long as these types of works are not connected with our professional, interpersonal, or political responsibilities use them in moderation. In general, make sure media consumption is  done with more moderation than usual, the goal is to break your habits. 
+Don’t be a fundamentalist about the rules. Rules are meant to be broken. If it’s art, the rules are more loose; if its corporate media, more strict. Cinema, literature, sci-fi, comic books, indy games: as long as these types of works are not connected with our professional, interpersonal, or political responsibilities, use them in moderation. In general, make sure media consumption is done with more moderation than usual. The goal is to break your habits. 
 
-Many people work with computers for their job, most aren’t privileged enough to be able to completely disconnect from work. Work-related email, messaging, and work-related browsing is out of scope for the strike by necessity, but do please try to prevent any non-work related web browsing or media consumption. Don’t use work as an excuse to view social media or browse the web. Academic journal articles and the like will be hard to avoid, but ask yourself if they would pass the survivorship bias after a few years.
+Many people work with computers for their job. Most aren’t privileged enough to be able to completely disconnect from work. Work-related email, messaging, and work-related browsing are out of scope for the strike by necessity—but do please try to prevent any non-work related web browsing or media consumption. Don’t use work as an excuse to view social media or browse the web. Academic journal articles and the like will be hard to avoid, but ask yourself if they would pass the survivorship bias after a few years.
 
-Enable Do Not Disturb on your phone, this will establish designated mental space for ourselves, friends, and family. Most smartphones have rules that can automatically put the device into Do Not Disturb mode at set times. In Android and iOS, this is available by going to Settings and searching for Do Not Disturb preferences. Do Not Disturb is also available in macOS as well.
+Enable Do Not Disturb on your phone. This will establish designated mental space for ourselves, friends, and family. Most smartphones have rules that can automatically put the device into Do Not Disturb mode at set times. In Android and iOS, this is available by going to Settings and searching for Do Not Disturb preferences. Do Not Disturb is also available in macOS as well.
 
-Remove anything that provides _variable information rewards_, these are features in apps and games designed to give a random, pleasant surprise. Slot machines are designed to do this to create addiction. Social media platforms like Facebook, Twitter, and video games like Candy Crush use “loot crates” to create the same type of addiction. Email can operate similarly. Turn off the red Notification dot on all your apps.
+Remove anything that provides _variable information rewards_. These are features in apps and games designed to give a random, pleasant surprise—to create addiction. Slot machines are designed to do this; Social media platforms like Facebook, Twitter, and video games like Candy Crush use “loot crates” to achieve the same result. Email can operate similarly. Turn off the red Notification dot on all your apps.
 
 Remove Facebook, Snapchat, Twitter, Slack, Instagram, Youtube and any other social media apps from your devices. This makes it tougher to have instant access to these forms of media since it's not immediately at your fingertips. Don’t cheat and use the web interface. Disable notifications for any apps that you keep. Turn off all lock screen notifications, this also improves privacy. Remove any of the other chat apps from your smartphone: Snapchat, Facebook Messenger, WhatsApp, Mastodon, Viber. If our friends need to reach us, they can txt or call. We should be the masters of our own time, and our network of friends isn’t in control of our time. Our inbox isn’t the worlds way to add items to our TODO list.
 
@@ -147,6 +147,7 @@ Remove any Bookmarks or Recently Viewed sites from your browser to prevent 1-cli
 Try to limit checking email to once a day. Set a schedule at a set time, and stick to it. Do the same for messaging. Set an auto-responder if that helps reduce anxiety.
 
 The idea behind this practice is to stop the urge to immediately unlock our phone whenever we have idle time. Our idle time should be owned by us.
+
 
 ## Conclusion
 
@@ -161,15 +162,13 @@ The ideological rationale that keeps platforms like Facebook profiting from the 
 
 Facebook outsources data exploitation for political manipulation to companies like Cambridge Analytica. (Cadwalladr, Graham-Harrison, 2018).
 
-Facebook has democratized surveilance, where we have normalized reporting upon the intimate details of the status of our friends and family. (e.g. "X got engaged to Y", "Tagged my friend A in this photo, at location X", "B works at company C."). 
+Facebook has democratized surveillance, where we have normalized reporting upon the intimate details of the status of our friends and family. (e.g. "X got engaged to Y", "Tagged my friend A in this photo, at location X", "B works at company C."). 
 
 Without privacy, people resort to self-censorship, and therefore removing any aspect of political action or critique from themselves, thus becoming normalized to political impotence. (Assange, Appelbaum, Müller-Maguhn, Zimmermann, 2012).
 
 Former founding President Sean Parker, along with former vice-president of user growth Chamath Palihapitiya have both objected to Facebooks’ use of dopamine-driven feedback loops to increase addictive behavior. (Hern, 2018).
 
 Former Chief Information Security Officer Alex Stamos resigned from Facebook over an internal disagreement in how much Facebook should publicly share about how nation-states used the platform in the run-up to the 2016 elections. (Perlroth, Frenkel, Shane, 2018).
-
-Co-founder of WhatsApp (acquired by Facebook) Brian Acton has said people should #DeleteFacebook. (Newton, 2018).
 
 Facebook correlates data from loyalty program providers (e.g. Walgreens cards from Nielsen-Catalina Solutions) who have access to brick-and-mortar purchase history with individual Facebook accounts. Companies like Johnson & Johnson can buy this data from the broker and use Facebook tools to target individual users for ads promoting products they've previously purchased. (Stern, 2018).
 
@@ -277,7 +276,7 @@ Facebook abuses our innate tendencies to track our progress and assess our self-
 
 Facebook photo data is used by Nashville company Facedeals to identify shoppers in stores with the stores own security cameras and facial recognition software. These profiles are then used to increase purchase behavior using personalized promotions and deals. (Dormehl, 2014).
 
-> "The problem with the web and its associated technologies is that it has made it so easy to share information about ourselves that doing so begins to like an obligation, a sentence, a sysiphean curse; another day, another photo of lunch to post." (Beato, G.)
+> "The problem with the web and its associated technologies is that it has made it so easy to share information about ourselves that doing so begins to like an obligation, a sentence, a sisyphean curse; another day, another photo of lunch to post." (Beato, G.)
 
 Facebook manipulates our emotions with experiments on the News Feed. (Booth, 2014).
 
@@ -297,11 +296,18 @@ Facebook sells profile data to credit card companies and insurance providers so 
 
 Facebook makes it very difficult to quit, using social reciprocity and UX design dark patterns. (Brown, 2010).
 
-Facebooks CEO Mark Zuckerburg hacked into Harvard Crimson editors private email accounts. (Carlson, 2010).
+Facebooks CEO Mark Zuckerberg hacked into Harvard Crimson editors private email accounts. (Carlson, 2010).
 
-Wikipedia has an excellent article covering even more reasons to [delete Facebook](https://en.wikipedia.org/wiki/Criticism_of_Facebook).
+You should delete your Facebook account, but please share this essay before you do 😉!
 
-You should #DeleteFacebook today, but please share this essay before you do 😉!
+
+## Acknowledgements
+
+I thank the following friends for their feedback:
+[Alex Grabau](https://twitter.com/agrabau),
+[Thom Dunn](https://twitter.com/thomdunn),
+[Stephen](https://twitter.com/b_apothecary) &
+[qtychr](https://twitter.com/qtychr).
 
 
 ## References
