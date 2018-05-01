@@ -22,7 +22,7 @@ On the commodification of attention, the abuses of unpaid microwork and strategi
 
 _Alarm goes off, time to wake up. Snooze alarm, and then repeat: check email, check Facebook, check Twitter, check Snapchat, rinse; repeat again; no new posts? Check again. No second spared to compose a thought; dreams fade away. Day continues just the same way — rise, rinse, repeat, repeat. Can't spare time to sit and relax, can't let your mind wander not five minutes, no unstructured thought or daydream; just repeat. Every moment captures value — must increase engagement! must repeat! —no time for grander narratives, to solve for bigger problems. Atomize attention into smaller slice of microwork, then catch up, read, listen, swipe right, repeat, like, pull-to-refresh, to scroll to infinity, and then again. No matter if you’re pulling espresso shots, serving tables, or playing with computers all day: they all end the same: Netflix & chill, the guardian of sleep, TV, our collective lullaby. Wake up with screens, go to bed with screens. We no longer shit alone. The death of idleness._
 
-This essay explores the ways Facebook transforms our attention into a product, and how that tranformation changes us. It then proposes a social media strike as a concrete strategy to reclaim our attention, and finally lists many reasons why we should all quit Facebook.
+This essay explores the ways Facebook transforms our attention into a product, and how that transformation changes us. It then proposes a social media strike as a concrete strategy to reclaim our attention, and finally lists many reasons why we should all quit Facebook.
 
 
 ## The Commodification of Microwork
