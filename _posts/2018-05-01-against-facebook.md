@@ -174,6 +174,8 @@ Former Chief Information Security Officer Alex Stamos resigned from Facebook ove
 
 Co-founder of WhatsApp (acquired by Facebook) Brian Acton has said people should #DeleteFacebook. (Newton, 2018).
 
+Co-founder of WhatsApp Jan Koum, is planning to leave the company after clashing with its parent, Facebook, over the popular messaging service’s strategy and Facebook’s attempts to use its personal data and weaken its encryption. (Dwoskin, 2018).
+
 Facebook correlates data from loyalty program providers (e.g. Walgreens cards from Nielsen-Catalina Solutions) who have access to brick-and-mortar purchase history with individual Facebook accounts. Companies like Johnson & Johnson can buy this data from the broker and use Facebook tools to target individual users for ads promoting products they've previously purchased. (Stern, 2018).
 
 Facebook has been fined for breaking privacy laws in the EU for using cookies, social plugins and breaking privacy laws. (Lomas, 2018). 
@@ -463,6 +465,11 @@ Dowling, Tim.
 (June 6, 2017).
 [On Facebook, even Harvard students can’t be too paranoid](https://www.theguardian.com/commentisfree/2017/jun/06/on-facebook-even-harvard-students-cant-be-too-paranoid).
 (Retrieved on June 5, 2016).
+
+Dwoskin, Elizabeth.
+(April 30, 2018).
+[WhatsApp founder plans to leave after broad clashes with parent Facebook](https://www.washingtonpost.com/business/economy/whatsapp-founder-plans-to-leave-after-broad-clashes-with-parent-facebook/2018/04/30/49448dd2-4ca9-11e8-84a0-458a1aa9ac0a_story.html?noredirect=on)
+(Retrieved on April 30, 2018).
 
 Ekbia, Hamid., Nardi, Bonnie.
 (June 2, 2014).
