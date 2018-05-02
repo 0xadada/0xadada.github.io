@@ -45,7 +45,7 @@ This process of commodification has turned us all into tastemakers, reviewers, l
 
 <figure>
   <img src="/static/images/2018-05-01-facebook-spectacle-graph.svg"
-    alt="The process of commodification" title="The process of commodification
+    alt="The process of commodification" title="The process of commodification">
   <figcaption>The process of commodification</figcaption>
 </figure>
 
