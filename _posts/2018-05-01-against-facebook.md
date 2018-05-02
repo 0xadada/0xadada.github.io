@@ -110,6 +110,8 @@ This essay proposes the *survivorship* bias as the criteria to determine which m
 
 > “[read] as little as feasible from the last twenty years, except history books that are not about the last fifty years. [...what most people do] is read timely material that becomes instantly obsolete. (Taleb, 2012)
 
+> Its obsession with the criminal and the deviant makes us less trusting people. Its obsession with the hurry of the day-to-day makes us less reflective thinkers. Its obsession with surfaces makes us shallow. (Swartz, 2006).
+
 Survivorship is a simple heuristic with which to judge media, be it books, news, social media, television, academic journal articles or even video games. A clickbait article can go viral and get millions of views the first day it's published, but according to the survivorship bias, its newness means that it’s likely to be obsolete the next day. Rather than trying to judge for yourself if media is worth your attention, try letting the survivorship bias do the work for you.
 
 The survivorship bias has a few knock-on effects that are worth mentioning. Media tends to be discounted as it ages. Video games are always on sale a few months and especially years after they’ve been released; Books and movies are always cheaper well after their release as well; Newspapers are free the day after they were published; and so on. Beyond saving our attention from instantly obsolete media, we will also be saving money simply by waiting long enough. With time also comes more in-depth analysis from the surrounding community; reviews and deep interpretations of the rich meaning behind film and video games benefit from the additional time it takes for this analysis to blossom. This cultural analysis isn’t available to those following the cult-of-the-new.
@@ -728,6 +730,11 @@ Stern, Joanna.
 (March 7, 2018).
 [Facebook Really Is Spying on You, Just Not Through Your Phone’s Mic](https://www.wsj.com/articles/facebook-really-is-spying-on-you-just-not-through-your-phones-mic-1520448644).
 (Retrieved on April 10, 2018).
+
+Swartz, Aaron.
+(October 20, 2006).
+[I Hate The News](http://www.aaronsw.com/weblog/hatethenews).
+(Retrieved May 2, 2018).
 
 Taleb, Nassim Nicholas.
 (2012).
