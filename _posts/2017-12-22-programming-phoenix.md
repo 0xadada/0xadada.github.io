@@ -8,7 +8,7 @@ metaKeywords: elixir, phoenix, web development, programming, software engineerin
 metaOgType: "article"
 author: "0xADADA"
 license: cc-by-nc-sa
-tags: [essays]
+tags: [projects]
 ---
 
 A summary of my notes taken while reading [Programming Phoenix](https://pragprog.com/book/phoenix/programming-phoenix).
