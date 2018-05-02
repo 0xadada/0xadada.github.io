@@ -22,13 +22,13 @@ On the commodification of attention, the abuses of unpaid microwork and strategi
 
 _Alarm goes off, time to wake up. Snooze alarm, and then repeat: check email, check Facebook, check Twitter, check Snapchat, rinse; repeat again; no new posts? Check again. No second spared to compose a thought; dreams fade away. Day continues just the same way — rise, rinse, repeat, repeat. Can't spare time to sit and relax, can't let your mind wander not five minutes, no unstructured thought or daydream; just repeat. Every moment captures value — must increase engagement! must repeat! —no time for grander narratives, to solve for bigger problems. Atomize attention into smaller slice of microwork, then catch up, read, listen, swipe right, repeat, like, pull-to-refresh, to scroll to infinity, and then again. No matter if you’re pulling espresso shots, serving tables, or playing with computers all day: they all end the same: Netflix & chill, the guardian of sleep, TV, our collective lullaby. Wake up with screens, go to bed with screens. We no longer shit alone. The death of idleness._
 
-This essay explores the ways Facebook transforms our attention into a product, and how that transformation changes us. It then proposes a social media strike as a concrete strategy to reclaim our attention, and finally lists many reasons we should all quit Facebook.
+
+This essay explores the ways Facebook transforms our attention into a product, and how that transformation changes us. It then proposes a social media strike as a concrete strategy to reclaim our attention, and finally lists many reasons why we should all quit Facebook.
 
 
 ## The Commodification of Microwork
 
 Social media companies like Facebook, Google, Twitter and Snapchat have created a marketplace for our attention, where we become the product sold to advertisers who subtly change our behaviour to buy products and services for their own benefit. This type of persuasion is most effective when these platforms command our attention with a heightened level of distraction. We create the content that is then used to command the attention of our peers, which is then used to sell advertising space while the surrounding content is measured for engagement, and the results are analysed to optimize the next round of ad placement.
-
 This process is the commodification of microwork— the seemingly small tasks that we are compelled to do by force of habit, tasks that aren't in our own interests but in the interests of the platforms and advertisers using our attention and time to pad their bottom lines. Also known as “heteromation” (Ekbia, Nardi, 2014), microwork includes reading timelines, posting photos & updates, liking, retweeting, and generally dedicating our time, attention, and emotions to these platforms—each tiny action its own form of labor, given over freely to the advertisers. 
 
 > “The new media of surveillance capitalism solicit social behaviors, monitor those behaviors, map social interactions, and resell what they learn to advertisers and others.” (Turner, 2017).
@@ -37,13 +37,13 @@ Platforms like Facebook are attempting to create systems for the generation of d
 
 > “conditions that individuate, immobilize, and separate subjects, even within a world in which mobility and circulation are ubiquitous. In this way attention becomes key to the operation of noncoercive forms of power” (Crary, 2001, pg. 74)
 
-Over time, these systems continually push our attention and distraction to new limits and thresholds. Youtube & Netflix discovers that auto-playing the next related video dramatically increases views; Twitter invents the "pull-to-refresh" UI gesture that leverages variable rewards to trigger addictive behavior as a way to increase user engagement with the timeline; Facebook invents the “red dot” notifications that keep people checking their phone for the next new thing. These gadgets are designed to create a “supernormal stimulus,” that is, a stimulus that produces a stronger than natural response. We can even internalize the supernormal stimulus—an example is the "phantom vibrate" we sometimes feel in our pocket when no vibration occurs. In the case of social media, the supernormal stimulus is used to exploit our response to novelty in order to elicit a behavior that works in the interests of the social media provider.
+Over time, these systems continually push our attention and distraction to new limits and thresholds. Youtube & Netflix discovers that auto-playing the next related video dramatically increases views; Twitter uses the "pull-to-refresh" UI gesture that leverages variable rewards to trigger addictive behavior as a way to increase user engagement with the timeline; Facebook uses the “red dot” notifications that keep people checking their phone for the next new thing. These gadgets are designed to create a “supernormal stimulus,” that is, a stimulus that produces a stronger than natural response. We can even internalize the supernormal stimulus—an example is the "phantom vibrate" we sometimes feel in our pocket when no vibration occurs. In the case of social media, the supernormal stimulus is used to exploit our response to novelty in order to elicit a behavior that works in the interests of the social media provider.
 
 This eventually leads to a crisis of attentiveness, where the system must maintain an increased level of distraction. In order to continually distract us, the visual landscape must constantly change, requiring us to reorient our attention until the shift from one thing to another becomes the natural state (e.g. the Instagram “Explore” tab). Over time, we begin to value our attention while the platforms struggle to get more and more of what they previously got for free. This is not sustainable, as newer products need to continually revolutionize the means of distraction or else we will realize how distracted we really are. With a loss of distraction, we can more easily achieve self actualization.
 
 This process of commodification has turned us all into tastemakers, reviewers, likers, retweeters and brand ambassadors. The platform takes our real authentic friendships and first commodifies them, reifies them, and then sells them back to us as an “image of friendship”, but one that is bankrupt of any genuine social value. Over time, these platforms transform us all into unpaid advertising agencies. We promote goods, services, lifestyles and desires to our friends, weaponizing images to generate feelings of jealousy and FOMO amongst our peers during those idle moments when they feel most bored. These idle moments are when we are most vulnerable, and thus we’re psychologically primed to accept the supernormal stimulus. The platform capitalizes on this vulnerability, and over time begins to redefine what we once considered “real” friendship into a relationship with the platform itself, mediated by the features and “images of friendship” within it through Liked and Retweeted posts, Snapchat streaks, Follow requests, posted text, images or even how we reduce our emotions into a series of emoji (Smith, 2016).
 
-In this way, the platform is able to monetize our friendships, tastes, opinions, and even our emotions. Our internal thoughts and experiences become commodifiable assets, measured as engagements to be analyzed, A-B tested, optimized and charted, then touted by executives in PowerPoint presentations at board meetings. Our experiences are packaged and sold, and we are not paid a dime.
+In this way, the platform is able to monetize our friendships, tastes, opinions, and even our emotions. Our internal thoughts and experiences become commodifiable assets, measured as engagements to be analyzed, A-B tested, optimized and charted, then touted by executives in PowerPoint presentations at board meetings. Our experiences are mined, packaged, and sold, and we are not paid a dime.
 
 Instead of blindly activating our social media habit for that quick dopamine fix, consider who actually benefits. Are you performing a microwork task for Facebook or Snapchat? If so, then why aren't you being paid?
 
@@ -58,13 +58,13 @@ Instead of blindly activating our social media habit for that quick dopamine fix
 
 Newspapers, cable news, and social media platforms are trying to turn us all into media addicts. These businesses rely on persuading us to consume more and more (keyword: “increase engagement”) in order to curate an “interest in current affairs” (e.g. New York Times) or to “build meaningful and connected relationships with our community” (e.g. Facebook.)
 
-The reality of the media, however, is driven by a simple business rule: Sell what sells best, whether it’s clickbait, memes, curated lifestyles, celebrity gossip, salacious headlines, and freak events. The media tends to focus on the rare incidents that have no actual influence on our daily lives, and the goal of these platforms is to keep us addicted. Facebooks’ 2017 Annual Report makes it clear:
+The reality of the media, however, is driven by a simple business rule: Sell what sells best, the supernormal stimuli: whether it’s clickbait, memes, curated lifestyles, celebrity gossip, salacious headlines, and freak events. The media tends to focus on the rare incidents that have no actual influence on our daily lives, and the goal of these platforms is to keep us addicted. Facebook’s 2017 Annual Report makes it clear:
 
 > The increase in the ads delivered was driven by an increase in users and their engagement and an increase in the number and frequency of ads displayed on News Feed, partially offset by increasing user engagement with video content and other product changes. (Facebook, 2017).
 
 We think we’re immune to the persuasiveness of advertising, but remember, advertising is a $600 billion dollar industry that is the financial basis of the tech sector. The massive profits these companies have built have been done so on the backs of advertising campaigns.
 
-Facebooks’ (and Google’s, etc) real agenda is to display and sell ads— not to help people “build meaningful and connected relationships”. At no point was this more clear than during Mark Zuckerberg’s testimony before congress. When Senator Hatch asked him “How do you sustain a business model in which people don’t pay for your service?” his response was as straightforward as it could’ve been: “Senator, we run ads”. (Oddshot Compilations, 2018).
+Facebook’s (and Google’s, etc.) real agenda is to display and sell ads—not to help people “build meaningful and connected relationships.” At no point was this more clear than during Mark Zuckerberg’s testimony before Congress. When Senator Hatch asked him, “How do you sustain a business model in which people don’t pay for your service?” his response was as straightforward as it could’ve been: “Senator, we run ads.” (Oddshot Compilations, 2018).
 
 “Building Relationships” is the rationale used in order to serve the advertisements, but the advertisements themselves are the real content of these platforms. The business arrangement of the platform is a simple one: ads are the content, the advertisers are the clients, the user doing microwork tasks are the workers, and _we are the product_.
 
@@ -95,13 +95,14 @@ The toxicity of the media can be understood as a signal-to-noise problem. The mo
 
 > Distraction could be described as a phenomenon in which you connect, inadvertently or absentmindedly, to more things than you intended. The noise drowns out the signal. (Solnit, 2018).
 
-A practical approach for a healthy relationship with the media we consume is to create distance between ourselves and the media that surrounds us on a daily basis. Distance creates an opportunity to gain new perspectives on the media (and life in general.) This distance reduces the influence of these platforms, and creates a space for our ideas and imagination to flourish.
 
-Idleness and imagination is essential to our wellbeing, it’s the wellspring of mental clarity, and the backstop for memory. Take a few minutes each day to cultivate idleness and some mental space. Step away from the hourly, daily, weekly media cycle, and read books instead. Books benefit from the perspective of time, which results in more settled and established facts with increased depth of analysis. If our goal is to have a wider perspective, and a balanced understanding of the major forces at work in the world, our best bet is from reading _good_ books.
+A practical approach for a healthy relationship with the media we consume is to create distance between ourselves and the media that surrounds us on a daily basis. Distance creates an opportunity to gain new perspectives on the media (and life in general). This distance reduces the influence of these platforms, and creates a space for our ideas and imagination to flourish.
+
+Idleness and imagination are essential to our wellbeing, they’re the wellspring of mental clarity, and the backstop for memory. Take a few minutes each day to cultivate idleness and some mental space. Step away from the hourly, daily, weekly media cycle, and read books instead. Books benefit from the perspective of time, which results in more settled and established facts with increased depth of analysis. If our goal is to have a wider perspective, and a balanced understanding of the major forces at work in the world, our best bet is to read _good_ books.
 
 This essay gives us the task of avoiding contact with the mundane, cheap, and ephemeral media that surrounds us on a daily basis; to avoid having our attention distracted, redirected, exploited, and abused against our own interests. We should ignore those things that bring no happiness or value to our lives. Instead, we should focus our attention on our imagination, quality thought, friends and family, idleness; on things that matter. We should explore effective ways to reclaim clarity of thought, and autonomy of attention. 
 
-The task is to change the very way we attend the world around us. Henry David Thoreau described a similar mental recaliberation in Life Without Principle:
+The task is to change the very way we attend the world around us. Henry David Thoreau described a similar mental recalibration in _Life Without Principle_:
 
 > If we have thus desecrated ourselves, — as who has not? — the remedy will be by wariness and devotion to reconsecrate ourselves, and make once more a fane of the mind. *We should treat our minds, that is, ourselves, as innocent and ingenuous children, whose guardians we are, and be careful what objects and what subjects we thrust on their attention.* Read not the Times. Read the Eternities. (Thoreau, 1863).
 
@@ -109,9 +110,10 @@ This essay proposes the *survivorship* bias as the criteria to determine which m
 
 > “[read] as little as feasible from the last twenty years, except history books that are not about the last fifty years. [...what most people do] is read timely material that becomes instantly obsolete. (Taleb, 2012)
 
-Survivorship is a simple heuristic with which to judge media, be it books, news, social media, television, academic journal articles or even video games. A clickbait article can go viral and get millions of views the first day it's published, but according to the survivorship bias, its newness means that its likely to be obsolete the next day. Rather than trying to judge for yourself if media is worth your attention, try letting the survivorship bias do the work for you.
+Survivorship is a simple heuristic with which to judge media, be it books, news, social media, television, academic journal articles or even video games. A clickbait article can go viral and get millions of views the first day it's published, but according to the survivorship bias, its newness means that it’s likely to be obsolete the next day. Rather than trying to judge for yourself if media is worth your attention, try letting the survivorship bias do the work for you.
 
-The survivorship bias has a few knock-on effects that are worth mentioning. Media tends to be discounted as it ages. Video games are always on sale a few months and especially years after they’ve been released; Books and movies are always cheaper well after their release as well; Newspapers are free the day after they were published; and so on. Beyond saving our attention from instantly obsolete media, we will also be saving money simply by waiting long enough. With time also comes more in-depth analysis from the surrounding community, reviews and deep interpretations of the rich meaning behind film and video games benefit from the additional time it takes for this analysis to blossom. This cultural analysis isn’t available to those following the cult-of-the-new.
+The survivorship bias has a few knock-on effects that are worth mentioning. Media tends to be discounted as it ages. Video games are always on sale a few months and especially years after they’ve been released; Books and movies are always cheaper well after their release as well; Newspapers are free the day after they were published; and so on. Beyond saving our attention from instantly obsolete media, we will also be saving money simply by waiting long enough. With time also comes more in-depth analysis from the surrounding community; reviews and deep interpretations of the rich meaning behind film and video games benefit from the additional time it takes for this analysis to blossom. This cultural analysis isn’t available to those following the cult-of-the-new.
+
 
 
 ## Media Consumption Strike
@@ -120,7 +122,7 @@ Now that we understand how the territory of our attention has been colonized, we
 
 > The inadvertent laboring towards the propagation of the spectacle is another example of the ways that the spectacle takes advantage of its subordination of the masses. It is a process to which they have no control other than to renounce image culture completely which in a hyperreal world is almost inconceivable. (Berthelot, 2013)
 
-We propose a collective media consumption strike, and rather than allowing our attention to be driven by these platforms, we must direct our attention to the things that matters to us.
+We propose a collective media consumption strike, and rather than allowing our attention to be driven by these platforms, we must direct our attention to the things that matter to us.
 
 The rules can be simple:
 
@@ -131,25 +133,24 @@ The rules can be simple:
 * No messaging/chat
 * No idle web browsing
 * No news aggregation sites
-* No gaming
+* No video games
 * No using a computer if it is not directly related to creating or resisting (not consuming)
 
-Don’t be a fundamentalist about the rules. Rules are meant to be broken. If it’s art, the rules are more loose; if its corporate media, more strict. Cinema, literature, sci-fi, comic books, indy games: as long as these types of works are not connected with our professional, interpersonal, or political responsibilities, use them in moderation. In general, make sure media consumption is done with more moderation than usual. The goal is to break your habits. 
+Don’t be a fundamentalist about the rules. Rules are meant to be broken. If it’s art, the rules are more loose; if it’s corporate media, more strict. Cinema, literature, sci-fi, comic books, indie games (or board games): as long as these types of works are not connected with our professional, interpersonal, or political responsibilities, use them in moderation. In general, make sure media consumption is done with more moderation than usual. The goal is to break your habits. 
 
 Many people work with computers for their job. Most aren’t privileged enough to be able to completely disconnect from work. Work-related email, messaging, and work-related browsing are out of scope for the strike by necessity—but do please try to prevent any non-work related web browsing or media consumption. Don’t use work as an excuse to view social media or browse the web. Academic journal articles and the like will be hard to avoid, but ask yourself if they would pass the survivorship bias after a few years.
 
 Enable Do Not Disturb on your phone. This will establish designated mental space for ourselves, friends, and family. Most smartphones have rules that can automatically put the device into Do Not Disturb mode at set times. In Android and iOS, this is available by going to Settings and searching for Do Not Disturb preferences. Do Not Disturb is also available in macOS as well.
 
-Remove anything that provides _variable information rewards_. These are features in apps and games designed to give a random, pleasant surprise—to create addiction. Slot machines are designed to do this; Social media platforms like Facebook, Twitter, and video games like Candy Crush use “loot crates” to achieve the same result. Email can operate similarly. Turn off the red Notification dot on all your apps.
+Remove anything that provides _variable information rewards_. These are features in apps and games designed to give a random, pleasant surprise—to create addiction. Slot machines are designed to do this; social media platforms like Facebook, Twitter, and video games like Candy Crush use “loot crates” to achieve the same result. Email can operate similarly. Turn off the red Notification dot on all your apps.
 
-Remove Facebook, Snapchat, Twitter, Slack, Instagram, Youtube and any other social media apps from your devices. This makes it tougher to have instant access to these forms of media since it's not immediately at your fingertips. Don’t cheat and use the web interface. Disable notifications for any apps that you keep. Turn off all lock screen notifications, this also improves privacy. Remove any of the other chat apps from your smartphone: Snapchat, Facebook Messenger, WhatsApp, Mastodon, Viber. If our friends need to reach us, they can txt or call. We should be the masters of our own time, and our network of friends isn’t in control of our time. Our inbox isn’t the worlds way to add items to our TODO list.
+Remove Facebook, Snapchat, Twitter, Slack, Instagram, Youtube and any other social media apps from your devices. This makes it tougher to have instant access to these forms of media since it's not immediately at your fingertips. Don’t cheat and use the web interface. Disable notifications for any apps that you keep. Turn off all lock screen notifications, this also improves privacy. Remove any of the other chat apps from your smartphone: Snapchat, Facebook Messenger, WhatsApp, Mastodon, Viber. If our friends need to reach us, they can text or call. We should be the masters of our own time, and our network of friends isn’t in control of our time. Our inbox isn’t the world’s way to add items to our TODO list.
 
 Remove any Bookmarks or Recently Viewed sites from your browser to prevent 1-click-away sites from distracting us. Some software like SelfControl will block habitual sites for you. Reddit, BuzzFeed, Upworthy, Medium are great sites to block.
 
 Try to limit checking email to once a day. Set a schedule at a set time, and stick to it. Do the same for messaging. Set an auto-responder if that helps reduce anxiety.
 
 The idea behind this practice is to stop the urge to immediately unlock our phone whenever we have idle time. Our idle time should be owned by us.
-
 
 ## Conclusion
 
@@ -160,15 +161,15 @@ _0xADADA is a software developer working for AI and web related startups in Bost
 
 ## Appendix: Reasons to Quit Facebook
 
-The ideological rationale that keeps platforms like Facebook profiting from the commodification of our attention and the collection of our private data lack common courtesy at best, and is psychopathic at worst. Here we present our Airing of Grievances, a listicle of the top reasons to quit Facebook.
+The ideological rationale that keeps platforms like Facebook profiting from the commodification of our attention and the collection of our private data lacks common courtesy at best, and is psychopathic at worst. Here we present our Airing of Grievances, a listicle of the top reasons to quit Facebook.
 
 Facebook outsources data exploitation for political manipulation to companies like Cambridge Analytica. (Cadwalladr, Graham-Harrison, 2018).
 
 Facebook has democratized surveillance, where we have normalized reporting upon the intimate details of the status of our friends and family. (e.g. "X got engaged to Y", "Tagged my friend A in this photo, at location X", "B works at company C."). 
 
-Without privacy, people resort to self-censorship, and therefore removing any aspect of political action or critique from themselves, thus becoming normalized to political impotence. (Assange, Appelbaum, Müller-Maguhn, Zimmermann, 2012).
+Without privacy, people resort to self-censorship, and therefore remove any aspect of political action or critique from themselves, thus becoming normalized to political impotence. (Assange, Appelbaum, Müller-Maguhn, Zimmermann, 2012).
 
-Former founding President Sean Parker, along with former vice-president of user growth Chamath Palihapitiya have both objected to Facebooks’ use of dopamine-driven feedback loops to increase addictive behavior. (Hern, 2018).
+Former founding President Sean Parker, along with former vice-president of user growth Chamath Palihapitiya have both objected to Facebook’s use of dopamine-driven feedback loops to increase addictive behavior. (Hern, 2018).
 
 Former Chief Information Security Officer Alex Stamos resigned from Facebook over an internal disagreement in how much Facebook should publicly share about how nation-states used the platform in the run-up to the 2016 elections. (Perlroth, Frenkel, Shane, 2018).
 
@@ -178,15 +179,15 @@ Co-founder of WhatsApp Jan Koum, is planning to leave the company after clashing
 
 Facebook correlates data from loyalty program providers (e.g. Walgreens cards from Nielsen-Catalina Solutions) who have access to brick-and-mortar purchase history with individual Facebook accounts. Companies like Johnson & Johnson can buy this data from the broker and use Facebook tools to target individual users for ads promoting products they've previously purchased. (Stern, 2018).
 
-Facebook has been fined for breaking privacy laws in the EU for using cookies, social plugins and breaking privacy laws. (Lomas, 2018). 
+Facebook has been fined for breaking privacy laws in the EU for using cookies, and social plugins. (Lomas, 2018). 
 
-Facebooks' corporate policy is based on growth and engagement at any cost. (Malik, 2018).
+Facebook’s corporate policy is based on growth and engagement at any cost. (Malik, 2018).
 
-Facebooks' Protect VPN product is collecting users mobile data traffic and sending it back to Facebook. (Perez, 2018).
+Facebook’s Protect VPN product is collecting users’ mobile data traffic and sending it back to Facebook. (Perez, 2018).
 
-Facebook hired a full time pollster to monitor Mark Zuckerbergs’ approval ratings and develop strategies to change public perceptions. (Newton, 2018). 
+Facebook hired a full time pollster to monitor Mark Zuckerberg’s approval ratings and develop strategies to change public perceptions. (Newton, 2018). 
 
-Facebooks’ network _"is large enough and deep enough to create a global census that can ‘see’ nearly everyone on the planet, even if they don’t have a Facebook account.”_ says John Robb, a former counter-terrorism operative in US Special Operations Command. He goes on to say, this will _“enable real-time tracking on nearly everyone on the planet using smartphone GPS data and ancillary information”._ (Ahmed, 2017).
+Facebook’s network _"is large enough and deep enough to create a global census that can ‘see’ nearly everyone on the planet, even if they don’t have a Facebook account.”_ says John Robb, a former counter-terrorism operative in US Special Operations Command. He goes on to say, this will _“enable real-time tracking on nearly everyone on the planet using smartphone GPS data and ancillary information”._ (Ahmed, 2017).
 
 “Facebook’s business is to simulate you and to own and control your simulation, thereby owning and controlling you.” (Balkan, 2017).
 
@@ -200,23 +201,23 @@ Facebook uses messages and contact details of our friends and other Facebook use
 
 Facebook still knows what you typed before [and after] you hit delete. (Boykis, 2017).
 
-Facebook will tag our face in any photos uploaded from any users. (Boykis, 2017).
+Facebook will tag your face in any photos uploaded from any users. (Boykis, 2017).
 
 Facebook became 45% of all referral sources of traffic between 2014 and 2017. This has an enormous influence on what people see on the web, making the web more centralized upon Facebook. (Staltz, 2017).
 
-Facebook is filing patents to detect and use emotion to influence users behaviors. (CB Insights, 2017).
+Facebook is filing patents to detect and use emotion to influence users’ behaviors. (CB Insights, 2017).
 
-Facebook use gamification to incentivize us to keep checking how many Likes our posts have gotten. A narcissism reinforcement machine. (Dillet, 2017).
+Facebook uses gamification to incentivize us to keep checking how many Likes our posts have gotten. A narcissism reinforcement machine. (Dillet, 2017).
 
 Facebook uses nostalgia, birthdays, and sentimentality to manipulate us to increase engagement. (Frost, 2017).
 
-Facebooks' Like button (seen on almost every site on the web) aren't just there to make it easy to post that page on Facebook, but it also provides a hook for Facebook to track your visit to that site, and thus collect your entire web browsing history. (Satyal, 2017).
+Facebook’s Like button (seen on almost every site on the web) isn't just there to make it easy to post that page on Facebook, but it also provides a hook for Facebook to track your visit to that site, and thus collect your entire web browsing history. (Satyal, 2017).
 
 Facebook revealed the identities of its own content censors to suspected terrorists. (Solon, 2017).
 
 When Facebook has trouble acquiring users in specific markets, it simply buys the companies that dominate those markets (e.g. Instagram, WhatsApp and Oculus). (Srnicek, 2017).
 
-Facebook owns a patent to use our devices camera to gauge our emotional state from our facial expression, to better to target us with content and advertising. (Dowling, 2017).
+Facebook owns a patent to use our devices’ camera to gauge our emotional state from our facial expression, to better to target us with content and advertising. (Dowling, 2017).
 
 Facebook prevents search indexing, so content posted on Facebook is only discoverable within Facebook. (Gruber, 2017).
 
@@ -238,9 +239,9 @@ Facebook is the television of the web, letting us passively scroll through conte
 
 Facebook creates an illusion of choice, but by shaping the menus we pick from, it hijacks the way we perceive our choices and replaces them with new ones that aren’t in our best interests but serve the interests of Facebook. (Harris, 2016).
 
-Facebook Likes, status updates, and pages we visit is "more reliable" in predicting mental illness. (Reynolds, 2016).
+Facebook Likes, status updates, and pages we visit are "more reliable" in predicting mental illness. (Reynolds, 2016).
 
-Facebook uses intermittent variable rewards, used in slot machines to maximize addictiveness by linking an action we take (pull-to-refresh) and a random reward (e.g. new posts!). (Harris, 2016).
+Facebook uses intermittent variable rewards, used in slot machines to maximize addictiveness, by linking an action we take (pull-to-refresh) and a random reward (e.g. new posts!). (Harris, 2016).
 
 Facebook convinces us that we're missing out on something important, when in reality we’re not. (Harris, 2016).
 
@@ -250,39 +251,37 @@ Facebook abuses our need to reciprocate the social gestures of others. (E.g. the
 
 Facebook abuses our attention with immediate interruptions because studies have shown it increases engagement. (Harris, 2016).
 
-Facebook abuses our intentions by hijacking our tasks with the needs of the platform. For example, when you want to lookup a Facebook event happening tonight, the app doesn't allow us to access the event without first redirecting us to the News feed. (Harris, 2016).
+Facebook abuses our intentions by hijacking our tasks with the needs of the platform. For example, when you want to look up a Facebook event happening tonight, the app doesn't allow us to access the event without first redirecting us to the News feed. (Harris, 2016).
 
-Facebook makes it easy for us to hand-over self-incriminating data that can be used against us by law-enforcement. (Clark, 2016).
+Facebook makes it easy for us to handover self-incriminating data that can be used against us by law-enforcement. (Clark, 2016).
 
 Facebook blocked the account of activist Shaun King after he posted a racist email that was sent to him. (Stallman, 2016).
 
-Facebook enforces a real name policy, allowing corporations and nation-states to be able to connect users accounts with their real identity. This is dangerous for marginalized people, and makes them vulnerable to blackmail lest their real identities be exposed. The real name policy forces people to have a single identity when in reality people have flexible identities that change depending on social context. Using ones real name inhibits one from experimenting with alternative identities, limiting personal growth to normative concepts of identity. (Stallman, 2016).
+Facebook enforces a real name policy, allowing corporations and nation-states to be able to connect users’ accounts with their real identity. This is dangerous for marginalized people, and makes them vulnerable to blackmail lest their real identities be exposed. The real name policy forces people to have a single identity when in reality people have flexible identities that change depending on social context. Using one’s real name inhibits one from experimenting with alternative identities, limiting personal growth to normative concepts of identity. (Stallman, 2016).
 
 Facebook has censored posts for Israel, Russia, China, Turkey, the UK, and routinely suppresses content for political reasons using algorithmic promotion and depromotion. (Stallman, 2016).
-
-Facebook has devalued hyperlinking to external sites by more strongly promoting text and images hosted directly on Facebook. Content within Facebook is invisible from the rest of the web. (Derakhshan, 2015).
 
 On the web, hyperlinks are freely swapped to enable the cross-pollination of information and a diversity of decentralized ideas. On Facebook, each post exists unto itself, often accessible only within Facebook amongst ones “Friends of Friends”. “instead of seeing [hyperlinks] as a way to make that text richer. You’re encouraged to post one single hyperlink and expose it to a quasi-democratic process of liking and plussing and hearting: Adding several links to a piece of text is not allowed. Hyperlinks are objectivized, isolated, stripped of their powers”. (Derakhshan, 2015).
 
 Facebook hurts the power of the website: “the Stream means you don’t need to open so many websites any more. You don’t need numerous tabs. You don’t even need a web browser. You open Twitter or Facebook on your smartphone and dive deep in. The mountain has come to you. Algorithms have picked everything for you. According to what you or your friends have read or seen before, they predict what you might like to see.” (Derakhshan, 2015).
 
-Facebook (even more so, Instagram) is the cul de sac of the internet. Its’ where content can no longer be enriched with annotations external to itself. It’s where conversations wither and content goes to stare inwards at itself.
+Facebook (even more so, Instagram) is the cul de sac of the internet. It’s where content can no longer be enriched with annotations external to itself. It’s where conversations wither and content goes to stare inwards at itself.
 
-Facebook analyses the contents of messages sent between users on the platform to better target advertisements. (Virani, 2015).
+Facebook analyzes the contents of messages sent between users on the platform to better target advertisements. (Virani, 2015).
 
-Facebook uses friends to gather additional information about us. Tagging friends in photos, answering questions about a friends marital status are all ways we're tricked into snitching on our friends. (Virani, 2015).
+Facebook uses friends to gather additional information about us. Tagging friends in photos, answering questions about a friend’s marital status are ways we're tricked into snitching on our friends. (Virani, 2015).
 
-Facebook encourages us to present normative images of our lives, which result in alienation from the actual way we feel. (Krause, 2015).
+Facebook encourages us to present normative images of our lives, which results in alienation from the actual way we feel. (Krause, 2015).
 
-Increased use of Facebook is linked to depression (Wald, 2015).
+Increased use of Facebook is linked to depression. (Wald, 2015).
 
-Facebooks' internet.org project was touted to provide internet connected devices and networks in India, but created a Facebook-only view of the internet. (Burrington, 2015).
+Facebook’s internet.org project was touted to provide internet connected devices and networks in India, but created a Facebook-only view of the internet. (Burrington, 2015).
 
 Facebook abuses our innate tendencies to track our progress and assess our self-worth by comparing ourselves to other people. (Musser, 2015).
 
-Facebook photo data is used by Nashville company Facedeals to identify shoppers in stores with the stores own security cameras and facial recognition software. These profiles are then used to increase purchase behavior using personalized promotions and deals. (Dormehl, 2014).
+Facebook photo data is used by Nashville company Facedeals to identify shoppers in stores with the stores’ own security cameras and facial recognition software. These profiles are then used to increase purchase behavior using personalized promotions and deals. (Dormehl, 2014).
 
-> "The problem with the web and its associated technologies is that it has made it so easy to share information about ourselves that doing so begins to like an obligation, a sentence, a sisyphean curse; another day, another photo of lunch to post." (Beato, G.)
+> "The problem with the web and its associated technologies is that it has made it so easy to share information about ourselves that doing so begins to feel like an obligation, a sentence, a sisyphean curse; another day, another photo of lunch to post." (Beato, G.)
 
 Facebook manipulates our emotions with experiments on the News Feed. (Booth, 2014).
 
@@ -302,7 +301,8 @@ Facebook sells profile data to credit card companies and insurance providers so 
 
 Facebook makes it very difficult to quit, using social reciprocity and UX design dark patterns. (Brown, 2010).
 
-Facebooks CEO Mark Zuckerberg hacked into Harvard Crimson editors private email accounts. (Carlson, 2010).
+Facebook’s CEO Mark Zuckerberg hacked into Harvard Crimson editors’ private email accounts. (Carlson, 2010).
+
 
 You should delete your Facebook account, but please share this essay before you do 😉!
 
@@ -312,6 +312,7 @@ You should delete your Facebook account, but please share this essay before you 
 I thank the following friends for their feedback:
 [Alex Grabau](https://twitter.com/agrabau),
 [Thom Dunn](https://twitter.com/thomdunn),
+[Suzi Dao](https://twitter.com/suzidao),
 [Stephen](https://twitter.com/b_apothecary) &
 [qtychr](https://twitter.com/qtychr).
 
