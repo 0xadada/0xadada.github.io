@@ -110,6 +110,8 @@ This essay proposes the *survivorship* bias as the criteria to determine which m
 
 > “[read] as little as feasible from the last twenty years, except history books that are not about the last fifty years. [...what most people do] is read timely material that becomes instantly obsolete. (Taleb, 2012)
 
+Aaron Swartz had similar sentiments:
+
 > Its obsession with the criminal and the deviant makes us less trusting people. Its obsession with the hurry of the day-to-day makes us less reflective thinkers. Its obsession with surfaces makes us shallow. (Swartz, 2006).
 
 Survivorship is a simple heuristic with which to judge media, be it books, news, social media, television, academic journal articles or even video games. A clickbait article can go viral and get millions of views the first day it's published, but according to the survivorship bias, its newness means that it’s likely to be obsolete the next day. Rather than trying to judge for yourself if media is worth your attention, try letting the survivorship bias do the work for you.
