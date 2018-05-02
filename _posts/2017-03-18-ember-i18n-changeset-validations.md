@@ -2,7 +2,7 @@
 layout: page
 title: "ember-i18n-changeset-validations"
 displayTitle: "ember i18n changeset validations"
-date: 2017-11-05 14:12:00
+date: 2017-03-18 14:12:00
 metaDescription: "An Ember addon that provides internationalized validation messages to ember-changeset-validations"
 metaImage: /static/images/meta/apple-touch-icon.png
 metaKeywords: ember, web development
