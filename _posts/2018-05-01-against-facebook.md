@@ -43,6 +43,12 @@ This eventually leads to a crisis of attentiveness, where the system must mainta
 
 This process of commodification has turned us all into tastemakers, reviewers, likers, retweeters and brand ambassadors. The platform takes our real authentic friendships and first commodifies them, reifies them, and then sells them back to us as an “image of friendship”, but one that is bankrupt of any genuine social value. Over time, these platforms transform us all into unpaid advertising agencies. We promote goods, services, lifestyles and desires to our friends, weaponizing images to generate feelings of jealousy and FOMO amongst our peers during those idle moments when they feel most bored. These idle moments are when we are most vulnerable, and thus we’re psychologically primed to accept the supernormal stimulus. The platform capitalizes on this vulnerability, and over time begins to redefine what we once considered “real” friendship into a relationship with the platform itself, mediated by the features and “images of friendship” within it through Liked and Retweeted posts, Snapchat streaks, Follow requests, posted text, images or even how we reduce our emotions into a series of emoji (Smith, 2016).
 
+<figure>
+  <img src="/static/images/2018-05-01-facebook-spectacle-graph.svg"
+    alt="The process of commodification" title="The process of commodification
+  <figcaption>The process of commodification</figcaption>
+</figure>
+
 In this way, the platform is able to monetize our friendships, tastes, opinions, and even our emotions. Our internal thoughts and experiences become commodifiable assets, measured as engagements to be analyzed, A-B tested, optimized and charted, then touted by executives in PowerPoint presentations at board meetings. Our experiences are mined, packaged, and sold, and we are not paid a dime.
 
 Instead of blindly activating our social media habit for that quick dopamine fix, consider who actually benefits. Are you performing a microwork task for Facebook or Snapchat? If so, then why aren't you being paid?
