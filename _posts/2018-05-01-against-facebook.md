@@ -37,7 +37,7 @@ Platforms like Facebook are attempting to create systems for the generation of d
 
 > “conditions that individuate, immobilize, and separate subjects, even within a world in which mobility and circulation are ubiquitous. In this way attention becomes key to the operation of noncoercive forms of power” (Crary, 2001, pg. 74)
 
-Over time, these systems continually push our attention and distraction to new limits and thresholds. Youtube & Netflix discovers that auto-playing the next related video dramatically increases views; Twitter uses the "pull-to-refresh" UI gesture that leverages variable rewards to trigger addictive behavior as a way to increase user engagement with the timeline; Facebook uses the “red dot” notifications that keep people checking their phone for the next new thing. These gadgets are designed to create a “supernormal stimulus,” that is, a stimulus that produces a stronger than natural response. We can even internalize the supernormal stimulus—an example is the "phantom vibrate" we sometimes feel in our pocket when no vibration occurs. In the case of social media, the supernormal stimulus is used to exploit our response to novelty in order to elicit a behavior that works in the interests of the social media provider.
+Over time, these systems continually push our attention and distraction to new limits and thresholds. Youtube & Netflix discovers that auto-playing the next related video dramatically increases views (Bridle, 2017); Twitter uses the "pull-to-refresh" UI gesture that leverages variable rewards to trigger addictive behavior as a way to increase user engagement with the timeline; Facebook uses the “red dot” notifications that keep people checking their phone for the next new thing. These gadgets are designed to create a “supernormal stimulus,” that is, a stimulus that produces a stronger than natural response. We can even internalize the supernormal stimulus—an example is the "phantom vibrate" we sometimes feel in our pocket when no vibration occurs. In the case of social media, the supernormal stimulus is used to exploit our response to novelty in order to elicit a behavior that works in the interests of the social media provider.
 
 This eventually leads to a crisis of attentiveness, where the system must maintain an increased level of distraction. In order to continually distract us, the visual landscape must constantly change, requiring us to reorient our attention until the shift from one thing to another becomes the natural state (e.g. the Instagram “Explore” tab). Over time, we begin to value our attention while the platforms struggle to get more and more of what they previously got for free. This is not sustainable, as newer products need to continually revolutionize the means of distraction or else we will realize how distracted we really are. With a loss of distraction, we can more easily achieve self actualization.
 
@@ -398,6 +398,10 @@ Boykis, Vicki.
 (February 1, 2017).
 [What should you think about when using Facebook?](https://veekaybee.github.io/2017/02/01/facebook-is-collecting-this/).
 (Retrieved on January 13, 2018).
+
+Bridle, James.
+(November 6, 2017).
+[Something is wrong on the internet](https://medium.com/@jamesbridle/something-is-wrong-on-the-internet-c39c471271d2). (Retrieved November 8, 2018).
 
 Brown, Andrew.
 (May 14, 2010).
