@@ -72,6 +72,10 @@ We think we’re immune to the persuasiveness of advertising, but remember, adve
 
 Facebook’s (and Google’s, etc.) real agenda is to display and sell ads—not to help people “build meaningful and connected relationships.” At no point was this more clear than during Mark Zuckerberg’s testimony before Congress. When Senator Hatch asked him, “How do you sustain a business model in which people don’t pay for your service?” his response was as straightforward as it could’ve been: “Senator, we run ads.” (Oddshot Compilations, 2018).
 
+<figure><iframe width="560" height="315" src="https://www.youtube.com/embed/av3xi07NIQs?rel=0&amp;start=45" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+ <figcaption>Senator, we run ads.</figcaption>
+</figure>
+
 “Building Relationships” is the rationale used in order to serve the advertisements, but the advertisements themselves are the real content of these platforms. The business arrangement of the platform is a simple one: ads are the content, the advertisers are the clients, the user doing microwork tasks are the workers, and _we are the product_.
 
 As a result, we end up building relationships to the platform—not to each other.
