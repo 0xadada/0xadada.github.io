@@ -70,9 +70,9 @@ The reality of the media, however, is driven by a simple business rule: Sell wha
 
 We think we’re immune to the persuasiveness of advertising, but remember, advertising is a $600 billion dollar industry that is the financial basis of the tech sector. The massive profits these companies have built have been done so on the backs of advertising campaigns.
 
-Facebook’s (and Google’s, etc.) real agenda is to display and sell ads—not to help people “build meaningful and connected relationships.” At no point was this more clear than during Mark Zuckerberg’s testimony before Congress. When Senator Hatch asked him, “How do you sustain a business model in which people don’t pay for your service?” his response was as straightforward as it could’ve been: “Senator, we run ads.” (Oddshot Compilations, 2018).
+Facebook’s (and Google’s, etc.) real agenda is to display and sell ads—not to help people “build meaningful and connected relationships.” At no point was this more clear than during Mark Zuckerberg’s testimony before Congress. When Senator Hatch asked him, “How do you sustain a business model in which people don’t pay for your service?” his response was as straightforward as it could’ve been: “Senator, we run ads.” (NBC News, 2018).
 
-<figure><iframe width="560" height="315" src="https://www.youtube.com/embed/av3xi07NIQs?rel=0&amp;start=45" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<figure><iframe width="560" height="315" src="https://www.youtube.com/embed/n2H8wx1aBiQ?rel=0&amp;controls=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
  <figcaption>Senator, we run ads.</figcaption>
 </figure>
 
@@ -647,6 +647,11 @@ Musser, Cody.
 [I’m quitting Facebook in 2016—and you should too](https://www.dailydot.com/via/quit-facebook-in-2016/).
 (Retrieved on January 13, 2018).
 
+NBC News.
+(April 10, 2018).
+[Senator Asks How Facebook Remains Free, Mark Zuckerberg Smirks: ‘We Run Ads’ | NBC News](https://www.youtube.com/watch?v=n2H8wx1aBiQ)
+(Retrieved April 23, 2018).
+
 Nelson, Joe.
 (April 20, 2015).
 [Going "Write-Only"](https://begriffs.com/posts/2015-04-20-going-write-only.html).
@@ -671,11 +676,6 @@ Nunez, Michael.
 (May 3, 2016).
 [Want to Know What Facebook Really Thinks of Journalists? Here's What Happened When It Hired Some](https://gizmodo.com/want-to-know-what-facebook-really-thinks-of-journalists-1773916117).
 (Retrieved on November 3, 2017).
-
-Oddshot Compilations.
-(April 11, 2018).
-[Mark Zuckerberg: "We run ads": U.S. Senate Hearing](https://www.youtube.com/watch?v=av3xi07NIQs)
-(Retrieved April 23, 2018).
 
 Parakilas, Sandy.
 (November 19, 2017).
