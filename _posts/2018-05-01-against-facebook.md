@@ -403,6 +403,11 @@ Boykis, Vicki.
 [What should you think about when using Facebook?](https://veekaybee.github.io/2017/02/01/facebook-is-collecting-this/).
 (Retrieved on January 13, 2018).
 
+Brand, Russell., Curtis, Adam.
+(2018).
+[Ep.50 "Is Civilisation Crumbling? with Adam Curtis" by Under The Skin Podcast with Russell Brand](https://www.russellbrand.com/podcast/ep-50-civilisation-crumbling-adam-curtis/).
+(Retrieved on March 17, 2018).
+
 Bridle, James.
 (November 6, 2017).
 [Something is wrong on the internet](https://medium.com/@jamesbridle/something-is-wrong-on-the-internet-c39c471271d2). (Retrieved November 8, 2018).
