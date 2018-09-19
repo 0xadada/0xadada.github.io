@@ -72,7 +72,7 @@ We think we’re immune to the persuasiveness of advertising, but remember, adve
 
 Facebook’s (and Google’s, etc.) real agenda is to display and sell ads—not to help people “build meaningful and connected relationships.” At no point was this more clear than during Mark Zuckerberg’s testimony before Congress. When Senator Hatch asked him, “How do you sustain a business model in which people don’t pay for your service?” his response was as straightforward as it could’ve been: “Senator, we run ads.” (NBC News, 2018).
 
-<figure><iframe width="560" height="315" src="https://www.youtube.com/embed/n2H8wx1aBiQ?rel=0&amp;controls=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<figure><iframe width="560" height="315" src="https://www.youtube.com/embed/n2H8wx1aBiQ?rel=0&amp;controls=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="max-width: 100%;"></iframe>
  <figcaption>Senator, we run ads.</figcaption>
 </figure>
 
