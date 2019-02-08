@@ -76,7 +76,7 @@ Facebook’s (and Google’s, etc.) real agenda is to display and sell ads—not
  <figcaption>Senator, we run ads.</figcaption>
 </figure>
 
-“Building Relationships” is the rationale used in order to serve the advertisements, but the advertisements themselves are the real content of these platforms. The business arrangement of the platform is a simple one: ads are the content, the advertisers are the clients, the user doing microwork tasks are the workers, and _we are the product_.
+“Building Relationships” is the rationale used in order to serve the advertisements, but the advertisements themselves are the real content of these platforms. The business arrangement of the platform is a simple one: ads are the content, the advertisers are the clients, the user doing microwork tasks are the workers, and _our future behaviors are the product_.
 
 As a result, we end up building relationships to the platform—not to each other.
 
