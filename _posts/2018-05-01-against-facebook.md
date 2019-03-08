@@ -41,7 +41,11 @@ Over time, these systems continually push our attention and distraction to new l
 
 This eventually leads to a crisis of attentiveness, where the system must maintain an increased level of distraction. In order to continually distract us, the visual landscape must constantly change, requiring us to reorient our attention until the shift from one thing to another becomes the natural state (e.g. the Instagram “Explore” tab). Over time, we begin to value our attention while the platforms struggle to get more and more of what they previously got for free. This is not sustainable, as newer products need to continually revolutionize the means of distraction or else we will realize how distracted we really are. With a loss of distraction, we can more easily achieve self actualization.
 
-This process of commodification has turned us all into tastemakers, reviewers, likers, retweeters and brand ambassadors. The platform takes our real authentic friendships and first commodifies them, reifies them, and then sells them back to us as an “image of friendship”, but one that is bankrupt of any genuine social value. Over time, these platforms transform us all into unpaid advertising agencies. We promote goods, services, lifestyles and desires to our friends, weaponizing images to generate feelings of jealousy and FOMO amongst our peers during those idle moments when they feel most bored. These idle moments are when we are most vulnerable, and thus we’re psychologically primed to accept the supernormal stimulus. The platform capitalizes on this vulnerability, and over time begins to redefine what we once considered “real” friendship into a relationship with the platform itself, mediated by the features and “images of friendship” within it through Liked and Retweeted posts, Snapchat streaks, Follow requests, posted text, images or even how we reduce our emotions into a series of emoji (Smith, 2016).
+This process of commodification has turned us all into tastemakers, reviewers, likers, retweeters and brand ambassadors. The platform takes our real authentic friendships and first commodifies them,
+<a class="Annotation-ref" href="#anno:1">reifies them</a>,
+<span class="Annotation" id="anno:1">Reification happens when something is taken away from a thinking subject,
+displaced into an object, and turned against the subject.</span>
+and then sells them back to us as an “image of friendship”, but one that is bankrupt of any genuine social value. Over time, these platforms transform us all into unpaid advertising agencies. We promote goods, services, lifestyles and desires to our friends, weaponizing images to generate feelings of jealousy and FOMO amongst our peers during those idle moments when they feel most bored. These idle moments are when we are most vulnerable, and thus we’re psychologically primed to accept the supernormal stimulus. The platform capitalizes on this vulnerability, and over time begins to redefine what we once considered “real” friendship into a relationship with the platform itself, mediated by the features and “images of friendship” within it through Liked and Retweeted posts, Snapchat streaks, Follow requests, posted text, images or even how we reduce our emotions into a series of emoji (Smith, 2016).
 
 <figure>
   <img src="/static/images/2018-05-01-facebook-spectacle-graph.svg"
@@ -76,7 +80,7 @@ Facebook’s (and Google’s, etc.) real agenda is to display and sell ads—not
  <figcaption>Senator, we run ads.</figcaption>
 </figure>
 
-“Building Relationships” is the rationale used in order to serve the advertisements, but the advertisements themselves are the real content of these platforms. The business arrangement of the platform is a simple one: ads are the content, the advertisers are the clients, the user doing microwork tasks are the workers, and _we are the product_.
+“Building Relationships” is the rationale used in order to serve the advertisements, but the advertisements themselves are the real content of these platforms. The business arrangement of the platform is a simple one: ads are the content, the advertisers are the clients, the user doing microwork tasks are the workers, and _our future behaviors are the product_.
 
 As a result, we end up building relationships to the platform—not to each other.
 

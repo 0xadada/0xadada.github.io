@@ -2,7 +2,7 @@
 layout: long
 title: "Extending the browser with the Lingua franca of the web"
 displayTitle: "Extending the browser with the Lingua franca of the web"
-date: 2017-10-09 20:26:00
+date: 2019-03-08 11:23:00
 excerpt: "A browser extension adds features to a web browser. They're created using standard web technologies— JavaScript, HTML, and CSS"
 metaDescription: "Understanding WebExtensions; how to create browser extensions  using standard web technologies— JavaScript, HTML, and CSS."
 metaKeywords: webextensions, web extensions, browser extensions, browser plugins, javascript, web development, software development, progressive web apps

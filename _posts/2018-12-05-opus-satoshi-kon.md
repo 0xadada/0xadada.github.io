@@ -31,5 +31,5 @@ sketched out an abridged final chapter that was included in this book.
 
 The brilliance of this book is how the final chapter serves as a bookend to his
 life, how our individual lives are stories left unfinished, and how our loved 
-ones go on to continue those stores. A true gem.
+ones go on to continue those stories. A true gem.
 
