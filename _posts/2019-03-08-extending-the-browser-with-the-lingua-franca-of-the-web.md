@@ -6,6 +6,8 @@ date: 2019-03-08 11:23:00
 excerpt: "A browser extension adds features to a web browser. They're created using standard web technologies— JavaScript, HTML, and CSS"
 metaDescription: "Understanding WebExtensions; how to create browser extensions  using standard web technologies— JavaScript, HTML, and CSS."
 metaKeywords: webextensions, web extensions, browser extensions, browser plugins, javascript, web development, software development, progressive web apps
+image: /static/images/2019-03-08-components.png
+metaImage: /static/images/2019-03-08-components.png
 metaOgType: "article"
 author: "0xADADA"
 license: cc-by-nc-sa
