@@ -26,7 +26,7 @@ a few minor differences.
 An extension will typically be a composition of _any or all_ of the architectural 
 parts of the extensions API:
 
-![web extension architecture](static/images/2019-03-08-architecture.png)
+![web extension architecture](/static/images/2019-03-08-architecture.png)
 
 * **background scripts** Are essentially JavaScript running in a hidden tab, 
 loaded when the browser starts and run continually. Background scripts are where
@@ -49,7 +49,7 @@ the on-page context menu, and can also open a popup window.
 * **options pages** An extension can also specify additional pages that are 
 available as popup windows, often offering extension preference panels.
 
-![different parts of an extension](static/images/2019-03-08-components.png)
+![different parts of an extension](/static/images/2019-03-08-components.png)
 
 
 ## Creating a simple extension
@@ -154,7 +154,7 @@ communicate with the background script using the
 `browser.runtime.sendMessage(...)` API. The background script can additionally 
 send messages to the content script using `browser.tabs.sendMessage(...)`.
 
-![extension message communication](static/images/2019-03-08-communication.png)
+![extension message communication](/static/images/2019-03-08-communication.png)
 
 
 ## Deploying an extension
