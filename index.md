@@ -1,8 +1,8 @@
 ---
 layout: page
 title: "0xADADA"
-displayTitle: "Homepage of 0xADADA"
-metaDescription: "Homepage of 0xADADA"
+displayTitle: "0xADADA"
+metaDescription: "The place where 0xADADA vomits ideas onto the world"
 metaOgType: "website"
 ---
 
