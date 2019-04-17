@@ -37,7 +37,7 @@ in time. The people owning property and businesses privilege the real estate val
 and the result is a static dead space where object-value dominates and eliminates the use of space for daily life.
 
 Recently [a friend of mine](https://twitter.com/b_apothecary) packed his motorcycle up with his distillation laboratory, plastic molding equipment,
-machine shop tools, his immense library, his formidable liqour collection, and moved down to Philadelphia, where 
+machine shop tools, his immense library, his formidable liquor collection, and moved down to Philadelphia, where 
 he can have a far larger living space, workspaces are abundantly available, and where the barrier to start new 
 businesses and develop existing vacant lots for new uses are minimal or non-existent.
 
@@ -61,7 +61,7 @@ concept saying:
 > <cite>(G.W.F. Hegel ; translated by A.V. Miller. Oxford, UK ; New York, NY : B. Blackwell, 1986.)</cite>
 
 This is to say: the privileging of objects in space fetishizes the object and therefore sacrifices changes 
-in time. This creates and alienated and static space of purely fetishized structures devoid of life.
+in time. This creates an alienated and static space of purely fetishized structures devoid of life.
 
 This describes exactly what is happening in Seattle, San Francisco, Boston, and explains why moving to somewhere 
 like Philidelphia opens us up to using spaces for daily life rather than being subjected to spaces that merely 
