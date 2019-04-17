@@ -18,11 +18,10 @@ tags: [essays]
 
 Gibsons ["San Francisco’s Slow-Motion Suicide"](https://www.nationalreview.com/2019/04/san-francisco-decline-failed-government-policies/)
 is worth reading, his take is that San Francisco has become too successful... inevitable to decline into 
-some mediocre backwater due to "the rent is too damn high".
+some expensive backwater due to "the rent is too damn high".
 
 He paints a compelling vision of the ills of appalling levels of income inequality, the monoculture of 
-white-male-American tech-workers, and the metastasis of the city into the "hinterlands of Antioch and Vallejo":  
-the resulting 3 hour-long commutes: yet all these are (in his argument) the results of a conservative set of 
+white-male-American tech-workers, and the metastasis of the city into the "hinterlands of Antioch and Vallejo": the resulting 3 hour-long commutes: yet all these are (in his argument) the results of a conservative set of 
 "not in my backyard" zoning laws that haven't kept up with the living force of the city.
 
 Recently [a friend of mine](https://twitter.com/b_apothecary) packed his motorcycle up with his distillation laboratory, plastic molding equipment,
@@ -36,8 +35,8 @@ Gibsons wonderful most powerful argument was this:
 > and garage bands and artists spilling paint in discarded warehouse lofts have left their mark on the world. 
 > The true creative class can’t afford to rent expensive new studios.
 
-Where Gibson is misguided is his reliance on the conservative zoning laws to explain the plight of San Francisco 
-and similar cities. The problem in San Francisco isn't a lack of development, but the opposite: The lack of LIFE 
+Gibson alludes to the conservative zoning laws and wealthy property owners to explain the plight of San Francisco 
+and similar cities: Owners want property values to rise. The problem in San Francisco isn't a lack of development, but the opposite: The lack of LIFE 
 itself. San Francisco has privileged the physical static object of the real-estate-object over the use of space 
 in time. The people owning property and businesses place more value of the real estate value over the use value, 
 and the result is a static dead space where object-value is worth more than the use value of space in daily life.
