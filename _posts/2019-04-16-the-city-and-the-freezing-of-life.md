@@ -3,14 +3,8 @@ layout: long
 title: "The City and The Freezing of Life"
 displayTitle: "The City and The Freezing of Life"
 date: 2019-04-16 23:52:00
-excerpt: "The drive to urbanization is an imperative of capitalism, this drive results in "a freezing of life"— a static 
-world devoid of spontaneity, the result of land development and bureaucratic zoning laws optimized for rent seeking 
-and increased land valuations, devoid of nature and where its residents have no ability to change their surroundings 
-to suit their daily ways of living"
-metaDescription: "The drive to urbanization is an imperative of capitalism, this drive results in "a freezing of life"— a static 
-world devoid of spontaneity, the result of land development and bureaucratic zoning laws optimized for rent seeking 
-and increased land valuations, devoid of nature and where its residents have no ability to change their surroundings 
-to suit their daily ways of living"
+excerpt: "The drive to urbanization is an imperative of capitalism, this drive results in \"a freezing of life\"— a static world devoid of spontaneity, the result of land development and bureaucratic zoning laws optimized for rent seeking and increased land valuations, devoid of nature and where its residents have no ability to change their surroundings to suit their daily ways of living"
+metaDescription: "The drive to urbanization is an imperative of capitalism, this drive results in \"a freezing of life\"— a static world devoid of spontaneity, the result of land development and bureaucratic zoning laws optimized for rent seeking and increased land valuations, devoid of nature and where its residents have no ability to change their surroundings to suit their daily ways of living"
 metaKeywords: capitalism, society of the spectacle, late capitalism, real estate
 image: /static/images/2019-04-16-san-francisco-seattle-boston-nyc-and-the-freezing-of-life.jpg
 metaImage: /static/images/2019-04-16-san-francisco-seattle-boston-nyc-and-the-freezing-of-life.jpg
