@@ -12,8 +12,8 @@ world devoid of spontaneity, the result of land development and bureaucratic zon
 and increased land valuations, devoid of nature and where its residents have no ability to change their surroundings 
 to suit their daily ways of living"
 metaKeywords: capitalism, society of the spectacle, late capitalism, real estate
-image: /static/images/2019-03-08-components.png
-metaImage: /static/images/2019-03-08-components.png
+image: /static/images/2019-04-16-san-francisco-seattle-boston-nyc-and-the-freezing-of-life.jpg
+metaImage: /static/images/2019-04-16-san-francisco-seattle-boston-nyc-and-the-freezing-of-life.jpg
 metaOgType: "article"
 author: "0xADADA"
 license: cc-by-nc-sa
