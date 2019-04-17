@@ -24,7 +24,7 @@ He paints a compelling vision of the ills of appalling levels of income inequali
 white-male-American tech-workers, and the metastasis of the city into the "hinterlands of Antioch and Vallejo": the resulting 3 hour-long commutes: yet all these are (in his argument) the results of a conservative set of 
 "not in my backyard" zoning laws that haven't kept up with the living force of the city.
 
-Gibsons wonderful most powerful argument was this:
+Gibsons most powerful argument was wonderful:
 > The legendary urbanist Jane Jacobs once remarked that new ideas come from old buildings, the types of places 
 > you can alter without permission because no one cares about them. This is one reason why so many garage startups 
 > and garage bands and artists spilling paint in discarded warehouse lofts have left their mark on the world. 
@@ -33,8 +33,8 @@ Gibsons wonderful most powerful argument was this:
 Gibson alludes to the conservative zoning laws and wealthy property owners exacerbating the plight of San Francisco 
 and similar cities: Owners want property values to rise above all other concerns. The problem in San Francisco isn't a lack of development, but the opposite: The lack of LIFE 
 itself. San Francisco has privileged the physical static object of the real-estate-object over the use of space 
-in time. The people owning property and businesses place more value of the real estate value over the use value, 
-and the result is a static dead space where object-value is worth more than the use value of space in daily life.
+in time. The people owning property and businesses privilege the real estate value over use value, 
+and the result is a static dead space where object-value dominates and eliminates the use of space for daily life.
 
 Recently [a friend of mine](https://twitter.com/b_apothecary) packed his motorcycle up with his distillation laboratory, plastic molding equipment,
 machine shop tools, his immense library, his formidable liqour collection, and moved down to Philadelphia, where 
