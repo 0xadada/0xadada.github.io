@@ -14,6 +14,7 @@ license: cc-by-nc-sa
 tags: [essays]
 ---
 
+<img src="/static/images/2019-04-16-san-francisco-seattle-boston-nyc-and-the-freezing-of-life.jpg" alt="A model city" title="A model city">
 
 Gibsons ["San Francisco’s Slow-Motion Suicide"](https://www.nationalreview.com/2019/04/san-francisco-decline-failed-government-policies/)
 is worth reading, his take is that San Francisco has become too successful... inevitable to decline into 
