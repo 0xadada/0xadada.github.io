@@ -1,7 +1,7 @@
 ---
 layout: long
-title: "San Francisco, Seattle, Boston, NYC and The Freezing of Life"
-displayTitle: "San Francisco, Seattle, Boston, NYC and The Freezing of Life"
+title: "The City and The Freezing of Life"
+displayTitle: "The City and The Freezing of Life"
 date: 2019-04-16 23:52:00
 excerpt: "The drive to urbanization is an imperative of capitalism, this drive results in "a freezing of life"— a static 
 world devoid of spontaneity, the result of land development and bureaucratic zoning laws optimized for rent seeking 
