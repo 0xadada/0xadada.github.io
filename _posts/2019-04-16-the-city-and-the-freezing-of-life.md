@@ -67,6 +67,7 @@ This describes exactly what is happening in Seattle, San Francisco, Boston, and 
 like Philidelphia opens us up to using spaces for daily life rather than being subjected to spaces that merely 
 have real-estate-object value.
 
+_This was an excerpt from "The Society of The Spectacle: Elaborated" a forthcoming book by 0xADADA._
 
 ## References
 
