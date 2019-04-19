@@ -41,31 +41,14 @@ machine shop tools, his immense library, his formidable liquor collection, and m
 he can have a far larger living space, workspaces are abundantly available, and where the barrier to start new 
 businesses and develop existing vacant lots for new uses are minimal or non-existent.
 
-The drive to urbanization is an imperative of capitalism, this drive results in "a freezing of life"— a static 
-world devoid of spontaneity, the result of land development and bureaucratic zoning laws optimized for rent seeking 
-and increased land valuations, devoid of nature and where its residents have no ability to change their surroundings 
-to suit their daily ways of living. All desire for change is eliminated in order to serve the profit seeking imperative 
-of Capital, all autonomy of local residential use is therefore foreclosed, instead privileging commercial development 
-as the only legitimate use.
+The drive to urbanization is an imperative of capitalism, this drive results in "a freezing of life"— a static world devoid of spontaneity, the result of land development and bureaucratic zoning laws optimized for rent seeking and increased land valuations, devoid of nature and where its residents have no ability to change their surroundings to suit daily life. All desire for change is eliminated in order to serve the profit generating imperative of capital, all autonomy of local residential use is therefore foreclosed, instead privileging real estate development as the only legitimate use.
 
-The result of this is a predominance of land use organized around the valuable placement of real estate objects over 
-the living use and alteration of land by the very people who live in these spaces, people who wish to change their 
-living spaces over time as use-patterns and ways of living change with the seasons and with time. This is a privileging 
-of the orientation of space over the nature of change in the passage of time. The philosopher Hegel explored this 
-concept saying:
+The result of this is a predominance of land organized around the valuable placement of real estate objects over the living use and alteration of land by the very people who live in these spaces, people who wish to change their surroundings over time as use-patterns and ways of living change with the seasons and with time. The philosopher Hegel explored this concept saying:
 
-> "Space is the connection of the quiescent asunderness and side-by-sideness of things [objects]; Time is the 
-> connection of their vanishing or alteration... In the spatial world the question is not succession but of 
-> coexistence... As a restless Becoming [Time] is not an element of the synthetic whole."
->
+> *"Space is the connection of the quiescent asunderness and side-by-sideness of things [objects]; Time is the connection of their vanishing or alteration... In the spatial world the question is not succession but of coexistence... As a restless Becoming [Time] is not an element of the synthetic whole."*
 > <cite>(G.W.F. Hegel ; translated by A.V. Miller. Oxford, UK ; New York, NY : B. Blackwell, 1986.)</cite>
 
-This is to say: the privileging of objects in space fetishizes the object and therefore sacrifices changes 
-in time. This creates an alienated and static space of purely fetishized structures devoid of life.
-
-This describes exactly what is happening in Seattle, San Francisco, Boston, and explains why moving to somewhere 
-like Philidelphia opens us up to using spaces for daily life rather than being subjected to spaces that merely 
-have real-estate-object value.
+This is to say: the privileging of objects in space fetishizes the object and therefore sacrifices changes in time. This creates and alienated and static space of purely fetishized structures devoid of life.
 
 _This was an excerpt from "The Society of The Spectacle: Elaborated" a forthcoming book by 0xADADA._
 
