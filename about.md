@@ -16,33 +16,14 @@ advocate. Recovering techno-utopian. Idealist.
 Boston; graduated from Northeastern University with degrees in Computer Science
 and Cognitive Psychology. 
 
-## Introduction
-
-In '04 I was employed by a series of technology concerns doing business as a
-software engineer, as a specialist in the production of web and mobile applications.
-I begin experimenting with Bitcoin toward the end of 2012, where I divided my
-time between taming web applications and analyzing Bitcoin. I attended M.65 Blockchain
-Technology class at the MIT Media Lab in the autumn of 2015. Shortly afterwards I left Nara
-Logics, and moved over to fintech. I have been there ever since.
-
-Occasionally I get away from Boston for a few days, to attend the meeting of some
-Meetup society or for a trip to the mountains. Regularly during the spring and
-summer and fall I get “up river” or into the woods on weekends and holidays to
-make up for the hours which I have to waste in the office.
-
-I never have had time nor strength to take any part in "public" life, but I have
-managed to do a good deal of open source development work in connection with
-technical problems on the web and with the occasional rabble-rousing with various
-social justice groups. Once in a while I publish an essay on my site. I belong
-to twitter, as well as to other online communities., and I am also a
-member of the Ember.js Meetup Community of Boston. Otherwise social media does not
-appeal to me.
-
 
 ## References
 
 > @0xADADA is the hat expert. 
 > <cite>[@qtychr](https://twitter.com/qtychr/status/756121223302635520)</cite>
+
+> Ron often wore a colored T-shirt with the day of the week printed on it. At midweek he wore a green “Wednesday” T-shirt; on the next day he wore a “Thursday” T-shirt in navy blue.
+> <cite>[ Hacking Life: Systematized Living and Its Discontents. Joseph M. Reagle, Jr. 2019 (MIT Press)](https://mitpress.mit.edu/books/hacking-life)</cite>
 
 
 ## FAQ - Frequently Asked Questions
