@@ -6,6 +6,8 @@ date: 2019-06-17 22:23:00
 metaDescription: "A list of Ember addons that I use in most of my projects"
 metaKeywords: ember, ember.js, addons, ember addons, web framework, web development, programming, software engineering
 metaOgType: "article"
+image: /static/images/2019-06-17-essential-ember-addons.png
+metaImage: /static/images/2019-06-17-essential-ember-addons.png
 author: "0xADADA"
 license: cc-by-nc-sa
 tags: [projects]
