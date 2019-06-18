@@ -1,7 +1,7 @@
 ---
 layout: long
-title: "Essential Ember Addons"
-displayTitle: "Essential Ember Addons"
+title: "Essential Ember Addons: The State of the Ember Addon Ecosystem in 2019"
+displayTitle: "Essential Ember Addons: The State of the Ember Addon Ecosystem in 2019"
 date: 2019-06-17 22:23:00
 metaDescription: "A list of Ember addons that I use in most of my projects"
 metaKeywords: ember, ember.js, addons, ember addons, web framework, web development, programming, software engineering
@@ -10,6 +10,9 @@ author: "0xADADA"
 license: cc-by-nc-sa
 tags: [projects]
 ---
+
+2019 has been a great year for Ember so far, so while my peers are focused on setting
+direction for the framework for the rest of 2019, I wanted to take stock of the existing addons ecosystem.
 
 In this article I’d like to present a list of Ember addons that I use in most of my projects. I've been using Ember for the last few years as my go–to framework for developing web applications, and many of these addons make appearances in nearly all of them.
 
