@@ -3,15 +3,13 @@ layout: long
 title: "Essential Ember Addons"
 displayTitle: "Essential Ember Addons"
 date: 2019-06-17 22:23:00
-metaDescription: "a list of Ember addons that I use in most of my projects"
+metaDescription: "A list of Ember addons that I use in most of my projects"
 metaKeywords: ember, ember.js, addons, ember addons, web framework, web development, programming, software engineering
 metaOgType: "article"
 author: "0xADADA"
 license: cc-by-nc-sa
 tags: [projects]
 ---
-
-# Essential Ember Addons
 
 In this article I’d like to present a list of Ember addons that I use in most of my projects. I've been using Ember for the last few years as my go–to framework for developing web applications, and many of these addons make appearances in nearly all of them.
 
@@ -51,6 +49,18 @@ Finally, before diving into the addon list, I won’t be discussing many standar
     - [ember-cli-deploy](#ember-cli-deploy)
     - [ember-cli-mirage](#ember-cli-mirage)
     - [ember-cli-page-object](#ember-cli-page-object)
+    - [ember-cli-release](#ember-cli-release
+    - [ember-cli-typescript](#ember-cli-typescript)
+    - [ember-cli-fastboot](#ember-cli-fastboot)
+    - [ember-cli-fastboot-testing](#ember-cli-fastboot-testing)
+    - [ember-concurrency](#ember-concurrency)
+    - [ember-css-modules](#ember-css-modules)
+    - [ember-intl](#ember-intl)
+    - [ember-intl-analyzer](#ember-intl-analyzer)
+    - [ember-fetch](#ember-fetch)
+    - [ember-power-select](#ember-power-select)
+    - [ember-simple-auth](#ember-simple-auth)
+    - [ember-svg-jar](#ember-svg-jar)
 - [Conclusion](#conclusion)
 
 ## General Purpose Addons
