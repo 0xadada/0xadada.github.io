@@ -29,7 +29,7 @@ Finally, before diving into the addon list, I won’t be discussing many standar
 
 ## Contents
 
-- [General Purpose Addons](https://www.notion.so/0xadada/Essential-Ember-Addons-f3d4cea3d88341619daa9544b0542ded#general-purpose-addons)
+- [General Purpose Addons](#general-purpose-addons)
     - [ember-a11y-testing](#ember-a11y-testing)
     - [ember-auto-import](#ember-auto-import)
     - [ember-cli-update](#ember-cli-update)
@@ -45,13 +45,13 @@ Finally, before diving into the addon list, I won’t be discussing many standar
     - [eslint-plugin-prettier](#eslint-plugin-prettier)
     - [prettier](#prettier)
     - [qunit-dom](#qunit-dom)
-- [Specific Usecase Addons](https://www.notion.so/0xadada/Essential-Ember-Addons-f3d4cea3d88341619daa9544b0542ded#specific-usecase-addons)
+- [Specific Usecase Addons](#specific-usecase-addons)
     - [ember-cli-addon-docs](#ember-cli-addon-docs)
     - [ember-cli-bundle-analyzer](#ember-cli-bundle-analyzer)
     - [ember-cli-deploy](#ember-cli-deploy)
     - [ember-cli-mirage](#ember-cli-mirage)
     - [ember-cli-page-object](#ember-cli-page-object)
-- [Conclusion](https://www.notion.so/0xadada/Essential-Ember-Addons-f3d4cea3d88341619daa9544b0542ded#conclusion)
+- [Conclusion](#conclusion)
 
 ## General Purpose Addons
 
