@@ -312,4 +312,4 @@ ember-svg-jar is both a build and runtime addon that improves the developer ergo
 
 ## Conclusion
 
-The above addons should cover most of your Ember needs. I have only listed addons with good documentation, test coverage, and that continue to be maintained. If you need anything more or want to take a general look at some of the addons that have are available I recommend starting with [ember-observer.com](https://ember-observer.com).
+The above addons should cover most of your Ember needs. I have only listed addons with good documentation, test coverage, and that continue to be maintained. If you need anything more or want to take a general look at some of the addons that have are available I recommend starting with [emberobserver.com](https://emberobserver.com/).
