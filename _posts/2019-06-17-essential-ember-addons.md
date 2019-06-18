@@ -49,7 +49,7 @@ Finally, before diving into the addon list, I won’t be discussing many standar
     - [ember-cli-deploy](#ember-cli-deploy)
     - [ember-cli-mirage](#ember-cli-mirage)
     - [ember-cli-page-object](#ember-cli-page-object)
-    - [ember-cli-release](#ember-cli-release
+    - [ember-cli-release](#ember-cli-release)
     - [ember-cli-typescript](#ember-cli-typescript)
     - [ember-cli-fastboot](#ember-cli-fastboot)
     - [ember-cli-fastboot-testing](#ember-cli-fastboot-testing)
