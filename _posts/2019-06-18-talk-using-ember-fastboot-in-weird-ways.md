@@ -3,7 +3,7 @@ layout: page
 title: "Using Ember FastBoot in Weird Ways"
 displayTitle: "Using Ember FastBoot in Weird Ways"
 date: 2019-06-18 18:30:00
-metaDescription: "This talk was presented at Salsify, Inc aboout our interesting usecase for deploying FastBoot to do server-side rendering of Ember applications at large scale."
+metaDescription: "This talk was presented at Salsify, Inc about our usecase for deploying FastBoot to do server-side rendering of Ember applications at large scale."
 metaKeywords: javascript, web development, Ember, ember.js, fastboot, server side rendering
 metaOgType: "article"
 author: "0xADADA"
@@ -16,7 +16,7 @@ tags: [talks]
   frameborder="0">
 </iframe>
 
-This talk was presented at Salsify, Inc aboout our interesting usecase for
+This talk was presented at Salsify, Inc aboout our usecase for
 deploying FastBoot to do server-side rendering of Ember applications
 at large scale.
 
