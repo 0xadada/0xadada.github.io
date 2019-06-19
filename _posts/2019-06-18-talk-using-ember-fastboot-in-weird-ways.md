@@ -11,6 +11,12 @@ license: cc-by-nc-sa
 tags: [talks]
 ---
 
+<iframe width="560" height="315" 
+  src="https://www.youtube.com/embed/gh9_5lMKtAY?start=286" 
+  frameborder="0" 
+  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+  allowfullscreen></iframe>
+
 <iframe width="800" height="800" 
   src="https://0xadada.pub/talk-using-ember-fastboot-in-weird-ways/"
   frameborder="0">
