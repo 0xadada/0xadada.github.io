@@ -43,6 +43,10 @@ body {
   padding: 1.5em;
 }
 
+::selection {
+  background-color: rgba(254, 231, 0, .9);
+}
+
 a {
   color: #292929;
 
