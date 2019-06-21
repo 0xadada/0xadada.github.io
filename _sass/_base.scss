@@ -95,35 +95,3 @@ img {
   max-width: 100%;
 }
 
-.hentry a {
-  text-decoration: none;
-  text-shadow:
-    .03em 0 #FDF9F0,
-    -.03em 0 #FDF9F0,
-    0 .03em #FDF9F0,
-    0 -.03em #FDF9F0,
-    .06em 0 #FDF9F0,
-    -.06em 0 #FDF9F0,
-    .09em 0 #FDF9F0,
-    -.09em 0 #FDF9F0,
-    .12em 0 #FDF9F0,
-    -.12em 0 #FDF9F0,
-    .15em 0 #FDF9F0,
-    -.15em 0 #FDF9F0;
-  background-image:
-    linear-gradient(#FDF9F0,#FDF9F0),
-    linear-gradient(#FDF9F0,#FDF9F0),
-    linear-gradient(#292929,#292929);
-  background-size:
-    .05em 1px,
-    .05em 1px,
-    1px 1px;
-  background-repeat:
-    no-repeat,
-    no-repeat,
-    repeat-x;
-  background-position:
-    0 90%,
-    100% 90%,
-    0 87%;
-}
