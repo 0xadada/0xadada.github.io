@@ -147,7 +147,7 @@
  * A link from a citation or footnote back to its reference.
  */
 .RefBack { text-decoration: none; }
-.RefBack::after { content: "↩"; }
+.RefBack::after { content: "↑"; }
 
 /** c-Footer
  * Global site footer
