@@ -31,7 +31,7 @@ select {
   text-size-adjust: none;
 
   /* Normalize font stack. */
-  font-family: "Source Serif Pro", "Times New Roman", Times, serif;
+  font-family: "system-sans-serif", sans-serif;
   font-size: 100%;
   line-height: 1.4;
 }
@@ -72,7 +72,7 @@ h6 {
 
 code,
 pre {
-  font-family: 'Source Code Pro', monospace;
+  font-family: monospace;
 }
 
 blockquote {
