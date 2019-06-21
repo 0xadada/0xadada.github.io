@@ -22,11 +22,11 @@ and Cognitive Psychology.
 > @0xADADA is the hat expert. 
 > <cite>[@qtychr](https://twitter.com/qtychr/status/756121223302635520)</cite>
 
-> Ron often wore a colored T-shirt with the day of the week printed on it. At midweek he wore a green “Wednesday” T-shirt; on the next day he wore a “Thursday” T-shirt in navy blue.
+> [0xADADA] often wore a colored T-shirt with the day of the week printed on it. At midweek he wore a green “Wednesday” T-shirt; on the next day he wore a “Thursday” T-shirt in navy blue.
 > <cite>[ Hacking Life: Systematized Living and Its Discontents. Joseph M. Reagle, Jr. 2019 (MIT Press)](https://mitpress.mit.edu/books/hacking-life)</cite>
 
 
-## FAQ - Frequently Asked Questions
+## FAQ
 
 * *Where do you live?*<br>
 Greater Boston Area, Massachusetts USA.
@@ -37,7 +37,7 @@ in Boston. I enjoy building things for the internet.
 Apple Macbookpro. At home I'm still productive on battle-hardened `Early-2011` 8,2
 (w/ SSD & ram upgrades). I sometimes travel with a Samsung Chromebook 3, and find
 it more useful every day.
-I ride a 2006 Fuji Track bike all year. I carry a Google Pixel 5". I've been a long
+I ride a custom built track bike all year. I carry a Google Pixel 5". I've been a long
 fan of Google Android hardware having used the HTC Dream/G1, Nexus S and Nexus 5. 
 I always leave home with [whatever book
 I'm reading at the moment](https://www.goodreads.com/review/list/60524683-0xadada?shelf=currently-reading)
@@ -47,7 +47,7 @@ work and home, I have a customized
 with Cherry MX brown switches and keytravel
 reducer o-rings.<br>
 * *What Software?*<br>
-macOS Sierra, Android and Chrome OS. iTerm2 and RXVT terminals get a ton of
+macOS, Android and Chrome OS. iTerm2 and RXVT terminals get a ton of
 use. Firefox is my primary browser and Chrome for development. I use
 [neovim](https://github.com/neovim/neovim) for development and writing.
 [ProtonMail](https://protonmail.com/) for email.
