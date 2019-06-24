@@ -78,7 +78,7 @@ These addons are used in nearly all my projects, I often install and configure t
 
 ### ember-auto-import
 
-Ember apps can import standard NPM libraries, but it isn't straightforward; until now. 
+Ember apps can import standard NPM libraries, but it wasn't straightforward, until now. 
 
 [ember-auto-import](https://github.com/ef4/ember-auto-import) is included with the new Ember Octane edition. It is a build time addon with optional runtime lazy-loading that enables developers to use import statements from standard NPM packages without having to wrap it in an Ember addon or manually wire it into the build by adding it to `ember-cli-build.js`
 
@@ -266,7 +266,7 @@ ember-cli-page-object is a test-time addon making it easy to follow the page-obj
 
 ### ember-cli-release
 
-ember-cli-release provides a CLI building your package, auto-incrementing version numbers, and publishing the packages to a package repository. This is more useful for Ember addons that typically conform to semver conventions, but can be used for engines and applications equally.
+ember-cli-release provides a CLI for building your package, auto-incrementing version numbers, and publishing the packages to a package repository. This is more useful for Ember addons that typically conform to semver conventions, but can be used for engines and applications equally.
 
 ### ember-cli-typescript
 
@@ -274,7 +274,7 @@ ember-cli-typescript is a build time addon enabling you to write TypeScript in y
 
 ### ember-cli-fastboot
 
-ember-cli-fastboot is an infrastructure addon. It enables server side rendering of your Ember application. FastBootruns your application in Node.js so when a user visits your site, they are delivered a fully rendered static HTML page, and only after the content has loaded do they start downloading JavaScript. Once finished, your Ember app takes over, delivering a typical SPA experience. The best of both worlds.
+ember-cli-fastboot is an infrastructure addon. It enables server side rendering of your Ember application. FastBoot runs your application in Node.js so when a user visits your site, they are delivered a fully rendered static HTML page, and only after the content has loaded do they start downloading JavaScript. Once finished, your Ember app takes over, delivering a typical SPA experience. The best of both worlds, [but not without complexity](https://0xadada.pub/talk-using-ember-fastboot-in-weird-ways/#gotchas).
 
 ### ember-cli-fastboot-testing
 
