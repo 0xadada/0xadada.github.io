@@ -9,11 +9,10 @@ metaOgType: "article"
 metaImage: /static/images/meta/apple-touch-icon.png
 ---
 
-Backpacker, Web developer & open web enthusiast, privacy and encryption
-advocate. Recovering techno-utopian. Idealist.
+Software engineer, open web enthusiast, essayist, privacy and encryption advocate. Idealist. Recovering techno-utopian. 
 
-0xADADA is a software developer working for AI and web related startups in
-Boston; graduated from Northeastern University with degrees in Computer Science
+0xADADA is working on open source and web related companies in
+the Boston area; graduated from Northeastern University with degrees in Computer Science
 and Cognitive Psychology. 
 
 
@@ -31,8 +30,7 @@ and Cognitive Psychology.
 * *Where do you live?*<br>
 Greater Boston Area, Massachusetts USA.
 * *What do you do for work?*<br>
-I'm a software engineer building web and mobile apps for startups
-in Boston. I enjoy building things for the internet.
+I build web and mobile apps on the internet.
 * *What hardware do you use?*<br>
 Apple Macbookpro. At home I'm still productive on battle-hardened `Early-2011` 8,2
 (w/ SSD & ram upgrades). I sometimes travel with a Samsung Chromebook 3, and find
@@ -41,7 +39,7 @@ I ride a custom built track bike all year. I carry a Google Pixel 5". I've been 
 fan of Google Android hardware having used the HTC Dream/G1, Nexus S and Nexus 5. 
 I always leave home with [whatever book
 I'm reading at the moment](https://www.goodreads.com/review/list/60524683-0xadada?shelf=currently-reading)
-paired with a Moleskine notebook for note-taking and writing rough drafts. At
+paired with a Moleskine notebook for note-taking and writing essays. At
 work and home, I have a customized 
 [Kenisis Ergo Advantage keyboard](https://www.kinesis-ergo.com/shop/advantage-for-pc-mac/)
 with Cherry MX brown switches and keytravel
@@ -64,12 +62,12 @@ will tell you the regular tools I use. On Android i like
 to listen to articles and white papers working out or running. I listen to podcasts with
 [Player.fm](https://player.fm).
 * *When did you start web development?*<br>
-In 1996, shortly after I got on the internet. I started a fake
-"web consulting" agency website, and companies started actually hiring me to build
+In 1996, shortly after I got on the internet. I started a mock
+web consulting agency, and companies started actually hiring me to build
 their websites.
 * *What would be your dream setup?*<br>
 A cabin in the mountains and a Mid-2015 Macbook Pro 11,5, 15.4"/2.8 Quad-core
 i7/16GB/1TB-Flash. This was the best laptop ever made by Apple, last good one 
 before the shitty touchbar generation. Otherwise
-a good 27" retina display, and a keyboard. Ample desk space for books and a library
+a good 27" retina display, and a keyboard. Ample space for books and a library
 nearby.
