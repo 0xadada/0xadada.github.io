@@ -13,7 +13,7 @@ tags: [projects]
 
 <aside>
   <center>
-    R​o​n. A, Erik Ibsen, Chen Zhang<br>
+    0xADADA, Erik Ibsen, Chen Zhang<br>
     College of Computer and Information Science<br>
     Northeastern University<br>
     Boston, MA
