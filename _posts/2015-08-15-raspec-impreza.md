@@ -32,7 +32,17 @@ restored from 2013 to 2015. The car was built by DENT Sport Garage and
 [German Performance Service](http://www.germanperformanceservice.com/)
 in Massachusetts.
 
-This car has is now campaigned by [Bad Panda Motorsports](https://badpandamotorsports.com/).
+
+## 2019 Update
+
+This car is now owned and campaigned at Global Time Attack and other events by
+[Bad Panda Motorsports](https://badpandamotorsports.com/).
+
+<figure>
+  <img src="/static/images/2019-08-23-raspec-impreza-update.jpg" alt>
+  <figcaption>"Flexo" (formerly the RASpec Impreza) v3.0</figcaption>
+</figure>
+
 
 ## Video
 
