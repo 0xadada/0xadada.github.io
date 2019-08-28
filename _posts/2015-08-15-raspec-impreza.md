@@ -32,6 +32,8 @@ restored from 2013 to 2015. The car was built by DENT Sport Garage and
 [German Performance Service](http://www.germanperformanceservice.com/)
 in Massachusetts.
 
+This car has is now campaigned by [Bad Panda Motorsports](https://badpandamotorsports.com/).
+
 ## Video
 
 <figure>
