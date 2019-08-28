@@ -22,9 +22,9 @@ tags: [talks]
   frameborder="0">
 </iframe>
 
-This talk was presented at Salsify, Inc aboout our usecase for
-deploying FastBoot to do server-side rendering of Ember applications
-at large scale.
+This talk was presented at the Boston Ember.js Community meetup at Salsify, Inc
+about a unique usecase for deploying FastBoot in order to do server-side
+rendering of Ember applications at scale.
 
 I review traditional, single-page web applications, I discuss server-side
 rendering by introducing Ember FastBoot. I showcase our architecture and
