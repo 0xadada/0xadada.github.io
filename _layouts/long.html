@@ -70,15 +70,20 @@ layout: compress
       {% else %}
         {% assign tags = page.tags %}
       {% endif %}
+      
       {% for tag in tags %}
         <span class="entry-tags">
           <a href="{{ site.url }}/{{ tag }}/" rel="tag">
             {{ tag }}</a>{% unless forloop.last %},{% endunless %}
         </span>
       {% endfor %}
+    </aside>  
     {% endif %}
   </footer>
-
 </article>
+
+<aside class="o-Layout c-Webmention">
+  <link rel="webmention" href="https://webmention.herokuapp.com/api/webmention" />
+</aside>
 
 {% include footer.html %}
