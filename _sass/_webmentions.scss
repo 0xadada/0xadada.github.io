@@ -1,0 +1,30 @@
+ .webmention-container { margin-top: 4rem; }
+ 
+ .webmention-mention {
+  padding-left: 4.625rem ;
+  position: relative;
+  margin-bottom: 1.25rem;
+}
+
+.webmention-name, 
+.webmention-summary {
+  margin: 1rem 0;
+}
+
+.webmention-author {
+  font-size: 1rem;
+}
+
+.webmention-footer {
+  display: block;
+  font-size: 0.75rem;
+  color: inherit;
+}
+
+.webmention-author img {
+  position: absolute;
+  top: -0.5rem;
+  left: 0;
+  width: 4rem;
+  border-radius: 2rem;
+}
