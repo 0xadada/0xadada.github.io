@@ -16,7 +16,7 @@ Site is built with [Jekyll](http://jekyllrb.com) and served with GitHub Pages.
 To run in development
 
 ```bash
-bundle update json && bundle install
+bundle install && bundle update json
 bundle exec jekyll serve
 ```
 
