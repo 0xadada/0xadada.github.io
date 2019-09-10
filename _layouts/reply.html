@@ -6,15 +6,16 @@ layout: compress
 
 <article class="o-Layout c-Grid hentry h-entry">
   <header class="c-Header c-Grid--1-4">
-    <h1 class="entry-title p-name">Reply to: {{ page.target }}</h1>
+    <h1 class="entry-title p-name">Reply</h1>
   </header>
 
   <div class="c-Grid--3-4 entry-content e-content">
-    <a class="u-in-reply-to" href="{{ page.target }}" rel="external">{{ page.target }}</a>
     <div class="p-name p-content">
       {{ content }}
     </div>
-    
+    <p>
+      Replying to: <a class="u-in-reply-to" href="{{ page.target }}" rel="external">{{ page.target }}</a>
+    </p>
     <p>
       <time class="published updated dt-published"
         datetime="{{ page.date | date_to_xmlschema }}">
