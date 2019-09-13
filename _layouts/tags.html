@@ -8,20 +8,18 @@ displayTitle: Tag archive
 
 {% if site.tags[page.slug] %}
   <ol class="c-Index">
-  {% for post in site.tags[page.slug] %}
-    {% if post.hidden != true %}
+  {% for item in site.tags[page.slug] %}
     <li class="c-Index--Item">
-      <a href="{{ post.url }}" title="{{ post.title }}">
-        <span>{{ post.title }}</span>
+      <a href="{{ item.url }}" title="{{ item.title }}">
+        <span>{{ item.title }}</span>
       </a>
       <br>
-      {% if post.metaDescription %}
-      <span>{{ post.metaDescription }}</span>
+      {% if item.metaDescription %}
+      <span>{{ item.metaDescription }}</span>
       {% endif %}
       <br>
-      <time class="published" datetime="{{ post.date | date: "%Y-%m-%d" }}">{{ post.date | date: "%A %B %-d, %Y" }}</time>
+      <time class="published" datetime="{{ item.date | date: "%Y-%m-%d" }}">{{ item.date | date: "%A %B %-d, %Y" }}</time>
     </li>
-    {% endif %}
   {% endfor %}
   </ol>
 {% else %}

@@ -1,9 +1,10 @@
 ---
 layout: webmention
-title: "Like: 'New York City Neighbors Build Cheaper Way to Connect to Web'"
+title: "Like ❤️ 'New York City Neighbors Build Cheaper Way to Connect to Web'"
 target: https://www.wsj.com/articles/new-york-city-neighbors-build-cheaper-way-to-connect-to-web-11565100000
 date: 2019-09-13 02:08
 generator: "app.getpocket.com"
+hidden: true
 ---
 
 https://www.wsj.com/articles/new-york-city-neighbors-build-cheaper-way-to-connect-to-web-11565100000

@@ -17,6 +17,7 @@ gems:
   - jekyll-sitemap
 
 include: ["_pages"]
+
 # Project settings
 exclude: [
   Gemfile,

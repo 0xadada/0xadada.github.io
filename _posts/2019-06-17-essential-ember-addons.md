@@ -185,21 +185,8 @@ The test hooks, bindings, and data are removed from production builds leaving yo
 
 ### ember-truth-helpers
 
-ember-truth-helpers is a runtime addon adding a set of useful handlebars template helpers for additional truth logic, useful in `if` statements. 
+ember-truth-helpers is a runtime addon adding a set of useful handlebars template helpers for additional truth logic, useful in `if` statements: `eq not-eq not and or xor gt gte lt lte is-array is-empty is-equal`.
 
-    {{if (eq a b)}}
-    {{if (not-eq a b)}}
-    {{if (not a)}}
-    {{if (and a b)}}
-    {{if (or a b)}}
-    {{if (xor a b)}}
-    {{if (gt a b)}}
-    {{if (gte a b)}}
-    {{if (lt a b)}}
-    {{if (lte a b)}}
-    {{if (is-array a)}}
-    {{if (is-empty a)}}
-    {{if (is-equal a b)}}
 
 ### qunit-dom
 
