@@ -334,7 +334,6 @@ I thank the following friends for their feedback:
 [Stephen](https://twitter.com/b_apothecary) &
 [qtychr](https://twitter.com/qtychr).
 
-
 ## References
 
 Angwin, Julia. Mattu, Surya. Parris Jr, Terry.
@@ -807,3 +806,8 @@ Zuboff, Shoshana.
 (May 3, 2016)
 [The Secrets of Surveillance Capitalism](http://www.faz.net/aktuell/feuilleton/debatten/the-digital-debate/shoshana-zuboff-secrets-of-surveillance-capitalism-14103616.html).
 (Retrieved on January 3, 2017).
+
+<aside hidden>
+  This was also posted to
+  <a href="https://indieweb.xyz/en/socialmediastrike" class="u-syndication">/en/socialmediastrike</a>.
+</aside>
