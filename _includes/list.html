@@ -1,0 +1,11 @@
+<div class="template-list o-Layout c-Grid">
+  <header class="c-Header c-Grid--1-4">
+    <h1>
+      {{ page.displayTitle  | default: page.title }}
+    </h1>
+  </header>
+
+  <div class="c-Grid--3-4">
+    {{ content }}
+  </div>
+</div>

@@ -63,14 +63,5 @@
       {% endfor %}
     </aside>
     {% endif %}
-    <aside class="webmention">
-      <form method="post" class="webmention-send" action="https://webmention.herokuapp.com/api/webmention">
-        <input type="hidden" name="target" value="{{ site.url }}{{ page.url }}">
-        <label>Have a reply, or comment? Send your URL:</label>
-        <input type="url" name="source">
-        <input type="submit" value="Send Webmention">
-      </form>
-      <div id="webmention-hosted"></div>
-    </aside>
   </footer>
 </article>

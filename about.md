@@ -8,7 +8,8 @@ metaOgType: "article"
 metaImage: /static/images/meta/apple-touch-icon.png
 ---
 
-Software engineer, open web enthusiast, essayist, privacy and encryption advocate. Idealist. Recovering techno-utopian. 
+Software engineer, open web enthusiast, essayist, privacy and encryption advocate. 
+Idealist. Recovering techno-utopian. 
 
 0xADADA is working on open source and web related companies in
 the Boston area; graduated from Northeastern University with degrees in Computer Science

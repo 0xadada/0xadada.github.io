@@ -5,6 +5,10 @@
 
   {% include {{ layout.template }} %}
 
+  {% if layout.webmentions %}
+    {% include {{ layout.webmentions }} %}
+  {% endif %}
+
   {% if layout.footer %}
     {% include {{ layout.footer }} %}
   {% endif %}
