@@ -1,12 +1,12 @@
-<article class="o-Layout c-Grid hentry h-entry">
+<article class="o-Layout c-Grid h-entry">
   <header class="c-Header c-Grid--1-4">
-    <h1 class="entry-title p-name">
+    <h1>
       Like
     </h1>
   </header>
 
-  <div class="c-Grid--3-4 entry-content e-content">
-    <p>
+  <div class="c-Grid--3-4 e-content">
+    <p class="p-name">
       ❤️
       Liked
       <a class="u-like-of"
@@ -18,13 +18,8 @@
         {{ page.date | date: "%A %B %-d, %Y" }}
       </time>
     </p>
-
-    <div class="meta t-visuallyhidden">
-      <span class="generator">
-        {{ page.generator }}
-      </span>
-    </div>
+  </div>
+  <div hidden>
+    {{ page.generator }}
   </div>
 </article>
-
-{% include footer.html %}
