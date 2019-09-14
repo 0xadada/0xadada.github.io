@@ -1,10 +1,9 @@
 ---
 layout: reply
-title: "Reply to https://snarfed.org/2019-09-09_the-city-and-the-freezing-of-life"
+title: https://snarfed.org/2019-09-09_the-city-and-the-freezing-of-life
 target: https://snarfed.org/2019-09-09_the-city-and-the-freezing-of-life
-date: 2019-09-09 21:47:32
+date: 2019-09-13 23:27:32
 tags: [webmentions]
-generator: "app.getpocket.com"
 hidden: true
 ---
 
