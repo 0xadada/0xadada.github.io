@@ -1,5 +1,5 @@
 ---
-layout: long
+layout: longread
 title: "Travel Writing"
 displayTitle: "Travel Writing"
 date: 2011-12-01 22:17:00

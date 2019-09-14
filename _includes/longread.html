@@ -1,9 +1,7 @@
 <article class="template-longread o-Layout c-Long hentry h-entry">
   <header class="c-Header">
     <h1 class="entry-title p-name">
-    {% if page.displayTitle %}
-      {{ page.displayTitle }}
-    {% endif %}
+      {{ page.displayTitle | default: page.title }}
     </h1>
 
     <div class="t-visuallyhidden">
@@ -13,16 +11,14 @@
       <a href="{{ site.url }}{{ page.url }}"
         class="u-url"
         rel="bookmark">
-        {{ page.displayTitle }}
+        {{ page.displayTitle | default: page.title }}
       </a>
     </div>
 
-    {% if page.date %}
     <time class="published updated dt-published"
       datetime="{{ page.date | date_to_xmlschema }}">
       {{ page.date | date: "%A %B %-d, %Y" }}
     </time>
-    {% endif %}
 
     {% if page.author %}
     <br>

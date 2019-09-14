@@ -1,5 +1,5 @@
 ---
-layout: long
+layout: longread
 title: "Before Trump Takes Office"
 displayTitle: "Before Trump Takes Office"
 date: 2017-01-16 15:54:00

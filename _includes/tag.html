@@ -1,0 +1,33 @@
+<div class="template-tag o-Layout c-Grid">
+  <header class="c-Header c-Grid--1-4">
+    <h1>
+      {{ page.displayTitle  | default: page.name }}
+    </h1>
+  </header>
+
+  <div class="c-Grid--3-4">
+    {{ content }}
+
+    {% if site.tags[page.slug] %}
+      <ol class="c-Index">
+        {% for item in site.tags[page.slug] %}
+          <li class="c-Index--Item">
+            <a href="{{ item.url }}" title="{{ item.title }}">
+              <span>{{ item.title }}</span>
+            </a>
+            <br>
+
+            {% if item.metaDescription %}
+              <span>{{ item.metaDescription }}</span>
+              <br>
+            {% endif %}
+
+            <time class="published" datetime="{{ item.date | date: "%Y-%m-%d" }}">{{ item.date | date: "%A %B %-d, %Y" }}</time>
+          </li>
+        {% endfor %}
+      </ol>
+    {% else %}
+      <p>There are no posts in this tag.</p>
+    {% endif %}
+  </div>
+</div>

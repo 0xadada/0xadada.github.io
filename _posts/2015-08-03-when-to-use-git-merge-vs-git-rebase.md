@@ -1,5 +1,5 @@
 ---
-layout: long
+layout: longread
 title: "When to Use Git Merge vs Git Rebase"
 displayTitle: "When to Use Git Merge vs Git Rebase"
 date: 2015-08-03 07:31:00

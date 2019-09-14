@@ -1,27 +1,9 @@
 ---
-layout: page
-title: Tags
-displayTitle: Tag archive
+layout: compress
+header: header.html
+template: tag.html
+footer: footer.html
+scripts: scripts.html
 ---
 
-{{ content }}
-
-{% if site.tags[page.slug] %}
-  <ol class="c-Index">
-  {% for item in site.tags[page.slug] %}
-    <li class="c-Index--Item">
-      <a href="{{ item.url }}" title="{{ item.title }}">
-        <span>{{ item.title }}</span>
-      </a>
-      <br>
-      {% if item.metaDescription %}
-      <span>{{ item.metaDescription }}</span>
-      {% endif %}
-      <br>
-      <time class="published" datetime="{{ item.date | date: "%Y-%m-%d" }}">{{ item.date | date: "%A %B %-d, %Y" }}</time>
-    </li>
-  {% endfor %}
-  </ol>
-{% else %}
-  <p>There are no posts in this tag.</p>
-{% endif %}
+{% include html.html %}

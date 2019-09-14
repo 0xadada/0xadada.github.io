@@ -1,5 +1,5 @@
 ---
-layout: long
+layout: longread
 title: "pandora’s vox: on community in cyberspace"
 displayTitle: "pandora’s vox: on community in cyberspace"
 date: 1994-01-30 11:41:30

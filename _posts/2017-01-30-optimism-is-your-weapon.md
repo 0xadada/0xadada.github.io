@@ -1,5 +1,5 @@
 ---
-layout: long
+layout: longread
 title: "Optimism is your weapon!, Inherently Good, and the Public Good"
 displayTitle: "Optimism is your weapon!, Inherently Good, and the Public Good"
 date: 2017-01-30 11:41:30

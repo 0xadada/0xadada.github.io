@@ -1,5 +1,5 @@
 ---
-layout: long
+layout: longread
 title: "Understanding Media, Reversal of the Overheated Media"
 displayTitle: "Understanding Media, Reversal of the Overheated Media"
 date: 2015-03-17 15:54:00
