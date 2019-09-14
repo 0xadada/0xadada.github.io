@@ -1,0 +1,30 @@
+<article class="o-Layout c-Grid hentry h-entry">
+  <header class="c-Header c-Grid--1-4">
+    <h1 class="entry-title p-name">
+      Like
+    </h1>
+  </header>
+
+  <div class="c-Grid--3-4 entry-content e-content">
+    <p>
+      ❤️
+      Liked
+      <a class="u-like-of"
+        href="{{ page.target }}" rel="external">{{ page.target }}</a>.
+    </p>
+    <p>
+      <time class="published updated dt-published"
+        datetime="{{ page.date | date_to_xmlschema }}">
+        {{ page.date | date: "%A %B %-d, %Y" }}
+      </time>
+    </p>
+
+    <div class="meta t-visuallyhidden">
+      <span class="generator">
+        {{ page.generator }}
+      </span>
+    </div>
+  </div>
+</article>
+
+{% include footer.html %}
