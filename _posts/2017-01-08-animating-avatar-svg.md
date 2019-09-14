@@ -1,5 +1,4 @@
 ---
-layout: page
 title: "Animating SVG with CSS"
 displayTitle: "Animating SVG with CSS"
 date: 2017-01-08 14:12:00

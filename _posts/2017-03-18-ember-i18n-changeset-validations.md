@@ -1,5 +1,4 @@
 ---
-layout: page
 title: "ember-i18n-changeset-validations"
 displayTitle: "ember i18n changeset validations"
 date: 2017-03-18 14:12:00

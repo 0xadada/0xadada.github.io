@@ -1,5 +1,4 @@
 ---
-layout: page
 title: "0xADADA"
 displayTitle: "0xADADA"
 metaDescription: "The place where 0xADADA vomits ideas onto the world"

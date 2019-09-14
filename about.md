@@ -1,5 +1,4 @@
 ---
-layout: page
 title: "About - 0xADADA"
 navTitle: About
 inNav: true

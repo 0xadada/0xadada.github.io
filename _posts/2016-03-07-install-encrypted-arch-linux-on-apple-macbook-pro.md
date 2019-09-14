@@ -1,5 +1,4 @@
 ---
-layout: page
 title: "Installing (encrypted) Arch Linux on an Apple MacBook Pro"
 displayTitle: "Installing (encrypted) Arch Linux on an Apple MacBook Pro"
 date: 2016-03-05 11:35:00

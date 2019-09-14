@@ -1,5 +1,4 @@
 ---
-layout: page
 title: "RASpec Impreza 2.0 - Subaru Impreza WRX STI Race Car - Full specifications"
 date: 2015-08-15 12:00:00
 displayTitle: "visual assault / DSG RASpec Impreza 2.0"

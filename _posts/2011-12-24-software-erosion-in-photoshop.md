@@ -1,5 +1,4 @@
 ---
-layout: page
 title: "A Study of Adobe Photoshop Scrollbars"
 displayTitle: "A Study of Adobe Photoshop Scrollbars"
 date: 2011-12-24 08:35:00

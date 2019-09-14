@@ -1,4 +1,4 @@
-<body class="layout-{{ page.layout }}">
+<body class="layout-{{ page.layout | default: "default" }}">
   {% if layout.header %}
     {% include {{ layout.header }} %}
   {% endif %}

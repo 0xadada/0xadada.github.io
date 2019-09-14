@@ -1,5 +1,4 @@
 ---
-layout: page
 title: "Visual Commentary Propaganda Pastiche"
 displayTitle: "Visual Commentary Propaganda Pastiche"
 date: 2011-10-12 07:35:00

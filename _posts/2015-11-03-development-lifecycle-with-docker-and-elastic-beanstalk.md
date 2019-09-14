@@ -1,5 +1,4 @@
 ---
-layout: page
 title: "Development Lifecycle with Docker and Elastic Beanstalk"
 displayTitle: "Development Lifecycle with Docker and Elastic Beanstalk"
 date: 2015-11-03 07:55:00

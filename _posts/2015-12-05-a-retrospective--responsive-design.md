@@ -1,5 +1,4 @@
 ---
-layout: page
 title: "A Retrospective — Responsive Design"
 displayTitle: "A Retrospective — Responsive Design"
 date: 2015-11-05 20:20:00

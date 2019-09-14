@@ -1,5 +1,4 @@
 ---
-layout: page
 title: "Review - Opus by Satoshi Kon"
 displayTitle: "Review - Opus by Satoshi Kon"
 date: 2018-12-05 08:51:00
