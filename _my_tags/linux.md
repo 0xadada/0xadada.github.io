@@ -1,5 +1,5 @@
 ---
-layout: tags
+layout: tag
 slug: linux
 name: Linux
 displayTitle: Linux

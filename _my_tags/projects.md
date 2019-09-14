@@ -1,5 +1,5 @@
 ---
-layout: tags
+layout: tag
 slug: projects
 name: Projects
 displayTitle: Projects

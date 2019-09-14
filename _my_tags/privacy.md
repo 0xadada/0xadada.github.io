@@ -1,5 +1,5 @@
 ---
-layout: tags
+layout: tag
 slug: privacy
 name: Privacy
 displayTitle: Privacy
