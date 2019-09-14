@@ -1,5 +1,3 @@
-<!DOCTYPE html>
-<html lang=en>
 <head>
   <meta charset="utf-8">
   <title>{{ page.title }}</title>
@@ -8,7 +6,7 @@
   <link rel="home" href="{{ site.url }}">
   <link rel="webmention" href="https://webmention.herokuapp.com/api/webmention">
   {% feed_meta %}
-  <link rel="sitemap" type="application/xml" title="Sitemap" href="{{ site.url }}/sitemap.xml">
+  <link rel="sitemap" type="application/xml" href="{{ site.url }}/sitemap.xml" title="Sitemap">
 
 {% if page.alternate %}
   <meta http-equiv="refresh" content="0;url={{ page.alternate }}" />
@@ -17,12 +15,15 @@
 {% else %}
   <link rel="canonical" href="{{ site.url }}{{ page.url }}">
 {% endif %}
-  {% include head_meta.html %}
+
+  {% include metatags.html %}
+
   {% capture styles %}
-  {% include styles.scss %}
+    {% include styles.scss %}
   {% endcapture %}
+
   <style>
-  {{ styles | scssify }}
+    {{ styles | scssify }}
   </style>
 
   <link rel="manifest" href="/static/images/meta/manifest.json">
@@ -31,16 +32,3 @@
   <link rel="icon" type="image/png" href="/static/images/meta/favicon-16x16.png" sizes="16x16">
   <link rel="mask-icon" href="/static/images/meta/safari-pinned-tab.svg" color="#5bbad5">
 </head>
-<body>
-
-<header class="o-Layout c-Header c-Grid">
-  <div class="c-Grid--1-4">
-    <a class="c-GlobalNav--Link c-Avatar" href="/" title="Home">
-      <img src="/static/images/meta/avatar.svg"
-        alt="0xADADA" height=64 width=64>
-    </a>
-  </div>
-  <div class="c-Grid--3-4">
-    {% include nav.html %}
-  </div>
-</header>

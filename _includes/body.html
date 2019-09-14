@@ -1,0 +1,15 @@
+<body class="layout-{{ page.layout }}">
+  {% if layout.header %}
+    {% include {{ layout.header }} %}
+  {% endif %}
+
+  {% include {{ layout.template }} %}
+
+  {% if layout.footer %}
+    {% include {{ layout.footer }} %}
+  {% endif %}
+
+  {% if layout.scripts %}
+    {% include {{ layout.scripts }} %}
+  {% endif %}
+</body>

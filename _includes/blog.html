@@ -1,0 +1,78 @@
+<article class="template-blog o-Layout c-Grid hentry h-entry">
+  <header class="c-Header c-Grid--1-4">
+    <h1 class="entry-title p-name">
+    {% if page.displayTitle %}
+      {{ page.displayTitle }}
+    {% endif %}
+    </h1>
+
+    <div class="t-visuallyhidden">
+      <span class="entry-summary p-summary">
+        {{ page.excerpt | strip_html }}
+      </span>
+      <a href="{{ site.url }}{{ page.url }}"
+        class="u-url"
+        rel="bookmark">
+        {{ page.displayTitle }}
+      </a>
+    </div>
+
+    {% if page.date %}
+    <time class="published updated dt-published"
+      datetime="{{ page.date | date_to_xmlschema }}">
+      {{ page.date | date: "%A %B %-d, %Y" }}
+    </time>
+    {% endif %}
+
+    {% if page.author %}
+    <br>
+    <span class="byline vcard h-card">
+      by:
+      <a class="author fn p-author p-name" href="https://0xadada.pub/about/"
+        rel="me author">
+        {{ page.author }}
+      </a>
+    </span>
+    {% endif %}
+  </header>
+
+  <div class="c-Grid--3-4 entry-content e-content">
+    {{ content }}
+  </div>
+
+  <footer class="c-Meta c-License">
+    {% if page.license %}
+      {% if page.license == "cc-by-nc-sa" %}
+      {% include cc-by-nc-sa.html %}
+      {% elsif page.license == "cc-by-sa" %}
+      {% include cc-by-sa.html %}
+      {% elsif page.license == "cc-by" %}
+      {% include cc-by.html %}
+    {% endif %}
+
+    <aside>
+      Posted under:
+      {% if post %}
+        {% assign tags = post.tags %}
+      {% else %}
+        {% assign tags = page.tags %}
+      {% endif %}
+      {% for tag in tags %}
+        <span class="entry-tags">
+          <a href="{{ site.url }}/{{ tag }}/" rel="tag">
+            {{ tag }}</a>{% unless forloop.last %},{% endunless %}
+        </span>
+      {% endfor %}
+    </aside>
+    {% endif %}
+    <aside class="webmention">
+      <form method="post" class="webmention-send" action="https://webmention.herokuapp.com/api/webmention">
+        <input type="hidden" name="target" value="{{ site.url }}{{ page.url }}">
+        <label>Have a reply, or comment? Send your URL:</label>
+        <input type="url" name="source">
+        <input type="submit" value="Send Webmention">
+      </form>
+      <div id="webmention-hosted"></div>
+    </aside>
+  </footer>
+</article>
