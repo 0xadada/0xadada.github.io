@@ -1,5 +1,4 @@
 ---
-layout: page
 title: "Contextual Components and Changesets in Ember"
 displayTitle: "Contextual Components and Changesets in Ember"
 date: 2018-04-25 19:00:00

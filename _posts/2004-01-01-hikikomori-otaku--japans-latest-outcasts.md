@@ -1,5 +1,5 @@
 ---
-layout: long
+layout: longread
 title: "Hikikomori/Otaku Japans Latest Out-Group - Creating Social Outcasts to Construct a National Self-identity"
 displayTitle: "Hikikomori/Otaku Japans Latest Out-Group"
 date: 2003-01-01 12:00:00

@@ -1,5 +1,5 @@
 ---
-layout: tags
+layout: tag
 slug: open-source
 name: Open Source
 displayTitle: Open Source

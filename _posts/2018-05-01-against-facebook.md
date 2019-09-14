@@ -1,5 +1,5 @@
 ---
-layout: long
+layout: longread
 title: "Against Facebook"
 displayTitle: "Against Facebook"
 date: 2018-05-01 08:15:00

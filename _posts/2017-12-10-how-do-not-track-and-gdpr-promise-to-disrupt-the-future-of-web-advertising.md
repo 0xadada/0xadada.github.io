@@ -1,5 +1,5 @@
 ---
-layout: long
+layout: longread
 title: "How Do Not Track and The EU GDPR Promise to Disrupt the Future of Web Advertising"
 displayTitle: "How Do Not Track and The EU GDPR Promise to Disrupt the Future of Web Advertising"
 date: 2017-12-10 09:35:00

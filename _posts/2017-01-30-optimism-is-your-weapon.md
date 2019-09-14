@@ -1,5 +1,5 @@
 ---
-layout: long
+layout: longread
 title: "Optimism is your weapon!, Inherently Good, and the Public Good"
 displayTitle: "Optimism is your weapon!, Inherently Good, and the Public Good"
 date: 2017-01-30 11:41:30
@@ -8,7 +8,6 @@ metaDescription: "This essay aims in a very Lakoff way to introduce readers to k
 metaKeywords: politics, trump
 metaOgType: "article"
 author: "Stephen Shellenberger"
-authorUrl: "https://bostonapothecary.com"
 tags: [guests]
 ---
 

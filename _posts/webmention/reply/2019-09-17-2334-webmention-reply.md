@@ -1,5 +1,5 @@
 ---
-layout: reply
+layout: webmention-reply
 title: https://0xadada.pub/2019/04/16/the-city-and-the-freezing-of-life/
 target: https://0xadada.pub/2019/04/16/the-city-and-the-freezing-of-life/
 date: 2019-09-13 23:34:32

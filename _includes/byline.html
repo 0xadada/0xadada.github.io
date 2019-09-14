@@ -1,0 +1,20 @@
+<span class="byline h-card">
+  by:
+  {% if site.data.authors[include.authorName] %}
+    {% assign author = site.data.authors[include.authorName] %}
+    {% if author.url %}
+      <a class="author fn p-author p-name u-url" href="{{ author.url }}"
+        rel='{{ author.rel | default: "external" }}'>
+        {{ author.name }}
+      </a>
+    {% else %}
+      <span class="author fn p-author p-name">
+        {{ author.name }}
+      </span>
+    {% endif %}
+  {% else %}
+    <span class="author fn p-author p-name">
+      {{ include.authorName }}
+    </span>
+  {% endif %}
+</span>

@@ -1,5 +1,5 @@
 ---
-layout: reply
+layout: webmention-reply
 title: https://snarfed.org/2019-09-09_the-city-and-the-freezing-of-life
 target: https://snarfed.org/2019-09-09_the-city-and-the-freezing-of-life
 date: 2019-09-13 23:27:32

@@ -3,20 +3,30 @@
 
 # TECHNOLOGY TEAM
 
-    @0xADADA
+    0xADADA
 
 
 # UX/PRODUCT TEAM
 
-    @0xADADA
+    0xADADA
 
 
-# TECHNOLOGY COLOPHON
+# TECHNOLOGY
 
 Stack:
     Jekyll
+    GitHub Pages
+    IFTTT
+    telegraph.p3k.io
+
 Standards:
     HTML5
     CSS3
+    Webmentions
+    h-card
+    h-author
+    h-entry
+
 Tools:
-    Vim
+    Neovim
+    Postman

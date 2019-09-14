@@ -1,5 +1,5 @@
 ---
-layout: long
+layout: longread
 title: "Encouraging individual sovereignty and a healthy commons"
 displayTitle: "Encouraging individual sovereignty and a healthy commons"
 date: 2017-02-18 11:41:30
@@ -8,17 +8,12 @@ metaDescription: "Mark Zuckerberg’s manifesto outlines his vision for a centra
 metaKeywords: politics, freedom, commons, sovereignty, surveillance capitalism, capitalism,
 metaOgType: "article"
 author: "Aral Balkan"
-authorUrl: "https://ar.al"
 license: cc-by-sa
 tags: [guests, privacy]
 ---
 
 <aside>
-  <em>This is a guest post by
-    <a href="https://ar.al/" rel="nofollow">
-    Aral Balkan</a>. Read more of his work at
-    <a href="https://ar.al/" rel="nofollow">Aral Balkan</a>
-  </em>
+  <em>This is a guest post by Aral Balkan.</em>
 </aside>
 
 Mark Zuckerberg has released a manifesto titled [Building Global

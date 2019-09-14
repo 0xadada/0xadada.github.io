@@ -1,5 +1,5 @@
 ---
-layout: long
+layout: longread
 title: "Essential Ember Addons: The State of the Ember Addon Ecosystem in 2019"
 displayTitle: "Essential Ember Addons: The State of the Ember Addon Ecosystem in 2019"
 date: 2019-06-17 22:23:00

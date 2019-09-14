@@ -1,5 +1,4 @@
 ---
-layout: page
 title: "Using Ember FastBoot in Weird Ways"
 displayTitle: "Using Ember FastBoot in Weird Ways"
 date: 2019-06-18 18:30:00

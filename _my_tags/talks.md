@@ -1,5 +1,5 @@
 ---
-layout: tags
+layout: tag
 slug: talks
 name: Talks
 displayTitle: Talks

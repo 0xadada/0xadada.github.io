@@ -1,5 +1,4 @@
 ---
-layout: page
 title: "system-font-i18n-css"
 displayTitle: "system font i18n css"
 date: 2017-11-05 14:12:00

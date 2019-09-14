@@ -1,5 +1,5 @@
 ---
-layout: tags
+layout: tag
 slug: webmentions
 name: Webmentions
 displayTitle: Webmentions

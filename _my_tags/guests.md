@@ -1,5 +1,5 @@
 ---
-layout: tags
+layout: tag
 slug: guests
 name: Guests
 displayTitle: Guests

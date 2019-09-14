@@ -1,5 +1,5 @@
 ---
-layout: tags
+layout: tag
 slug: essays
 name: Essays
 displayTitle: Essays

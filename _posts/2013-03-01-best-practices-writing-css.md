@@ -1,5 +1,4 @@
 ---
-layout: page
 title: "Best Practices for Writing CSS"
 displayTitle: "Best Practices for Writing CSS"
 date: 2013-03-01 20:01:00

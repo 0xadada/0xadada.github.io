@@ -1,5 +1,4 @@
 ---
-layout: page
 title: "A mix for musicForProgramming.net Podcast"
 displayTitle: "A mix for musicForProgramming.net Podcast"
 date: 2016-04-16 19:47:00
