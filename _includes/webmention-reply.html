@@ -5,6 +5,9 @@
       datetime="{{ page.date | date_to_xmlschema }}">
       {{ page.date | date: "%A %B %-d, %Y" }}
     </time>
+    <div hidden>
+      {% include byline.html authorName="0xADADA" %}
+    </div>
   </header>
 
   <div class="c-Grid--3-4">
