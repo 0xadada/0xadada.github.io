@@ -1,19 +1,22 @@
 <article class="o-Layout c-Grid h-entry">
   <header class="c-Header c-Grid--1-4">
-    <h1>Like</h1>
+    <h1>Reply</h1>
     <time class="published updated dt-published"
       datetime="{{ page.date | date_to_xmlschema }}">
       {{ page.date | date: "%A %B %-d, %Y" }}
     </time>
   </header>
 
-  <div class="c-Grid--3-4 e-content">
-    <p class="p-name">
-      ❤️
-      Liked
-      <a class="u-like-of"
+  <div class="c-Grid--3-4">
+    <p>
+      ↩
+      Replied to
+      <a class="u-in-reply-to"
         href="{{ page.target }}" rel="external">{{ page.target }}</a>.
     </p>
+    <div class="p-name e-content">
+      {{ content }}
+    </div>
   </div>
 
   {% if page.generator %}

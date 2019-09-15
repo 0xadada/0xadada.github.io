@@ -15,12 +15,10 @@
       </a>
     </div>
 
-    {% if page.date %}
     <time class="published updated dt-published"
       datetime="{{ page.date | date_to_xmlschema }}">
       {{ page.date | date: "%A %B %-d, %Y" }}
     </time>
-    {% endif %}
 
     {% if page.author %}
     <br>
