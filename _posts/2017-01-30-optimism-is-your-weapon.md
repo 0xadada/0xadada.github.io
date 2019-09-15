@@ -8,7 +8,6 @@ metaDescription: "This essay aims in a very Lakoff way to introduce readers to k
 metaKeywords: politics, trump
 metaOgType: "article"
 author: "Stephen Shellenberger"
-authorUrl: "https://bostonapothecary.com"
 tags: [guests]
 ---
 
