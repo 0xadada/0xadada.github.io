@@ -12,6 +12,18 @@
         {{ author.name }}
       </span>
     {% endif %}
+
+    {% if author.photo %}
+      <img class="u-photo t-visuallyhidden"
+        src="{{ author.photo }}"
+        alt="{{ author.name }}" height=64 width=64>
+    {% endif %}
+
+    {% if author.email %}
+    <a class="u-email t-visuallyhidden" href="mailto:{{ author.email }}"
+      title="{{ author.email }}">{{ author.email }}</a>
+    {% endif %}
+
   {% else %}
     <span class="author fn p-author p-name">
       {{ include.authorName }}

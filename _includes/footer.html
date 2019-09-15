@@ -1,7 +1,7 @@
 <footer class="c-Footer o-Layout pure-g">
   <div class="pure-u-sm-1-4">&nbsp;</div>
   <p class="pure-u-sm-3-4 c-Meta">
-    &copy; {{ site.time | date: '%Y' }} 0xADADA (unless otherwise noted.)
+    &copy; 2003-{{ site.time | date: '%Y' }} 0xADADA (unless otherwise noted.)
     <br>
     <a class="c-Meta" href="/feed.xml"
       rel="me" title="0xADADA Atom Feed">
@@ -13,12 +13,7 @@
       <a class="c-Meta fn p-name u-url t-visuallyhidden" href="https://0xadada.pub"
         rel="me" alt="0xADADA" title="0xADADA">0xADADA</a>
       <span class="p-note t-visuallyhidden">
-        Software engineer,
-        open web enthusiast,
-        essayist,
-        privacy and encryption advocate.
-        Idealist.
-        Recovering techno-utopian.
+        {{ site.data.authors["0xADADA"].note }}
       </span>
       <img class="u-photo t-visuallyhidden"
         src="{{ site.url }}/static/images/meta/apple-touch-icon.png"
