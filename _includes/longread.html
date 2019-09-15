@@ -21,21 +21,8 @@
     </time>
 
     {% if page.author %}
-    <br>
-    <span class="byline vcard h-card">
-      by:
-      {% if page.authorUrl %}
-      <a class="author fn p-author p-name" href="{{ page.authorUrl }}"
-        rel="nofollow">
-        {{ page.author }}
-      </a>
-      {% else %}
-      <a class="author fn p-author p-name" href="https://0xadada.pub/about/"
-        rel="author me">
-        {{ page.author }}
-      </a>
-      {% endif %}
-    </span>
+      <br>
+      {% include byline.html authorName=page.author %}
     {% endif %}
   </header>
 
