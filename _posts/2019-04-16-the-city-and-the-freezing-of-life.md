@@ -65,3 +65,8 @@ Hegel, G.W.F.
 _The Philosophical Propadeutic_.
 Trans. A.V. Miller. 
 Oxford, UK:  New York, NY: B. Blackwell, Hardcover.
+
+<aside hidden>
+  This was also posted to
+  <a href="https://indieweb.xyz/en/socialtheory" class="u-syndication">/en/socialtheory</a>.
+</aside>
