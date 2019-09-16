@@ -15,7 +15,7 @@
       ❤️
       Liked
       <a class="u-like-of"
-        href="{{ page.target }}" rel="external">{{ page.target }}</a>.
+        href="{{ page.target }}" rel="external nofollow">{{ page.target }}</a>.
     </p>
     <div>
       {{ content }}
@@ -24,7 +24,7 @@
 
   {% if page.generator %}
     <div hidden>
-      {{ page.generator }}
+      generator: {{ page.generator }}
     </div>
   {% endif %}
 </article>
