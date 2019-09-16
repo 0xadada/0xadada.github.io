@@ -1,5 +1,5 @@
 ---
-layout: webmention
+layout: webmention-like
 title: https://matthiasott.com/articles/into-the-personal-website-verse
 target: https://matthiasott.com/articles/into-the-personal-website-verse
 date: 2019-09-13 20:13

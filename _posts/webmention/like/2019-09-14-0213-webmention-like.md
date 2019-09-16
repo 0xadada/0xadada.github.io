@@ -1,5 +1,5 @@
 ---
-layout: webmention
+layout: webmention-like
 title: "https://matthiasott.com/articles/saving-your-web-workflows-with-prototyping"
 target: https://matthiasott.com/articles/saving-your-web-workflows-with-prototyping
 date: 2019-09-14 02:13

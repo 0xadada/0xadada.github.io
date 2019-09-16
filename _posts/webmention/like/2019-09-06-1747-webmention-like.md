@@ -1,6 +1,6 @@
 ---
-layout: webmention
-title: "0xADADA"
+layout: webmention-like
+title: https://markgroves.us/2019/08/24/adding-webmentions-to-a-static-site-via-github/
 target: https://markgroves.us/2019/08/24/adding-webmentions-to-a-static-site-via-github/
 date: 2019-09-06 17:47:32
 generator: "app.getpocket.com"
