@@ -1,7 +1,7 @@
 ---
 layout: webmention-like
 title: >
-advertising: why did we let this happen
+  advertising: why did we let this happen
 target: http://twitter.com/flexlibris/status/1173771671079178240
 date: 2019-09-17 03:55
 tags: [webmentions]
