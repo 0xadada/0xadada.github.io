@@ -12,9 +12,13 @@
       <ol class="c-Index">
         {% for item in site.tags[page.slug] %}
           <li class="c-Index--Item">
+            {% if item.layout == "webmention-like" %}❤️  {% endif %}
+            {% if item.layout == "webmention-reply" %}↩  {% endif %}
+
             <a href="{{ item.url }}" title="{{ item.title }}">
               <span>{{ item.title }}</span>
             </a>
+
             <br>
 
             {% if item.metaDescription %}
