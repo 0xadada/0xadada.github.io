@@ -18,4 +18,4 @@ and which do random functions in the browser when clicked.
 Drag the link into your bookmarks to save it as a quick browser-based editor tool for those
 moments you need a quick editor nearby.
 
-<a href="data:text/html;base64,PGh0bWw+PHRpdGxlPnVyaWVkaXRvci5qczwvdGl0bGU+PGJvZHkgY29udGVudGVkaXRhYmxlPXRydWU+PHAgc3R5bGU9ImZvbnQtc2l6ZTo1cmVtO21hcmdpbi10b3A6NDV2aDt0ZXh0LWFsaWduOmNlbnRlcjsiPnVyaWVkaXRvci5qczwvcD4=" title="#!uri-editor.js bookmarket">#!uri-editor.js</a>
+<a href="data:text/html;base64,PGh0bWw+PHRpdGxlPnVyaS1lZGl0b3IuanM8L3RpdGxlPjxib2R5IGNvbnRlbnRlZGl0YWJsZT10cnVlPjxwIHN0eWxlPSJmb250LXNpemU6NXJlbTttYXJnaW4tdG9wOjQ1dmg7dGV4dC1hbGlnbjpjZW50ZXI7Ij51cmktZWRpdG9yLmpzPC9wPg==" title="#!uri-editor.js bookmarket">#!uri-editor.js</a>
