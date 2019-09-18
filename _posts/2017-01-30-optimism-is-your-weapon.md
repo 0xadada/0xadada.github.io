@@ -9,6 +9,7 @@ metaKeywords: politics, trump
 metaOgType: "article"
 author: "Stephen Shellenberger"
 tags: [guests]
+hidden: true
 ---
 
 <aside>
