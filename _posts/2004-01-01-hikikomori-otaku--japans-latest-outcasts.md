@@ -12,8 +12,11 @@ tags: [essays]
 ---
 
 
-<img src="/static/images/2003-01-01-hikikomori-mt-isolation.jpg"
-  alt="Mt. Isolation NH, USA" title="Mt. Isolation NH, USA">
+<figure>
+  <img src="/static/images/2003-01-01-hikikomori-mt-isolation.jpg"
+    alt="Mt. Isolation NH, USA" title="Mt. Isolation NH, USA">
+  <figcaption>Mt. Isolation NH, USA.</figcaption>
+</figure>
 
 
 ## Introduction
@@ -479,3 +482,7 @@ creates and reinforces.
    2001.
    <a class="RefBack" href="#ref:cite:6"></a>
    </cite>
+
+<aside>
+  <p>Photo of Mt. Isolation by the Author.</p>
+</aside>

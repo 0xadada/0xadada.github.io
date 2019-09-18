@@ -13,8 +13,11 @@ tags: [essays]
 ---
 
 
-<img src="/static/images/2011-12-01-travel-writing-bologna-italy-alleyway.jpg"
-  alt="Alleyway in Bologna, Italy" title="Alleyway in Bologna, Italy">
+<figure>
+  <img src="/static/images/2011-12-01-travel-writing-bologna-italy-alleyway.jpg"
+    alt="Alleyway in Bologna, Italy" title="Alleyway in Bologna, Italy">
+  <figcaption>Alleyway in Bologna, Italy</figcaption>
+</figure>
 
 Travel opens my mind to new perspectives and allows me to
 recontextualize existing systems of thought.
