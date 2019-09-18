@@ -8,6 +8,7 @@ metaOgType: "article"
 author: "0xADADA"
 license: cc-by-nc-sa
 tags: [projects]
+hidden: true
 ---
 
 I love bookmarklets, those small and elegant lines of javascript that you can bookmark
