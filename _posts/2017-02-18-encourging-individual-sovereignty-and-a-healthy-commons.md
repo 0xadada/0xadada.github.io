@@ -10,6 +10,7 @@ metaOgType: "article"
 author: "Aral Balkan"
 license: cc-by-sa
 tags: [guests, privacy]
+hidden: true
 ---
 
 <aside>
