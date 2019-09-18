@@ -92,6 +92,16 @@ blockquote cite {
   font-style: italic;
 }
 
+figure {
+  margin: 0 -2rem 0 -2rem;
+}
+figure figcaption {
+  color: darkgray;
+  margin: 0 3rem;
+  font-size: 0.875em;
+  font-style: italic;
+}
+
 img {
   max-width: 100%;
 }
