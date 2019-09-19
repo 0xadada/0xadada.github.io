@@ -15,8 +15,10 @@ tags: [essays]
 ---
 
 
-<img src="/static/images/2017-01-16-before-trump.jpg"
-  alt="Trump" title="Trump">
+<figure>
+  <img src="/static/images/2017-01-16-before-trump.jpg"
+    alt="Trump" title="Trump">
+</figure>
 
 Before Trump takes office, I want to create a picture of the high-water mark, 
 something I can point to and say "That was how it was" without the fog of time,
