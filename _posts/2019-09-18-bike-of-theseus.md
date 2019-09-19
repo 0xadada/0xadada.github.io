@@ -9,7 +9,7 @@ date: 2019-09-18 21:11:00
 author: "0xADADA"
 license: cc-by-nc-sa
 tags: [projects]
-galleries: 
+imageGalleries: 
   first:
     - src: /static/images/2019-09-18-01-1-before-rebuild.jpg
       alt: Fuji Track, before the rebuild
@@ -23,43 +23,6 @@ galleries:
 
 [Bike of Theseus](https://en.wikipedia.org/wiki/Ship_of_Theseus)
 
-<style>
-.gallery {
-  list-style: none;
-  padding: 0;
-  margin: 0;
-}
+{% include image-gallery.html images="first" caption="Before the rebuild" %}
 
 
-.gallery-option,
-.gallery-image {
-  display: none;
-}
-
-.gallery-option:checked + .gallery-image {
-  display: block;
-}
-
-li.thumbnails {}
-ol.thumbnails {}
-</style>
-
-<ol class="gallery">
-{% for image in page.galleries["first"] %}
-  <li class="gallery-item">
-    <input id="{{ image.alt | slugify }}" type="radio" name="gallery" class="gallery-option" checked aria-labelledby="label-A">
-    <img id="image-{{ image.alt | slugify}}" class="gallery-image" src="{{ image.src }}" alt="{{ image.alt }}">
-  </li>
-{% endfor %}
-  <li class="thumbnails">
-    <ol class="thumbnails gallery">
-    {% for image in page.galleries["first"] %}
-      <li>
-        <label for="{{ image.alt | slugify}}">
-          <img src="{{ image.src }}" alt="{{ image.alt }}" width="24" aria-label="Select {{ image.alt }}">
-        </label>
-      </li>
-    {% endfor %}
-    </ol>
-  </li>
-</ol>

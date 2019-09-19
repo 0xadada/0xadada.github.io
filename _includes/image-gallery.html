@@ -1,0 +1,52 @@
+<style>
+.gallery {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+
+.gallery-option,
+.gallery-image {
+  display: none;
+}
+
+.gallery-option:checked + .gallery-image {
+  display: block;
+}
+
+.gallery-thumbnails {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
+.gallery-thumbnail {
+  max-width: 64px;
+}
+</style>
+
+<figure>
+  <ol class="gallery">
+  {% for image in page.imageGalleries[include.images] %}
+    <li class="gallery-item">
+      <input id="{{ image.alt | slugify }}" type="radio" name="gallery" class="gallery-option" {% if forloop.index == 1 %} checked{% endif %} aria-labelledby="label-A">
+      <div class="gallery-image">
+        <img class="zgallery-image" src="{{ image.src }}" alt="{{ image.alt }}">
+        <p>{{ image.alt }}</p>
+      </div>
+    </li>
+  {% endfor %}
+    <li>
+      <ol class="gallery gallery-thumbnails">
+      {% for image in page.imageGalleries[include.images] %}
+        <li class="gallery-thumbnail">
+          <label for="{{ image.alt | slugify}}">
+            <img src="{{ image.src }}" alt="{{ image.alt }}" aria-label="Select {{ image.alt }}">
+          </label>
+        </li>
+      {% endfor %}
+      </ol>
+    </li>
+  </ol>
+  <figcaption>{{ include.caption }} </figcaption>
+</figure>
