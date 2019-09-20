@@ -9,6 +9,39 @@ metaImage: /static/images/2015-08-15-raspec-impreza-exterior-front-left-01-far.j
 author: "0xADADA"
 license: cc-by-nc-sa
 tags: [projects]
+imageGalleries:
+  chassis:
+    - src: /static/images/2015-08-15-raspec-impreza-chassis-underbody.jpg
+      alt: Chassis underbody, seam welded
+    - src: /static/images/2015-08-15-raspec-impreza-chassis-rotis.jpg
+      alt: On the rotisserie
+    - src: /static/images/2015-08-15-raspec-impreza-chassis-rotis-2.jpg
+      alt: On the rotisserie angle, 2
+  exterior:
+    - src: /static/images/2015-08-15-raspec-impreza-exterior-front-left-01-near.jpg
+    - src: /static/images/2015-08-15-raspec-impreza-exterior-front-left-02.jpg
+    - src: /static/images/2015-08-15-raspec-impreza-exterior-front-left-03.jpg
+    - src: /static/images/2015-08-15-raspec-impreza-exterior-front-left-04.jpg
+    - src: /static/images/2015-08-15-raspec-impreza-exterior-front-left-bumper.jpg
+    - src: /static/images/2015-08-15-raspec-impreza-exterior-front-left-engine.jpg
+    - src: /static/images/2015-08-15-raspec-impreza-exterior-rear-01.jpg
+    - src: /static/images/2015-08-15-raspec-impreza-exterior-rear-02.jpg
+    - src: /static/images/2015-08-15-raspec-impreza-exterior-rear-03.jpg
+    - src: /static/images/2015-08-15-raspec-impreza-exterior-rear-04.jpg
+    - src: /static/images/2015-08-15-raspec-impreza-exterior-front-right-hood.jpg
+  interior:
+    - src: /static/images/2015-08-15-raspec-impreza-interior-all.jpg
+      alt: Driver side interior view
+    - src: /static/images/2015-08-15-raspec-impreza-interior-rollcage.jpg
+    - src: /static/images/2015-08-15-raspec-impreza-interior-safety-net.jpg
+      alt: Passenger-side x-brace rollcage. Window safety net on driver side
+    - src: /static/images/2015-08-15-raspec-impreza-interior-shifter.jpg
+    - src: /static/images/2015-08-15-raspec-impreza-interior-controls.jpg
+    - src: /static/images/2015-08-15-raspec-impreza-interior-gaugepods.jpg
+    - src: /static/images/2015-08-15-raspec-impreza-interior-battery-switch.jpg
+      alt: Shifter linkage. Dash controls. Defi gauge pod. Battery and emergency cutoff switch
+    - src: /static/images/2015-08-15-raspec-impreza-interior-trunk-bulkhead.jpg
+      alt: Beat Rush trunk bulkhead panel
 ---
 
 ## About the Car
@@ -46,7 +79,8 @@ This car is now owned and campaigned at Global Time Attack and other events by
 ## Video
 
 <figure>
-    <iframe width="420" height="315" src="https://www.youtube.com/embed/mciBcQ6PEAg" frameborder="0" allowfullscreen></iframe>
+    <iframe height="315" src="https://www.youtube.com/embed/mciBcQ6PEAg" 
+      frameborder="0" allowfullscreen></iframe>
     <figcaption>RASpec Impreza 1.0 at Carolina Motorsports Park, SC.
         Redline Time Attack. Video captures engine sound at wide open
         throttle.
@@ -78,13 +112,8 @@ and the car was freshly painted white.
 * CAGE: SCCA multi-point rollcage
 * CHASSIS: The entire chassis has been seam-welded
 
-<figure>
-  <img src="/static/images/2015-08-15-raspec-impreza-chassis-underbody.jpg" alt>
-  <img src="/static/images/2015-08-15-raspec-impreza-chassis-rotis.jpg" alt>
-  <img src="/static/images/2015-08-15-raspec-impreza-chassis-rotis-2.jpg" alt>
-  <figcaption>Chassis underbody, during restoration, seam-weld and
-    painting after media-blast.</figcaption>
-</figure>
+{% include image-gallery.html images="chassis" caption="Chassis underbody, during restoration, seam-weld and painting after media-blast" %}
+
 
 ## Engine
 
@@ -157,7 +186,9 @@ rotation for optimal turbo positioning. **Put simply: "Its dope as fuck"**.
   </figcaption>
 </figure>
 
+
 ## Transmission
+
 * TRANSMISSION: 2006 Subaru WRX	STI 6MT
 * CLUTCH: ACT 6-puck
 * FLYWHEEL: ACT ProLite
@@ -169,6 +200,7 @@ rotation for optimal turbo positioning. **Put simply: "Its dope as fuck"**.
 * LSD: Rear Cusro RS (1.5-way rear)
 * LSD: Center STI
 * LINKAGE: Kartboy short shifter linkage kit
+
 
 ## Suspension
 
@@ -220,20 +252,7 @@ The exterior is stock, with a few OEM components. The front bumper is
 running the "Double Lip Combo" setup. The upper is the 2002 Prodrive V2
 lip and the lower is the 2006-2007 V-Limited lip.
 
-<figure>
-  <img src="/static/images/2015-08-15-raspec-impreza-exterior-front-left-01-near.jpg" alt>
-  <img src="/static/images/2015-08-15-raspec-impreza-exterior-front-left-02.jpg" alt>
-  <img src="/static/images/2015-08-15-raspec-impreza-exterior-front-left-03.jpg" alt>
-  <img src="/static/images/2015-08-15-raspec-impreza-exterior-front-left-04.jpg" alt>
-  <img src="/static/images/2015-08-15-raspec-impreza-exterior-front-left-bumper.jpg" alt>
-  <img src="/static/images/2015-08-15-raspec-impreza-exterior-front-left-engine.jpg" alt>
-  <img src="/static/images/2015-08-15-raspec-impreza-exterior-rear-01.jpg" alt>
-  <img src="/static/images/2015-08-15-raspec-impreza-exterior-rear-02.jpg" alt>
-  <img src="/static/images/2015-08-15-raspec-impreza-exterior-rear-03.jpg" alt>
-  <img src="/static/images/2015-08-15-raspec-impreza-exterior-rear-04.jpg" alt>
-  <img src="/static/images/2015-08-15-raspec-impreza-exterior-front-right-hood.jpg" alt>
-  <figcaption>Exterior photos.</figcaption>
-</figure>
+{% include image-gallery.html images="exterior" caption="Exterior photos" %}
 
 * COLOR: "Audi R8 White"
 * HOOD: Scoote carbon fiber 2002 WRX hood
@@ -249,31 +268,7 @@ wheel/tires
 
 The interior is fairly spartan and without adornment. Only the essentials.
 
-<figure>
-  <img src="/static/images/2015-08-15-raspec-impreza-interior-all.jpg" alt>
-  <figcaption>Driver side interior view.</figcaption>
-</figure>
-
-<figure>
-  <img src="/static/images/2015-08-15-raspec-impreza-interior-rollcage.jpg" alt>
-  <img src="/static/images/2015-08-15-raspec-impreza-interior-safety-net.jpg" alt>
-  <figcaption>Passenger-side x-brace rollcage. Window safety net on driver
-  side.</figcaption>
-</figure>
-
-<figure>
-  <img src="/static/images/2015-08-15-raspec-impreza-interior-shifter.jpg" alt>
-  <img src="/static/images/2015-08-15-raspec-impreza-interior-controls.jpg" alt>
-  <img src="/static/images/2015-08-15-raspec-impreza-interior-gaugepods.jpg" alt>
-  <img src="/static/images/2015-08-15-raspec-impreza-interior-battery-switch.jpg" alt>
-  <figcaption>Shifter linkage. Dash controls. Defi gauge pod. Battery and
-  emergency cutoff switch.</figcaption>
-</figure>
-
-<figure>
-  <img src="/static/images/2015-08-15-raspec-impreza-interior-trunk-bulkhead.jpg" alt>
-  <figcaption>Beat Rush trunk bulkhead panel.</figcaption>
-</figure>
+{% include image-gallery.html images="interior" caption="Interior photos" %}
 
 * STEETING: MOMO steering wheel
 * SEAT: BRIDE Zeta-3 (Red)

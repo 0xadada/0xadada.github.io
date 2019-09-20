@@ -1,47 +1,26 @@
-<style>
-.gallery {
-  list-style: none;
-  padding: 0;
-  margin: 0;
-}
-
-
-.gallery-option,
-.gallery-image {
-  display: none;
-}
-
-.gallery-option:checked + .gallery-image {
-  display: block;
-}
-
-.gallery-thumbnails {
-  display: flex;
-  justify-content: center;
-  width: 100%;
-}
-.gallery-thumbnail {
-  max-width: 64px;
-}
-</style>
-
-<figure>
-  <ol class="gallery">
+<figure class="c-Museum">
+  <ol class="c-Museum--Gallery">
   {% for image in page.imageGalleries[include.images] %}
-    <li class="gallery-item">
-      <input id="{{ image.alt | slugify }}" type="radio" name="gallery" class="gallery-option" {% if forloop.index == 1 %} checked{% endif %} aria-labelledby="label-A">
-      <div class="gallery-image">
-        <img class="zgallery-image" src="{{ image.src }}" alt="{{ image.alt }}">
-        <p>{{ image.alt }}</p>
+    <li class="c-Museum--GalleryItem">
+      <input class="c-Museum--GalleryOption"
+        id="{{ image.alt | slugify | default: image.src | slugify }}"
+        type="radio" name="gallery-{{ include.images | slugify }}"
+        {% if forloop.index == 1 %} checked{% endif %}>
+      <div class="c-Museum--GalleryImage">
+        <img src="{{ image.src }}" alt="{{ image.alt | default: image.src | slugify }}">
+        {% if image.alt %}
+          <p>{{ image.alt }}</p>
+        {% endif %}
       </div>
     </li>
   {% endfor %}
     <li>
-      <ol class="gallery gallery-thumbnails">
+      <ol class="c-Museum--Gallery c-Museum--GalleryThumbnails">
       {% for image in page.imageGalleries[include.images] %}
-        <li class="gallery-thumbnail">
-          <label for="{{ image.alt | slugify}}">
-            <img src="{{ image.src }}" alt="{{ image.alt }}" aria-label="Select {{ image.alt }}">
+        <li class="c-Museum--GalleryThumbnail">
+          <label for="{{ image.alt | default: image.src | slugify}}">
+            <img src="{{ image.src }}" alt="{{ image.alt | default: image.src | slugify}}"
+              aria-label="Select {{ image.alt }}">
           </label>
         </li>
       {% endfor %}

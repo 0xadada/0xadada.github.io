@@ -12,7 +12,7 @@ tags: [projects]
 imageGalleries: 
   first:
     - src: /static/images/2019-09-18-01-1-before-rebuild.jpg
-      alt: Fuji Track, before the rebuild
+      alt: 2006 Fuji Track, before the rebuild
     - src: /static/images/2019-09-18-02-2-fork-lug.jpg
       alt: Fork lug, the inspiration for the project
     - src: /static/images/2019-09-18-03-3-design.png 

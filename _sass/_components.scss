@@ -173,3 +173,36 @@
   margin-bottom: 4em;
 }
 
+/** ===== c-Museum ============================================================
+ * Where art goes to die
+ */
+
+.c-Museum--Gallery {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+
+.c-Museum--GalleryOption,
+.c-Museum--GalleryImage {
+  display: none;
+}
+
+.c-Museum--GalleryOption:checked + .c-Museum--GalleryImage {
+  display: block;
+}
+
+.c-Museum--GalleryThumbnails {
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}
+.c-Museum--GalleryThumbnail {
+  max-width: 33.333333%;
+  margin: 0 0.25rem 0 0;
+}
+.c-Museum--GalleryThumbnail:last-child {
+  margin: 0;
+}
