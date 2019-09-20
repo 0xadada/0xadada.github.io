@@ -165,6 +165,7 @@
   color: rgba(61, 70, 77, 0.6);
 }
 
+
 /** ===== c-License ===========================================================
  * Copyright and ownership styles
  */
@@ -172,17 +173,19 @@
   margin-top: 4em;
   margin-bottom: 4em;
 }
+.c-License--Content a:first-child {
+  display: inline-block;
+}
+
 
 /** ===== c-Museum ============================================================
  * Where art goes to die
  */
-
 .c-Museum--Gallery {
   list-style: none;
   padding: 0;
   margin: 0;
 }
-
 
 .c-Museum--GalleryOption,
 .c-Museum--GalleryImage {
