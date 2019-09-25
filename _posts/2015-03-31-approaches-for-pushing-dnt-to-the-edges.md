@@ -147,6 +147,12 @@ There is an emerging privacy market, and those with pro-privacy offerings
 will eventually be the ones who win — as marketing surveillance becomes
 more ubiquitous and users wise-up to its encroachments on privacy.
 
+### Updates
+
+January 2019: Apple Safari browser has [removed support for the expired Do Not Track standard
+to prevent potential use as a fingerprinting variable](https://developer.apple.com/documentation/safari_release_notes/safari_12_1_release_notes#3130299). [Tracking Protection Working 
+Group](https://www.w3.org/2011/tracking-protection/) has been closed.
+
 ---
 
 ### Resources
