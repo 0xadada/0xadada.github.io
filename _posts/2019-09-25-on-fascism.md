@@ -28,7 +28,7 @@ revolution‒ it is not by its nature fundamentally ideological, but may exhibit
 ideology to suit its needs. Its strength is how it presents itself truthfully as 
 a violent resurrection of mythic past origins‒ to claim the past as a “Golden 
 Age” and a return to the success of this golden past. It demands participation 
-in a community held together by mythical archaic psuedo-values: race, blood, and 
+in a community held together by mythical archaic pseudo-values: race, blood, and 
 the leader.
 
 _Fascism is a cult of the archaic fitted out by modern technology._ It revives 
