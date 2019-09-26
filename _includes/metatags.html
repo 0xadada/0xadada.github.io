@@ -3,7 +3,7 @@
   <meta name="msapplication-config" content="/static/images/meta/browserconfig.xml">
   <meta name="theme-color" content="#FDF9F0">
   <meta name="pocket-site-verification" content="7431f135e23a84de547e5b79dab406">
-  <meta name="author" content="0xADADA, 0xadada.pub.{{ site.time | date: '%Y' }}@0xadada.pub">
+  <meta name="author" content="{{ site.data.authors[page.author].name | default: "0xADADA" }}">
 
   {% if page.metaDescription %}
   <meta name="description" content="{{ page.metaDescription }}" />
