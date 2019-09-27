@@ -1,5 +1,5 @@
 ---
-layout: webmentions-like
+layout: webmention-like
 title: >
   Lewis Mumford on the city Part 01 The city  heaven and hell
 target: https://youtu.be/SXRQF93Xy1I
