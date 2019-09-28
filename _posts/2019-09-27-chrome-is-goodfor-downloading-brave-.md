@@ -1,6 +1,6 @@
 ---
 layout: webmention-like
-title: >
+title: |
   Chrome is good…
 
 ︎
