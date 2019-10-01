@@ -54,6 +54,12 @@ a {
 a:hover {
   color: #0000cc;
 }
+a[rel~="external"] {
+  content: '\238B';
+  display: inline-block;
+  transform: rotate(90deg);
+  margin-left: 0.1875rem;
+}
 
 *:target {
   background: lightgreen;
