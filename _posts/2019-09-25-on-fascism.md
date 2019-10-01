@@ -51,6 +51,11 @@ _This was an excerpt from "The Society of The Spectacle: Unpacked" a forthcoming
   <a href="https://unsplash.com/s/photos/police">Unsplash</a>
 </aside>
 
+<aside hidden>
+  This was also posted to
+  <a href="https://indieweb.xyz/en/socialtheory" class="u-syndication">/en/socialtheory</a>.
+</aside>
+
 ## References
 
 Debord, G.
