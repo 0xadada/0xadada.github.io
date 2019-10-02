@@ -54,7 +54,7 @@ a {
 a:hover {
   color: #0000cc;
 }
-a[rel~="external"] {
+a[rel~="external"]::after {
   content: '\238B';
   display: inline-block;
   transform: rotate(90deg);
