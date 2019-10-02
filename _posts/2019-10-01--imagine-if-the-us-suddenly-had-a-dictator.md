@@ -1,7 +1,7 @@
 ---
 layout: webmention-reply
 title: >
-  > Imagine if the US suddenly had a dictator This is why we have the second amendment. And the constitution as the thing to which office-holders swear allegiance to rather than to "the party" or "the president".
+  Imagine if the US suddenly had a dictator This is why we have the second amendment. And the constitution as the thing to which office-holders swear allegiance to rather than to "the party" or "the president".
 target: https://news.ycombinator.com/item?id=21129658
 date: 2019-10-01 16:11:07
 tags: [webmentions]
@@ -11,7 +11,7 @@ hidden: true
 
 
 <blockquote class="p-in-reply-to h-cite">
-  <p class="p-content">> Imagine if the US suddenly had a dictator This is why we have the second amendment. And the constitution as the thing to which office-holders swear allegiance to rather than to "the party" or "the president".</p>
+  <p class="p-content">Imagine if the US suddenly had a dictator This is why we have the second amendment. And the constitution as the thing to which office-holders swear allegiance to rather than to "the party" or "the president".</p>
   <cite class="p-author">‒<a href="https://news.ycombinator.com/item?id=21125093"
       rel="nofollow external">nvahalik</a>
   </cite>
