@@ -55,7 +55,7 @@ a:hover {
   color: #0000cc;
 }
 
-.entry-content, a[rel~="external"]::after,
+.entry-content a[rel~="external"]::after,
 .e-content a[rel~="external"]::after {
   content: '\238B';
   display: inline-block;
