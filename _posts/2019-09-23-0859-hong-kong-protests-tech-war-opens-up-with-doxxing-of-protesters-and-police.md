@@ -8,7 +8,7 @@ tags: [webmentions]
 hidden: true
 ---
 
-<blockquote class="p-in-reply-to h-cite">
+<blockquote class="p-in-reply-to h-cite external-citation">
   <p class="p-content">
     The leak, however, represents just a small proportion of doxxing cases, which have skyrocketed
     in the past three months. Hong Kong’s privacy commission said it had received 1,376 complaints

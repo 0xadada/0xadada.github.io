@@ -11,7 +11,7 @@ hidden: true
 ---
 
 
-<blockquote>
+<blockquote class="external-citation">
   <p>
     “In the long run every program becomes rococo— then rubble.”
     Alan Perlis

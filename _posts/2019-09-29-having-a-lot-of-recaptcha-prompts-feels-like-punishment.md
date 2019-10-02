@@ -10,7 +10,7 @@ hidden: true
 ---
 
 
-<blockquote>
+<blockquote class="external-citation">
   <p>
     Having a lot of reCAPTCHA prompts feels like punishment for blocking tracking cookies.
   </p><p>

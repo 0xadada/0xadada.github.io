@@ -10,7 +10,7 @@ hidden: true
 ---
 
 
-<blockquote>
+<blockquote class="external-citation">
   <p>
     This is why microservices can make sense for large companies with many, separate, and isolated teams. And why it just about never makes any sense for small companies where teams can grasp the entire application. https://t.co/pks4jTUyQd
   </p>

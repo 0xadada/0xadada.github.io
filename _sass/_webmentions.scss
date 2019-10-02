@@ -1,7 +1,7 @@
  .webmention-container {
   padding-top: 4rem;
 }
- 
+
  .webmention-mention {
   background-color: #ada8;
   padding-left: 4.625rem ;
@@ -9,7 +9,7 @@
   margin-bottom: 1.25rem;
 }
 
-.webmention-name, 
+.webmention-name,
 .webmention-summary {
   margin: 1rem 0;
 }
@@ -32,10 +32,10 @@
   border-radius: 2rem;
 }
 
-.p-in-reply-to {
- background: white;
- padding: 2rem;
- margin: 0;
- box-shadow: 0 0 6px silver inset;
- border-radius: 0.25rem;
+.external-citation {
+  background: white;
+  padding: 2rem;
+  margin: 0;
+  box-shadow: 0 0 6px silver inset;
+  border-radius: 0.25rem;
 }

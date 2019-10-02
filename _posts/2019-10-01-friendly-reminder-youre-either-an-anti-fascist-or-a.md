@@ -10,7 +10,7 @@ hidden: true
 ---
 
 
-<blockquote>
+<blockquote class="external-citation">
   <p>
     Friendly reminder: you’re either an anti-fascist or a fascist. There’s no in between.
   </p>

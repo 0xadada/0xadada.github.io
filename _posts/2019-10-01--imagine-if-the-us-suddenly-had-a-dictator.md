@@ -10,7 +10,7 @@ hidden: true
 ---
 
 
-<blockquote class="p-in-reply-to h-cite">
+<blockquote class="p-in-reply-to h-cite external-citation">
   <p class="p-content">Imagine if the US suddenly had a dictator This is why we have the second amendment. And the constitution as the thing to which office-holders swear allegiance to rather than to "the party" or "the president".</p>
   <cite class="p-author">‒<a href="https://news.ycombinator.com/item?id=21125093"
       rel="nofollow external">nvahalik</a>
