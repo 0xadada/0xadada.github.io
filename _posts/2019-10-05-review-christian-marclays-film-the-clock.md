@@ -1,7 +1,7 @@
 ---
 hidden: true
 layout: webmention-like
-title: Review: Christian Marclay’s Film, The Clock
+title: "Review: Christian Marclay’s Film, The Clock"
 target: https://palimpsest-journal.org/2019/02/10/review-christian-marclays-film-the-clock/
 date: 2019-10-05 09:54:36
 tags: [webmentions]
