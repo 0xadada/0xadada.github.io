@@ -84,7 +84,13 @@
 }
 
 .c-GlobalNav--Item:first-child { padding-left: 0; }
-.c-GlobalNav--Item:last-child { padding-right: 0; }
+.c-GlobalNav--Item::after {
+  content: '\002F';
+  margin: 0 0.1875rem;
+}
+.c-GlobalNav--Item:last-child::after {
+  content: none;
+}
 .c-GlobalNav--Link:link {
   color: #292929;
   text-decoration: none;
