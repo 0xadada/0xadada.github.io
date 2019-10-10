@@ -1,33 +1,17 @@
-# Site settings
-name: "0xADADA"
-description: "Writing of 0xADADA"
-url: "https://0xadada.pub"
-author: "0xADADA"
+timezone: "America/New_York"
 
-# Build settings
-markdown: kramdown
 paginate: 10
 permalink: pretty
 sass:
   style: compressed
 
-# Jekyll plugins
-gems:
-  - jekyll-feed
-  - jekyll-sitemap
-
-include: ["_pages"]
-
-# Project settings
 exclude: [
-  Gemfile,
-  Gemfile.lock,
-  node_modules,
+  CNAME,
   LICENSE,
   README.md
 ]
 
-collections:
-  my_tags:
-    output: true
-    permalink: /tag/:slug/
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+

@@ -1,9 +1,10 @@
 ---
 layout: tag
-slug: privacy
-name: Privacy
+title: Privacy
 displayTitle: Privacy
-permalink: /privacy/
+slug: privacy
+inNav: true
+navOrder: 2
 ---
 
 I'm concerned with the topic of privacy and how technology can both enhance and detract from privacy.

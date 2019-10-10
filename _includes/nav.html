@@ -1,32 +1,12 @@
 <nav class="c-GlobalNav" role="navigation">
   <ul class="c-GlobalNav--List">
-    <li class="c-GlobalNav--Item {% if p.url == page.url %} is-active{% endif %}">
-      <a class="c-GlobalNav--Link" href="/essays/">Essays</a>
-    </li>
-    <li class="c-GlobalNav--Item {% if p.url == page.url %} is-active{% endif %}">
-      <a class="c-GlobalNav--Link" href="/projects/">Projects</a>
-    </li>
-    <li class="c-GlobalNav--Item {% if p.url == page.url %} is-active{% endif %}">
-      <a class="c-GlobalNav--Link" href="/privacy/">Privacy</a>
-    </li>
-    <li class="c-GlobalNav--Item {% if p.url == page.url %} is-active{% endif %}">
-      <a class="c-GlobalNav--Link" href="/talks/">Talks</a>
-    </li>
-    <li class="c-GlobalNav--Item {% if p.url == page.url %} is-active{% endif %}">
-      <a class="c-GlobalNav--Link" href="/guests/">Guests</a>
-    </li>
-  {% assign pages = site.pages | sort:"url" %}
+  {% assign pages = site.pages | sort:"navOrder" %}
   {% for p in pages %}
-  {% if p.inNav == true %}
-    <li class="c-GlobalNav--Item {% if p.url == page.url %} is-active{% endif %}">
-      <a class="c-GlobalNav--Link" href="{{ p.url }}">
-        {% if p.navTitle %}
-        {{ p.navTitle }}
-        {% else %}
-        {{ p.title }}
-        {% endif %}
-      </a>
-    </li>
+    {% if p.inNav == true %}
+      <li class="c-GlobalNav--Item {% if p.url == page.url %} is-active{% endif %}">
+        <a class="c-GlobalNav--Link"
+          href="{{ p.url }}">{{ p.navTitle | default: p.title }}</a>
+      </li>
     {% endif %}
   {% endfor %}
   </ul>

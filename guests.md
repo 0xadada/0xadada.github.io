@@ -1,9 +1,10 @@
 ---
 layout: tag
-slug: guests
-name: Guests
+title: Guests
 displayTitle: Guests
-permalink: /guests/
+slug: guests
+inNav: true
+navOrder: 4
 ---
 
 Essays by guest authors of relevance and importance.

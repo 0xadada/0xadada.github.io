@@ -1,9 +1,10 @@
 ---
 layout: tag
-slug: projects
-name: Projects
+title: Projects
 displayTitle: Projects
-permalink: /projects/
+slug: projects
+inNav: true
+navOrder: 1
 ---
 
 I create software, media, photography, and other projects.

@@ -1,9 +1,10 @@
 ---
 layout: tag
-slug: talks
-name: Talks
+title: Talks
 displayTitle: Talks
-permalink: /talks/
+slug: talks
+inNav: true
+navOrder: 3
 ---
 
 Talks I've given at conferences, meetups, etc.
