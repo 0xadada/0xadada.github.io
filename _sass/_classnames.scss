@@ -1,0 +1,262 @@
+/**
+ * t-visuallyhidden
+ * Hide only visually, but have it available for screenreaders: h5bp.com/v
+ */
+.t-visuallyhidden {
+  border: 0;
+  clip: rect(0 0 0 0);
+  height: 1px;
+  margin: -1px;
+  overflow: hidden;
+  padding: 0;
+  position: absolute;
+  width: 1px;
+}
+/*
+ * Extends the .visuallyhidden class to allow the element to be focusable
+ * when navigated to via the keyboard: h5bp.com/p
+ */
+.t-visuallyhidden.focusable:active,
+.t-visuallyhidden.focusable:focus {
+  clip: auto;
+  height: auto;
+  margin: 0;
+  overflow: visible;
+  position: static;
+  width: auto;
+}
+
+/** o-Layout
+ */
+.o-Layout {
+  max-width: 57em;
+  margin: 0 auto;
+}
+
+
+/** o-Center
+ */
+.o-Center {
+  text-align: center;
+}
+
+/** other
+ * ========================================================================== */
+.byline,
+.byline .author,
+.published {
+  color: darkgrey;
+}
+
+/** ===== c-Avatar ============================================================
+ * Doge profile avatar in the header
+ */
+.c-Avatar {
+  border-radius: 2em;
+  display: inline-block;
+  height: 4em;
+  overflow: hidden;
+  width: 4em;
+}
+
+/** ===== c-Header ============================================================
+ * The global site header
+ */
+.c-Header {
+  margin-bottom: 4.5em;
+}
+
+/** ===== c-Long ===============================================================
+ * The longread component
+ */
+.c-Long .c-Header,
+.c-Long h2,
+.c-Long h3,
+.c-Long h4,
+.c-Long h5,
+.c-Long h6 {
+  text-align: center;
+}
+
+.c-Long .c-Header h1 {
+  margin-bottom: 0;
+}
+
+@media screen and (min-width: 35em) {
+  .c-Long h1 { font-size: 3em; }
+  .c-Long h2 { font-size: 2em; }
+  .c-Long .entry-content {
+    font-size: 1.25em;
+    text-align: justify;
+  }
+}
+
+/** c-Grid
+ * The grid component
+ * ========================================================================== */
+@media screen and (min-width: 35em) {
+  .c-Grid {
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+  .c-Grid--1-4 {
+    flex: 0 0 24%;
+    max-width: 24%;
+    margin-right: 1%;
+  }
+
+  .c-Grid--3-4 {
+    flex: 0 0 75%;
+    max-width: 75%;
+  }
+}
+
+
+/** c-GlobalNav
+ * The global navigation links
+ * ========================================================================== */
+
+.c-GlobalNav--List {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  margin-left: 2.5em;
+}
+
+.c-GlobalNav--Item {
+  display: inline;
+}
+
+.c-GlobalNav--Item:first-child { padding-left: 0; }
+.c-GlobalNav--Item::after {
+  content: '\002F';
+  margin: 0 0.1875rem;
+}
+.c-GlobalNav--Item:last-child::after {
+  content: none;
+}
+.c-GlobalNav--Link:link {
+  color: #292929;
+  text-decoration: none;
+}
+
+.c-GlobalNav--Link:hover,
+.c-GlobalNav--Item.is-active .c-GlobalNav--Link {
+  text-decoration: underline;
+}
+
+
+/** ===== c-Index =============================================================
+ * The global index nav
+ */
+.c-Index { list-style-type: upper-roman; }
+.c-Index--Item { margin-bottom: 0.5em; }
+
+
+/** Annotations
+ * ========================================================================== */
+.Annotation-ref {
+  border-bottom: 0.0625em dotted lightgreen;
+  cursor: help;
+  text-decoration: none;
+}
+.Annotation {
+  background: white;
+  box-shadow: 0.25em 0.25em 0.5em black;
+  font-family: sans-serif;
+  font-size: 0.6em;
+  margin-left: -99em;
+  margin-top: -0.25em;
+  opacity: 0;
+  position: absolute;
+  transition: all 250ms ease;
+  width: 25%;
+}
+.Annotation,
+.Annotation:target {
+  border: none;
+  background: white;
+  padding: 1em;
+}
+.Annotation:target,
+.Annotation:hover,
+.Annotation-ref:hover ~ .Annotation,
+.Annotation-ref:focus ~ .Annotation {
+  margin-left: -2em;
+  opacity: 0.95;
+}
+
+/** Ref
+ *
+ * A link to a reference, footnote or citation.
+ */
+.Ref:target { font-weight: bold; }
+
+/** RefBack
+ *
+ * A link from a citation or footnote back to its reference.
+ */
+.RefBack { text-decoration: none; }
+.RefBack::after { content: "↑"; }
+
+/** c-Footer
+ * Global site footer
+ * ========================================================================== */
+.c-Footer {
+  margin: 1.5em auto;
+  border-top: 1px solid rgba(61, 70, 77, 0.1);
+}
+
+
+/** ===== c-Meta ==============================================================
+ * Non-content styling
+ */
+.c-Meta {
+  color: rgba(61, 70, 77, 0.6);
+}
+
+
+/** ===== c-License ===========================================================
+ * Copyright and ownership styles
+ */
+.c-License {
+  margin-top: 4em;
+  margin-bottom: 4em;
+}
+.c-License--Content a:first-child {
+  display: inline-block;
+}
+
+
+/** ===== c-Museum ============================================================
+ * the image gallery
+ */
+.c-Museum--Gallery {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.c-Museum--GalleryOption,
+.c-Museum--GalleryImage {
+  display: none;
+}
+
+.c-Museum--GalleryOption:checked + .c-Museum--GalleryImage {
+  display: block;
+}
+
+.c-Museum--GalleryThumbnails {
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}
+.c-Museum--GalleryThumbnail {
+  max-width: 33.333333%;
+  margin: 0 0.25rem 0 0;
+}
+.c-Museum--GalleryThumbnail:last-child {
+  margin: 0;
+}
