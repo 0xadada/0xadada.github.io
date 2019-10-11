@@ -216,6 +216,13 @@
   color: rgba(61, 70, 77, 0.6);
 }
 
+/** ===== highlighter ======================================================= */
+.highlighter-rouge pre.highlight {
+  padding: 0.5rem 1rem;
+  letter-spacing: -0.06em;
+  font-size: 12px;
+  white-space: pre-wrap;
+}
 
 /** ===== c-License ===========================================================
  * Copyright and ownership styles

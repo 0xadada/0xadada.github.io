@@ -99,12 +99,16 @@ than really necessary) and the rest I left free for Arch.
 
 For commands typed as the normal user, I will not prefix them:
 
-    uname -a
+```bash
+uname -a
+```
 
 For commands that need to be executed as a root account, i will prefix
 them with a hash-mark: `#`
 
-    # uname -a
+```bash
+# uname -a
+```
 
 
 ## Background
@@ -250,7 +254,9 @@ of the ISO they published against the hash of the ISO we downloaded. If the
 hash is identical, we know the contents are exactly the same. Start the
 terminal and run the following:
 
-    sha1sum <FILE>.iso
+```bash
+sha1sum <FILE>.iso
+```
 
 Next, we want to make sure the the ISO we've downloaded is provably supplied
 by the Arch Linux team. We can do this by verifying the cryptographic
@@ -265,13 +271,15 @@ that into the same directory as your Arch ISO. Then run the
 following, replacing the filename (here i use `archlinux-2016-02-01-dual.iso`)
 with the name of the files you've downloaded:
 
-    gpg --verify \
-        archlinux-2016.02.01-dual.iso.sig \
-        archlinux-2016.02.01-dual.iso 2>&1 | \
-        grep 'key ID' | \
-        gpg --recv-keys 2>&1 `awk '{print $NF}'` && \
-    gpg --verify archlinux-2016.02.01-dual.iso.sig \
-        archlinux-2016.02.01-dual.iso 2>&1 | grep 'signature from'
+```bash
+gpg --verify \
+    archlinux-2016.02.01-dual.iso.sig \
+    archlinux-2016.02.01-dual.iso 2>&1 | \
+    grep 'key ID' | \
+    gpg --recv-keys 2>&1 `awk '{print $NF}'` && \
+gpg --verify archlinux-2016.02.01-dual.iso.sig \
+    archlinux-2016.02.01-dual.iso 2>&1 | grep 'signature from'
+```
 
 This will first attempt to verify the signature, and if you don't have the
 signers key, it'll retrieve it. It'll then try to verify it again, and
@@ -308,7 +316,9 @@ new letter in the `sdX` list of drives.
 Replace the `X` with the letter on your system. Be sure to unmount the new
 drive.
 
-    umount /dev/sdX
+```bash
+umount /dev/sdX
+```
 
 Next, run the following command, it reads the ISO file you downloaded earlier
 and writes the contents directly to the USB drive, without the operating
@@ -316,7 +326,9 @@ system buffering the writes. Replace the `X` with the letter of the USB
 stick you took note of earlier, and `ARCHLINUX` with the name of the image
 file you downloaded.
 
-    dd if=ARCHLINUX.iso of=/dev/sdX bs=4M
+```bash
+dd if=ARCHLINUX.iso of=/dev/sdX bs=4M
+```
 
 After that’s run, the USB drive should be ready to boot from.
 
@@ -365,7 +377,9 @@ clean for our Arch Linux installer. This will delete all the data on the
 USB drive. Make sure to substitute `/dev/diskX` for the drive number you
 noted above.
 
-    diskutil partitionDisk /dev/diskX 1 "Free Space" "unused" "100%"
+```bash
+diskutil partitionDisk /dev/diskX 1 "Free Space" "unused" "100%"
+```
 
 Now<sup class="Ref" id="ref:note:4">[[4](#note:4)]</sup> we can write the iso file to the USB
 drive. **Note** We use `/dev/rdisk*` instead of `/dev/disk` because
@@ -373,7 +387,9 @@ it provides Raw disk access without the typical buffering the operating
 systemprovides. Substitute `DESTINATION` with the name of the `iso` file
 you downloaded earlier, and substitute the `X` with the number of the drive.
 
-    dd if=DESTINATION.iso of=/dev/rdiskX bs=1m
+```bash
+dd if=DESTINATION.iso of=/dev/rdiskX bs=1m
+```
 
 The `dd` command does not show any output before it has finished the copy
 process, so be patient and wait for it to complete, it can take around
@@ -412,12 +428,16 @@ the wireless drivers later in this article.
 
 First, we need to get an IP address from your router:
 
-    dhcpcd
+```bash
+dhcpcd
+```
 
 With the adapter plugged in and an IP address, make sure internet is flowing
 by pinging Google:
 
-    ping -c 3 www.google.com
+```bash
+ping -c 3 www.google.com
+```
 
 You should get a response that all three packets were sent and received.
 
@@ -428,7 +448,9 @@ The system clock should be just fine. The general Arch wiki recommends ensuring
 the system clock is accurate, and I’ve found it doesn’t seem to break anything.
 So, I run it:
 
-    timedatectl set-ntp true
+```bash
+timedatectl set-ntp true
+```
 
 
 ### Partition the Hard Drive
@@ -447,7 +469,9 @@ keep that partition table.
 In order to proceed you'll need to know the drive mapping scheme,
 we'll use `fdisk` to check the scheme:
 
-    fdisk -l
+```bash
+fdisk -l
+```
 
 This lists the existing partitions. If you created two partitions when
 preparing the MacBook, you should see a partition with a Type of `Apple
@@ -458,7 +482,9 @@ my case this was `/dev/sda5`. All the partitioning commands below will use
 Lets use `cgdisk` to view the partition table on the attached devices:
 Replace the `Y` with the drive you'll be using to install Arch Linux.
 
-    cgdisk /dev/sdY
+```bash
+cgdisk /dev/sdY
+```
 
 At the end of the partition table should be the free space you set aside
 for installing Arch. With that space, we're going to create a new
@@ -520,7 +546,9 @@ You can also use the following command for speed benchmarking to help
 determine which ciphers and key-sizes are fast enough for your
 particular use case:
 
-    cryptsetup benchmark
+```bash
+cryptsetup benchmark
+```
 
 Time to pick the encryption flavors! The default values for the cipher and
 key sizes were a bit too light for my tastes (in light of the NSA spying
@@ -529,13 +557,15 @@ balance my principals for privacy
 and security with practical usability and speed. Feel free to [read more
 on these settings](https://wiki.archlinux.org/index.php/Dm-crypt/Device_encryption#Encryption_options_for_LUKS_mode).
 
-    cryptsetup --cipher aes-xts-plain64 \
-      --key-size 512 \
-      --hash sha256 \
-      --iter-time 3000 \
-      --use-random \
-      --verify-passphrase \
-      luksFormat /dev/sda5
+```bash
+cryptsetup --cipher aes-xts-plain64 \
+  --key-size 512 \
+  --hash sha256 \
+  --iter-time 3000 \
+  --use-random \
+  --verify-passphrase \
+  luksFormat /dev/sda5
+```
 
 Enter in a good passphrase (twice), and we should be good to go.
 
@@ -544,7 +574,9 @@ and filesystems within the LVM.
 
 First, let’s open up our encrypted partition:
 
-    cryptsetup luksOpen /dev/sda5 lvm
+```bash
+cryptsetup luksOpen /dev/sda5 lvm
+```
 
 This is going to map our encrypted device (`/dev/sda5` in my case) to
 `/dev/mapper/lvm`. Now we’re going to create the physical and logical volumes
@@ -554,38 +586,50 @@ install, I’m using 10GB on my `/` directory. So, I think I’m good.
 
 Create the physical volume:
 
-    pvcreate /dev/mapper/lvm
+```bash
+pvcreate /dev/mapper/lvm
+```
 
 Now create the volume with the name `vgcrypt`:
 
-    vgcreate vgcrypt /dev/mapper/lvm
+```bash
+vgcreate vgcrypt /dev/mapper/lvm
+```
 
 We're ready to create the logical volumes now, `40GB` for root and the rest for
 users’ home, change `40GB` accordingly:
 
-    lvcreate --size 40G --name root vgcrypt
-    lvcreate --extents +100%FREE --name home vgcrypt
+```bash
+lvcreate --size 40G --name root vgcrypt
+lvcreate --extents +100%FREE --name home vgcrypt
+```
 
 We now have our two volumes `vgcrypt-root` and `vgcrypt-home`. They need
 to be formatted to a particular filesystem. I’ve been happy with the
 `ext4` filesystem.
 
-    mkfs.ext4 /dev/mapper/vgcrypt-root
-    mkfs.ext4 /dev/mapper/vgcrypt-home
+```bash
+mkfs.ext4 /dev/mapper/vgcrypt-root
+mkfs.ext4 /dev/mapper/vgcrypt-home
+```
 
 We can now mount these new partitions. Make sure to mount the root partition
 first so we can create the `/home` directory inside of it for the home
 partition:
 
-    mount /dev/mapper/vgcrypt-root /mnt
-    mkdir -p /mnt/home
-    mount /dev/mapper/vgcrypt-home /mnt/home
+```bash
+mount /dev/mapper/vgcrypt-root /mnt
+mkdir -p /mnt/home
+mount /dev/mapper/vgcrypt-home /mnt/home
+```
 
 Lets also mount our boot partition, while we're here. This is required so
 our bootable initramfs can be written to the boot drive:
 
-    mkdir -p /mnt/boot
-    mount /dev/sda1 /mnt/boot
+```bash
+mkdir -p /mnt/boot
+mount /dev/sda1 /mnt/boot
+```
 
 If you're interested in swap partition schemes, [check this script
 out](https://github.com/NoviceLive/unish/blob/master/doc/arch-install.sh#L127)
@@ -599,7 +643,9 @@ And with that, Arch is now ready to be installed on the disk.
 This step can optionally be skipped, but I prefer to choose a US server
 just in case it may be faster. Open up the mirrorlist:
 
-    vi /etc/pacman.d/mirrorlist
+```bash
+vi /etc/pacman.d/mirrorlist
+```
 
 Delete or comment out all the servers except one or two near you that seem
 good.
@@ -609,7 +655,9 @@ good.
 
 Actually installing Arch Linux onto the drive is the easiest part:
 
-    pacstrap -i /mnt base base-devel terminus-font
+```bash
+pacstrap -i /mnt base base-devel terminus-font
+```
 
 The `-i` flag asks for confirmation before installing packages. I like
 using it just so I can see what’s being installed. (After all that's part
@@ -631,14 +679,18 @@ While it’s normally a good idea to use UUIDs to find disks, we’re going to u
 labels. This is because our encryption setup generates random IDs for the disks
 when they’re decrypted. Let’s create the `fstab` file:
 
-    genfstab -L -p /mnt >> /mnt/etc/fstab
+```bash
+genfstab -L -p /mnt >> /mnt/etc/fstab
+```
 
 The `-L` flag will generate the fstab file with labels instead of UUIDs.
 The `-p` flag prevents pseudo-filesystems from being added.
 
 Always check the generated fstab:
 
-    cat /mnt/etc/fstab
+```bash
+cat /mnt/etc/fstab
+```
 
 It should look something like this:
 
@@ -661,7 +713,9 @@ optimizing for the speed of SSDs.
 
 We’re now ready to configure our new system. Let’s change root into it:
 
-    arch-chroot /mnt /bin/bash
+```bash
+arch-chroot /mnt /bin/bash
+```
 
 Set our system locale. I'm in the US, so I'll only uncomment that locale
 from `/etc/locale.gen`:
@@ -673,11 +727,15 @@ from `/etc/locale.gen`:
 
 Now generate the locales:
 
-    locale-gen
+```bash
+locale-gen
+```
 
 Make English UTF-8 the default:
 
-    echo LANG=en_US.UTF-8 > /etc/locale.conf
+```bash
+echo LANG=en_US.UTF-8 > /etc/locale.conf
+```
 
 The default font in the virtual console is not very readable, so lets use
 one that is far more readable. We're going to use the typeface "Terminus"
@@ -686,15 +744,21 @@ in size 18 that we installed with the base system earlier.
 There are other sizes available: 12, 14, 16, 20, 22, 24, 28, 32 as well
 as support for multiple non-English code pages.
 
-    echo FONT=ter-118n > /etc/vconsole.conf
+```bash
+echo FONT=ter-118n > /etc/vconsole.conf
+```
 
 Set the timezone accordingly. (I live on the east coast):
 
-    ln -sf /usr/share/zoneinfo/America/New_York /etc/localtime
+```bash
+ln -sf /usr/share/zoneinfo/America/New_York /etc/localtime
+```
 
 And set the time to the standard UTC:
 
-    hwclock --systohc --utc
+```bash
+hwclock --systohc --utc
+```
 
 Because we've encrypted our root disk, we need to make sure the kernel
 loads the proper modules to decrypt it on startup. Otherwise we won’t be
@@ -708,24 +772,32 @@ HOOKS line looks like this:
 
 Now we need to regenerate the initramfs image:
 
-    mkinitcpio -p linux
+```bash
+mkinitcpio -p linux
+```
 
 So that Internet will work on reboot, we need to enable the `dhcpcd` service.
 We’re going to keep using the ethernet-USB adapter for right now. We'll get
 wireless setup later. Get the name of the ethernet interface:
 
-    ip link
+```bash
+ip link
+```
 
 It should be `enp`-something. With that, enable the service, make sure you
 replace INTERFACE with your interfaces name.
 
-    systemctl enable dhcpcd@INTERFACE.service
+```bash
+systemctl enable dhcpcd@INTERFACE.service
+```
 
 
 Finally, let’s configure the machine’s hostname. You can change `macbook`
 to whatever you'd like:
 
-    echo macbook > /etc/hostname
+```bash
+echo macbook > /etc/hostname
+```
 
 Add this hostname to the list of hosts. Edit `/etc/hosts` and edit so it
 looks something like this:
@@ -740,13 +812,17 @@ looks something like this:
 
 Set a root password:
 
-    passwd
+```bash
+passwd
+```
 
 Create a non-root user for yourself and set the user’s password, replace
 USER with the username of your choosing:
 
-    useradd --create-home --groups wheel --shell /bin/bash USER
-    passwd USER
+```bash
+useradd --create-home --groups wheel --shell /bin/bash USER
+passwd USER
+```
 
 This will create the user, add it to the group wheel (traditional group
 of users who can run `sudo` commands), create a home
@@ -756,7 +832,9 @@ a default password for the user.
 Don't switch to the new user yet, because we'e added USER to the group
 `wheel`, lets grant the wheel group `sudo` privileges. Run:
 
-    visudo
+```bash
+visudo
+```
 
 And uncomment the following line so it looks like so:
 
@@ -769,14 +847,18 @@ Now we need to let the boot loader know where to find our new Arch Linux
 installation. `systemd` (was recently renamed, was Gummiboot) is a nice,
 simple boot loader.
 
-    # pacman -S systemd              # May be systemd-boot, included in core?
-    mkdir -p /boot/loader/entries
+```bash
+# pacman -S systemd              # May be systemd-boot, included in core?
+mkdir -p /boot/loader/entries
+```
 
 Setup the loader to default to arch and set the number of seconds to timeout in
 the file `/boot/loader/loader.conf`:
 
-    default arch
-    timeout 3
+```bash
+default arch
+timeout 3
+```
 
 Make sure the correct boot partition (`/dev/sda1` in my case) is mounted on
 `/boot` by running:
@@ -839,7 +921,9 @@ functionality, but if you're interested, you can
 Now we can have the bootloader write the initramfs onto the boot
 partition using `bootctl`, part of the systemd-boot package.
 
-    bootctl install
+```bash
+bootctl install
+```
 
 
 ### Reboot into New Installation
@@ -850,19 +934,25 @@ Let’s leave the chroot environment we used for the install:
 
 You can umount and close the encrypted volume:
 
-    umount -R /mnt
-    cryptsetup close vgcrypt
+```bash
+umount -R /mnt
+cryptsetup close vgcrypt
+```
 
 It’s not a bad idea to just double check the encryption to make sure it opens
 and mounts properly:
 
-    cryptsetup open /dev/sda5 vgcrypt
-    mount /dev/mapper/vgcrypt /mnt
+```bash
+cryptsetup open /dev/sda5 vgcrypt
+mount /dev/mapper/vgcrypt /mnt
+```
 
 If all goes accordingly, you can unmount and close the encryption again.
 And finally…
 
-    reboot
+```bash
+reboot
+```
 
 On reboot you should be greeted with the boot menu. After selecting Arch
 (or waiting for it to timeout), you should be prompted for your password to
@@ -896,28 +986,36 @@ and use pacman to build and install the package. This allows us to manage
 the package as if it was installed with pacman, although we're manually
 installing it.
 
-    $ cd ~
-    $ curl -L -O https://aur.archlinux.org/cgit/aur.git/snapshot/package-query.tar.gz
-    $ tar -xvzf package-query.tar.gz
-    $ cd package-query
+```bash
+$ cd ~
+$ curl -L -O https://aur.archlinux.org/cgit/aur.git/snapshot/package-query.tar.gz
+$ tar -xvzf package-query.tar.gz
+$ cd package-query
+```
 
 Within the packages' folder, we’re going to run the following to build it:
 
-    $ makepkg -s
+```bash
+$ makepkg -s
+```
 
 This will run as your regular user only asking you for your root password if
 necessary. With the package made, we can install it via pacman:
 
-    # pacman -U package-query-1.6.2-1-x86_64.pkg.tar.xz
+```bash
+# pacman -U package-query-1.6.2-1-x86_64.pkg.tar.xz
+```
 
 Now we’ll do the same for yaourt:
 
-    $ cd ~
-    $ curl -L -O https://aur.archlinux.org/cgit/aur.git/snapshot/yaourt.tar.gz
-    $ tar -xvzf yaourt.tar.gz
-    $ cd yaourt
-    $ makepkg -s
-    # pacman -U yaourt-1.6-1-any.pkg.tar.xz
+```bash
+$ cd ~
+$ curl -L -O https://aur.archlinux.org/cgit/aur.git/snapshot/yaourt.tar.gz
+$ tar -xvzf yaourt.tar.gz
+$ cd yaourt
+$ makepkg -s
+# pacman -U yaourt-1.6-1-any.pkg.tar.xz
+```
 
 From now on you can use `pacman` and `yaourt` interchangeably… for the most
 part. `yaourt` will install Arch repository packages and AUR packages.
@@ -928,16 +1026,22 @@ part. `yaourt` will install Arch repository packages and AUR packages.
 
 ALSA works out of the box with Macs so install it via:
 
-    # pacman -S alsa-utils
+```bash
+# pacman -S alsa-utils
+```
 
 Then use:
 
-    alsamixer
+```bash
+alsamixer
+```
 
 to control the speakers. Make sure to disable channels for speakers you
 don't have. Test your speakers with:
 
-    speaker-test -c 2
+```bash
+speaker-test -c 2
+```
 
 where 2 is the number of speakers.
 
@@ -951,11 +1055,15 @@ open-source) drivers.
 
 For Macbookpro 7,1 (Mid-2010 or 8,2 (Early-2011):
 
-    # pacman -S xf86-video-intel mesa-libgl libva-intel-driver libva
+```bash
+# pacman -S xf86-video-intel mesa-libgl libva-intel-driver libva
+```
 
 For Macbookpro 11,3 (Late-2013)<sup class="Ref" id="ref:note:8">[[8](#note:8)]</sup>
 
-    # pacman -S nvidia mesa-libgl libva-intel-driver libva
+```bash
+# pacman -S nvidia mesa-libgl libva-intel-driver libva
+```
 
 The `-S` flag tells pacman to install the subsequent packages listed.
 (Again, you can use yaourt if you’d like.) This will install the Intel video
@@ -966,7 +1074,9 @@ dependencies. Get all the dependencies!
 With the necessary drivers installed, we can get Xorg (or the X Window System)
 installed.
 
-    # pacman -S xorg-server xorg-server-utils xorg-xinit xterm
+```bash
+# pacman -S xorg-server xorg-server-utils xorg-xinit xterm
+```
 
 I like to install the Xorg utilities, too, because there are at least a couple
 I'll use later (either in this guide or another) that are helpful in improving
@@ -978,7 +1088,9 @@ HiDPI support for the MacBook’s HiDPI Retina display.
 Next we'll install a browser. This will install some typeface dependencies
 and font- rendering libraries that we'll be tweaking later.
 
-    # pacman -S firefox
+```bash
+# pacman -S firefox
+```
 
 
 ### Improved Typography
@@ -1014,11 +1126,13 @@ Next we'll add the [package maintainers PGP
 key](https://bbs.archlinux.org/viewtopic.php?id=162098) to the package
 database, update the package database and install the packages.
 
-    # pacman-key -r 962DDE58
-    # pacman-key --lsign-key 962DDE58
-    # pacman -Syyu
-    # pacman -S infinality-bundle
-    # pacman -S infinality-bundle-fonts
+```bash
+# pacman-key -r 962DDE58
+# pacman-key --lsign-key 962DDE58
+# pacman -Syyu
+# pacman -S infinality-bundle
+# pacman -S infinality-bundle-fonts
+```
 
 Make sure to select the option `fontconfig-infinality-ultimate` as that
 configuration [is the most clean, efficient and looks the best out of the
@@ -1031,7 +1145,9 @@ settings, apart from the rendering settings of the engine itself. After
 doing so, you can select the font style (win7, winxp, osx, linux, ...)
 with:
 
-    # fc-presets set
+```bash
+# fc-presets set
+```
 
 
 ### Window Manager Awesome
@@ -1043,7 +1159,9 @@ Its quick and light. Lets install the window manager (WM), awesome.
 
 To install:
 
-    # pacman -S awesome
+```bash
+# pacman -S awesome
+```
 
 Added this<sup class="Ref" id="ref:note:5">[[5](#note:5)]</sup> to run `awesome`
 when x starts:
@@ -1056,7 +1174,9 @@ when x starts:
 You’ll probably want to use your MacBook’s touchpad when you have a GUI. The
 simplest driver is the synaptics driver:
 
-    # pacman -S xf86-input-synaptics
+```bash
+# pacman -S xf86-input-synaptics
+```
 
 The following config at /usr/share/X11/xorg.conf.d/70-synaptics.conf works well
 for me, it uses the same "Natural Motion" that OS X does. Copy that file to the
@@ -1097,11 +1217,15 @@ driver: `broadcom-wl`. I actually don’t think this even officially supports th
 BCM4360 chipset, but it works well enough. We’ll need to install the AUR
 package:
 
-    $ yaourt -S broadcom-wl dialog wpa_supplicant
+```bash
+$ yaourt -S broadcom-wl dialog wpa_supplicant
+```
 
 And activate the kernel module:
 
-    # modprobe wl
+```bash
+# modprobe wl
+```
 
 **Note**: If you update to a newer kernel in the future, you may need to
 uninstall and reinstall the `broadcom-wl` package so it updates with the new
@@ -1111,15 +1235,19 @@ We need to stop the dhcpcd service we were using for the ethernet and start
 the `wifi-menu`<sup class="Ref" id="ref:note:1">[[1](#note:1)]</sup> utility.
 Keeping both running can cause conflicts.
 
-    # systemctl disable dhcpcd.service
-    # wifi-menu
+```bash
+# systemctl disable dhcpcd.service
+# wifi-menu
+```
 
 This will create and enable a systemd service that will start when the
 computer boots. Changes to the profile file will not propagate to the service
 file automatically. After such changes, it is necessary to reenable the
 profile:
 
-    # netctl reenable PROFILE
+```bash
+# netctl reenable PROFILE
+```
 
 After enabling a profile, it will be started at next boot.
 
@@ -1164,11 +1292,15 @@ named `~/.colorprofiles` for these files.
 
 Second, install the `xcalib` package from the Arch AUR.
 
-    yaourt -S xcalib
+```bash
+yaourt -S xcalib
+```
 
 Finally you can activate it by running:
 
-    xcalib ~/.colorprofiles/FILENAME.icc
+```bash
+xcalib ~/.colorprofiles/FILENAME.icc
+```
 
 Where `FILENAME` is the path to your color profile file.
 
@@ -1176,10 +1308,12 @@ To load this color profile when X starts, I also added this command to
 the `.xinitrc` file in my home directory. Just make sure you replace `FILENAME`
 with the name of your color-profile `.icc` file exported from OS X.
 
-    if [ `type -P xcalib` ]; then
-        # Use the color profile
-        xcalib ~/.colorprofiles/FILENAME.icc
-    fi;
+```bash
+if [ `type -P xcalib` ]; then
+  # Use the color profile
+  xcalib ~/.colorprofiles/FILENAME.icc
+fi;
+```
 
 
 ### Display Color Correction
@@ -1189,7 +1323,9 @@ appreciate a display that adapts its colors to the time of day.
 [F.lux](https://justgetflux.com) adjusts monitor color temperature
 adaptively to ease eye strain.
 
-    yaourt -S xfluxd
+```bash
+yaourt -S xfluxd
+```
 
 Then edit `/etc/xfluxd.conf` to set your rough lat/long coordinates (in
 decimal format) in order to correctly shift the color correction with the
@@ -1198,8 +1334,10 @@ sunrise and sunset.
 Finally, enable and start the `xfluxd` service. **Note** you should run
 this as your normal user, not as root.
 
-    systemctl enable --user xfluxd
-    systemctl start --user xfluxd
+```bash
+systemctl enable --user xfluxd
+systemctl start --user xfluxd
+```
 
 
 ### Power Management
@@ -1214,11 +1352,15 @@ its benchmarking utilities<sup class="Ref" id="ref:note:2">[[2](#note:2)]</sup>.
 > Idle-States, allowing you to identify applications with particular high
 > power demands.
 
-    yaourt -S powertop
+```bash
+yaourt -S powertop
+```
 
 You may want to put your laptop on battery power and calibrate powertop:
 
-    # powertop --calibrate
+```bash
+# powertop --calibrate
+```
 
 That’ll cause the screen to blackout from time to time. Just let it run. It
 takes a few minutes then your screen will come back on.
@@ -1241,8 +1383,10 @@ settings on startup.
 And enable it to automatically start at boot time, then start it for your
 current boot session.
 
-    # systemctl enable powertop.service
-    # systemctl start powertop.service
+```bash
+# systemctl enable powertop.service
+# systemctl start powertop.service
+```
 
 
 ### Laptop Mode Tools
@@ -1254,7 +1398,9 @@ the Linux kernel, which allows you to tweak a number of other power-related
 settings using a simple configuration file. Combined with `acpid` and CPU
 frequency scaling, LMT provides a complete notebook power management suite.
 
-    $ yaourt -S laptop-mode-tools
+```bash
+$ yaourt -S laptop-mode-tools
+```
 
 If you want to enable laptop mode even on AC power, because you run the laptop
 attached to an external keyboard and monitor, edit:
@@ -1282,8 +1428,10 @@ and disable Intel pstate handling as well:
 
 Finally, enable and start the systemd service:
 
-    # systemctl enable laptop-mode.service
-    # systemctl start  laptop-mode.service
+```bash
+# systemctl enable laptop-mode.service
+# systemctl start  laptop-mode.service
+```
 
 
 ### acpid
@@ -1291,14 +1439,18 @@ Finally, enable and start the systemd service:
 A very useful tool is from the `acpi` package, which provides battery
 information using the command `acpi -v`. To install:
 
-    # pacman -S acpi
+```bash
+# pacman -S acpi
+```
 
 `acpid` is an extensible daemon for handling ACPI events. It can run
 commands when the laptop lid is closed, etc.
 
-    # pacman -S acpid
-    # systemctl enable acpid.service
-    # systemctl start  acpid.service
+```bash
+# pacman -S acpid
+# systemctl enable acpid.service
+# systemctl start  acpid.service
+```
 
 
 ### CPU Frequency Scaling
@@ -1307,9 +1459,11 @@ Another utility that will help with CPU frequency scaling is `cpupower`,
 it provides useful CLI utilities and a systemd service to change the CPU
 governor at boot.
 
-    $ yaourt -S cpupower
-    # systemctl enable cpupower
-    # systemctl start cpupower
+```bash
+$ yaourt -S cpupower
+# systemctl enable cpupower
+# systemctl start cpupower
+```
 
 I use cpupower to modulate the CPU’s speeds. This keeps CPU in check from
 maxing out at all times. My cpupower config file at `/etc/default/cpupower`
@@ -1325,9 +1479,11 @@ You should adjust this setting to your own needs.
 Intel provides a daemon that will keep tabs on the CPUs’ temperature and
 adjust settings to keep it from getting too hot, its called `thermald`.
 
-    $ yaourt -S thermald
-    # systemctl enable thermald.service
-    # systemctl start thermald.service
+```bash
+$ yaourt -S thermald
+# systemctl enable thermald.service
+# systemctl start thermald.service
+```
 
 
 ### Fan Control
@@ -1337,9 +1493,11 @@ fan. The following script helps add fine-tuning for the fan that will
 increase its baseline speed and ramp it up gently, so it’s not an
 all-or-nothing kind of setup.
 
-    $ yaourt -S mbpfan-git
-    # systemctl enable mbpfan.service
-    # systemctl start mbpfan.service
+```bash
+$ yaourt -S mbpfan-git
+# systemctl enable mbpfan.service
+# systemctl start mbpfan.service
+```
 
 By default the service runs in verbose mode which adds tons of output to the
 system journal. It basically works by measuring the CPU temp, adjusting the fan
@@ -1357,8 +1515,10 @@ To get the `fn` keys working in X, we will install `xbindkeys` which helps
 bind keyboard keys to commands. We will bind keys for volume, keyboard and
 display brightness.
 
+    ```bash
     # pacman -S xbindkeys
     yaourt -S xorg-xbacklight kbdlight
+    ```
 
 Create your configuration file for xbindkeys: `.xbindkeysrc`
 
@@ -1410,10 +1570,12 @@ Create your configuration file for xbindkeys: `.xbindkeysrc`
 Next we'll auto-start xbindkeys when X starts, add this to your `.xinitrc`
 file:
 
-    if [ `type -P xbindkeys` ]; then
-        # Load custom keyboard key bindings
-        xbindkeys
-    fi;
+```bash
+if [ `type -P xbindkeys` ]; then
+  # Load custom keyboard key bindings
+  xbindkeys
+fi;
+```
 
 
 ### Apple Trackpad
@@ -1422,10 +1584,12 @@ Finally<sup class="Ref" id="ref:note:3">[[3](#note:3)]</sup>, we'll setup a
 Bluetooth Apple Trackpad. To do this, we'll install some bluetooth core
 utilities
 
-    # pacman -S bluez bluez-utils
-    # modprobe btusb  # Make sure bluetooth kernel module is loaded
-    # systemctl enable bluetooth.service  # Start bluetooth on reboot
-    # systemctl start bluetooth.service
+```bash
+# pacman -S bluez bluez-utils
+# modprobe btusb  # Make sure bluetooth kernel module is loaded
+# systemctl enable bluetooth.service  # Start bluetooth on reboot
+# systemctl start bluetooth.service
+```
     
 To actually connect to the Trackpad, we'll use the `bluetoothctl` interactive 
 utility to scan-for, discover, pair and connect to the Trackpad. (If your Trackpad

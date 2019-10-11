@@ -85,17 +85,21 @@ javascript that'll be used for attaching functionality.
 
 **CSS**
 
-    .c-button {
-        color: green;
-        border: 1px solid red;
-    }
+```css
+.c-button {
+  color: green;
+  border: 1px solid red;
+}
+```
 
 **JavaScript**
 
-    $( '.js-action-submit' ).click( function( e ) {
-        e.preventDefault();
-        // do form submit
-    }
+```js
+$( '.js-action-submit' ).click( function( e ) {
+  e.preventDefault();
+  // do form submit
+}
+```
 
 ## Use themes to separate ornamentation from core design
 
@@ -110,28 +114,32 @@ focuses on the ornamental effects of the element. An example helps:
 
 **Markup**
 
-    <!--Okay-->
-    <a href="/contact" class="c-fun-button " title="contact us">Contact Us</a>
-    <!--Better-->
-    <a href="/contact" class="c-contact-button t-contact-button---fancy" title="contact us">Contact Us</a>
+```html
+<!--Okay-->
+<a href="/contact" class="c-fun-button " title="contact us">Contact Us</a>
+<!--Better-->
+<a href="/contact" class="c-contact-button t-contact-button---fancy" title="contact us">Contact Us</a>
+```
 
 **CSS**
 
-    /* Okay */
-    .c-fun-button {
-        display: inline-block;
-        padding: 1em .5em;
-        border: 1px dashed red;
-    }
+```css
+/* Okay */
+.c-fun-button {
+    display: inline-block;
+    padding: 1em .5em;
+    border: 1px dashed red;
+}
 
-    /* Better */
-    .c-contact-button {
-        display: inline-block;
-        padding: 1em .5em;
-    }
-    .t-contact-button---fancy {
-        border: 1px dashed red;
-    }
+/* Better */
+.c-contact-button {
+    display: inline-block;
+    padding: 1em .5em;
+}
+.t-contact-button---fancy {
+    border: 1px dashed red;
+}
+```
 
 ## Increase portability with context-free CSS
 
@@ -149,26 +157,30 @@ example:
 
 **Markup**
 
-    <ul class=" c-navmenu ">
-        <li>
-            <a class=" c-nav-menu–-item ">an item</a>
-        </li>
-        <li>
-            <a class=" c-nav-menu–-item ">an item</a>
-        </li>
-    </ul>
+```html
+<ul class=" c-navmenu ">
+<li>
+  <a class=" c-nav-menu–-item ">an item</a>
+</li>
+<li>
+  <a class=" c-nav-menu–-item ">an item</a>
+</li>
+</ul>
+````
 
 **CSS**
 
-    .c-nav-menu {
-        property-name: property-value;
-        property-name: property-value;
-    }
-    .c-nav-menu–-item {
-        display: inline-block;
-        font-weight: bold;
-        color: red;
-    }
+```css
+.c-nav-menu {
+    property-name: property-value;
+    property-name: property-value;
+}
+.c-nav-menu–-item {
+    display: inline-block;
+    font-weight: bold;
+    color: red;
+}
+```
 
 In this example, the menu items can be moved independently to other
 parts of the site. And while this example might not occur in the real-world,
@@ -180,16 +192,20 @@ you duplicate the class name, but add a modifier class separated by three
 
 **CSS**
 
-    .c-navmenu-item---light {
-        font-weight: normal;
-        color: yellow;
-    }
+```css
+.c-navmenu-item---light {
+  font-weight: normal;
+  color: yellow;
+}
+```
 
 **Markup**
 
-    <li>
-        <a class=" c-navmenu–item c-navmenu-item---light ">an item</a>
-    </li>
+```html
+<li>
+  <a class=" c-navmenu–item c-navmenu-item---light ">an item</a>
+</li>
+```
 
 Extending our already-existing style by adding classes additionally gives
 us a reusable class that we can then use anywhere we use the original class.
@@ -267,9 +283,11 @@ state of the element is when it has no additional descriptors in the class
 attribute - the default state. For an anchor tag button, some additional
 states class names could be:
 
-    is-active
-    is-disabled
-    is-hover
+```
+is-active
+is-disabled
+is-hover
+```
 
 ## Adding Behavior
 
@@ -280,14 +298,16 @@ Clicking the anchor tag results in another container element showing or
 hiding. Separate the behavioral hint by using a class name that indicates
 its action.
 
-    js-action-apply
-    js-action-navigate
-    js-action-cancel
-    js-action-next
-    js-action-play
-    js-action-toggle
-    js-action-clickable
-    js-action-draggable
+```
+js-action-apply
+js-action-navigate
+js-action-cancel
+js-action-next
+js-action-play
+js-action-toggle
+js-action-clickable
+js-action-draggable
+```
 
 Avoid using these class names to apply css styles.
 

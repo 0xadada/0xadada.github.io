@@ -240,58 +240,62 @@ by describing the directory structure.
 
 These comments describe the application-specific file structure:
 
-    .dockerignore
-    .ebextensions/
-      01_envvars.config
-    .ebignore
-    .elasticbeanstalk/
-    Dockerrun.aws.json
-    .gitignore               # Describes which files git ignores
-    .bowerrc                 # Configures where web frontend dependencies live
-    .csslintrc.json          # Describes CSS syntax rules
-    .jshintrc                # Describes JavaScript syntax rules
-    bower.json               # Describes web frontend dependencies
-    gulpfile.js              # Describes app build and dev tasks
-    package.json             # Describes NPM dependencies
-    app/                     # Our python app
-      apps/*                 # python app modules
-      project/*              # App-specific settings
-      dist/*                 # App static assets (served via Nginx)
-    bin/*
-    docker/
-      django/
-        dev/
-          docker-compose.yml
-          Dockerfile
-        prod/
-          docker-compose.yml
-          Dockerfile
-          gunicorn.conf.py   # Settings for production app-server
-        start.sh             # Script to start app-server
-      nginx/*                # Nginx config files
-    environments/            # Environment-specific settings
-      dev/                   # Development-only environment settings
-        .env                 # Actual environment vars (Excluded from git)
-        .env.example         # Example environment vars
-        Procfile             # Configures how Honcho starts app-servers
-        requirements.txt     # Describes dev Python dependencies
-      prod/                  # Development-only environment settings
-        .env                 # Actual environment vars (Excluded from git)
-        .env.example         # Example environment vars
-        Procfile             # Configures how Honcho starts app-servers
-        requirements.txt     # Describes prod Python dependencies
+```
+.dockerignore
+.ebextensions/
+  01_envvars.config
+.ebignore
+.elasticbeanstalk/
+Dockerrun.aws.json
+.gitignore               # Describes which files git ignores
+.bowerrc                 # Configures where web frontend dependencies live
+.csslintrc.json          # Describes CSS syntax rules
+.jshintrc                # Describes JavaScript syntax rules
+bower.json               # Describes web frontend dependencies
+gulpfile.js              # Describes app build and dev tasks
+package.json             # Describes NPM dependencies
+app/                     # Our python app
+  apps/*                 # python app modules
+  project/*              # App-specific settings
+  dist/*                 # App static assets (served via Nginx)
+bin/*
+docker/
+  django/
+    dev/
+      docker-compose.yml
+      Dockerfile
+    prod/
+      docker-compose.yml
+      Dockerfile
+      gunicorn.conf.py   # Settings for production app-server
+    start.sh             # Script to start app-server
+  nginx/*                # Nginx config files
+environments/            # Environment-specific settings
+  dev/                   # Development-only environment settings
+    .env                 # Actual environment vars (Excluded from git)
+    .env.example         # Example environment vars
+    Procfile             # Configures how Honcho starts app-servers
+    requirements.txt     # Describes dev Python dependencies
+  prod/                  # Development-only environment settings
+    .env                 # Actual environment vars (Excluded from git)
+    .env.example         # Example environment vars
+    Procfile             # Configures how Honcho starts app-servers
+    requirements.txt     # Describes prod Python dependencies
+```
 
 Some of these directories and files are described in more depth below:
 
 ### .gitignore
 
-    environments/*/.env
-    node_modules
-    .elasticbeanstalk/*
-    !.elasticbeanstalk/*.cfg.yml
-    !.elasticbeanstalk/*.global.yml
-    # Built testing and static asset artifacts
-    app/dist
+```
+environments/*/.env
+node_modules
+.elasticbeanstalk/*
+!.elasticbeanstalk/*.cfg.yml
+!.elasticbeanstalk/*.global.yml
+# Built testing and static asset artifacts
+app/dist
+```
 
 Files matching the name `environments/*/.env` contain sensitive information
 (usernames, passwords, etc) about per-deployment environments that shouldn't
@@ -394,8 +398,10 @@ Python, while a simple HTTP server serves assets (images, CSS, etc).
 
 ### environments/prod/Procfile
 
-    webserver: cd app && gunicorn \
-        -c /etc/gunicorn/gunicorn.conf.py project.wsgi:application
+```bash
+webserver: cd app && gunicorn \
+  -c /etc/gunicorn/gunicorn.conf.py project.wsgi:application
+```
 
 In production, we use Gunicorn to serve the python application, so the
 only task run is the gunicorn app server. Static assets aren't handled
@@ -561,21 +567,23 @@ The `Dockerfile` is a set of instructions for Docker to execute in order
 to produce a Docker image&mdash; a file used to create a Docker container
 running your application code.
 
-    # ...
-    # Install apt, Python then NodeJS dependencies.
-    RUN             apt-get update && \
-                    curl -sL https://deb.nodesource.com/setup_0.12 | bash - && \
-                    apt-get install -y nodejs && \
-                    pip install --upgrade pip && \
-                    pip install -r \
-                        environments/dev/requirements.txt && \
-                    npm update && \
-                    npm install -g gulp && \
-                    npm install && \
-                    gulp
-    # Add our initialization script to the image and run it upon startup.
-    ADD             docker/django/start.sh /
-    CMD             ["/start.sh"]
+```bash
+# ...
+# Install apt, Python then NodeJS dependencies.
+RUN             apt-get update && \
+                curl -sL https://deb.nodesource.com/setup_0.12 | bash - && \
+                apt-get install -y nodejs && \
+                pip install --upgrade pip && \
+                pip install -r \
+                    environments/dev/requirements.txt && \
+                npm update && \
+                npm install -g gulp && \
+                npm install && \
+                gulp
+# Add our initialization script to the image and run it upon startup.
+ADD             docker/django/start.sh /
+CMD             ["/start.sh"]
+```
 
 In the development Dockerfile, `pip` and `npm` commands install the
 necessary dependencies from the `environments/dev` folder. Finally
@@ -588,25 +596,27 @@ This file provides configuration for Docker to orchestrate the management
 of the production Docker containers. This configuration can be used for
 testing locally prior to deployment to Amazon AWS.
 
-    django:
-      build: ../../..
-      dockerfile: docker/django/prod/Dockerfile
-      env_file: ../../../environments/prod/.env
-      volumes:
-        - "../../../docker/django/prod/gunicorn.conf.py:/etc/gunicorn/gunicorn.conf.py:ro"
-        - "/var/app/app/dist"
+```yml
+django:
+  build: ../../..
+  dockerfile: docker/django/prod/Dockerfile
+  env_file: ../../../environments/prod/.env
+  volumes:
+    - "../../../docker/django/prod/gunicorn.conf.py:/etc/gunicorn/gunicorn.conf.py:ro"
+    - "/var/app/app/dist"
 
-    nginx:
-      image: nginx
-      links:
-        - django
-      volumes:
-        - "../../../docker/nginx/nginx.conf:/etc/nginx/nginx.conf:ro"
-        - "../../../docker/nginx/sites-enabled.conf:/etc/nginx/conf.d/default.conf:ro"
-      volumes_from:
-        - django
-      ports:
-        - "80:80"
+nginx:
+  image: nginx
+  links:
+    - django
+  volumes:
+    - "../../../docker/nginx/nginx.conf:/etc/nginx/nginx.conf:ro"
+    - "../../../docker/nginx/sites-enabled.conf:/etc/nginx/conf.d/default.conf:ro"
+  volumes_from:
+    - django
+  ports:
+    - "80:80"
+```
 
 It defines two containers "django" and "nginx". "Django" is configured
 quite similar to the development setup, but doesn't map as many volumes
@@ -634,19 +644,21 @@ version is:
 This Dockerfile also installs production-only Python pip dependencies in
 requirements.txt.
 
-    # Install apt, Python then NodeJS dependencies.
-    RUN             apt-get update && \
-                    curl -sL https://deb.nodesource.com/setup_0.12 | bash - && \
-                    apt-get install -y nodejs && \
-                    pip install --upgrade pip && \
-                    pip install -r \
-                        environments/prod/requirements.txt && \
-                    npm update && \
-                    npm install -g gulp && \
-                    npm install && \
-                    gulp build
-    # Exposes port 8080
-    EXPOSE          8080
+```bash
+# Install apt, Python then NodeJS dependencies.
+RUN             apt-get update && \
+                curl -sL https://deb.nodesource.com/setup_0.12 | bash - && \
+                apt-get install -y nodejs && \
+                pip install --upgrade pip && \
+                pip install -r \
+                    environments/prod/requirements.txt && \
+                npm update && \
+                npm install -g gulp && \
+                npm install && \
+                gulp build
+# Exposes port 8080
+EXPOSE          8080
+```
 
 When Docker runs the image build, it runs `gulp build`, which runs
 code-quality, unit tests and produces production-ready web frontend assets.
@@ -753,22 +765,22 @@ credentials to utilize.
 a "[Task Definition](#task-def)" used to configure how to manage Docker containers
 running on Amazon EC2 Container Service (ECS) platform.
 
-    ...
-    "containerDefinitions": [
-    {
-        "name": "django",
-        "image": "0xadada/dockdj:latest",
-        "essential": true,
-        "memory": 512,
-        "mountPoints": [
-            {
-                "sourceVolume": "gunicorn-conf",
-                "containerPath": "/etc/gunicorn/gunicorn.conf.py",
-                "readOnly": true
-            }
-        ]
-    },
-    ...
+```json
+"containerDefinitions": [
+{
+    "name": "django",
+    "image": "0xadada/dockdj:latest",
+    "essential": true,
+    "memory": 512,
+    "mountPoints": [
+        {
+            "sourceVolume": "gunicorn-conf",
+            "containerPath": "/etc/gunicorn/gunicorn.conf.py",
+            "readOnly": true
+        }
+    ]
+}
+```
 
 The JSON format is very similar to the docker-compose Yaml format, having
 a nearly 1-to-1 mapping of `image`, `mountPoints` to volumes and ports all
@@ -801,9 +813,11 @@ themselves can define and provision their own dependencies.
 
 For this project, the next steps required of the developer are as follows:
 
-    git clone <PROJECT>
-    <create .env file>
-    .bin/stevedore dev start
+```bash
+git clone <PROJECT>
+<create .env file>
+.bin/stevedore dev start
+```
 
 The developer is now running the app. Any internal OS configuration, system
 libraries, software dependencies and provisioning are all handled by the
@@ -812,7 +826,9 @@ project and Docker&mdash; transparently to the developer.
 Subsequent context-switches between other projects and this project have
 been reduced to a single command:
 
-    .bin/stevedore dev start
+```bash
+.bin/stevedore dev start
+```
 
 The developer doesn't need to boot up a VM, nor does she/he need to
 understand or start any internal processes or run any commands internal
@@ -873,10 +889,12 @@ Beanstalk to deploy both the latest stack and application code:
 
 (Lets use 1.2.3 as an arbitrary version number for this example)
 
-    bin/deploy release 1.2.3 # Create a release branch and tag the image
-    bin/deploy publish 1.2.3 # Publish the Docker image and git branch
-                             # to Docker Hub and GitHub
-    bin/deploy deploy 1.2.3  # Use EB to deploy the latest release
+```bash
+bin/deploy release 1.2.3 # Create a release branch and tag the image
+bin/deploy publish 1.2.3 # Publish the Docker image and git branch
+                         # to Docker Hub and GitHub
+bin/deploy deploy 1.2.3  # Use EB to deploy the latest release
+```
 
 The deploy script is a light bash wrapper that automates Git, Docker and
 Elastic Beanstalk commands in an easy-to-reproduce set of short commands.
