@@ -2,7 +2,7 @@
 layout: longread
 title: "On Fascism"
 displayTitle: "On Fascism"
-date: 2019-09-25 00:10:00
+date: 2019-09-25 08:10:00
 excerpt: "Fascism is a cult of the archaic fitted out by modern technology"
 metaDescription: "Fascism is a cult of the archaic fitted out by modern technology"
 metaKeywords: fascism, capitalism, society of the spectacle, late capitalism, real estate
