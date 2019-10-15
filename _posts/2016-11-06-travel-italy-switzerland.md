@@ -106,7 +106,11 @@ willing to walk through the doorway.
 </figure>
 
 Travel is just a big distraction of novelty and the remarkable. It's easy to forget
-everything and be immersed in the distraction.
+everything and be immersed in the distraction. In a world where we all become
+hyperspecialized in our careers, travel lets you multiply your experiences of 
+life, hopefully getting a taste of other possible lives so you can tell yourself
+what it would've been like. Travel becomes the yearly experience people remember,
+the marker we live by when our lives become banal.
 
 > Tourism, human circulation considered as consumption, a by-product of the
 > circulation of commodities, is fundamentally nothing more than the leisure 
