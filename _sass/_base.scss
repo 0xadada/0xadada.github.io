@@ -36,6 +36,16 @@ select {
   line-height: 1.4;
 }
 
+@media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi) { 
+  /* anti-aliasing upgraded for high-DPI macOS/iOS Retina displays */
+  html,
+  button,
+  input,
+  select {
+    -webkit-font-smoothing: subpixel-antialiased; 
+  }
+}
+
 body {
   background: #FDF9F0 url("/static/images/meta/background-tile.png") repeat;
   background-size: 238px 238px;
