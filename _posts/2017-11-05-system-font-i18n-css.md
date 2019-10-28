@@ -8,7 +8,7 @@ metaKeywords: typography, css, web development
 metaOgType: "article"
 author: "0xADADA"
 license: cc-by-nc-sa
-tags: [projects]
+tags: [projects, open-source]
 ---
 
 

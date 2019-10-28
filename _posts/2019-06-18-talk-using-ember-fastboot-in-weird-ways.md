@@ -7,7 +7,7 @@ metaKeywords: javascript, web development, Ember, ember.js, fastboot, server sid
 metaOgType: "article"
 author: "0xADADA"
 license: cc-by-nc-sa
-tags: [talks]
+tags: [talks, open-source]
 ---
 
 <iframe width="560" height="315" 

@@ -7,7 +7,7 @@ metaKeywords: javascript, web development, npm package
 metaOgType: "article"
 author: "0xADADA"
 license: cc-by-nc-sa
-tags: [projects]
+tags: [projects, open-source]
 ---
 
 Released a tiny npm package today: [@0xadada/random-emoji](https://0xadada.pub/random-emoji/),

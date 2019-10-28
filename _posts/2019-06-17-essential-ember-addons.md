@@ -10,7 +10,7 @@ image: /static/images/2019-06-17-essential-ember-addons.png
 metaImage: /static/images/2019-06-17-essential-ember-addons.png
 author: "0xADADA"
 license: cc-by-nc-sa
-tags: [projects]
+tags: [projects, open-source]
 ---
 
 2019 has been a great year for Ember so far, so while my peers are focused on setting
