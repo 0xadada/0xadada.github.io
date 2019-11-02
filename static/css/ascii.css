@@ -1,0 +1,146 @@
+/* =============================================================================
+ * literal-reset-css.css
+ */
+
+a {
+  color: black;
+}
+
+body {
+  font-family: monospace;
+}
+
+article,
+aside,
+audio,
+blockquote,
+caption,
+cite,
+code,
+dd,
+div,
+div,
+dl,
+dt,
+fieldset,
+figcaption,
+figure,
+footer,
+form,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+header,
+hr,
+iframe,
+img,
+input,
+li,
+main,
+meter,
+nav,
+ol,
+p,
+pre,
+progress,
+section,
+svg,
+table,
+tbody,
+td,
+textarea,
+tfoot,
+th,
+thead,
+tr,
+ul,
+video {
+  display: inline;
+  margin: 0;
+  padding: 0;
+}
+
+br,
+img,
+svg {
+  display: none;
+}
+
+fieldset,
+iframe,
+input {
+  border: none;
+}
+
+mark {
+  background-color: unset;
+}
+
+pre {
+  white-space: normal;
+}
+
+abbr,
+del,
+ins,
+s,
+u {
+  text-decoration: none;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+strong,
+th,
+b {
+  font-weight: 400;
+}
+
+cite,
+dfn,
+em,
+var {
+  font-style: normal;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+small {
+  font-size: 1em;
+}
+
+
+/* =============================================================================
+ * theme
+ */
+body {
+  max-width: 40rem;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: justify;
+}
+
+body,
+a {
+  color: #ccc;
+}
+
+.entry-content,
+.entry-content a,
+.template-list a,
+.template-tag a ,
+.template-list .c-Index--item span,
+.template-tag .c-Index--item span {
+  color: black;
+}
