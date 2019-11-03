@@ -30,12 +30,16 @@
    */
   (function() {
     var params = new window.URLSearchParams(window.location.search);
-    if (params.get('format') === 'ascii') {
-      var alternate = document.querySelector('link[rel="alternate stylesheet"]');
+    var isFormatAscii = window.sessionStorage.getItem('format') === 'ascii' || params.get('format') === 'ascii';
+    if (isFormatAscii) {
+      var alternate = document.createElement('link');
       alternate.setAttribute('rel', 'stylesheet');
-      alternate.removeAttribute('title');
-      var styleEl = document.querySelector('style');
-      styleEl.remove();
+      alternate.setAttribute('href', '/static/css/ascii.css');
+      document.head.appendChild(alternate);
+      document.querySelector('style').remove();
+      window.sessionStorage.setItem('format', 'ascii');
+    } else {
+      window.sessionStorage.removeItem('format');
     }
   })();
 </script>
