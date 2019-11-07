@@ -1,0 +1,34 @@
+<div class="template-tag o-Layout c-Grid">
+  <header class="c-Header c-Grid--1-4">
+    <h1>
+      {{ page.displayTitle  | default: page.name }}
+    </h1>
+  </header>
+
+  <div class="c-Grid--3-4">
+    {{ content }}
+
+    <ol class="c-Index">
+      {% assign pages = site.pages | where: "webmention", true | reverse %}
+      {% for item in pages %}
+        <li class="c-index--item">
+          {% if item.layout == "webmention-like" %}❤️  {% endif %}
+          {% if item.layout == "webmention-reply" %}↩  {% endif %}
+
+          <a href="{{ item.url }}" title="{{ item.title }}">
+            <span>{{ item.title }}</span>
+          </a>
+
+          <br>
+
+          {% if item.metadescription %}
+            <span>{{ item.metadescription }}</span>
+            <br>
+          {% endif %}
+
+          <time class="published" datetime="{{ item.date | date: "%y-%m-%d" }}">{{ item.date | date: "%a %b %-d, %y" }}</time>
+        </li>
+      {% endfor %}
+    </ol>
+  </div>
+</div>
