@@ -26,7 +26,7 @@
             <br>
           {% endif %}
 
-          <time class="published" datetime="{{ item.date | date: "%y-%m-%d" }}">{{ item.date | date: "%a %b %-d, %y" }}</time>
+          <time class="published" datetime="{{ item.date | date: "%Y-%m-%d" }}">{{ item.date | date: "%A %B %-d, %Y" }}</time>
         </li>
       {% endfor %}
     </ol>
