@@ -1,7 +1,7 @@
 ---
 layout: list
 title: "0xADADA"
-displayTitle: "0xADADA"
+displayTitle: " "
 metaDescription: Software engineer, open web enthusiast, essayist, privacy and encryption advocate. Idealist. Recovering techno-utopian.
 metaOgType: "website"
 ---

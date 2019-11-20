@@ -31,24 +31,23 @@ select {
   text-size-adjust: none;
 
   /* Normalize font stack. */
-  font-family: "system-sans-serif", "system-gothic", sans-serif, "Twitter Color Emoji", "Apple Color Emoji", "Segoe UI Emoji";
+  /* font-family: "system-sans-serif", "system-gothic", sans-serif, "Twitter Color Emoji", "Apple Color Emoji", "Segoe UI Emoji"; */
+  font-family: "Computer Modern Serif", Times, serif, "Twitter Color Emoji", "Apple Color Emoji", "Segoe UI Emoji";
   font-size: 100%;
   line-height: 1.4;
 }
 
-@media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi) { 
+@media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi) {
   /* anti-aliasing upgraded for high-DPI macOS/iOS Retina displays */
   html,
   button,
   input,
   select {
-    -webkit-font-smoothing: subpixel-antialiased; 
+    -webkit-font-smoothing: subpixel-antialiased;
   }
 }
 
 body {
-  background: #FDF9F0 url("/static/images/meta/background-tile.png") repeat;
-  background-size: 238px 238px;
   color: #292929;
   margin: 0;
   padding: 1.5em;
@@ -60,7 +59,6 @@ body {
 
 a {
   color: #292929;
-
 }
 a:hover {
   color: #0000cc;
@@ -86,8 +84,9 @@ h3,
 h4,
 h5,
 h6 {
-  font-weight: 700;
+  font-weight: 400;
   letter-spacing: -.025em;
+  text-transform: uppercase;
 }
 
 code,

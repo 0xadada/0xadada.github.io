@@ -48,22 +48,25 @@
   color: darkgrey;
 }
 
-/** ===== c-Avatar ============================================================
+/** ===== Avatar ===============================================================
  * Doge profile avatar in the header
  */
-.c-Avatar {
+.Avatar {
   border-radius: 2em;
-  display: inline-block;
+  display: block;
   height: 4em;
   overflow: hidden;
   width: 4em;
 }
 
-/** ===== c-Header ============================================================
+/** ===== c-Header =============================================================
  * The global site header
  */
 .c-Header {
   margin-bottom: 4.5em;
+}
+.c-Header .Avatar {
+  margin: 0 auto 2em auto;
 }
 
 /** ===== c-Long ===============================================================
@@ -77,6 +80,7 @@
 .c-Long h6 {
   text-align: center;
 }
+
 
 .c-Long .c-Header h1 {
   margin-bottom: 0;
@@ -121,7 +125,7 @@
   list-style: none;
   padding: 0;
   margin: 0;
-  margin-left: 2.5em;
+  text-align: center;
 }
 
 .c-GlobalNav--Item {
