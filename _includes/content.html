@@ -1,5 +1,5 @@
-<article class="template-blog o-Layout c-Grid hentry h-entry">
-  <header class="c-Header c-Grid--1-4">
+<article class="template-content o-Layout hentry h-entry">
+  <header class="c-Header">
     <h1 class="entry-title p-name">
       {{ page.displayTitle | default: page.title }}
     </h1>
@@ -26,7 +26,7 @@
     {% endif %}
   </header>
 
-  <div class="c-Grid--3-4 entry-content e-content">
+  <div class="entry-content e-content">
     {{ content }}
   </div>
 
