@@ -7,6 +7,16 @@
   box-sizing: border-box;
 }
 
+::selection {
+  background-color: rgba(254, 231, 0, .9);
+}
+
+*:target {
+  background: lightgreen;
+  border: 1px dotted;
+  padding: 0.25em;
+}
+
 html,
 button,
 input,
@@ -52,17 +62,12 @@ body {
   padding: 1.5em;
 }
 
-::selection {
-  background-color: rgba(254, 231, 0, .9);
-}
-
 a {
   color: #292929;
 }
 a:hover {
   color: #0000cc;
 }
-
 .entry-content a[rel~="external"]::after,
 .e-content a[rel~="external"]::after {
   content: '\238B';
@@ -71,10 +76,11 @@ a:hover {
   margin-left: 0.1875rem;
 }
 
-*:target {
-  background: lightgreen;
-  border: 1px dotted;
-  padding: 0.25em;
+hr {
+  border: none;
+  border-top: 2pt solid black;
+  border-bottom: 1pt solid black;
+  height: 4pt;
 }
 
 h1,
