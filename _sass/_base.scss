@@ -31,8 +31,7 @@ select {
   text-size-adjust: none;
 
   /* Normalize font stack. */
-  /* font-family: "system-sans-serif", "system-gothic", sans-serif, "Twitter Color Emoji", "Apple Color Emoji", "Segoe UI Emoji"; */
-  font-family: "Computer Modern Serif", Times, serif, "Twitter Color Emoji", "Apple Color Emoji", "Segoe UI Emoji";
+  font-family: "Computer Modern Serif", "system-sans-serif", "system-gothic", Georgia, serif, "Twitter Color Emoji", "Apple Color Emoji", "Segoe UI Emoji";
   font-size: 100%;
   line-height: 1.4;
 }
