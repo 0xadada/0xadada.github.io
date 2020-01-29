@@ -16,12 +16,17 @@ metaImage: /static/images/meta/apple-touch-icon.png
 
 ## References
 
-> @0xADADA is the hat expert. 
-> <cite>[@qtychr](https://twitter.com/qtychr/status/756121223302635520)</cite>
+> "@0xADADA is the hat expert."
+> 
+> —@qtychr <cite>[Twitter](https://twitter.com/qtychr/status/756121223302635520)</cite>
 
-> [0xADADA] often wore a colored T-shirt with the day of the week printed on it. At midweek he wore a green “Wednesday” T-shirt; on the next day he wore a “Thursday” T-shirt in navy blue.
-> <cite>[ Hacking Life: Systematized Living and Its Discontents. Joseph M. Reagle, Jr. 2019 (MIT Press)](https://mitpress.mit.edu/books/hacking-life)</cite>
+> "[0xADADA] often wore a colored T-shirt with the day of the week printed on it. At midweek he wore a green 'Wednesday' T-shirt; on the next day he wore a “Thursday” T-shirt in navy blue."
+> 
+> —Joseph M. Reagle <cite>[Hacking Life: Systematized Living and Its Discontents](https://mitpress.mit.edu/books/hacking-life)</cite>
 
+> "[0xADADA is an] A**hole confrontational cyclist looking for a fight."
+> 
+> —@isaacbstoner <cite>[Twitter](https://twitter.com/isaacbstoner/status/1222558255324504072)</cite>
 
 ## FAQ
 
