@@ -1,7 +1,7 @@
 ---
-title: "interview question solution a chainable n-argument sum function"
+title: "An Interview Question: Write a chainable n-argument sum function"
 date: 2018-10-18 11:13:00
-metaDescription: "writing a javascript function to num multiple inputs with chainable invocation"
+metaDescription: "Writing a javascript function to sum multiple inputs with chainable invocation"
 metaKeywords: javascript
 metaOgType: "article"
 author: "0xADADA"
