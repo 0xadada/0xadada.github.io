@@ -2,6 +2,7 @@ timezone: "America/New_York"
 description: "Software engineer, open web enthusiast, essayist, privacy and encryption advocate. Idealist. Recovering techno-utopian."
 paginate: 10
 permalink: pretty
+paginate_path: "/:num/"
 sass:
   style: compressed
 
@@ -12,6 +13,9 @@ exclude: [
 ]
 
 plugins:
+  - jekyll-paginate # default, see https://help.github.com/en/github/working-with-github-pages/about-github-pages-and-jekyll#plugins
   - jekyll-feed
   - jekyll-sitemap
 
+# github pages jekyll and dependency versions
+# https://pages.github.com/versions/
