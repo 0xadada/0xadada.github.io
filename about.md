@@ -30,6 +30,8 @@ metaImage: /static/images/meta/apple-touch-icon.png
 
 ## FAQ
 
+* *Alignment?*<br>
+Chaotic Neutral
 * *Where do you live?*<br>
 Greater Boston Area, Massachusetts USA.
 * *What do you do for work?*<br>
