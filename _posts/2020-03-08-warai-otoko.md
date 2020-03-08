@@ -1,16 +1,28 @@
 ---
-title: "Warai Otoko Logo"
+title: "Warai Otoko (笑い男) Logo"
 displayTitle: "Warai Otoko Logo"
 date: 2020-03-08 16:48:00
-metaDescription: "Animated SVG logo using CSS transforms"
-metaKeywords: svg, css, web development
+metaDescription: "Animated SVG logo of an asset from Ghost in the Shell using CSS transforms"
+metaKeywords: svg, css, web development, media
 metaOgType: "article"
 author: "0xADADA"
 license: cc-by-nc-sa
 tags: [projects, open-source]
 ---
 
-An animated SVG using CSS transforms to rotate the text.
+The Laughing Man
+<ruby>
+  <ruby>
+    笑<rp>(</rp><rt>わらい</rt><rp>)</rp>
+    い
+    男<rp>(</rp><rt>おとこ</rt><rp>)</rp>
+  </ruby>
+  <rp>(</rp><rt>warai otoko</rt><rp>)</rp>
+</ruby>
+is a fictional character in the anime series _Ghost in the Shell: Stand
+Alone Complex_. 
+
+This lil' project is an animated SVG using CSS transforms to rotate the text.
 
 <svg viewBox="-160 -160 360 320" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
   <style>
@@ -48,17 +60,7 @@ An animated SVG using CSS transforms to rotate the text.
   </g>
 </svg>
 
-The Laughing Man
-<ruby>
-  <ruby>
-    笑<rp>(</rp><rt>わらい</rt><rp>)</rp>
-    い
-    男<rp>(</rp><rt>おとこ</rt><rp>)</rp>
-  </ruby>
-  <rp>(</rp><rt>warai otoko</rt><rp>)</rp>
-</ruby>
-is a fictional character in the anime series _Ghost in the Shell: Stand
-Alone Complex_. The Laughing Man logo is an
+The Laughing Man logo is an
 animated image of a smiling figure wearing a cap, with circling text quoting a 
 line from Salinger's novel _The Catcher in the Rye_, which reads:
 
