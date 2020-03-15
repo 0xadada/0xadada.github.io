@@ -99,7 +99,9 @@ pre {
   font-family: monospace;
 }
 
-blockquote {
+q,
+blockquote,
+blockquote cite {
   font-style: italic;
 }
 
@@ -108,11 +110,7 @@ p {
 }
 
 cite {
-  display: block;
   font-style: normal;
-}
-blockquote cite {
-  font-style: italic;
 }
 
 figure {

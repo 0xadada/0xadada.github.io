@@ -65,22 +65,25 @@ the economy, and individuals, we get **discipline**: austerity and cuts to
 social programs and public infrastructure, moralizing our individual failures 
 as people, and continual indebtedness.
 
+This is an ideological conservatism combined with a blind faith in an economics
+that can never be wrong. As Frank Wilhoit put it <q>Conservatism consists of exactly one proposition,
+to wit: There must be in-groups whom the law protects but does not bind, 
+alongside out-groups whom the law binds but does not protect</q> (See <cite>[The 
+travesty of liberalism](http://crookedtimber.org/2018/03/21/liberals-against-progressives/#comment-729288)</cite>
+by [Frank Wilhoit](https://www.broadheath.com/) 2018). Only the in-group is an
+autonomous, rogue financial sector, and the politial interest groups they fund.
+The out-group is everyone else.
+
 In this way the finance industry can reap the profits of risky financial 
 instruments, but when the risk generates market failures, the Fed bails them out.
 It's all upside, and no downside. This is the very definition of moral hazard. 
 The financial industry literally cannot lose because the Fed will always save them.
 
 In effect, this is <q>Socialism for the rich, rugged individualism for the poor</q>
-&mdash; [MLK](https://books.google.com/books?hl=de&id=B8k6btUYR68C&q=%22socialism+for+the+rich%22#v=snippet&q=%22socialism%20for%20the%20rich%22&f=false) (pp 346).
+&mdash; [Martin
+Luther King, Jr.](https://books.google.com/books?hl=de&id=B8k6btUYR68C&q=%22socialism+for+the+rich%22#v=snippet&q=%22socialism%20for%20the%20rich%22&f=false) (pp 346).
 
-> [Lemon socialism](https://en.wikipedia.org/wiki/Lemon_socialism) is a pejorative 
-> term for a form of government intervention in which government subsidies go to
-> weak or failing firms (lemons; see Lemon law), with the effective result that
-> the government (and thus the taxpayer) absorbs part or all of the recipient's
-> losses. The term derives from the conception that in socialism the government
-> may nationalize a company's profits while leaving the company to pay its own
-> losses, while in lemon socialism the company is allowed to keep its profits
-> but its losses are shifted to the taxpayer.
+> [Lemon socialism](https://en.wikipedia.org/wiki/Lemon_socialism) is a pejorative term for a form of government intervention in which government subsidies go to weak or failing firms (lemons; see Lemon law), with the effective result that the government (and thus the taxpayer) absorbs part or all of the recipient's losses. The term derives from the conception that in socialism the government may nationalize a company's profits while leaving the company to pay its own losses, while in lemon socialism the company is allowed to keep its profits but its losses are shifted to the taxpayer.
 
 So the imbalance: Why does the Fed continually save the financial industry every 
 10 years, but not any other industry? Why does the [Fed create and spend 1.5T 
@@ -102,3 +105,8 @@ in toxic resentment and fuel civil unrest.
   prevents them from buying these assets directly, but effectively does so by
   granting the banking industry daily settlements at near-zero interest rates
   while the rest of the economy must pay higher interest rates.
+
+## Thanks
+
+Thanks to [@b_apothecary](https://twitter.com/b_apothecary) for reviewing this 
+essay and providing feedback.
