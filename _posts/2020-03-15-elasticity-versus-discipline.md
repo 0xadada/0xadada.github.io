@@ -90,7 +90,7 @@ infrastructure?
 
 We, as a society are starting to understand that the financial sector is rotten
 to the core, and this rot is going to seep into public sentiment: _"If they don't
-play by the rules, why should I?"_. This has the effect or erroding the very
+play by the rules, why should I?"_. This has the effect or eroding the very
 conception of a nation operating under an equal rule of law, and will result
 in toxic resentment and fuel civil unrest.
 
