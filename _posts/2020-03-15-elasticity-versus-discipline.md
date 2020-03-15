@@ -96,7 +96,7 @@ And now we get to the systemic asymetries of power. Trump and those within his
 inner circle, as well as his political base believe they are entitled to the
 rights and protections of the law, and meanwhile cast blame and stigmatize those
 least able to defend themselves. Their in-group will be the first to receive the
-of bailouts, and the negative consequences will be blamed upon, and most effect
+benefit of any bailouts, and the negative consequences will be blamed upon, and most adversely affect
 the out-group. As [Adam Serwer](https://www.theatlantic.com/ideas/archive/2018/10/the-cruelty-is-the-point/572104/)
 puts it: <q>the cruelty is the point</q>:
 
