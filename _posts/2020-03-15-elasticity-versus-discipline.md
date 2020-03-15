@@ -70,7 +70,8 @@ instruments, but when the risk generates market failures, the Fed bails them out
 It's all upside, and no downside. This is the very definition of moral hazard. 
 The financial industry literally cannot lose because the Fed will always save them.
 
-In effect, this is <q>Socialism for the rich, rugged individualism for the poor</q> &mdash; MLK.
+In effect, this is <q>Socialism for the rich, rugged individualism for the poor</q>
+&mdash; [MLK](https://books.google.com/books?hl=de&id=B8k6btUYR68C&q=%22socialism+for+the+rich%22#v=snippet&q=%22socialism%20for%20the%20rich%22&f=false) (pp 346).
 
 > [Lemon socialism](https://en.wikipedia.org/wiki/Lemon_socialism) is a pejorative 
 > term for a form of government intervention in which government subsidies go to
