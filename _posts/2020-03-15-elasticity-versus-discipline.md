@@ -19,16 +19,28 @@ tags: [essays]
   <figcaption>Police in Valencia Spain by Luther Bottrill</figcaption>
 </figure>
 
-> "A central issue of contestation is **elasticity versus discipline**, elasticity 
-> for me and discipline for you, alchemy of banking and money funding for me,
-> austerity and borrowing/payment for you."
-> —<cite>[Liquidity Changes Everything](https://www.perrymehrling.com/2019/03/liquidity-changes-everything/)</cite>
+<figure class="quote">
+  <blockquote>
+    "A central issue of contestation is <strong>elasticity versus discipline</strong>, elasticity 
+    for me and discipline for you, alchemy of banking and money funding for me,
+    austerity and borrowing/payment for you."
+  </blockquote>
+  <figcaption>
+    <cite>
+      <a href="https://www.perrymehrling.com/2019/03/liquidity-changes-everything/" rel="external">
+        Liquidity Changes Everything</a>
+    </cite>
+    &mdash;
+    Perry Mehrling
+  </figcaption>
+</figure>
 
 
-Like 2009, the (coming/arriving) financial collapse of 2020 will reveal the 
-asymmetry of power between the financial sector and the rest of the economy, and
-it'll especially highlight how the financial sector is continually privatizing
-profits and socializing losses.
+Like 2009, 
+[the (coming/arriving) financial collapse of 2020](https://twitter.com/i/events/1238487524856803331) 
+will reveal the asymmetry of power between the financial sector and the rest of 
+the economy, and it'll especially highlight how the financial sector is continually 
+privatizing profits and socializing losses.
 
 When you see terms in the media about the Fed "expanding its balance sheet" 
 think: _"The Fed is literally buying failed financial instruments to prevent
@@ -70,9 +82,11 @@ In effect, this is Socialism for the rich, rugged individualism for the poor.
 > but its losses are shifted to the taxpayer.
 
 So the imbalance: Why does the Fed continually save the financial industry every 
-10 years, but not any other industry? Why does the Fed create and spend 1.5T 
-dollars to purchase worthless and arcane financial instruments, but never spend 
-on public goods like housing, student education, public infrastructure?
+10 years, but not any other industry? Why does the [Fed create and spend 1.5T 
+dollars to purchase worthless and arcane financial
+instruments](https://www.newyorkfed.org/markets/opolicy/operating_policy_200312a),
+but never spend on public goods like housing, student education, public 
+infrastructure?
 
 We, as a society are starting to understand that the financial sector is rotten
 to the core, and this rot is going to seep into public sentiment: _"If they don't
