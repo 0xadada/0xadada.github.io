@@ -92,6 +92,31 @@ instruments](https://www.newyorkfed.org/markets/opolicy/operating_policy_200312a
 but never spend on public goods like housing, student education, public 
 infrastructure?
 
+And now we get to the systemic asymetries of power. Trump and those within his
+inner circle, as well as his political base believe they are entitled to the
+rights and protections of the law, and meanwhile cast blame and stigmatize those
+least able to defend themselves. Their in-group will be the first to receive the
+of bailouts, and the negative consequences will be blamed upon, and most effect
+the out-group. As [Adam Serwer](https://www.theatlantic.com/ideas/archive/2018/10/the-cruelty-is-the-point/572104/)
+puts it: <q>the cruelty is the point</q>:
+
+<figure class="quote">
+  <blockquote>
+    Only the president and his allies, his supporters, and their anointed are entitled 
+    to the rights and protections of the law, and if necessary, immunity from it.
+    The rest of us are entitled only to cruelty, by their whim. This is how the 
+    powerful have ever kept the powerless divided and in their place, and enriched 
+    themselves in the process.
+  </blockquote>
+  <figcaption>
+  <cite>
+    <a href="https://www.theatlantic.com/ideas/archive/2018/10/the-cruelty-is-the-point/572104/" rel="external" title="The Cruelty is the Point">The
+      Cruelty is the Point
+    </a>
+  </cite>
+  </figcaption>
+</figure>
+
 We, as a society are starting to understand that the financial sector is rotten
 to the core, and this rot is going to seep into public sentiment: _"If they don't
 play by the rules, why should I?"_. This has the effect or eroding the very
