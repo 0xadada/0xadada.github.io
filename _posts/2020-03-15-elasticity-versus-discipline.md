@@ -55,7 +55,7 @@ Microsoft from going bankrupt.
 
 This is exactly what the Fed is doing when it says it is "expanding its balance 
 sheet"—its buying the failed assets the financial industry has created over 
-the last 10 years, those very same assets the industry has made huge profits 
+the last 10 years<sup>☩</sup>, those very same assets the industry has made huge profits 
 from; but now that the profits have stopped, the Fed bails them out buy buying
 them when no one else will.
 
@@ -130,6 +130,7 @@ in toxic resentment and fuel civil unrest.
   prevents them from buying these assets directly, but effectively does so by
   granting the banking industry daily settlements at near-zero interest rates
   while the rest of the economy must pay higher interest rates.
+* <sup>☩</sup>: [Mortgage-backed Securities](https://en.wikipedia.org/wiki/Mortgage-backed_security)
 
 ## Thanks
 
