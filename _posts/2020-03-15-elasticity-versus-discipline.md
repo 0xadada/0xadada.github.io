@@ -89,16 +89,33 @@ the last 10 years<sup>☩</sup>, those very same assets the industry has made hu
 from; but now that the profits have stopped, the Fed bails them out by buying
 them when no one else will.
 
-For the finance sector, the Fed provides **elasticity**: fungible rules around 
-banking, investing, taxation, and bailouts when things go bad. For the rest of 
-the economy, and individuals, we get **discipline**: austerity and cuts to 
-social programs and public infrastructure, moralizing our individual failures 
-as people, and continual indebtedness.
+When the Fed goes to congress to ask for changes to Section 14, they will use
+the Shock Doctrine playbook: <q>the banks will fail</q>, <q>retirement funds will
+tank</q>, <q>companies will go out of business</q>, <q>we're in desperate times,
+so we need to take desparate measures</q>. These predictions are all true, and these
+outcomes will happen: but the solution they offer only addresses the symptoms,
+but not the root cause&mdash; the **deregulation** of the financial sector.
+Neoliberal deregulation of the financial sector over the last 40 years has 
+encouraged banks to put money into risky bubbles that keep popping, retirement 
+funds of regular people are directly tied into that system, even _fueling it_.
+This is wrong. I'm not generally opposed to these risky investments, but these 
+of investments _must_ be separated from investment banks, and kept out of any
+fund designed for peoples retirements and long term savings. These asset types
+need to be drastically limited to qualified investors and speculators only.
+
+As it stands, bailouts will reward the most risky investors and speculators, while
+passive investors, retirees, and taxpayers will end up bailing out these risk
+takers. Thus, for the finance sector, the Fed provides **elasticity**: fungible 
+rules around banking, investing, taxation, and bailouts when things go bad. For
+the rest of the economy, and individuals, we get **discipline**: massive losses,
+austerity and cuts to social programs and public infrastructure, moralizing our
+individual failures as people, and continual indebtedness.
 
 This is an ideological conservatism combined with a blind faith in an economics
-that can never be wrong. As Frank Wilhoit put it <q>Conservatism consists of exactly one proposition,
-to wit: There must be in-groups whom the law protects but does not bind, 
-alongside out-groups whom the law binds but does not protect</q> (See <cite>[The 
+that can never be wrong. As Frank Wilhoit put it <q>Conservatism consists of 
+exactly one proposition, to wit: There must be in-groups whom the law protects 
+but does not bind, alongside out-groups whom the law binds but does not 
+protect</q> (See <cite>[The 
 travesty of liberalism](http://crookedtimber.org/2018/03/21/liberals-against-progressives/#comment-729288)</cite>
 by [Frank Wilhoit](https://www.broadheath.com/) 2018). Only the in-group is an
 autonomous, rogue financial sector, and the politial interest groups they fund.
@@ -133,7 +150,8 @@ And now we get to the systemic asymetries of power. Trump and those within his
 inner circle, as well as his political base believe they are entitled to the
 rights and protections of the law, and meanwhile cast blame and stigmatize those
 least able to defend themselves. Their in-group will be the first to receive the
-benefit of any bailouts, and the negative consequences will be blamed upon, and most adversely affect
+benefit of any bailouts, and the negative consequences will be blamed upon, and 
+most adversely affect
 the out-group. As [Adam Serwer](https://www.theatlantic.com/ideas/archive/2018/10/the-cruelty-is-the-point/572104/)
 puts it: <q>the cruelty is the point</q>:
 
