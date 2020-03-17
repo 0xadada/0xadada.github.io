@@ -44,7 +44,37 @@ privatizing profits and socializing losses.
 
 When you see terms in the media about the Fed "expanding its balance sheet" 
 think: _"The Fed is literally buying failed financial instruments to prevent
-banks and financial companies from going out of business"_<sup>☨</sup>. 
+banks and financial companies from going out of business"_. Currently, according 
+to [Section 14](https://www.federalreserve.gov/aboutthefed/section14.htm)
+of the Federal Reserve Act, the Fed is prevented from buying assets (stocks,
+index funds 
+<a class="Annotation-ref" href="#note:1">CDO<span 
+  class="Annotation" id="note:1">Collateralized Debt
+  Obligation</span></a>s,
+<a class="Annotation-ref" href="#note:2">MBS<span 
+  class="Annotation" id="note:2">Mortgage Backed
+  Securities</span></a>s)
+directly on the market.
+Instead they can only buy government-backed assets, mostly bonds and MBSs 
+by institutions like Freddie Mac that _are_ government backed. Instead, the Feds
+first line of defense is lowering interest rates, and then creating
+liquidity by buying long-term maturities.
+
+With the interest rates at zero, the biggest lever at the Fed is effectively
+broken, and now they've got to find another lever. Last Friday (6 March), Boston
+Fed President Eric Rosengren called on Congress to expand the Fed's powers to buy
+and sell a broader range of assets. This will require congressional approval, and
+during this period of crisis, I'm certain Shock Doctrine politics will win out,
+and these ammendments will pass. I hope I'm wrong.
+
+So what does this mean? This means that the Fed can start buying non-government
+backed securities: potentially any failing public stocks, private CDOs and MBSs.
+What this means is the Fed can buy the most dangerous, volitile, and toxic assets
+that nobody else is buying, the ones that are the first to fail in a bursting
+bubble. This is a Fed that has institutionalized &amp; _encouraged_ systemic
+moral hazard&mdash; saying, in effect: <q>If you (the finance sector) create 
+risky assets and they fail, we'll allow you to profit during the good times and 
+we'll save you by bying them back during the bad times</q>.
 
 Remember the Microsoft Zune mp3 player? Probably not, because it failed
 horribly. Now imagine Microsoft had put so much investment into its Zune, that 
@@ -56,7 +86,7 @@ Microsoft from going bankrupt.
 This is exactly what the Fed is doing when it says it is "expanding its balance 
 sheet"—its buying the failed assets the financial industry has created over 
 the last 10 years<sup>☩</sup>, those very same assets the industry has made huge profits 
-from; but now that the profits have stopped, the Fed bails them out buy buying
+from; but now that the profits have stopped, the Fed bails them out by buying
 them when no one else will.
 
 For the finance sector, the Fed provides **elasticity**: fungible rules around 
@@ -83,7 +113,14 @@ In effect, this is <q>Socialism for the rich, rugged individualism for the poor<
 &mdash; [Martin
 Luther King, Jr.](https://books.google.com/books?hl=de&id=B8k6btUYR68C&q=%22socialism+for+the+rich%22#v=snippet&q=%22socialism%20for%20the%20rich%22&f=false) (pp 346).
 
-> [Lemon socialism](https://en.wikipedia.org/wiki/Lemon_socialism) is a pejorative term for a form of government intervention in which government subsidies go to weak or failing firms (lemons; see Lemon law), with the effective result that the government (and thus the taxpayer) absorbs part or all of the recipient's losses. The term derives from the conception that in socialism the government may nationalize a company's profits while leaving the company to pay its own losses, while in lemon socialism the company is allowed to keep its profits but its losses are shifted to the taxpayer.
+> [Lemon socialism](https://en.wikipedia.org/wiki/Lemon_socialism) is a pejorative
+> term for a form of government intervention in which government subsidies go 
+> to weak or failing firms (lemons; see Lemon law), with the effective result 
+> that the government (and thus the taxpayer) absorbs part or all of the 
+> recipient's losses. The term derives from the conception that in socialism the 
+> government may nationalize a company's profits while leaving the company to 
+> pay its own losses, while in lemon socialism the company is allowed to keep 
+> its profits but its losses are shifted to the taxpayer.
 
 So the imbalance: Why does the Fed continually save the financial industry every 
 10 years, but not any other industry? Why does the [Fed create and spend 1.5T 
@@ -125,14 +162,11 @@ in toxic resentment and fuel civil unrest.
 
 ## Notes
 
-* <sup>☨</sup>: The Fed, according to [Section 14](https://www.federalreserve.gov/aboutthefed/section14.htm)
-  of the Federal Reserve Act
-  prevents them from buying these assets directly, but effectively does so by
-  granting the banking industry daily settlements at near-zero interest rates
-  while the rest of the economy must pay higher interest rates.
+
+
 * <sup>☩</sup>: [Mortgage-backed Securities](https://en.wikipedia.org/wiki/Mortgage-backed_security)
 
 ## Thanks
 
-Thanks to [@b_apothecary](https://twitter.com/b_apothecary) for reviewing this 
-essay and providing feedback.
+Thanks to [@b_apothecary](https://twitter.com/b_apothecary), and Coby Durling 
+for reviewing early drafts of this essay and providing feedback.
