@@ -95,7 +95,7 @@ tank</q>, <q>companies will go out of business</q>, <q>we're in desperate times,
 so we need to take desparate measures</q>. These predictions are all true, and these
 outcomes will happen: but the solution they offer only addresses the symptoms,
 but not the root cause&mdash; the
-**deregulation<sup class="Ref" id="ref:note:1">[[☨](#note:1)]</sup>**
+**deregulation<sup class="Ref" id="ref:note:1">[[1](#note:1)]</sup>**
 of the financial sector.
 Neoliberal deregulation of the financial sector over the last 40 years has 
 encouraged banks to put money into risky bubbles that keep popping, retirement 
@@ -146,7 +146,7 @@ So the imbalance: Why does the Fed continually save the financial industry every
 dollars to purchase worthless and arcane financial
 instruments](https://www.newyorkfed.org/markets/opolicy/operating_policy_200312a),
 but never spend on public goods like housing, student education, public 
-infrastructure<sup class="Ref" id="ref:note:2">[[✞](#note:2)]</sup>?
+infrastructure<sup class="Ref" id="ref:note:2">[[2](#note:2)]</sup>?
 
 And now we get to the systemic asymetries of power. Trump and those within his
 inner circle, as well as his political base believe they are entitled to the
@@ -183,7 +183,6 @@ in toxic resentment and fuel civil unrest.
 ## Notes
 
 1. <div id="note:1">
-     <sup>☨</sup>:
      Specifically, the gutting of the Volcker Rule, the repeal of the 
      affiliation restrictions of the Glass–Steagall Act, and the free-for-all stock
      buybacks in the financial sector since 2010:
@@ -197,7 +196,6 @@ in toxic resentment and fuel civil unrest.
      <a class="RefBack" href="#ref:note:1"></a>
    </div>
 1. <div id="note:2">
-     <sup>✞</sup>:
      This is our biggest opportunity, while we have the most leverage, to heavily
      invest in public infrastructure and works programs. The airline industry is
      already asking for bailouts to the tune of $50B. This isn't the time for
