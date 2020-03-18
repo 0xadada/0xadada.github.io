@@ -48,11 +48,11 @@ banks and financial companies from going out of business"_. Currently, according
 to [Section 14](https://www.federalreserve.gov/aboutthefed/section14.htm)
 of the Federal Reserve Act, the Fed is prevented from buying assets (stocks,
 index funds 
-<a class="Annotation-ref">CDO<span 
-  class="Annotation">Collateralized Debt
+<a class="Annotation-ref" href="#abbr:1">CDO<span 
+  class="Annotation" id="abbr:1">Collateralized Debt
   Obligation</span></a>s,
-<a class="Annotation-ref" href="#note:2">MBS<span 
-  class="Annotation" id="ref:note:2">Mortgage Backed
+<a class="Annotation-ref" href="#abbr:2">MBS<span 
+  class="Annotation" id="abbr:2">Mortgage Backed
   Securities</span></a>s)
 directly on the market.
 Instead they can only buy government-backed assets, mostly bonds and MBSs 
@@ -74,7 +74,7 @@ that nobody else is buying, the ones that are the first to fail in a bursting
 bubble. This is a Fed that has institutionalized &amp; _encouraged_ systemic
 moral hazard&mdash; saying, in effect: <q>If you (the finance sector) create 
 risky assets and they fail, we'll allow you to profit during the good times and 
-we'll save you by bying them back during the bad times</q>.
+we'll save you by buying them back during the bad times</q>.
 
 Remember the Microsoft Zune mp3 player? Probably not, because it failed
 horribly. Now imagine Microsoft had put so much investment into its Zune, that 
@@ -85,11 +85,9 @@ Microsoft from going bankrupt.
 
 This is exactly what the Fed is doing when it says it is "expanding its balance 
 sheet"—its buying the failed assets the financial industry has created over 
-the last 10 
-years<sup class="Ref" id="ref:note:2">[[☩](#note:2)]</sup>,
-those very same assets the industry has made huge profits from; but now that the 
-profits have stopped, the Fed bails them out by buying them when no one else 
-will.
+the last 10 years, those very same assets the industry has made huge profits from;
+but now that the profits have stopped, the Fed bails them out by buying them 
+when no one else will.
 
 When the Fed goes to congress to ask for changes to Section 14, they will use
 the Shock Doctrine playbook: <q>the banks will fail</q>, <q>retirement funds will
@@ -148,7 +146,7 @@ So the imbalance: Why does the Fed continually save the financial industry every
 dollars to purchase worthless and arcane financial
 instruments](https://www.newyorkfed.org/markets/opolicy/operating_policy_200312a),
 but never spend on public goods like housing, student education, public 
-infrastructure?
+infrastructure<sup class="Ref" id="ref:note:2">[[✞](#note:2)]</sup>?
 
 And now we get to the systemic asymetries of power. Trump and those within his
 inner circle, as well as his political base believe they are entitled to the
@@ -195,12 +193,34 @@ in toxic resentment and fuel civil unrest.
      </figure>
      Furthermore, The only ways to mitigate risk-loading is strict limitations 
      on executive compensation, employee bonuses, and no mergers or acquisitions
-     for at least 10 years.
+     for at least 10 years. These banks should be nationalized.
      <a class="RefBack" href="#ref:note:1"></a>
    </div>
 1. <div id="note:2">
-     <sup>☩</sup>:
-     <a href="https://en.wikipedia.org/wiki/Mortgage-backed_security">Mortgage-backed Securities</a>
+     <sup>✞</sup>:
+     This is our biggest opportunity, while we have the most leverage, to heavily
+     invest in public infrastructure and works programs. The airline industry is
+     already asking for bailouts to the tune of $50B. This isn't the time for
+     bailouts, this is the time for imagination, to create a society that works
+     for everyone. This is the time to
+     nationalize the airline industry. Since 2010, the
+     very same industry has been investing their money directly into stock
+     buybacks, pumping up their own stock prices, and paying huge bonuses to
+     their execs and CEOs. Since 2010 the major airlines have invested $45B in
+     buybacks, and now asks for $50B in bailouts.
+     <figure>
+        <img src="/static/images/2020-03-15-airline-buybacks.png" alt="Airline buybacks since 2010">
+        <figcaption>Airline stock buybacks since 2010.</figcaption>
+     </figure>
+     This means that they spent $45B
+     of their own money betting that their stocks would go up in value, paying out
+     any profits to their execs and CEOs as their valuations rose, and when
+     the market burst, they asked for their money back <strong>and an additional
+     $5B on top</strong>. To put this simply, this is a massive con-job and
+     outright theft. Nationalizing the airline industry is a win-win: it will
+     create good paying american jobs, make flying more affordable, mitigate cost
+     cutting at the exepnse of flight safety (see 'Boeing 737 Max'), and mitigate 
+     market risk.
      <a class="RefBack" href="#ref:note:2"></a>
    </div> 
 
