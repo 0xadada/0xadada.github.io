@@ -217,7 +217,7 @@ in toxic resentment and fuel civil unrest.
      $5B on top</strong>. To put this simply, this is a massive con-job and
      outright theft. Nationalizing the airline industry is a win-win: it will
      create good paying american jobs, make flying more affordable, mitigate cost
-     cutting at the exepnse of flight safety (see 'Boeing 737 Max'), and mitigate 
+     cutting at the expense of flight safety (see 'Boeing 737 Max'), and mitigate 
      market risk.
      <a class="RefBack" href="#ref:note:2"></a>
    </div> 
