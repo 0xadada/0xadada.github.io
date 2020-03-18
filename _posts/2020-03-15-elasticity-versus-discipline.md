@@ -48,11 +48,11 @@ banks and financial companies from going out of business"_. Currently, according
 to [Section 14](https://www.federalreserve.gov/aboutthefed/section14.htm)
 of the Federal Reserve Act, the Fed is prevented from buying assets (stocks,
 index funds 
-<a class="Annotation-ref" href="#note:1">CDO<span 
-  class="Annotation" id="note:1">Collateralized Debt
+<a class="Annotation-ref">CDO<span 
+  class="Annotation">Collateralized Debt
   Obligation</span></a>s,
 <a class="Annotation-ref" href="#note:2">MBS<span 
-  class="Annotation" id="note:2">Mortgage Backed
+  class="Annotation" id="ref:note:2">Mortgage Backed
   Securities</span></a>s)
 directly on the market.
 Instead they can only buy government-backed assets, mostly bonds and MBSs 
@@ -85,21 +85,25 @@ Microsoft from going bankrupt.
 
 This is exactly what the Fed is doing when it says it is "expanding its balance 
 sheet"—its buying the failed assets the financial industry has created over 
-the last 10 years<sup>☩</sup>, those very same assets the industry has made huge profits 
-from; but now that the profits have stopped, the Fed bails them out by buying
-them when no one else will.
+the last 10 
+years<sup class="Ref" id="ref:note:2">[[☩](#note:2)]</sup>,
+those very same assets the industry has made huge profits from; but now that the 
+profits have stopped, the Fed bails them out by buying them when no one else 
+will.
 
 When the Fed goes to congress to ask for changes to Section 14, they will use
 the Shock Doctrine playbook: <q>the banks will fail</q>, <q>retirement funds will
 tank</q>, <q>companies will go out of business</q>, <q>we're in desperate times,
 so we need to take desparate measures</q>. These predictions are all true, and these
 outcomes will happen: but the solution they offer only addresses the symptoms,
-but not the root cause&mdash; the **deregulation** of the financial sector.
+but not the root cause&mdash; the
+**deregulation<sup class="Ref" id="ref:note:1">[[☨](#note:1)]</sup>**
+of the financial sector.
 Neoliberal deregulation of the financial sector over the last 40 years has 
 encouraged banks to put money into risky bubbles that keep popping, retirement 
 funds of regular people are directly tied into that system, even _fueling it_.
 This is wrong. I'm not generally opposed to these risky investments, but these 
-of investments _must_ be separated from investment banks, and kept out of any
+investments _must_ be separated from investment banks, and kept out of any
 fund designed for peoples retirements and long term savings. These asset types
 need to be drastically limited to qualified investors and speculators only.
 
@@ -180,11 +184,27 @@ in toxic resentment and fuel civil unrest.
 
 ## Notes
 
-
-
-* <sup>☩</sup>: [Mortgage-backed Securities](https://en.wikipedia.org/wiki/Mortgage-backed_security)
+1. <div id="note:1">
+     <sup>☨</sup>:
+     Specifically, the gutting of the Volcker Rule, the repeal of the 
+     affiliation restrictions of the Glass–Steagall Act, and the free-for-all stock
+     buybacks in the financial sector since 2010:
+     <figure>
+        <img src="/static/images/2020-03-15-buybacks.jpg" alt="Stock buybacks since 2010">
+        <figcaption>Financial stock buybacks since 2010.</figcaption>
+     </figure>
+     Furthermore, The only ways to mitigate risk-loading is strict limitations 
+     on executive compensation, employee bonuses, and no mergers or acquisitions
+     for at least 10 years.
+     <a class="RefBack" href="#ref:note:1"></a>
+   </div>
+1. <div id="note:2">
+     <sup>☩</sup>:
+     <a href="https://en.wikipedia.org/wiki/Mortgage-backed_security">Mortgage-backed Securities</a>
+     <a class="RefBack" href="#ref:note:2"></a>
+   </div> 
 
 ## Thanks
 
-Thanks to [@b_apothecary](https://twitter.com/b_apothecary), and Coby Durling 
-for reviewing early drafts of this essay and providing feedback.
+Thanks to [@b_apothecary](https://twitter.com/b_apothecary), Coby Durling, Jason C.,
+and Garrick Y. for reviewing early drafts of this essay and providing feedback.
