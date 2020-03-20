@@ -195,6 +195,6 @@ regardless of how it's being invoked.
 
 <aside>
   This article was adapted from a
-  <a href="https://github.com/salsify/ui-localization/pull/44#pullrequestreview-340619675)
-  by <a href="https://dfreeman.io/" rel="external">Dan Freeman</a>
+  <a href="https://github.com/salsify/ui-localization/pull/44#pullrequestreview-340619675)" rel="external">PR comment</a>
+  by <a href="https://dfreeman.io/" rel="external">Dan Freeman</a>.
 </aside>
