@@ -192,7 +192,8 @@ in toxic resentment and fuel civil unrest.
      </figure>
      Furthermore, The only ways to mitigate risk-loading is strict limitations 
      on executive compensation, employee bonuses, and no mergers or acquisitions
-     for at least 10 years. These banks should be nationalized.
+     for at least 10 years. These banks should be nationalized, its execs fired and all 
+     contracts voided. New leadershp will be brought in as reasonably paid public servants.
      <a class="RefBack" href="#ref:note:1"></a>
    </div>
 1. <div id="note:2">
