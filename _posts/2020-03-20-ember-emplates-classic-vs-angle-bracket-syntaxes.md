@@ -198,6 +198,6 @@ regardless of how it's being invoked.
   <a href="https://github.com/salsify/ui-localization/pull/44#pullrequestreview-340619675)" rel="external">PR comment</a>
   by <a href="https://dfreeman.io/" rel="external">Dan Freeman</a>.
   Thanks to
-  <a href="https://jamescdavis.com" rel="external">James Davis</a>
+  <a href="https://twitter.com/jamscdavis" rel="external">James Davis</a>
   for proof reading this article.
 </aside>
