@@ -59,7 +59,7 @@ somewhere in the component's template.
 
 ```html
 <!-- parent.hbs -->
-<UserProfile class="abc" />
+<UserProfile class="abc" @tagName="figure" />
 ```
 
 The `...attributes` syntax determines where the attributes passed into a 
@@ -79,7 +79,7 @@ to the element that has `...attributes` on it.
 the resulting HTML output is:
 
 ```html
-<figure class="abc">
+<figure>
   <img class="abc" src="default.jpg">
 </figure>
 ```
@@ -197,4 +197,7 @@ regardless of how it's being invoked.
   This article was adapted from a
   <a href="https://github.com/salsify/ui-localization/pull/44#pullrequestreview-340619675)" rel="external">PR comment</a>
   by <a href="https://dfreeman.io/" rel="external">Dan Freeman</a>.
+  Thanks to
+  <a href="https://jamescdavis.com" rel="external">James Davis</a>
+  for proof reading this article.
 </aside>
