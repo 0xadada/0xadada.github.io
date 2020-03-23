@@ -109,7 +109,7 @@ To illustrate the differences, here is an invocation of an angle bracket compone
 using both arguments and attributes:
 
 ```html
-<Foo @bar={{123}} @baz={​{hash a=1 b='hi'}} class="hello" data-fizz="ok" />
+<Foo @bar={​{123}} @baz={​{hash a=1 b='hi'}} class="hello" data-fizz="ok" />
 ```
 
 In the above, `bar` and `baz` would be arguments with the values `123` and 
@@ -129,7 +129,7 @@ API.
 
 ```html
 <!-- parent.hbs -->
-{​{user-profile bar=123 baz=(hash a=1 b='hi') class="hello" data-fizz="ok"}}
+{​{user-profile bar={​{123}} baz=(hash a=1 b='hi') class="hello" data-fizz="ok"}}
 ```
 
 In the above, `bar`, `baz`, `class` and `data-fizz` would all be treated as 
