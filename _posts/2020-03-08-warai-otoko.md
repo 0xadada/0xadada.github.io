@@ -66,4 +66,16 @@ line from Salinger's novel _The Catcher in the Rye_, which reads:
 
 > "I thought what I'd do was, I'd pretend I was one of those deaf-mutes."
 
+This character deeply resonates with me; he/she is a corporate hacktivist
+infiltrating micromachine manufacturing corporations that hide an inexpensive
+cure to a debilitating disease in order to profit from their more expensive
+but proprietary micromachine treatment. They are able to hide their physical
+presence by editing themselves out of video feeds and surveillance
+systems in real-time by by superimposing the animated logo over their face. 
+
+The Laughing Man logo has been co-opted by pop culture in advocacy for the 
+Electronic Frontier Foundation and the loose hacktivist collective 
+Anonymous (using the latter's motto <q>We are Anonymous. We are Legion. 
+We do not forgive. We do not forget. Expect us.</q>
+
 Code is up [on github](https://github.com/0xadada/warai-otoko)
