@@ -78,4 +78,15 @@ Electronic Frontier Foundation and the loose hacktivist collective
 Anonymous (using the latter's motto <q>We are Anonymous. We are Legion. 
 We do not forgive. We do not forget. Expect us.</q>
 
+<blockquote class="twitter-tweet" data-conversation="none" data-lang="en">
+  <p>
+  Turned the 男おとこ (laughing man/warai otoko) animated logo into a camera filter, great for
+  <a href="https://twitter.com/zoom_us?ref_src=twsrc%5Etfw">@zoom_us</a>
+  meetings that are now a regular part of daily life
+  <a href="https://t.co/QvcQGE8EAj">pic.twitter.com/QvcQGE8EAj</a>
+  </p>&mdash; 0xADADA 🏴🇭🇰 (@0xADADA)
+  <a href="https://twitter.com/0xADADA/status/1242461667662991360?ref_src=twsrc%5Etfw">March 24, 2020</a>
+</blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 Code is up [on github](https://github.com/0xadada/warai-otoko)
