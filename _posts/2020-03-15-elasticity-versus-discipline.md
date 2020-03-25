@@ -111,7 +111,9 @@ takers. Thus, for the finance sector, the Fed provides **elasticity**: fungible
 rules around banking, investing, taxation, and bailouts when things go bad. For
 the rest of the economy, and individuals, we get **discipline**: massive losses,
 austerity and cuts to social programs and public infrastructure, moralizing our
-individual failures as people, and continual indebtedness.
+individual failures as people, capitalizing on the large-scale failures of small
+businesses<sup class="Ref" id="ref:note:3">[[3](#note:3)]</sup>, and continual
+indebtedness for the poor and middle classes.
 
 This is an ideological conservatism combined with a blind faith in an economics
 that can never be wrong. As Frank Wilhoit put it <q>Conservatism consists of 
@@ -222,6 +224,21 @@ in toxic resentment and fuel civil unrest.
      market risk.
      <a class="RefBack" href="#ref:note:2"></a>
    </div> 
+1. <div id="note:3">
+     Update: March 25th<br>
+     After reviewing early drafts of the 
+     <q><a href="https://www.majorityleader.gov/sites/democraticwhip.house.gov/files/COVIDSUPP3_xml.pdf" rel="external">Take 
+     Responsibility for Workers and Families Act</a></q>,
+     as proposed, Wall Street, will suddenly have $4-6T of
+     government guaranteed low cost credit to go shopping for businesses in 
+     trouble. We would see the mother of all roll-ups, as small and medium sized 
+     businesses desperately try to get whatever they can from deep-pocketed 
+     private equity investors and monopolists. If that happens, the America we
+     know, of heterogeneous small businesses would look very different
+     after this pandemic is over&mdash;a homogeneous space optimized for 
+     massive corporations and destroying local autonomy and diversity.
+     <a class="RefBack" href="#ref:note:3"></a>
+   </div>
 
 ## Thanks
 
