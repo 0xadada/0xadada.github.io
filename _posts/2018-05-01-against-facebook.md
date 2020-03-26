@@ -12,7 +12,11 @@ author: "0xADADA"
 tags: [essays, privacy]
 license: cc-by-nc-sa
 ---
- 
+
+<aside>
+  <a href="https://nadarespetable.com/2020/03/25/contra-facebook-parte-1/" rel="external" title="Contra Facebook [Parte 1]">Español: "Contra Facebook [Parte 1]"</a>
+</aside>
+
 On the commodification of attention, the abuses of unpaid microwork and strategies of resistance.
 
 <figure>
