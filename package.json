@@ -1,0 +1,12 @@
+{
+  "private": true,
+  "scripts": {
+    "format": "prettier --write *.md **/*.md",
+    "lint": "prettylint *.md **/*.md"
+  },
+  "devDependencies": {
+    "pen": "^2.2.0",
+    "prettier": "^1.19.1",
+    "prettylint": "^1.0.0"
+  }
+}
