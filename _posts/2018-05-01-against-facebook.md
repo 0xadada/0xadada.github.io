@@ -14,7 +14,8 @@ license: cc-by-nc-sa
 ---
 
 <aside>
-  <a href="https://nadarespetable.com/2020/03/25/contra-facebook-parte-1/" rel="external" title="Contra Facebook [Parte 1]">Español: "Contra Facebook [Parte 1]"</a>
+  <a href="https://nadarespetable.com/2020/03/25/contra-facebook-parte-1/" rel="external" title="Contra Facebook [Parte 1]">Español: "Contra Facebook" [Parte 1]</a>,
+  <a href="https://nadarespetable.com/2020/03/26/contra-facebook-parte-2/" rel="external" title="Contra Facebook [Parte 2]">[Parte 2]</a>
 </aside>
 
 On the commodification of attention, the abuses of unpaid microwork and strategies of resistance.
