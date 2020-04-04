@@ -18,14 +18,19 @@ McLuhan describes the shift in western society from an agrarian economy to an
 industrial economy as a template for the next shift from an industrial economy
 to an information economy.
 
-> Another characteristic reversal after passing a road break boundary is that
-> the country ceases to be the center of all work, and the city ceases to be the
-> center of leisure. In fact, improved roads and transport have reversed the
-> ancient pattern and made cities the centers of work and the country the place
-> of leisure and of recreation.
->
-> <cite><a href="https://books.google.com/books?id=UUMoGmujREwC&pg=PA173&lpg=PA173&dq=%22Another+characteristic+reversal%22&source=bl&ots=2E5XNz0d_S&sig=s669uSFDmRDh9TE3ZdZr-WtuAR0&hl=en&sa=X&ved=0ahUKEwiPgdnridfRAhVi54MKHZ3BBn4Q6AEIEzAA#v=onepage&q=%22Another%20characteristic%20reversal%22&f=false)">Marshall
-> McLuhan</a> > </cite>
+<figure class="quote">
+  <blockquote>
+    "Another characteristic reversal after passing a road break boundary is that
+    the country ceases to be the center of all work, and the city ceases to be the
+    center of leisure. In fact, improved roads and transport have reversed the
+    ancient pattern and made cities the centers of work and the country the place
+    of leisure and of recreation."
+  </blockquote>
+  <figcaption>
+    <cite><a href="https://books.google.com/books?id=UUMoGmujREwC&pg=PA173&lpg=PA173&dq=%22Another+characteristic+reversal%22&source=bl&ots=2E5XNz0d_S&sig=s669uSFDmRDh9TE3ZdZr-WtuAR0&hl=en&sa=X&ved=0ahUKEwiPgdnridfRAhVi54MKHZ3BBn4Q6AEIEzAA#v=onepage&q=%22Another%20characteristic%20reversal%22&f=false)">Understanding
+Media</a></cite>&mdash;Marshall McLuhan
+    </figcaption>
+</figure>
 
 He goes on to describe how farmers lived and worked on the land in the
 countryside. The rise of industrialization lead to a shift in the focus of labor
