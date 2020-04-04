@@ -8,8 +8,6 @@ generator: twitter.com
 webmention: true
 ---
 
-
-
 <blockquote class="external-citation">
   <p>
     @felixturner We live in hell.
@@ -19,6 +17,3 @@ webmention: true
     <a href="http://twitter.com/mikebodge/status/1229454383097581568" rel="external nofollow" target="_blank">2020-02-17 14:32:20</a>
   </cite>
 </blockquote>
-
-
-

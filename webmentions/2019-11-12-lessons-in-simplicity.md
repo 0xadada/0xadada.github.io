@@ -8,9 +8,6 @@ generator: app.getpocket.com
 webmention: true
 ---
 
-
-After spending our first two nights in Pune at a luxury hotel and spa, Kate and I moved into the shared apartment where we are spending the month while studying at the Iyengar Yoga Institute.
-
-
-
-
+After spending our first two nights in Pune at a luxury hotel and spa, Kate and
+I moved into the shared apartment where we are spending the month while studying
+at the Iyengar Yoga Institute.

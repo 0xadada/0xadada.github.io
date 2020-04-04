@@ -8,9 +8,7 @@ generator: app.getpocket.com
 webmention: true
 ---
 
-
-Threatening the world with a long recession, the coronavirus looks set to inaugurate a turbulent new political and economic era. Its main tendencies will become visible over the months and years to come. But the most revolutionary shift is already in sight.
-
-
-
-
+Threatening the world with a long recession, the coronavirus looks set to
+inaugurate a turbulent new political and economic era. Its main tendencies will
+become visible over the months and years to come. But the most revolutionary
+shift is already in sight.

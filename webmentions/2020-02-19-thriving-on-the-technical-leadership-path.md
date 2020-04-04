@@ -8,9 +8,6 @@ generator: app.getpocket.com
 webmention: true
 ---
 
-
-Context: I am a senior principal engineer at Fastly, in the Office of the CTO group, leading API strategy for the company. The management path isn’t the only way to be a technical leader.
-
-
-
-
+Context: I am a senior principal engineer at Fastly, in the Office of the CTO
+group, leading API strategy for the company. The management path isn’t the only
+way to be a technical leader.

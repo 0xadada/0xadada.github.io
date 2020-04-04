@@ -8,8 +8,6 @@ generator: twitter.com
 webmention: true
 ---
 
-
-
 <blockquote class="external-citation">
   <p>
     @0xADADA The Neverending Stooooory... oh-whoa oh-whoa-oh-whoa
@@ -19,6 +17,3 @@ webmention: true
     <a href="http://twitter.com/jakevose/status/1215126263439986690" rel="external nofollow" target="_blank">2020-01-09 11:46:27</a>
   </cite>
 </blockquote>
-
-
-

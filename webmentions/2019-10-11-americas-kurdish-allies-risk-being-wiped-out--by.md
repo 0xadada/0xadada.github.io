@@ -8,9 +8,6 @@ tags: [webmentions]
 generator: app.getpocket.com
 ---
 
-
-Remember those plucky Kurdish forces who so heroically defended the Syrian city of Kobane from Isis? They risk being wiped out by Nato. The autonomous Kurdish region of Rojava in Northeast Syria, which includes Kobane, faces invasion.
-
-
-
-
+Remember those plucky Kurdish forces who so heroically defended the Syrian city
+of Kobane from Isis? They risk being wiped out by Nato. The autonomous Kurdish
+region of Rojava in Northeast Syria, which includes Kobane, faces invasion.

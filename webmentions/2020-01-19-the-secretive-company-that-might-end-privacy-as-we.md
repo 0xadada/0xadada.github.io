@@ -8,9 +8,6 @@ generator: app.getpocket.com
 webmention: true
 ---
 
-
-Until recently, Hoan Ton-That’s greatest hits included an obscure iPhone game and an app that let people put Donald Trump’s distinctive yellow hair on their own photos. Then Mr.
-
-
-
-
+Until recently, Hoan Ton-That’s greatest hits included an obscure iPhone game
+and an app that let people put Donald Trump’s distinctive yellow hair on their
+own photos. Then Mr.

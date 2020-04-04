@@ -8,8 +8,6 @@ generator: twitter.com
 webmention: true
 ---
 
-
-
 <blockquote class="external-citation">
   <p>
     https://t.co/UDoPfstNPv
@@ -19,6 +17,3 @@ webmention: true
     <a href="http://twitter.com/ARABIAFATS/status/1220286204861612032" rel="external nofollow" target="_blank">2020-01-23 10:54:28</a>
   </cite>
 </blockquote>
-
-
-

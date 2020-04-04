@@ -1,14 +1,14 @@
 ---
 layout: webmention-like
-title: "@0xADADA got you a rainbow cloud battery for capitalism day. When are you free? https://t.co/9F7CqyOjvX"
+title:
+  "@0xADADA got you a rainbow cloud battery for capitalism day. When are you
+  free? https://t.co/9F7CqyOjvX"
 target: http://twitter.com/qtychr/status/1210661719607037952
 date: 2019-12-27 17:37:40
 tags: [webmentions]
 generator: twitter.com
 webmention: true
 ---
-
-
 
 <blockquote class="external-citation">
   <p>
@@ -19,6 +19,3 @@ webmention: true
     <a href="http://twitter.com/qtychr/status/1210661719607037952" rel="external nofollow" target="_blank">2019-12-27 17:37:40</a>
   </cite>
 </blockquote>
-
-
-

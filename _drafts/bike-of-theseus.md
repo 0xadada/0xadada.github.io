@@ -9,13 +9,13 @@ date: 2019-09-18 21:11:00
 author: "0xADADA"
 license: cc-by-nc-sa
 tags: [projects]
-imageGalleries: 
+imageGalleries:
   first:
     - src: /static/images/2019-09-18-01-1-before-rebuild.jpg
       alt: 2006 Fuji Track, before the rebuild
     - src: /static/images/2019-09-18-02-2-fork-lug.jpg
       alt: Fork lug, the inspiration for the project
-    - src: /static/images/2019-09-18-03-3-design.png 
+    - src: /static/images/2019-09-18-03-3-design.png
       alt: The CAD design
 ---
 
@@ -24,5 +24,3 @@ imageGalleries:
 [Bike of Theseus](https://en.wikipedia.org/wiki/Ship_of_Theseus)
 
 {% include image-gallery.html images="first" caption="Before the rebuild" %}
-
-

@@ -8,8 +8,6 @@ generator: twitter.com
 webmention: true
 ---
 
-
-
 <blockquote class="external-citation">
   <p>
     @0xADADA it means corporations think u are ok to be president
@@ -19,6 +17,3 @@ webmention: true
     <a href="http://twitter.com/ARABIAFATS/status/1234598751978827776" rel="external nofollow" target="_blank">2020-03-02 19:43:13</a>
   </cite>
 </blockquote>
-
-
-

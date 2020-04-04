@@ -8,8 +8,6 @@ generator: twitter.com
 webmention: true
 ---
 
-
-
 <blockquote class="external-citation">
   <p>
     @qtychr @0xADADA blowback also makes money
@@ -19,6 +17,3 @@ webmention: true
     <a href="http://twitter.com/ARABIAFATS/status/1213096393847582720" rel="external nofollow" target="_blank">2020-01-03 10:24:32</a>
   </cite>
 </blockquote>
-
-
-

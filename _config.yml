@@ -7,9 +7,10 @@ sass:
   style: compressed
 
 exclude: [
-  CNAME,
-  LICENSE,
-  README.md
+  "CNAME",
+  "LICENSE",
+  "node_modules",
+  "README.md"
 ]
 
 plugins:

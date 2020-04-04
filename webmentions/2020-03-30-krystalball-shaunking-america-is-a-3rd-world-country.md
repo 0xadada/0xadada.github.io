@@ -8,8 +8,6 @@ generator: twitter.com
 webmention: true
 ---
 
-
-
 <blockquote class="external-citation">
   <p>
     @krystalball @shaunking America is a 3rd world country
@@ -19,6 +17,3 @@ webmention: true
     <a href="http://twitter.com/HumzaRaza/status/1244682206200631299" rel="external nofollow" target="_blank">2020-03-30 14:19:13</a>
   </cite>
 </blockquote>
-
-
-

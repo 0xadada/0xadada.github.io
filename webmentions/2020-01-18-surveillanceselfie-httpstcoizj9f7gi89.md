@@ -8,8 +8,6 @@ generator: twitter.com
 webmention: true
 ---
 
-
-
 <blockquote class="external-citation">
   <p>
     #SurveillanceSelfie https://t.co/IzJ9f7Gi89
@@ -19,6 +17,3 @@ webmention: true
     <a href="http://twitter.com/FredericJacobs/status/1218556059251625990" rel="external nofollow" target="_blank">2020-01-18 11:54:14</a>
   </cite>
 </blockquote>
-
-
-

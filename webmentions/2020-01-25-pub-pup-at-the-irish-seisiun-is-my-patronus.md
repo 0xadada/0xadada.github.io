@@ -8,8 +8,6 @@ generator: twitter.com
 webmention: true
 ---
 
-
-
 <blockquote class="external-citation">
   <p>
     Pub pup at the Irish Seisiun is my Patronus https://t.co/FFGMLHJ95k
@@ -19,6 +17,3 @@ webmention: true
     <a href="http://twitter.com/thomdunn/status/1221215728679948288" rel="external nofollow" target="_blank">2020-01-25 20:38:21</a>
   </cite>
 </blockquote>
-
-
-

@@ -8,9 +8,6 @@ generator: app.getpocket.com
 webmention: true
 ---
 
-
-There is a reason I had been hearing about Neon Genesis Evangelion for nearly 20 years. Originally broadcast from 1995 to 1996, it is considered one of the seminal works of Japanese animation.
-
-
-
-
+There is a reason I had been hearing about Neon Genesis Evangelion for nearly 20
+years. Originally broadcast from 1995 to 1996, it is considered one of the
+seminal works of Japanese animation.

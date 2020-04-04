@@ -8,8 +8,6 @@ generator: twitter.com
 webmention: true
 ---
 
-
-
 <blockquote class="external-citation">
   <p>
     @brettkwallace Detroit is kinda like outer space, so that tracks
@@ -19,6 +17,3 @@ webmention: true
     <a href="http://twitter.com/thomdunn/status/1228865732202684416" rel="external nofollow" target="_blank">2020-02-15 23:32:02</a>
   </cite>
 </blockquote>
-
-
-

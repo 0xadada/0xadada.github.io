@@ -8,8 +8,6 @@ generator: twitter.com
 webmention: true
 ---
 
-
-
 <blockquote class="external-citation">
   <p>
     @djm5000 Fuck the ledgers.
@@ -19,6 +17,3 @@ webmention: true
     <a href="http://twitter.com/b_apothecary/status/1244319859305000962" rel="external nofollow" target="_blank">2020-03-29 14:19:09</a>
   </cite>
 </blockquote>
-
-
-

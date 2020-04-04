@@ -8,8 +8,6 @@ generator: twitter.com
 webmention: true
 ---
 
-
-
 <blockquote class="external-citation">
   <p>
     @qtychr Soup night with coal country moonshine: https://t.co/rVyBb73QLS
@@ -19,6 +17,3 @@ webmention: true
     <a href="http://twitter.com/b_apothecary/status/1219054066061410304" rel="external nofollow" target="_blank">2020-01-19 20:50:32</a>
   </cite>
 </blockquote>
-
-
-

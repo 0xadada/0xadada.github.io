@@ -8,8 +8,6 @@ generator: twitter.com
 webmention: true
 ---
 
-
-
 <blockquote class="external-citation">
   <p>
     *boop* https://t.co/sUQ93BpLfH
@@ -19,6 +17,3 @@ webmention: true
     <a href="http://twitter.com/thomdunn/status/1213299023429480456" rel="external nofollow" target="_blank">2020-01-04 00:54:16</a>
   </cite>
 </blockquote>
-
-
-

@@ -8,8 +8,6 @@ generator: twitter.com
 webmention: true
 ---
 
-
-
 <blockquote class="external-citation">
   <p>
     @qtychr @0xADADA https://t.co/jWSY6hvYlL
@@ -19,6 +17,3 @@ webmention: true
     <a href="http://twitter.com/b_apothecary/status/1208918390053707776" rel="external nofollow" target="_blank">2019-12-23 10:09:25</a>
   </cite>
 </blockquote>
-
-
-

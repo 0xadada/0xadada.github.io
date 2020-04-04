@@ -8,9 +8,7 @@ generator: app.getpocket.com
 webmention: true
 ---
 
-
-One of my favorite reads is Joel Spolsky&#x27;s Things You Should Never Do. He wrote this post almost twenty years ago, outlining the downfall of Netscape and others because they spent years rewriting working code. His solution is, unsurprisingly, to refactor.
-
-
-
-
+One of my favorite reads is Joel Spolsky&#x27;s Things You Should Never Do. He
+wrote this post almost twenty years ago, outlining the downfall of Netscape and
+others because they spent years rewriting working code. His solution is,
+unsurprisingly, to refactor.

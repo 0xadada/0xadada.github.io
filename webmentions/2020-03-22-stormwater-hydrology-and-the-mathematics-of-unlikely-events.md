@@ -8,9 +8,6 @@ generator: app.getpocket.com
 webmention: true
 ---
 
-
-As gun policy discussions unfold in the wake of mass shooter incidents, they routinely end in three buckets. There’s the “tyranny can never happen here” bucket, which the left has mostly abdicated…
-
-
-
-
+As gun policy discussions unfold in the wake of mass shooter incidents, they
+routinely end in three buckets. There’s the “tyranny can never happen here”
+bucket, which the left has mostly abdicated…

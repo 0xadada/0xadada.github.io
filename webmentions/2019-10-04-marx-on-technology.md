@@ -8,9 +8,5 @@ tags: [webmentions]
 generator: app.getpocket.com
 ---
 
-
-The longest chapter in Capital is the fifteenth, on “Machinery and Large-Scale Industry.
-
-
-
-
+The longest chapter in Capital is the fifteenth, on “Machinery and Large-Scale
+Industry.

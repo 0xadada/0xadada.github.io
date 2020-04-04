@@ -8,8 +8,6 @@ generator: twitter.com
 webmention: true
 ---
 
-
-
 <blockquote class="external-citation">
   <p>
     @0xADADA A spectre is haunting
@@ -19,6 +17,3 @@ webmention: true
     <a href="http://twitter.com/joshuakampa/status/1239373647120347137" rel="external nofollow" target="_blank">2020-03-15 22:28:17</a>
   </cite>
 </blockquote>
-
-
-

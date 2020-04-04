@@ -8,9 +8,5 @@ generator: app.getpocket.com
 webmention: true
 ---
 
-
-The Situationist International and its derivatives have been experiencing something of a revival in recent years.
-
-
-
-
+The Situationist International and its derivatives have been experiencing
+something of a revival in recent years.

@@ -9,8 +9,6 @@ generator: spotify.com
 webmention: true
 ---
 
-
 <a href="https://open.spotify.com/track/0HZYUu7ixqYPNT6g08q3Jo" title="context.title" rel="external noopener nofollow">
   <img src="https://i.scdn.co/image/ab67616d0000b27378f2324fe85dfc8f1560a737" alt="Abglanz by Pantha Du Prince">
 </a>
-

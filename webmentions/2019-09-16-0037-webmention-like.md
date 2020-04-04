@@ -9,7 +9,6 @@ generator: twitter.com
 webmention: true
 ---
 
-
 <blockquote>
   <p>The purest form of "static site" is the @awscloud status page.</p>
   <cite>

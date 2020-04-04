@@ -8,8 +8,6 @@ generator: twitter.com
 webmention: true
 ---
 
-
-
 <blockquote class="external-citation">
   <p>
     Jenkins server that could have been a git hook.
@@ -19,6 +17,3 @@ webmention: true
     <a href="http://twitter.com/djm5000/status/1218176651177144322" rel="external nofollow" target="_blank">2020-01-17 11:54:24</a>
   </cite>
 </blockquote>
-
-
-

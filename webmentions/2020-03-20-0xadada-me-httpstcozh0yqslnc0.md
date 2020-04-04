@@ -8,8 +8,6 @@ generator: twitter.com
 webmention: true
 ---
 
-
-
 <blockquote class="external-citation">
   <p>
     @0xADADA me: https://t.co/Zh0yqsLnC0
@@ -19,6 +17,3 @@ webmention: true
     <a href="http://twitter.com/alvincrespo/status/1241006272473976832" rel="external nofollow" target="_blank">2020-03-20 11:01:14</a>
   </cite>
 </blockquote>
-
-
-

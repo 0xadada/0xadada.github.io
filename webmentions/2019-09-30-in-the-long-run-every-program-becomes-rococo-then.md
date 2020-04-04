@@ -10,7 +10,6 @@ generator: twitter.com
 webmention: true
 ---
 
-
 <blockquote class="external-citation">
   <p>
     “In the long run every program becomes rococo— then rubble.”
@@ -21,4 +20,3 @@ webmention: true
     <a href="http://twitter.com/0xADADA/status/1178642132900438017" rel="external nofollow">2019-09-30 08:07:09</a>
   </cite>
 </blockquote>
-

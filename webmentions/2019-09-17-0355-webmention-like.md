@@ -9,7 +9,6 @@ generator: twitter.com
 webmention: true
 ---
 
-
 <blockquote>
 <p>advertising: why did we let this happen</p>
 <cite>‒<span class="p-author p-name">flexlibris</span>on <a href="http://twitter.com/flexlibris/status/1173771671079178240" rel="external nofollow">September 16, 2019 at 09:32PM</a></cite>

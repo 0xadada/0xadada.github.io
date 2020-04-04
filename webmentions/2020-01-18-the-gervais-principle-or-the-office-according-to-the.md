@@ -8,9 +8,5 @@ generator: app.getpocket.com
 webmention: true
 ---
 
-
-My neighbor introduced me to The Office back in 2005. Since then, I’ve watched every episode of both the British and American versions.
-
-
-
-
+My neighbor introduced me to The Office back in 2005. Since then, I’ve watched
+every episode of both the British and American versions.

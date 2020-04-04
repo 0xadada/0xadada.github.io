@@ -8,9 +8,6 @@ generator: app.getpocket.com
 webmention: true
 ---
 
-
-When the 2011 earthquake and tsunami struck Tohoku, Japan, Chris Goldfinger was two hundred miles away, in the city of Kashiwa, at an international meeting on seismology. As the shaking started, everyone in the room began to laugh.
-
-
-
-
+When the 2011 earthquake and tsunami struck Tohoku, Japan, Chris Goldfinger was
+two hundred miles away, in the city of Kashiwa, at an international meeting on
+seismology. As the shaking started, everyone in the room began to laugh.

@@ -8,9 +8,7 @@ tags: [webmentions]
 generator: app.getpocket.com
 ---
 
-
-We enter the theatre at 14:01. We had been queuing for at least forty minutes and had watched the queue grow even longer behind us. We had picked a good time. Christian Marclay’s 24-hour long film, The Clock screened at the Tate Modern from 14th September to the 20th January.
-
-
-
-
+We enter the theatre at 14:01. We had been queuing for at least forty minutes
+and had watched the queue grow even longer behind us. We had picked a good time.
+Christian Marclay’s 24-hour long film, The Clock screened at the Tate Modern
+from 14th September to the 20th January.

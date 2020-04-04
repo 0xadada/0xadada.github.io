@@ -8,8 +8,6 @@ generator: twitter.com
 webmention: true
 ---
 
-
-
 <blockquote class="external-citation">
   <p>
     @0xADADA @EvanWilliamsUSA @KingsCoWhiskey https://t.co/w2qsT8XoqT
@@ -19,6 +17,3 @@ webmention: true
     <a href="http://twitter.com/thomdunn/status/1243347858339901440" rel="external nofollow" target="_blank">2020-03-26 21:43:08</a>
   </cite>
 </blockquote>
-
-
-

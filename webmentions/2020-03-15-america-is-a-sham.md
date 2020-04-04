@@ -8,9 +8,7 @@ generator: app.getpocket.com
 webmention: true
 ---
 
-
-Maybe it will be the hand sanitizer that finally exposes the sham. The Transportation Security Administration announced Friday that due to the coronavirus outbreak, they’re waiving the familiar four-ounce limit for liquids and gels—for hand sanitizer only.
-
-
-
-
+Maybe it will be the hand sanitizer that finally exposes the sham. The
+Transportation Security Administration announced Friday that due to the
+coronavirus outbreak, they’re waiving the familiar four-ounce limit for liquids
+and gels—for hand sanitizer only.

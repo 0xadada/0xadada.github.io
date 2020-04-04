@@ -17,5 +17,7 @@ webmention: true
   <cite class="p-author h-card">Ryan Barrett</cite>
 </blockquote>
 
-I've heard of it, but haven't read it. I have, however read "[A Pattern Language](https://books.google.com/books?id=FTpxDwAAQBAJ)" by Christopher Alexander
-which is mentioned quite a bit in "How Buildings Learn". I'll certainly check it out, thanks!
+I've heard of it, but haven't read it. I have, however read
+"[A Pattern Language](https://books.google.com/books?id=FTpxDwAAQBAJ)" by
+Christopher Alexander which is mentioned quite a bit in "How Buildings Learn".
+I'll certainly check it out, thanks!

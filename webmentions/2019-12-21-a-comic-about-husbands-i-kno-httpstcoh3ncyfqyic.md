@@ -8,8 +8,6 @@ generator: twitter.com
 webmention: true
 ---
 
-
-
 <blockquote class="external-citation">
   <p>
     a comic about husbands i kno https://t.co/h3NCYfqyic
@@ -19,6 +17,3 @@ webmention: true
     <a href="http://twitter.com/pattastrophe/status/1208252426173607942" rel="external nofollow" target="_blank">2019-12-21 01:21:38</a>
   </cite>
 </blockquote>
-
-
-

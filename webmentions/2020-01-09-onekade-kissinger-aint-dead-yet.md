@@ -8,8 +8,6 @@ generator: twitter.com
 webmention: true
 ---
 
-
-
 <blockquote class="external-citation">
   <p>
     @onekade Kissinger ain&#x27;t dead yet.
@@ -19,6 +17,3 @@ webmention: true
     <a href="http://twitter.com/lobster_dog/status/1215135736116187136" rel="external nofollow" target="_blank">2020-01-09 12:16:18</a>
   </cite>
 </blockquote>
-
-
-

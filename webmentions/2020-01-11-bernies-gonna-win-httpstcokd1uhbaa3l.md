@@ -8,8 +8,6 @@ generator: twitter.com
 webmention: true
 ---
 
-
-
 <blockquote class="external-citation">
   <p>
     Bernie&#x27;s gonna win https://t.co/KD1uhbAA3l
@@ -19,6 +17,3 @@ webmention: true
     <a href="http://twitter.com/flexlibris/status/1215795665730723841" rel="external nofollow" target="_blank">2020-01-11 00:51:37</a>
   </cite>
 </blockquote>
-
-
-

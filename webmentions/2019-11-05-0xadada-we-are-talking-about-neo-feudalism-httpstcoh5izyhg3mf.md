@@ -8,8 +8,6 @@ tags: [webmentions]
 generator: twitter.com
 ---
 
-
-
 <blockquote class="external-citation">
   <p>
     @0xADADA we are talking about neo feudalism https://t.co/H5izYhG3mf
@@ -19,6 +17,3 @@ generator: twitter.com
     <a href="http://twitter.com/qtychr/status/1191848488457379846" rel="external nofollow" target="_blank">2019-11-05 22:18:24</a>
   </cite>
 </blockquote>
-
-
-

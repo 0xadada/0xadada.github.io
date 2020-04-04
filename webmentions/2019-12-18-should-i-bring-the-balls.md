@@ -8,8 +8,6 @@ generator: twitter.com
 webmention: true
 ---
 
-
-
 <blockquote class="external-citation">
   <p>
     Should I bring the balls:
@@ -19,6 +17,3 @@ webmention: true
     <a href="http://twitter.com/thomdunn/status/1207428732555800583" rel="external nofollow" target="_blank">2019-12-18 23:19:39</a>
   </cite>
 </blockquote>
-
-
-

@@ -8,9 +8,6 @@ generator: app.getpocket.com
 webmention: true
 ---
 
-
-To provide users with a good service, government organisations usually need to collect data. Lots of data. The GOV.UK Design System team creates patterns and components that let users enter their data in an easy and accessible way.
-
-
-
-
+To provide users with a good service, government organisations usually need to
+collect data. Lots of data. The GOV.UK Design System team creates patterns and
+components that let users enter their data in an easy and accessible way.

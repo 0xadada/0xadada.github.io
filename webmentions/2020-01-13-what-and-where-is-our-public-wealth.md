@@ -8,9 +8,7 @@ generator: app.getpocket.com
 webmention: true
 ---
 
-
-Our vast public wealth, which I’m going to try and describe, is not the domain of socialism. It is still capitalism, but a version where the public is not taken for granted. We build our private pursuits on a public foundation. To deny that is dishonest or lazy.
-
-
-
-
+Our vast public wealth, which I’m going to try and describe, is not the domain
+of socialism. It is still capitalism, but a version where the public is not
+taken for granted. We build our private pursuits on a public foundation. To deny
+that is dishonest or lazy.

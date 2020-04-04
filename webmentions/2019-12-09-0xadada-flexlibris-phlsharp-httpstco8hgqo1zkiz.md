@@ -8,8 +8,6 @@ generator: twitter.com
 webmention: true
 ---
 
-
-
 <blockquote class="external-citation">
   <p>
     @0xADADA @flexlibris @phlsharp https://t.co/8hgqo1zkiZ
@@ -19,6 +17,3 @@ webmention: true
     <a href="http://twitter.com/richardbarbrook/status/1204221174542143489" rel="external nofollow" target="_blank">2019-12-09 22:15:14</a>
   </cite>
 </blockquote>
-
-
-

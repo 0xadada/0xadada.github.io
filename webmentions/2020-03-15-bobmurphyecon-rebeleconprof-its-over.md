@@ -8,8 +8,6 @@ generator: twitter.com
 webmention: true
 ---
 
-
-
 <blockquote class="external-citation">
   <p>
     @BobMurphyEcon @RebelEconProf IT&#x27;S OVER
@@ -19,6 +17,3 @@ webmention: true
     <a href="http://twitter.com/doc_brypto/status/1239328766624550912" rel="external nofollow" target="_blank">2020-03-15 22:28:16</a>
   </cite>
 </blockquote>
-
-
-

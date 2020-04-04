@@ -8,8 +8,6 @@ tags: [webmentions]
 generator: twitter.com
 ---
 
-
-
 <blockquote class="external-citation">
   <p>
     https://t.co/OZOKG2vb27
@@ -19,6 +17,3 @@ generator: twitter.com
     <a href="http://twitter.com/mikebodge/status/1183441734052663296" rel="external nofollow" target="_blank">2019-10-14 00:51:05</a>
   </cite>
 </blockquote>
-
-
-

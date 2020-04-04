@@ -8,8 +8,6 @@ generator: twitter.com
 webmention: true
 ---
 
-
-
 <blockquote class="external-citation">
   <p>
     @getFANDOM @kylebuchanan Coral
@@ -19,6 +17,3 @@ webmention: true
     <a href="http://twitter.com/TheWalkingDead/status/1214313019385102336" rel="external nofollow" target="_blank">2020-01-07 00:46:11</a>
   </cite>
 </blockquote>
-
-
-

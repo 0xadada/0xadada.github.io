@@ -8,9 +8,7 @@ tags: [webmentions]
 generator: app.getpocket.com
 ---
 
-
-French theorist Jean Baudrillard (1929–2007) was one of the foremost intellectual figures of the present age whose work combines philosophy, social theory, and an idiosyncratic cultural metaphysics that reflects on key events of phenomena of the epoch.
-
-
-
-
+French theorist Jean Baudrillard (1929–2007) was one of the foremost
+intellectual figures of the present age whose work combines philosophy, social
+theory, and an idiosyncratic cultural metaphysics that reflects on key events of
+phenomena of the epoch.

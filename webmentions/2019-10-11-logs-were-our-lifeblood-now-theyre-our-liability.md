@@ -8,9 +8,6 @@ tags: [webmentions]
 generator: app.getpocket.com
 ---
 
-
-In the beginning, writes Jay Kreps, co-founder of Confluent and co-creator of Kafka*, there was the log. Logs keep track of anything and everything. There are all kinds of logs in computing environments:
-
-
-
-
+In the beginning, writes Jay Kreps, co-founder of Confluent and co-creator of
+Kafka\*, there was the log. Logs keep track of anything and everything. There
+are all kinds of logs in computing environments:

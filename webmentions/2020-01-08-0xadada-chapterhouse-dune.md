@@ -8,8 +8,6 @@ generator: twitter.com
 webmention: true
 ---
 
-
-
 <blockquote class="external-citation">
   <p>
     @0xADADA Chapterhouse Dune
@@ -19,6 +17,3 @@ webmention: true
     <a href="http://twitter.com/gutomartino/status/1214902305767743489" rel="external nofollow" target="_blank">2020-01-08 10:16:46</a>
   </cite>
 </blockquote>
-
-
-

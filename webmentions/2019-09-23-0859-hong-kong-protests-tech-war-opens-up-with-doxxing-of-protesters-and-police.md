@@ -23,9 +23,12 @@ webmention: true
   <cite class="p-author h-card">Erin Hale</cite>
 </blockquote>
 
-It seems odd that the 60% remaining cases of reported doxxing are other citizens, which could include
-protesters seemingly doxxed by the police themselves. In this situation, the [Privacy Commissioner 
-of Hong Kong](https://www.pcpd.org.hk/) has the duty to report the doxxing case back to the police, therefore snitching on the 
-protester about their complaint about doxxing by the police.
+It seems odd that the 60% remaining cases of reported doxxing are other
+citizens, which could include protesters seemingly doxxed by the police
+themselves. In this situation, the
+[Privacy Commissioner of Hong Kong](https://www.pcpd.org.hk/) has the duty to
+report the doxxing case back to the police, therefore snitching on the protester
+about their complaint about doxxing by the police.
 
-Thus the PCPD of Hong Kong is becoming an institutional informant to the police state.
+Thus the PCPD of Hong Kong is becoming an institutional informant to the police
+state.

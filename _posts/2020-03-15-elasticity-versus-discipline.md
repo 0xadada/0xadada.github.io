@@ -2,8 +2,14 @@
 title: "Elasticity Versus Discipline"
 displayTitle: "Elasticity Versus Discipline"
 date: 2020-03-15 11:06:00
-excerpt: "A central issue of contestation is elasticity versus discipline, elasticity for me and discipline for you, alchemy of banking and money funding for me, austerity and debt for you."
-metaDescription: "A central issue of contestation is elasticity versus discipline, elasticity for me and discipline for you, alchemy of banking and money funding for me, austerity and debt for you."
+excerpt:
+  "A central issue of contestation is elasticity versus discipline, elasticity
+  for me and discipline for you, alchemy of banking and money funding for me,
+  austerity and debt for you."
+metaDescription:
+  "A central issue of contestation is elasticity versus discipline, elasticity
+  for me and discipline for you, alchemy of banking and money funding for me,
+  austerity and debt for you."
 metaKeywords: capitalism, finance, late capitalism
 image: /static/images/2020-03-15-elasticity-versus-discipline-luther-bottrill.jpg
 metaImage: /static/images/2020-03-15-elasticity-versus-discipline-luther-bottrill.jpg
@@ -12,7 +18,6 @@ author: "0xADADA"
 license: cc-by-nc-sa
 tags: [essays]
 ---
-
 
 <figure>
   <img src="/static/images/2020-03-15-elasticity-versus-discipline-luther-bottrill.jpg" alt="Police in Valencia Spain by Luther Bottrill" title="Police in Valencia Spain by Luther Bottrill">
@@ -35,128 +40,125 @@ tags: [essays]
   </figcaption>
 </figure>
 
+Like 2009,
+[the (coming/arriving) financial collapse of 2020](https://twitter.com/i/events/1238487524856803331)
+will reveal the asymmetry of power between the financial sector and the rest of
+the economy, and it'll especially highlight how the financial sector is
+continually privatizing profits and socializing losses.
 
-Like 2009, 
-[the (coming/arriving) financial collapse of 2020](https://twitter.com/i/events/1238487524856803331) 
-will reveal the asymmetry of power between the financial sector and the rest of 
-the economy, and it'll especially highlight how the financial sector is continually 
-privatizing profits and socializing losses.
-
-When you see terms in the media about the Fed "expanding its balance sheet" 
+When you see terms in the media about the Fed "expanding its balance sheet"
 think: _"The Fed is literally buying failed financial instruments to prevent
-banks and financial companies from going out of business"_. Currently, according 
-to [Section 14](https://www.federalreserve.gov/aboutthefed/section14.htm)
-of the Federal Reserve Act, the Fed is prevented from buying assets (stocks,
-index funds 
-<a class="Annotation-ref" href="#abbr:1">CDO<span 
-  class="Annotation" id="abbr:1">Collateralized Debt
-  Obligation</span></a>s,
+banks and financial companies from going out of business"_. Currently, according
+to [Section 14](https://www.federalreserve.gov/aboutthefed/section14.htm) of the
+Federal Reserve Act, the Fed is prevented from buying assets (stocks, index
+funds <a class="Annotation-ref" href="#abbr:1">CDO<span 
+  class="Annotation" id="abbr:1">Collateralized Debt Obligation</span></a>s,
 <a class="Annotation-ref" href="#abbr:2">MBS<span 
-  class="Annotation" id="abbr:2">Mortgage Backed
-  Securities</span></a>s)
-directly on the market.
-Instead they can only buy government-backed assets, mostly bonds and MBSs 
-by institutions like Freddie Mac that _are_ government backed. Instead, the Feds
-first line of defense is lowering interest rates, and then creating
-liquidity by buying long-term maturities.
+  class="Annotation" id="abbr:2">Mortgage Backed Securities</span></a>s)
+directly on the market. Instead they can only buy government-backed assets,
+mostly bonds and MBSs by institutions like Freddie Mac that _are_ government
+backed. Instead, the Feds first line of defense is lowering interest rates, and
+then creating liquidity by buying long-term maturities.
 
 With the interest rates at zero, the biggest lever at the Fed is effectively
 broken, and now they've got to find another lever. Last Friday (6 March), Boston
-Fed President Eric Rosengren called on Congress to expand the Fed's powers to buy
-and sell a broader range of assets. This will require congressional approval, and
-during this period of crisis, I'm certain Shock Doctrine politics will win out,
-and these ammendments will pass. I hope I'm wrong.
+Fed President Eric Rosengren called on Congress to expand the Fed's powers to
+buy and sell a broader range of assets. This will require congressional
+approval, and during this period of crisis, I'm certain Shock Doctrine politics
+will win out, and these ammendments will pass. I hope I'm wrong.
 
 So what does this mean? This means that the Fed can start buying non-government
 backed securities: potentially any failing public stocks, private CDOs and MBSs.
-What this means is the Fed can buy the most dangerous, volitile, and toxic assets
-that nobody else is buying, the ones that are the first to fail in a bursting
-bubble. This is a Fed that has institutionalized &amp; _encouraged_ systemic
-moral hazard&mdash; saying, in effect: <q>If you (the finance sector) create 
-risky assets and they fail, we'll allow you to profit during the good times and 
-we'll save you by buying them back during the bad times</q>.
+What this means is the Fed can buy the most dangerous, volitile, and toxic
+assets that nobody else is buying, the ones that are the first to fail in a
+bursting bubble. This is a Fed that has institutionalized &amp; _encouraged_
+systemic moral hazard&mdash; saying, in effect: <q>If you (the finance sector)
+create risky assets and they fail, we'll allow you to profit during the good
+times and we'll save you by buying them back during the bad times</q>.
 
 Remember the Microsoft Zune mp3 player? Probably not, because it failed
-horribly. Now imagine Microsoft had put so much investment into its Zune, that 
-when nobody bought it, and the product failed, the company would've gone 
-bankrupt. Now, if this were the financial sector, this is where the Fed becomes 
-the Dealer of Last Resort, steps in and buys all the Zune mp3 players, saving 
+horribly. Now imagine Microsoft had put so much investment into its Zune, that
+when nobody bought it, and the product failed, the company would've gone
+bankrupt. Now, if this were the financial sector, this is where the Fed becomes
+the Dealer of Last Resort, steps in and buys all the Zune mp3 players, saving
 Microsoft from going bankrupt.
 
-This is exactly what the Fed is doing when it says it is "expanding its balance 
-sheet"—its buying the failed assets the financial industry has created over 
-the last 10 years, those very same assets the industry has made huge profits from;
-but now that the profits have stopped, the Fed bails them out by buying them 
+This is exactly what the Fed is doing when it says it is "expanding its balance
+sheet"—its buying the failed assets the financial industry has created over the
+last 10 years, those very same assets the industry has made huge profits from;
+but now that the profits have stopped, the Fed bails them out by buying them
 when no one else will.
 
 When the Fed goes to congress to ask for changes to Section 14, they will use
-the Shock Doctrine playbook: <q>the banks will fail</q>, <q>retirement funds will
-tank</q>, <q>companies will go out of business</q>, <q>we're in desperate times,
-so we need to take desparate measures</q>. These predictions are all true, and these
-outcomes will happen: but the solution they offer only addresses the symptoms,
-but not the root cause&mdash; the
-**deregulation<sup class="Ref" id="ref:note:1">[[1](#note:1)]</sup>**
-of the financial sector.
-Neoliberal deregulation of the financial sector over the last 40 years has 
-encouraged banks to put money into risky bubbles that keep popping, retirement 
-funds of regular people are directly tied into that system, even _fueling it_.
-This is wrong. I'm not generally opposed to these risky investments, but these 
-investments _must_ be separated from investment banks, and kept out of any
-fund designed for peoples retirements and long term savings. These asset types
-need to be drastically limited to qualified investors and speculators only.
+the Shock Doctrine playbook: <q>the banks will fail</q>, <q>retirement funds
+will tank</q>, <q>companies will go out of business</q>, <q>we're in desperate
+times, so we need to take desparate measures</q>. These predictions are all
+true, and these outcomes will happen: but the solution they offer only addresses
+the symptoms, but not the root cause&mdash; the
+**deregulation<sup class="Ref" id="ref:note:1">[[1](#note:1)]</sup>** of the
+financial sector. Neoliberal deregulation of the financial sector over the last
+40 years has encouraged banks to put money into risky bubbles that keep popping,
+retirement funds of regular people are directly tied into that system, even
+_fueling it_. This is wrong. I'm not generally opposed to these risky
+investments, but these investments _must_ be separated from investment banks,
+and kept out of any fund designed for peoples retirements and long term savings.
+These asset types need to be drastically limited to qualified investors and
+speculators only.
 
-As it stands, bailouts will reward the most risky investors and speculators, while
-passive investors, retirees, and taxpayers will end up bailing out these risk
-takers. Thus, for the finance sector, the Fed provides **elasticity**: fungible 
-rules around banking, investing, taxation, and bailouts when things go bad. For
-the rest of the economy, and individuals, we get **discipline**: massive losses,
-austerity and cuts to social programs and public infrastructure, moralizing our
-individual failures as people, capitalizing on the large-scale failures of small
+As it stands, bailouts will reward the most risky investors and speculators,
+while passive investors, retirees, and taxpayers will end up bailing out these
+risk takers. Thus, for the finance sector, the Fed provides **elasticity**:
+fungible rules around banking, investing, taxation, and bailouts when things go
+bad. For the rest of the economy, and individuals, we get **discipline**:
+massive losses, austerity and cuts to social programs and public infrastructure,
+moralizing our individual failures as people, capitalizing on the large-scale
+failures of small
 businesses<sup class="Ref" id="ref:note:3">[[3](#note:3)]</sup>, and continual
 indebtedness for the poor and middle classes.
 
 This is an ideological conservatism combined with a blind faith in an economics
-that can never be wrong. As Frank Wilhoit put it <q>Conservatism consists of 
-exactly one proposition, to wit: There must be in-groups whom the law protects 
-but does not bind, alongside out-groups whom the law binds but does not 
-protect</q> (See <cite>[The 
-travesty of liberalism](http://crookedtimber.org/2018/03/21/liberals-against-progressives/#comment-729288)</cite>
+that can never be wrong. As Frank Wilhoit put it <q>Conservatism consists of
+exactly one proposition, to wit: There must be in-groups whom the law protects
+but does not bind, alongside out-groups whom the law binds but does not
+protect</q> (See
+<cite>[The travesty of liberalism](http://crookedtimber.org/2018/03/21/liberals-against-progressives/#comment-729288)</cite>
 by [Frank Wilhoit](https://www.broadheath.com/) 2018). Only the in-group is an
 autonomous, rogue financial sector, and the politial interest groups they fund.
 The out-group is everyone else.
 
-In this way the finance industry can reap the profits of risky financial 
-instruments, but when the risk generates market failures, the Fed bails them out.
-It's all upside, and no downside. This is the very definition of moral hazard. 
-The financial industry literally cannot lose because the Fed will always save them.
+In this way the finance industry can reap the profits of risky financial
+instruments, but when the risk generates market failures, the Fed bails them
+out. It's all upside, and no downside. This is the very definition of moral
+hazard. The financial industry literally cannot lose because the Fed will always
+save them.
 
-In effect, this is <q>Socialism for the rich, rugged individualism for the poor</q>
-&mdash; [Martin
-Luther King, Jr.](https://books.google.com/books?hl=de&id=B8k6btUYR68C&q=%22socialism+for+the+rich%22#v=snippet&q=%22socialism%20for%20the%20rich%22&f=false) (pp 346).
+In effect, this is <q>Socialism for the rich, rugged individualism for the
+poor</q> &mdash;
+[Martin Luther King, Jr.](https://books.google.com/books?hl=de&id=B8k6btUYR68C&q=%22socialism+for+the+rich%22#v=snippet&q=%22socialism%20for%20the%20rich%22&f=false)
+(pp 346).
 
-> [Lemon socialism](https://en.wikipedia.org/wiki/Lemon_socialism) is a pejorative
-> term for a form of government intervention in which government subsidies go 
-> to weak or failing firms (lemons; see Lemon law), with the effective result 
-> that the government (and thus the taxpayer) absorbs part or all of the 
-> recipient's losses. The term derives from the conception that in socialism the 
-> government may nationalize a company's profits while leaving the company to 
-> pay its own losses, while in lemon socialism the company is allowed to keep 
-> its profits but its losses are shifted to the taxpayer.
+> [Lemon socialism](https://en.wikipedia.org/wiki/Lemon_socialism) is a
+> pejorative term for a form of government intervention in which government
+> subsidies go to weak or failing firms (lemons; see Lemon law), with the
+> effective result that the government (and thus the taxpayer) absorbs part or
+> all of the recipient's losses. The term derives from the conception that in
+> socialism the government may nationalize a company's profits while leaving the
+> company to pay its own losses, while in lemon socialism the company is allowed
+> to keep its profits but its losses are shifted to the taxpayer.
 
-So the imbalance: Why does the Fed continually save the financial industry every 
-10 years, but not any other industry? Why does the [Fed create and spend 1.5T 
-dollars to purchase worthless and arcane financial
-instruments](https://www.newyorkfed.org/markets/opolicy/operating_policy_200312a),
-but never spend on public goods like housing, student education, public 
+So the imbalance: Why does the Fed continually save the financial industry every
+10 years, but not any other industry? Why does the
+[Fed create and spend 1.5T dollars to purchase worthless and arcane financial instruments](https://www.newyorkfed.org/markets/opolicy/operating_policy_200312a),
+but never spend on public goods like housing, student education, public
 infrastructure<sup class="Ref" id="ref:note:2">[[2](#note:2)]</sup>?
 
 And now we get to the systemic asymetries of power. Trump and those within his
 inner circle, as well as his political base believe they are entitled to the
 rights and protections of the law, and meanwhile cast blame and stigmatize those
 least able to defend themselves. Their in-group will be the first to receive the
-benefit of any bailouts, and the negative consequences will be blamed upon, and 
-most adversely affect
-the out-group. As [Adam Serwer](https://www.theatlantic.com/ideas/archive/2018/10/the-cruelty-is-the-point/572104/)
+benefit of any bailouts, and the negative consequences will be blamed upon, and
+most adversely affect the out-group. As
+[Adam Serwer](https://www.theatlantic.com/ideas/archive/2018/10/the-cruelty-is-the-point/572104/)
 puts it: <q>the cruelty is the point</q>:
 
 <figure class="quote">
@@ -177,10 +179,10 @@ puts it: <q>the cruelty is the point</q>:
 </figure>
 
 We, as a society are starting to understand that the financial sector is rotten
-to the core, and this rot is going to seep into public sentiment: _"If they don't
-play by the rules, why should I?"_. This has the effect or eroding the very
-conception of a nation operating under an equal rule of law, and will result
-in toxic resentment and fuel civil unrest.
+to the core, and this rot is going to seep into public sentiment: _"If they
+don't play by the rules, why should I?"_. This has the effect or eroding the
+very conception of a nation operating under an equal rule of law, and will
+result in toxic resentment and fuel civil unrest.
 
 ## Notes
 
@@ -223,7 +225,7 @@ in toxic resentment and fuel civil unrest.
      cutting at the expense of flight safety (see 'Boeing 737 Max'), and mitigate 
      market risk.
      <a class="RefBack" href="#ref:note:2"></a>
-   </div> 
+   </div>
 1. <div id="note:3">
      Update: March 25th<br>
      After reviewing early drafts of the 
@@ -242,5 +244,6 @@ in toxic resentment and fuel civil unrest.
 
 ## Thanks
 
-Thanks to [@b_apothecary](https://twitter.com/b_apothecary), Coby Durling, Jason C.,
-and Garrick Y. for reviewing early drafts of this essay and providing feedback.
+Thanks to [@b_apothecary](https://twitter.com/b_apothecary), Coby Durling, Jason
+C., and Garrick Y. for reviewing early drafts of this essay and providing
+feedback.

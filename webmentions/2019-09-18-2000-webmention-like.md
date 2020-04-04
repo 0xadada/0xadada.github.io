@@ -1,7 +1,7 @@
 ---
 layout: webmention-like
 title: >
- React.js Conf 2015 - Data fetching for React applications at Facebook
+  React.js Conf 2015 - Data fetching for React applications at Facebook
 target: https://youtu.be/9sc8Pyc51uU
 date: 2019-09-18 20:00
 tags: [webmentions]

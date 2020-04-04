@@ -8,9 +8,7 @@ generator: app.getpocket.com
 webmention: true
 ---
 
-
-There is a renaissance underway in online text as a medium. The Four Horsemen of this emerging Textopia are: I want to take a stab at lightly theorizing this renaissance. And also speculating, in light of this renaissance, about what might be the eighth and penultimate death of blogging.
-
-
-
-
+There is a renaissance underway in online text as a medium. The Four Horsemen of
+this emerging Textopia are: I want to take a stab at lightly theorizing this
+renaissance. And also speculating, in light of this renaissance, about what
+might be the eighth and penultimate death of blogging.

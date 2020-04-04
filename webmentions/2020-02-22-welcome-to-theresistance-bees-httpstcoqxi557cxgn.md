@@ -8,8 +8,6 @@ generator: twitter.com
 webmention: true
 ---
 
-
-
 <blockquote class="external-citation">
   <p>
     Welcome to #TheResistance, bees https://t.co/Qxi557CXgN
@@ -19,6 +17,3 @@ webmention: true
     <a href="http://twitter.com/thomdunn/status/1231300260523397121" rel="external nofollow" target="_blank">2020-02-22 18:44:09</a>
   </cite>
 </blockquote>
-
-
-

@@ -10,8 +10,9 @@ license: cc-by-nc-sa
 tags: [projects, open-source]
 ---
 
-Released a tiny npm package today: [@0xadada/random-emoji](https://0xadada.pub/random-emoji/),
-a javascript random emoji function with zero dependencies.
+Released a tiny npm package today:
+[@0xadada/random-emoji](https://0xadada.pub/random-emoji/), a javascript random
+emoji function with zero dependencies.
 
 ```javascript
 $ yarn add @0xadada/random-emoji

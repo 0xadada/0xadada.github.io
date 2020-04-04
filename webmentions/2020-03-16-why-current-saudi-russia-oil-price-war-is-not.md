@@ -8,9 +8,7 @@ generator: app.getpocket.com
 webmention: true
 ---
 
-
-It’s happened several times before: geopolitical tensions between Saudi Arabia and Russia have led to a dramatic drop in oil prices in years past. But the breakdown in Saudi-Russian cooperation in oil markets over the weekend is strikingly different this time.
-
-
-
-
+It’s happened several times before: geopolitical tensions between Saudi Arabia
+and Russia have led to a dramatic drop in oil prices in years past. But the
+breakdown in Saudi-Russian cooperation in oil markets over the weekend is
+strikingly different this time.

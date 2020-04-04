@@ -7,9 +7,3 @@ tags: [webmentions]
 generator: goodreads.com
 webmention: true
 ---
-
-
-
-
-
-

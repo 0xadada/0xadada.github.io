@@ -8,8 +8,6 @@ generator: twitter.com
 webmention: true
 ---
 
-
-
 <blockquote class="external-citation">
   <p>
     @0xADADA @garlick811 https://t.co/BlrpbsyXCw
@@ -19,6 +17,3 @@ webmention: true
     <a href="http://twitter.com/BiggerAndLouder/status/1242917389374816264" rel="external nofollow" target="_blank">2020-03-25 17:13:07</a>
   </cite>
 </blockquote>
-
-
-

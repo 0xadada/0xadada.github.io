@@ -8,8 +8,6 @@ generator: twitter.com
 webmention: true
 ---
 
-
-
 <blockquote class="external-citation">
   <p>
     a favorite, more poetic, take https://t.co/4tScEOB4Rc
@@ -19,6 +17,3 @@ webmention: true
     <a href="http://twitter.com/jmreagle/status/1197880919010340864" rel="external nofollow" target="_blank">2019-11-22 10:52:16</a>
   </cite>
 </blockquote>
-
-
-

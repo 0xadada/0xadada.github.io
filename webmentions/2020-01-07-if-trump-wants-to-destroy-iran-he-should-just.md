@@ -8,8 +8,6 @@ generator: twitter.com
 webmention: true
 ---
 
-
-
 <blockquote class="external-citation">
   <p>
     If Trump wants to destroy Iran he should just become their president.
@@ -19,6 +17,3 @@ webmention: true
     <a href="http://twitter.com/irishrygirl/status/1214175502241599488" rel="external nofollow" target="_blank">2020-01-07 21:16:21</a>
   </cite>
 </blockquote>
-
-
-

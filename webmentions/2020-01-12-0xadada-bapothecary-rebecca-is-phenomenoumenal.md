@@ -8,8 +8,6 @@ generator: twitter.com
 webmention: true
 ---
 
-
-
 <blockquote class="external-citation">
   <p>
     @0xADADA @b_apothecary Rebecca is @phenomenoumenal
@@ -19,6 +17,3 @@ webmention: true
     <a href="http://twitter.com/joshuakampa/status/1216427427896922113" rel="external nofollow" target="_blank">2020-01-12 16:51:15</a>
   </cite>
 </blockquote>
-
-
-

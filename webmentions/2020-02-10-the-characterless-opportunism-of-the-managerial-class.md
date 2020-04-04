@@ -8,9 +8,5 @@ generator: app.getpocket.com
 webmention: true
 ---
 
-
-My first reaction to the work of Barbara Ehrenreich was one of complete indignation and contempt.
-
-
-
-
+My first reaction to the work of Barbara Ehrenreich was one of complete
+indignation and contempt.

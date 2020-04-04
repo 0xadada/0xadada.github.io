@@ -8,9 +8,6 @@ generator: app.getpocket.com
 webmention: true
 ---
 
-
-Matt Stoller is the director of research at the American Economic Liberties Project. Last week the Senate voted 96 to 0 on a bill that fundamentally reorients American politics.
-
-
-
-
+Matt Stoller is the director of research at the American Economic Liberties
+Project. Last week the Senate voted 96 to 0 on a bill that fundamentally
+reorients American politics.

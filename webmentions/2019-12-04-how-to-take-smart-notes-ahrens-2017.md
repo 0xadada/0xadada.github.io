@@ -8,9 +8,6 @@ generator: app.getpocket.com
 webmention: true
 ---
 
-
-This is my rephrasing of (Ahrens, 2017, How to Take Smart Notes). I added some personal comments. To be more productive, it&#x27;s necessary to have a good system and workflow.
-
-
-
-
+This is my rephrasing of (Ahrens, 2017, How to Take Smart Notes). I added some
+personal comments. To be more productive, it&#x27;s necessary to have a good
+system and workflow.

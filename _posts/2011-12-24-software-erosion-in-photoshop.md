@@ -10,10 +10,11 @@ license: "cc-by"
 tags: [projects]
 ---
 
-Take a moment to count the number of unique scrollbar widget types there
-are in Adobe Photoshop. You may be surprised.
+Take a moment to count the number of unique scrollbar widget types there are in
+Adobe Photoshop. You may be surprised.
 
-> "You can measure software maturity by the number of UI toolkits it implements."
+> "You can measure software maturity by the number of UI toolkits it
+> implements."
 
 I've counted four in Adobe Photoshop CS5.
 
@@ -22,4 +23,3 @@ I've counted four in Adobe Photoshop CS5.
     alt="Photoshop Scollbars" title="Photoshop Scollbars">
   <figcaption>Photoshop Scollbars</figcaption>
 </figure>
-

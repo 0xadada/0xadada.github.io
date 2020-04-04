@@ -8,9 +8,7 @@ generator: app.getpocket.com
 webmention: true
 ---
 
-
-Wednesday 9 October marked four months since of the start of the Hong Kong protests. For me, as a protester, it has been an exhilarating, exhausting and not infrequently bewildering time. Events unfold quickly, often at a massive scale, and the situation changes from day to day and week to week.
-
-
-
-
+Wednesday 9 October marked four months since of the start of the Hong Kong
+protests. For me, as a protester, it has been an exhilarating, exhausting and
+not infrequently bewildering time. Events unfold quickly, often at a massive
+scale, and the situation changes from day to day and week to week.

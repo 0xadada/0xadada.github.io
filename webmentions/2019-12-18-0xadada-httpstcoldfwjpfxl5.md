@@ -8,8 +8,6 @@ generator: twitter.com
 webmention: true
 ---
 
-
-
 <blockquote class="external-citation">
   <p>
     @0xADADA https://t.co/LDfWJPFXl5
@@ -19,6 +17,3 @@ webmention: true
     <a href="http://twitter.com/qtychr/status/1207484420057382913" rel="external nofollow" target="_blank">2019-12-18 22:49:03</a>
   </cite>
 </blockquote>
-
-
-

@@ -8,8 +8,6 @@ tags: [webmentions]
 generator: twitter.com
 ---
 
-
-
 <blockquote class="external-citation">
   <p>
     Fall colors are the best #ShotOniPhone https://t.co/gV1GsVkzHa
@@ -19,6 +17,3 @@ generator: twitter.com
     <a href="http://twitter.com/FredericJacobs/status/1187730294620786692" rel="external nofollow" target="_blank">2019-10-25 11:18:20</a>
   </cite>
 </blockquote>
-
-
-

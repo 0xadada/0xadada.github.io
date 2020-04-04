@@ -8,9 +8,6 @@ generator: app.getpocket.com
 webmention: true
 ---
 
-
-Caption: Casein kinase 1 (CK1) regulates PERIOD, a core protein in the biological clock of people. Credit: Clarisse Ricci, University of California, San DiegoSome people are early risers, wide awake at the crack of dawn.
-
-
-
-
+Caption: Casein kinase 1 (CK1) regulates PERIOD, a core protein in the
+biological clock of people. Credit: Clarisse Ricci, University of California,
+San DiegoSome people are early risers, wide awake at the crack of dawn.

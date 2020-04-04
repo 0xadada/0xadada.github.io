@@ -8,8 +8,6 @@ generator: twitter.com
 webmention: true
 ---
 
-
-
 <blockquote class="external-citation">
   <p>
     @dan_abramov greetings
@@ -19,6 +17,3 @@ webmention: true
     <a href="http://twitter.com/tomdale/status/1197680977004380161" rel="external nofollow" target="_blank">2019-11-21 21:12:06</a>
   </cite>
 </blockquote>
-
-
-
