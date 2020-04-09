@@ -68,7 +68,8 @@ approval, and during this period of crisis, I'm certain Shock Doctrine politics
 will win out, and these ammendments will pass. I hope I'm wrong.
 
 So what does this mean? This means that the Fed can start buying non-government
-backed securities: potentially any failing public stocks, private CDOs and MBSs.
+backed securities: potentially any failing public stocks, private CDOs and
+MBSs<sup class="Ref" id="ref:note:4">[[4](#note:4)]</sup>.
 What this means is the Fed can buy the most dangerous, volitile, and toxic
 assets that nobody else is buying, the ones that are the first to fail in a
 bursting bubble. This is a Fed that has institutionalized &amp; _encouraged_
@@ -240,6 +241,14 @@ result in toxic resentment and fuel civil unrest.
      after this pandemic is over&mdash;a homogeneous space optimized for 
      massive corporations and destroying local autonomy and diversity.
      <a class="RefBack" href="#ref:note:3"></a>
+   </div>
+1. <div id="note:4">
+     Update: April 9th<br>
+     As predicted, the Fed is starting to take consumer credit debt
+     and commercial MBSes onto its balance sheet.
+     <q>The Fed will now accept triple-A rated tranches of existing commercial mortgage-backed securities and newly issued collateralized loan obligations. Under TALF, the Fed lends money to investors to buy securities backed by credit-card loans and other consumer debt. The Fed has made $100 billion available for that program and didn’t increase the amount Thursday.</q>
+     <a href="https://www.wsj.com/articles/fed-announces-new-facilities-to-support-2-3-trillion-in-lending-11586435450?emailToken=541e2dedd6bede9b4d6ae9d44a2a062c7HuWo9MeoBNqhzmd09hf0IEjJVhb1HTeGJkTRwnEgr2wW1szbCZ9iSqB5eAUfJ5MrTaa7qUHJRxPktf+vdJ7dWh4tMok+E1cIneDsYK4DiTVjOvzKtS2+Vbq7iqpfucG">Fed Expands Corporate-Debt Backstops, Unveils New Programs to Aid States, Cities and Small Businesses</a>
+     <a class="RefBack" href="#ref:note:4"></a>
    </div>
 
 ## Thanks
