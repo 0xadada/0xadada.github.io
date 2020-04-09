@@ -70,7 +70,7 @@ will win out, and these ammendments will pass. I hope I'm wrong.
 So what does this mean? This means that the Fed can start buying non-government
 backed securities: potentially any failing public stocks, private CDOs and
 MBSs<sup class="Ref" id="ref:note:4">[[4](#note:4)]</sup>.
-What this means is the Fed can buy the most dangerous, volitile, and toxic
+What this means is the Fed can buy the most dangerous, volatile, and toxic
 assets that nobody else is buying, the ones that are the first to fail in a
 bursting bubble. This is a Fed that has institutionalized &amp; _encouraged_
 systemic moral hazard&mdash; saying, in effect: <q>If you (the finance sector)
