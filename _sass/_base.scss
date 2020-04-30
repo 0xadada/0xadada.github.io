@@ -73,6 +73,7 @@ a:hover {
 .e-content a[rel~="external"]::after {
   content: '\238B';
   display: inline-block;
+  font-style: normal;
   transform: rotate(90deg);
   margin-left: 0.1875rem;
 }
