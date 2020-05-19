@@ -4,359 +4,45 @@
 @license MIT
 */
 
-
 /* system-sans-serif
-
 A sans-serif style does not have extending adornments attached to the end of
 the letterform.
 ============================================================================= */
+.system-sans-serif,
+.system-sans-serif button,
+.system-sans-serif input,
+.system-sans-serif select {
+  -webkit-text-size-adjust: none;
+  -moz-text-size-adjust: none;
+  -ms-text-size-adjust: none;
+  text-size-adjust: none;
+  text-rendering: optimizeLegibility /* improved font rendering algorithm    */;
 
-/* system-sans-serif
-
-style:         sans-serif
-variant:       normal (Regular)
-weight:        300 (Light)
-unicode range: english (latin-1) and more
- */
-@font-face {
-  font-family: system-sans-serif;
-  font-style: normal;
-  font-weight: 300;
-
-  /*
-  Read more about the `.` dot notation names:
-  http://furbo.org/2015/07/09/i-left-my-system-fonts-in-san-francisco/
-   */
-  src:
-    local("-apple-system"),  /* macOS */
-    local("BlinkMacSystemFont"), /* macOS Chrome */
-    local(".SFNSText-Light"), /* macOS Firefox El Capitan+ */
-    local(".HelveticaNeueDeskInterface-Light"), /* macOS Yosemite */
-    local(".LucidaGrandeUI"), /* macOS Kodiak-Mavericks */
-    local("Noto Sans"), local("Roboto"), /* Linux, Chromebook, Android */
-    local("Oxygen-Sans"), local("Ubuntu"), local("Cantarell"), /* KDE, Ubuntu, Gnome */
-    local("Segoe UI"), local("Arial"); /* Window Phone, Windows Vista+ */
-
-  /* about the unicode ranges https://unicode-table.com/ */
-  unicode-range:
-    U+0020-00FF, /* Basic-latin - Latin-1 Supplement */
-    U+2000-206F, /* General Punctuation */
-    U+2070-209F, /* Superscripts & subscripts */
-    U+2150-218F, /* Number forms */
-    U+2190-21FF, /* Arrows */
-    U+2200-22FF; /* Mathmatical operators */
-}
-
-
-/* system-sans-serif
-
-style:         sans-serif
-variant:       Italic
-weight:        300 (Light)
-unicode range: english (latin-1) and a bit more
- */
-@font-face {
-  font-family: system-sans-serif;
-  font-style: italic;
-  font-weight: 300;
-  src:
-    local("-apple-system"),  /* macOS */
-    local("BlinkMacSystemFont"), /* macOS Chrome */
-    local(".SFNSText-LightItalic"), /* macOS Firefox El Capitan+ */
-    local(".HelveticaNeueDeskInterface-Light"), /* macOS Yosemite */
-    local(".LucidaGrandeUI"), /* macOS Kodiak-Mavericks */
-    local("Noto Sans"), local("Roboto"), /* Linux, Chromebook, Android */
-    local("Oxygen-Sans"), local("Ubuntu"), local("Cantarell"), /* KDE, Ubuntu, Gnome */
-    local("Segoe UI"), local("Arial"); /* Window Phone, Windows Vista+ */
-  unicode-range:
-    U+0020-00FF, /* Basic-latin - Latin-1 Supplement */
-    U+2000-206F, /* General Punctuation */
-    U+2070-209F, /* Superscripts & subscripts */
-    U+2150-218F, /* Number forms */
-    U+2190-21FF, /* Arrows */
-    U+2200-22FF; /* Mathmatical operators */
-}
-
-
-/* system-sans-serif
-
-style:         sans-serif
-variant:       normal (Regular)
-weight:        400 (Regular)
-unicode range: english (latin-1) and a bit more
- */
-@font-face {
-  font-family: system-sans-serif;
-  font-style: normal;
-  font-weight: 400;
-  src:
-    local("-apple-system"),  /* macOS */
-    local("BlinkMacSystemFont"), /* macOS Chrome */
-    local(".SFNSText"), /* macOS Firefox El Capitan+ */
-    local(".HelveticaNeueDeskInterface-Regular"), /* macOS Yosemite */
-    local(".LucidaGrandeUI"), /* macOS Kodiak-Mavericks */
-    local("Noto Sans"), local("Roboto"), /* Linux, Chromebook, Android */
-    local("Oxygen-Sans"), local("Ubuntu"), local("Cantarell"), /* KDE, Ubuntu, Gnome */
-    local("Segoe UI"), local("Arial"); /* Window Phone, Windows Vista+ */
-  unicode-range:
-    U+0020-00FF, /* Basic-latin - Latin-1 Supplement */
-    U+2000-206F, /* General Punctuation */
-    U+2070-209F, /* Superscripts & subscripts */
-    U+2150-218F, /* Number forms */
-    U+2190-21FF, /* Arrows */
-    U+2200-22FF; /* Mathmatical operators */
-}
-
-/* system-sans-serif
-
-style:         sans-serif
-variant:       Italic
-weight:        400 (Regular)
-unicode range: english (latin-1) and a bit more
- */
-@font-face {
-  font-family: system-sans-serif;
-  font-style: italic;
-  font-weight: 400;
-  src:
-    local("-apple-system"),  /* macOS */
-    local("BlinkMacSystemFont"), /* macOS Chrome */
-    local(".SFNSText-Italic"), /* macOS Firefox El Capitan+ */
-    local(".HelveticaNeueDeskInterface-Regular"), /* macOS Yosemite */
-    local(".LucidaGrandeUI"), /* macOS Kodiak-Mavericks */
-    local("Noto Sans"), local("Roboto"), /* Linux, Chromebook, Android */
-    local("Oxygen-Sans"), local("Ubuntu"), local("Cantarell"), /* KDE, Ubuntu, Gnome */
-    local("Segoe UI"), local("Arial"); /* Window Phone, Windows Vista+ */
-  unicode-range:
-    U+0020-00FF, /* Basic-latin - Latin-1 Supplement */
-    U+2000-206F, /* General Punctuation */
-    U+2070-209F, /* Superscripts & subscripts */
-    U+2150-218F, /* Number forms */
-    U+2190-21FF, /* Arrows */
-    U+2200-22FF; /* Mathmatical operators */
-}
-
-
-/* system-sans-serif
-
-style:         sans-serif
-variant:       normal (Regular)
-weight:        700 (Bold)
-unicode range: english (latin-1) and a bit more
- */
-@font-face {
-  font-family: system-sans-serif;
-  font-style: normal;
-  font-weight: 700;
-  src:
-    local("-apple-system"),  /* macOS */
-    local("BlinkMacSystemFont"), /* macOS Chrome */
-    local(".SFNSText-Bold"), /* macOS Firefox El Capitan+ */
-    local(".HelveticaNeueDeskInterface-Bold"), /* macOS Yosemite */
-    local(".LucidaGrandeUI"), /* macOS Kodiak-Mavericks */
-    local("Noto Sans"), local("Roboto"), /* Linux, Chromebook, Android */
-    local("Oxygen-Sans"), local("Ubuntu"), local("Cantarell"), /* KDE, Ubuntu, Gnome */
-    local("Segoe UI"), local("Arial"); /* Window Phone, Windows Vista+ */
-  unicode-range:
-    U+0020-00FF, /* Basic-latin - Latin-1 Supplement */
-    U+2000-206F, /* General Punctuation */
-    U+2070-209F, /* Superscripts & subscripts */
-    U+2150-218F, /* Number forms */
-    U+2190-21FF, /* Arrows */
-    U+2200-22FF; /* Mathmatical operators */
-}
-
-
-/* system-sans-serif
-
-style:         sans-serif
-variant:       Italic
-weight:        700 (Bold)
-unicode range: english (latin-1) and a bit more
- */
-@font-face {
-  font-family: system-sans-serif;
-  font-style: italic;
-  font-weight: 700;
-  src:
-    local("-apple-system"),  /* macOS */
-    local("BlinkMacSystemFont"), /* macOS Chrome */
-    local(".SFNSText-BoldItalic"), /* macOS Firefox El Capitan+ */
-    local(".HelveticaNeueDeskInterface-BoldItalic"), /* macOS Yosemite */
-    local(".LucidaGrandeUI"), /* macOS Kodiak-Mavericks */
-    local("Noto Sans"), local("Roboto"), /* Linux, Chromebook, Android */
-    local("Oxygen-Sans"), local("Ubuntu"), local("Cantarell"), /* KDE, Ubuntu, Gnome */
-    local("Segoe UI"), local("Arial"); /* Window Phone, Windows Vista+ */
-  unicode-range:
-    U+0020-00FF, /* Basic-latin - Latin-1 Supplement */
-    U+2000-206F, /* General Punctuation */
-    U+2070-209F, /* Superscripts & subscripts */
-    U+2150-218F, /* Number forms */
-    U+2190-21FF, /* Arrows */
-    U+2200-22FF; /* Mathmatical operators */
-}
-
-
-/* system-gothic
-
-A "gothic" style is what a sans-serif style typeface is called in Japanese.
-============================================================================= */
-
-/* system-gothic
-
-style:         sans-serif (Gothic)
-variant:       normal (Regular)
-weight:        300 (Light)
-unicode range: CJK Symbols and Punctuation, Hiragana, Katakana, CJK Unified
-               ideographs.
- */
-@font-face {
-  font-family: system-gothic;
-  font-style: normal;
-  font-weight: 300;
-  src:
-    local("HiraginoSans-W3"), local("Hiragino Sans W3"), /* macOS, iOS */
-    local("Noto Sans CJK JP"), /* Chromebook, Android */
-    local("Meiryo"); /* Windows */
-  unicode-range:
-    U+3000-303F, /* CJK Symbols and Punctuation */
-    U+3040-309F, /* Hiragana */
-    U+30A0-30FF, /* Katakana */
-    U+4E00-9FFF; /* CJK Unified ideographs */
-}
-
-
-/* system-gothic
-
-style:         sans-serif (Gothic)
-variant:       Italic
-weight:        300 (Light)
-unicode range: CJK Symbols and Punctuation, Hiragana, Katakana, CJK Unified
-               ideographs.
- */
-@font-face {
-  font-family: system-gothic;
-  font-style: italic;
-  font-weight: 300;
-  src:
-    local("HiraginoSans-W3"), local("Hiragino Sans W3"), /* macOS, iOS */
-    local("Noto Sans CJK JP"), /* Chromebook, Android */
-    local("Meiryo"); /* Windows */
-  unicode-range:
-    U+3000-303F, /* CJK Symbols and Punctuation */
-    U+3040-309F, /* Hiragana */
-    U+30A0-30FF, /* Katakana */
-    U+4E00-9FFF; /* CJK Unified ideographs */
-}
-
-
-/* system-gothic
-
-style:         sans-serif (Gothic)
-variant:       normal (Regular)
-weight:        400 (Regular)
-unicode range: CJK Symbols and Punctuation, Hiragana, Katakana, CJK Unified
-               ideographs.
- */
-@font-face {
-  font-family: system-gothic;
-  font-style: normal;
-  font-weight: 400;
-  src:
-    local("HiraginoSans-W4"), local("Hiragino Sans W4"), /* macOS, iOS */
-    local("Noto Sans CJK JP"), /* Chromebook, Android */
-    local("Meiryo"); /* Windows */
-  unicode-range:
-    U+3000-303F, /* CJK Symbols and Punctuation */
-    U+3040-309F, /* Hiragana */
-    U+30A0-30FF, /* Katakana */
-    U+4E00-9FFF; /* CJK Unified ideographs */
-}
-
-
-/* system-gothic
-
-style:         sans-serif (Gothic)
-variant:       italic
-weight:        400 (Regular)
-unicode range: CJK Symbols and Punctuation, Hiragana, Katakana, CJK Unified
-               ideographs.
- */
-@font-face {
-  font-family: system-gothic;
-  font-style: italic;
-  font-weight: 400;
-  src:
-    local("HiraginoSans-W4"), local("Hiragino Sans W4"), /* macOS, iOS */
-    local("Noto Sans CJK JP"), /* Chromebook, Android */
-    local("Meiryo"); /* Windows */
-  unicode-range:
-    U+3000-303F, /* CJK Symbols and Punctuation */
-    U+3040-309F, /* Hiragana */
-    U+30A0-30FF, /* Katakana */
-    U+4E00-9FFF; /* CJK Unified ideographs */
-}
-
-
-/* system-gothic
-
-style:         sans-serif (Gothic)
-variant:       normal (Regular)
-weight:        700 (Bold)
-unicode range: CJK Symbols and Punctuation, Hiragana, Katakana, CJK Unified
-               ideographs.
- */
-@font-face {
-  font-family: system-gothic;
-  font-style: normal;
-  font-weight: 700;
-  src:
-    local("HiraginoSans-W7"), local("Hiragino Sans W7"), /* macOS, iOS */
-    local("Noto Sans CJK JP"), /* Chromebook, Android */
-    local("Meiryo"); /* Windows */
-  unicode-range:
-    U+3000-303F, /* CJK Symbols and Punctuation */
-    U+3040-309F, /* Hiragana */
-    U+30A0-30FF, /* Katakana */
-    U+4E00-9FFF; /* CJK Unified ideographs */
-}
-
-
-/* system-gothic
-
-style:         sans-serif (Gothic)
-variant:       italic
-weight:        700 (Bold)
-unicode range: CJK Symbols and Punctuation, Hiragana, Katakana, CJK Unified
-               ideographs.
- */
-@font-face {
-  font-family: system-gothic;
-  font-style: italic;
-  font-weight: 700;
-  src:
-    local("HiraginoSans-W7"), local("Hiragino Sans W7"), /* macOS, iOS */
-    local("Noto Sans CJK JP"), /* Chromebook, Android */
-    local("Meiryo"); /* Windows */
-  unicode-range:
-    U+3000-303F, /* CJK Symbols and Punctuation */
-    U+3040-309F, /* Hiragana */
-    U+30A0-30FF, /* Katakana */
-    U+4E00-9FFF; /* CJK Unified ideographs */
-}
-
-
-/* utility helpers
-
-These utility rules allow developers to opt-in to a specific typeface
-using css classes.
-============================================================================= */
-
-/* sans-serif / gothic */
-.system-font-i18n-sans {
-  font-family:
-    system-sans-serif,  /* English (latin-1 +) */
-    system-gothic,  /* Japanese */
-    sans-serif,  /* fallback */
-    "Twitter Color Emoji", "Apple Color Emoji", "Segoe UI Emoji"; /* emoji */
+  font-family: '-apple-system'
+      /* Generic system font helper on OS X, macOS, iOS
+       * works on non-Chrome browsers, selects the following:
+       * ".SFNS" / San Francisco on Catalina
+       * ".SFNSText" / San Francisco from El Capitan to Mojave
+       * ".HelveticaNeueDeskInterface" on OS X Yosemite
+       * ".LucidaGrandeUI" on OS X Kodiak...Mavericks                        */,
+    'BlinkMacSystemFont'
+      /* Generic system font helper for Google Chrome
+       * San Francisco, Helvetica Neue, Lucida Grande
+       * depending on the OS X / macOS / iOS version                         */,
+    'HiraginoSans' /* CJK typeface on OS X, macOS and iOS. Postscript name   */,
+    'Hiragino Sans' /* see above                                             */,
+    'Roboto' /* supports more variants and weights on Chrome OS, Android     */,
+    'Noto Sans' /* the most complete Unicode coverage, Chrome OS and Android */,
+    'Noto Sans CJK JP' /* CJK typeface on Chrome OS, Android                 */,
+    'Oxygen-Sans' /* KDE                                                     */,
+    'Ubuntu' /* Ubuntu                                                       */,
+    'Cantarell' /* Gnome                                                     */,
+    'Segoe UI' /* Windows                                                    */,
+    'Meiryo' /* CJK typeface on Windows                                      */,
+    'Arial' /* Window XP, Windows Phone, Windows Vista+                      */,
+    sans-serif /* generic fallback                                           */,
+    'Apple Color Emoji' /* OS X, macOS, iOS Emoji                            */,
+    'Noto Color Emoji' /* Android, Chrome OS Emoji                           */,
+    'Symbola' /* Linux, open source Emoji                                    */,
+    'Segoe UI Emoji', 'Segoe UI Symbol' /* Windows Emoji                     */;
 }
