@@ -41,7 +41,7 @@ select {
   text-size-adjust: none;
 
   /* Normalize font stack. */
-  font-family: "Computer Modern Serif", "system-sans-serif", "system-gothic", Georgia, serif, "Twitter Color Emoji", "Apple Color Emoji", "Segoe UI Emoji";
+  font-family: "Computer Modern Serif", system-ui, -apple-system, "BlinkMacSystemFont", "HiraginoSans", "Hiragino Sans", "Roboto", "Noto Sans", "Noto Sans CJK JP", "Oxygen-Sans", "Ubuntu", "Cantarell", "Segoe UI", "Meiryo", "Arial", sans-serif, "Apple Color Emoji", "Noto Color Emoji", "Symbola", "Segoe UI Emoji", "Segoe UI Symbol";
   font-size: 100%;
   line-height: 1.4;
 }
