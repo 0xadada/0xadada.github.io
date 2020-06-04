@@ -44,10 +44,11 @@ Fascism however, is the most costly means of preserving a capitalist order due
 to the scale and effort required of the state to enforce the authoritarian rule
 of a minority with a police state apparatus. Fascism is unsustainable in the
 long-term, and must be pushed aside by a more efficient and rational form of
-power; neoconservative or neoliberal representational democracy being examples.
+power; neoconservative or neoliberal representational democracy being typical
+contemporary examples.
 
-_This was an excerpt from "The Society of The Spectacle: Unpacked" a forthcoming
-book by 0xADADA._
+_This was an excerpt from "The Society of The Spectacle" by Guy Debord and
+translated by 0xADADA._
 
 <aside>
   Photo by <a href="https://unsplash.com/@alecfavale">Alec Favale</a> on 
