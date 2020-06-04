@@ -47,8 +47,8 @@ long-term, and must be pushed aside by a more efficient and rational form of
 power; neoconservative or neoliberal representational democracy being typical
 contemporary examples.
 
-_This was an excerpt from "The Society of The Spectacle" by Guy Debord and
-translated by 0xADADA._
+_This was an excerpt from "The Society of The Spectacle" a forthcoming new book 
+by 0xADADA which reinterprets the original by Guy Debord._
 
 <aside>
   Photo by <a href="https://unsplash.com/@alecfavale">Alec Favale</a> on 
