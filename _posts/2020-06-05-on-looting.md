@@ -39,24 +39,21 @@ the job to ensure that the products of this exploited labor remains a commodity.
 These commodities have the magical property that these objects must be paid for,
 instead of remaining mere passive and inanimate objects (sneakers, fancy
 watches, iPhones & Teslas) that could be subject to anyone who comes along to
-make use of it.
+make use of them.
 
-In rejecting the humiliation of being subjected to the police, blacks are at the
-same time rejecting the humiliation of being subjected to the media-celebration
-and glorification of these dead objects (oftentimes produced during the
-exploitation of their own labor) into commodities.
+In rejecting the humiliation of being subjected to the police, looters are at
+the same time rejecting the humiliation of being subjected to the
+media-celebration and glorification of these dead objects (most often produced
+during the exploitation of their own labor) into commodities.
 
-Looting, in other terms, is a Peoples Bailout.
+Looting, in other terms, is both a rejection of the commodity and the violence
+used to protect its spectacular status, and a Peoples Bailout by other means.
 
 <aside>
   <em>This is a translation and excerpt from "Le Déclin et la chute de
 l'économie spectaculaire-marchande" to be included in "The Society of The
 Spectacle" a forthcoming book by 0xADADA which reinterprets the works of Guy
 Debord for the contemporary context.</em>
-</aside>
-
-<aside>
-  
 </aside>
 
 ## References
