@@ -65,4 +65,5 @@ applies to **all** members of our community.
 
 ## References
 
-[IN THE SHADOWS OF THE WAR ON TERROR: PERSISTENT POLICE BRUTALITY AND ABUSE OF PEOPLE OF COLOR IN THE UNITED STATES: A report prepared for the United Nations Committee on the Elimination of Racial Discrimination](https://www2.ohchr.org/english/bodies/cerd/docs/ngos/usa/USHRN15.pdf)
+- [IN THE SHADOWS OF THE WAR ON TERROR: PERSISTENT POLICE BRUTALITY AND ABUSE OF PEOPLE OF COLOR IN THE UNITED STATES: A report prepared for the United Nations Committee on the Elimination of Racial Discrimination](https://www2.ohchr.org/english/bodies/cerd/docs/ngos/usa/USHRN15.pdf)
+- [Coming Home to Roost: American Militarism, War Culture, and Police Brutality](https://dissidentvoice.org/2014/02/coming-home-to-roost/)
