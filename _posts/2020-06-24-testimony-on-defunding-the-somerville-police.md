@@ -14,7 +14,7 @@ metaImage: /static/images/2020-06-24-testimony-on-defunding-the-somerville-polic
 metaOgType: "article"
 author: "0xADADA"
 license: cc-by-nc-sa
-tags: [essays]
+tags: [essays, talks]
 ---
 
 <figure>
