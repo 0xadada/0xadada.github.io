@@ -9,13 +9,18 @@ metaDescription:
   "A more just society that applies to all members of our community is one
   without police"
 metaKeywords: police, anti-police, militarization, imperialism, colonialism
-image: /static/images/2020-03-15-elasticity-versus-discipline-luther-bottrill.jpg
-metaImage: /static/images/2020-03-15-elasticity-versus-discipline-luther-bottrill.jpg
+image: /static/images/2020-06-24-testimony-on-defunding-the-somerville-police.webp
+metaImage: /static/images/2020-06-24-testimony-on-defunding-the-somerville-police.webp
 metaOgType: "article"
 author: "0xADADA"
 license: cc-by-nc-sa
 tags: [essays]
 ---
+
+<figure>
+  <img src="/static/images/2020-06-24-testimony-on-defunding-the-somerville-police.webp" alt="Police in Valencia Spain by Luther Bottrill" title="Police in Valencia Spain by Luther Bottrill">
+  <figcaption>Police in Valencia Spain by Luther Bottrill</figcaption>
+</figure>
 
 Good Evening, my name is 0xADADA, I am a 10 year resident of Ward █ in
 Somerville.
@@ -60,7 +65,7 @@ applies to **all** members of our community.
 
 <aside>
   <em>This testimony was prepared and given on June 24th, 2020 at the Somerville
-  City Council meeting for the FY2021 city budget.</em>
+  City Council Finance Committee hearing on the FY-21 Budget.</em>
 </aside>
 
 ## References
