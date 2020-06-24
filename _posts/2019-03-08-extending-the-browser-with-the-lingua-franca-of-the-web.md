@@ -17,7 +17,7 @@ metaImage: /static/images/2019-03-08-components.png
 metaOgType: "article"
 author: "0xADADA"
 license: cc-by-nc-sa
-tags: [essays, open-source]
+tags: [projects, open-source]
 ---
 
 A browser extension adds features to a web browser. They're created using
