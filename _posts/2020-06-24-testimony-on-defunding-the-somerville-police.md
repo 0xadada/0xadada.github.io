@@ -8,13 +8,13 @@ excerpt:
 metaDescription:
   "A more just society that applies to all members of our community is one
   without police"
-metaKeywords: police, anti-police, militarization, imperialism, colonialism
+metaKeywords: police, anti-police, anti-fascism, militarization, imperialism, colonialism
 image: /static/images/2020-06-24-testimony-on-defunding-the-somerville-police.webp
 metaImage: /static/images/2020-06-24-testimony-on-defunding-the-somerville-police.webp
 metaOgType: "article"
 author: "0xADADA"
 license: cc-by-nc-sa
-tags: [essays, talks]
+tags: [essays, anti-racism, talks]
 ---
 
 <figure>

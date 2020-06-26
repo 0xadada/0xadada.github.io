@@ -7,13 +7,13 @@ excerpt: "Fascism is a cult of the archaic fitted out by modern technology"
 metaDescription:
   "Fascism is a cult of the archaic fitted out by modern technology"
 metaKeywords:
-  fascism, capitalism, society of the spectacle, late capitalism, real estate
+  fascism, anti-fascism, capitalism, society of the spectacle, late capitalism
 image: /static/images/2019-09-25-on-fascism-police.webp
 metaImage: /static/images/2019-09-25-on-fascism-police.webp
 metaOgType: "article"
 author: "0xADADA"
 license: cc-by-nc-sa
-tags: [essays]
+tags: [essays, anti-fascism]
 ---
 
 <figure>
@@ -47,7 +47,7 @@ long-term, and must be pushed aside by a more efficient and rational form of
 power; neoconservative or neoliberal representational democracy being typical
 contemporary examples.
 
-_This was an excerpt from "The Society of The Spectacle" a forthcoming new book 
+_This was an excerpt from "The Society of The Spectacle" a forthcoming new book
 by 0xADADA which reinterprets the original by Guy Debord._
 
 <aside>

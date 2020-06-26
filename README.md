@@ -23,7 +23,7 @@ format the Markdown files.
 To run in development sever:
 
 ```bash
-bundle exec jekyll serve
+yarn serve
 ```
 
 To live preview markdown in a browser:

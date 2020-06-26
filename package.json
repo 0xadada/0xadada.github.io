@@ -2,7 +2,9 @@
   "private": true,
   "scripts": {
     "format": "prettier --write *.md **/*.md",
-    "lint": "prettylint *.md **/*.md"
+    "lint": "prettylint *.md **/*.md",
+    "preview": "pen",
+    "serve": "bundle exec jekyll serve"
   },
   "devDependencies": {
     "pen": "^2.2.0",
