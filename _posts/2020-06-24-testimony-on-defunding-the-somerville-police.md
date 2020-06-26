@@ -19,6 +19,21 @@ tags: [essays, talks]
 
 <figure>
   <img src="/static/images/2020-06-24-testimony-on-defunding-the-somerville-police.webp" alt="Police in Valencia Spain by Luther Bottrill" title="Police in Valencia Spain by Luther Bottrill">
+  <svg viewBox="0 0 672 672" fill="none" stroke-linecap="square" stroke-miterlimit="10" xmlns="http://www.w3.org/2000/svg" style="margin-top: -65%; width: 70%;">
+  <g clip-path="url(#a)">
+    <path stroke="#fff" stroke-linejoin="round" stroke-linecap="butt" d="M96 95l480 480"></path>
+    <path fill="none" d="M576 107L97 586"></path>
+    <path stroke="#fff" stroke-linejoin="round" stroke-linecap="butt" d="M576 107L97 586"></path>
+    <path fill="none" d="M248 50h174v217H248z"></path>
+    <path fill="#fff" d="M321 169l-8 24h45l-8-24-8-22-6-22h-1l-7 22-7 22zm-35 74l45-126h9l44 126h-9l-15-43h-50l-15 43h-9z"></path>
+    <path fill="none" d="M97 209h174v217H97z"></path>
+    <path fill="#fff" d="M193 404q-11 0-21-4-10-5-17-13-7-9-11-21t-4-27q0-15 4-27 4-13 11-21 7-9 17-13 10-5 23-5 11 0 19 5t13 11l-5 5-12-9q-7-4-15-4-11 0-19 4-9 4-14 12-6 7-9 18-4 10-4 24 0 13 4 24 3 10 9 18 5 7 14 11 8 4 18 4t17-3q8-4 15-12l5 5q-7 9-16 14-9 4-22 4z"></path>
+    <path fill="none" d="M402 193h174v217H402z"></path>
+    <path fill="#fff" d="M475 312l-8 23h45l-8-23-8-22-6-22h-1l-7 22-7 22zm-35 74l45-126h9l44 126h-9l-15-43h-50l-15 43h-9z"></path>
+    <path fill="none" d="M248 369h174v217H248z"></path>
+    <path fill="#fff" d="M299 562V436h33q19 0 30 7t11 23q0 10-6 18-5 7-16 10v1q14 2 22 10 8 7 8 20 0 19-13 28-12 9-34 9h-35zm9-71h20q19 0 28-6 8-6 8-18 0-13-8-18-9-6-27-6h-21v48zm0 64h24q19 0 30-7 10-7 10-23 0-13-10-20-11-6-30-6h-24v56z"></path>
+  </g>
+  </svg>
   <figcaption>Police in Valencia Spain by Luther Bottrill</figcaption>
 </figure>
 
