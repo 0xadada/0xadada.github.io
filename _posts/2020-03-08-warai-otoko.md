@@ -1,6 +1,6 @@
 ---
-title: "Warai Otoko (笑い男) Logo"
-displayTitle: "Warai Otoko Logo"
+title: "Warai Otoko (笑い男) Animated Logo"
+displayTitle: "Warai Otoko 笑い男 Animated Logo"
 date: 2020-03-08 16:48:00
 metaDescription:
   "Animated SVG logo of an asset from Ghost in the Shell using CSS transforms"
