@@ -113,7 +113,7 @@ p {
   hyphens: auto;
 }
 
-.entry-content p:first-of-type::first-letter {
+.entry-content > p:first-of-type::first-letter {
   font-size: 5rem;
   float: left;
   margin-top: 0;
