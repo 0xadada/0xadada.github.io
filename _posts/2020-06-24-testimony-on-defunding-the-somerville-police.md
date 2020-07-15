@@ -1,7 +1,7 @@
 ---
 layout: longread
-title: "Testimony on Defunding the Police in Somerville"
-displayTitle: "Testimony on Defunding the Police"
+title: "Testimony to Defund the Police in Somerville"
+displayTitle: "Testimony to Defund the Police"
 date: 2020-06-24 19:00:00
 excerpt:
   "The first steps to address the problem of systemic racism in Somerville..."
