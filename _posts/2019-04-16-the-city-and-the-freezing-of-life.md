@@ -69,6 +69,22 @@ workspaces are abundantly available, and where the barrier to start new
 businesses and develop existing vacant lots for new uses are minimal or
 non-existent.
 
+<figure>
+  <img src="/static/images/2019-04-16-gentrification.jpg" alt="Gentrified Architecture" title="Gentrified Architecture">
+  <figcaption>
+    An example of "Gentrified Architecture" 
+    <br>
+    Photo by <a href="https://commons.wikimedia.org/wiki/File:Gentrified_architecture_in_Shaw_Neighborhood,_Washington,_DC_USA.jpg">Ted Eytan</a> 
+    <br>
+    An example of "Gentrified Architecture" is as obliterating as it is banal because
+    it does not modify or build from an existing architectural tradition of an area,
+    but rather changes it completely. It subtly shifts collective perceptions of
+    formerly "working class" areas to abide by the homogenizing effects of global
+    capitalism and disconnects the area from the social histories in which it
+    exists.
+  </figcaption>
+</figure>
+
 The drive to urbanization is an imperative of capitalism, this drive results in
 "a freezing of life"— a static world devoid of spontaneity, the result of land
 development and bureaucratic zoning laws optimized for rent seeking and
