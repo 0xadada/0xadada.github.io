@@ -92,8 +92,9 @@ seasons and with time. The philosopher Hegel explored this concept saying:
 > B. Blackwell, 1986.)</cite>
 
 This is to say: the privileging of objects in space fetishizes the object and
-therefore sacrifices changes in time. This creates and alienated and static
-space of purely fetishized structures devoid of life.
+therefore sacrifices changes in time. This creates an
+[alienated and static space of purely fetishized structures](https://en.wikipedia.org/wiki/Gentrified_architecture),
+devoid of life.
 
 _This was an excerpt from "The Society of The Spectacle: Elaborated" a
 forthcoming book by 0xADADA._
