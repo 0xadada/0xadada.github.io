@@ -21,15 +21,6 @@ html,
 button,
 input,
 select {
-  /* anti-aliasing
-   * Frankly, i don't know why anti-aliasing isn't enabled by default.
-   * It probably should be, but its nice that "good" developers
-   * can make their sites look nicer by opting-into antialiased type.
-   */
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  /* font-smooth: always; */
-
   /* text size adjust
    * allows Web authors to control if and how
    * the text-inflating algorithm is applied to the textual content
@@ -41,7 +32,7 @@ select {
   text-size-adjust: none;
 
   /* Normalize font stack. */
-  font-family: "Computer Modern Serif", system-ui, -apple-system, "BlinkMacSystemFont", "HiraginoSans", "Hiragino Sans", "Roboto", "Noto Sans", "Noto Sans CJK JP", "Oxygen-Sans", "Ubuntu", "Cantarell", "Segoe UI", "Meiryo", "Arial", sans-serif, "Apple Color Emoji", "Noto Color Emoji", "Symbola", "Segoe UI Emoji", "Segoe UI Symbol";
+  font-family: system-ui, -apple-system, "BlinkMacSystemFont", "HiraginoSans", "Hiragino Sans", "Roboto", "Noto Sans", "Noto Sans CJK JP", "Oxygen-Sans", "Ubuntu", "Cantarell", "Segoe UI", "Meiryo", "Arial", sans-serif, "Apple Color Emoji", "Noto Color Emoji", "Symbola", "Segoe UI Emoji", "Segoe UI Symbol";
   font-size: 100%;
   line-height: 1.4;
 }
@@ -57,7 +48,6 @@ select {
 }
 
 body {
-  background-color: rgba(255, 241, 229, 0.5); /* lol Financial Times bg color */
   color: #292929;
   margin: 0;
   padding: 1.5em;
@@ -69,6 +59,7 @@ a {
 a:hover {
   color: #0000cc;
 }
+
 .entry-content a[rel~="external"]::after,
 .e-content a[rel~="external"]::after {
   content: '\238B';
@@ -93,7 +84,6 @@ h5,
 h6 {
   font-weight: 400;
   letter-spacing: -.025em;
-  text-transform: uppercase;
 }
 
 code,
@@ -111,14 +101,6 @@ blockquote cite {
 
 p {
   hyphens: auto;
-}
-
-.entry-content > p:first-of-type::first-letter {
-  font-size: 5rem;
-  float: left;
-  margin-top: 0;
-  line-height: 54px;
-  margin-right: 0;
 }
 
 cite {
@@ -139,4 +121,3 @@ figure figcaption {
 img {
   max-width: 100%;
 }
-
