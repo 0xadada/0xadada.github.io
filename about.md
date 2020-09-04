@@ -57,7 +57,7 @@ metaImage: /static/images/meta/apple-touch-icon.png
   [Transmission](https://transmissionbt.com/) and
   [Resilio Sync](https://www.resilio.com/) for file transfers. For getting shit
   done, my
-  [homebrew manifest](https://github.com/0xadada/dotfiles/blob/master/brew.sh#L27)
+  [homebrew manifest](https://github.com/0xadada/dotfiles/blob/master/Brewfile)
   will tell you the regular tools I use. On Android i like
   [Strava](https://www.strava.com/) for tracking my runs,
   [Goodreads](https://www.goodreads.com) for reading, and
