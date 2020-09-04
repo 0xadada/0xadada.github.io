@@ -62,4 +62,4 @@ freedom and rights&mdash;which is wrong.
 
 The experiment is no longer producing the outcomes for which it once promised&mdash;based on the idea of the social contract established by Rousseau, which provides for social reciprocity: we chose the laws under which we live. This is less and less the case. We're increasingly seeing wealth for the few and social precarity for the many, under a system of governance that responds to corporations before it responds to people.
 
-It's time to try a new experiment in resource allocation an governance that is egalitarian, sustainable, and provides a vision where all inhabitants of this planet act in good faith towards a project for multiple positive futures. Other *worlds* are possible.
+It's time to try a new experiment in resource allocation and governance that is egalitarian, sustainable, and provides a vision where all inhabitants of this planet act in good faith towards a project for multiple worlds, and many positive futures. Other *worlds* are possible.
