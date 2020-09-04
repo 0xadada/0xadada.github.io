@@ -28,30 +28,19 @@ The United States was started as a rational experiment in democratic capitalism 
 
 <figure class="quote">
   <blockquote>
-    fuck the monarchy, let's experiment with a rational government based on contract law and this new capitalism stuff.
+    "fuck the monarchy, let's experiment with a rational government based on contract law and this new capitalism stuff."
   </blockquote>
   <figcaption>
-  <cite>
-    The Forefathers
-  </cite>
+    <cite>The Forefathers</cite>
   </figcaption>
 </figure>
 
 The problem with this type of Hobbesian thinking is "man will resort to kill or be killed in the 'state of nature'" and therefore the State must enforce contacts to ensure civility and protect the rights of property.
 
-My thinking is more aligned to Zeynep:
+My thinking is more aligned to [Zeynep Tufecki](https://www.nytimes.com/2020/08/23/business/media/how-zeynep-tufekci-keeps-getting-the-big-things-right.html)
 
-<figure class="quote">
-  <blockquote>
-    We think of society as this Hobbesian thing, as opposed to the reality where most people are very friendly, most people are prone to solidarity
-  </blockquote>
-  <figcaption>
-  <cite>
-    <a href="https://www.nytimes.com/2020/08/23/business/media/how-zeynep-tufekci-keeps-getting-the-big-things-right.html" rel="external">Zeynep Tufecki</a>
-  </cite>
-  </figcaption>
-</figure>
-
+> “We think of society as this Hobbesian thing, as opposed to the reality where
+> most people are very friendly, most people are prone to solidarity.”
 
 In disasters and daily life, people want to help each other, and feel as part of something greater than themselves. The atomization of the individual, a result of capitalism, continually undermines this fundamental aspect of the human experience.
 
