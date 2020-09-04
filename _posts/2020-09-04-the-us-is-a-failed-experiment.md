@@ -17,6 +17,13 @@ tags: [essays]
 license: cc-by-nc-sa
 ---
 
+<figure>
+  <img src="/static/images/2020-09-04-us-corporate-flag.jpg" alt="The Corporate States of America by AdBusters" title="The Corporate States of America by AdBusters">
+  <figcaption>
+    The Corporate States of America by AdBusters
+  </figcaption>
+</figure>
+
 The United States was started as a rational experiment in democratic capitalism based on ideas that inspired its forefathers. They were influenced by ideas coming out of the Enlightenment, specifically Adam Smith, Locke, Rousseau, and the conception of humans resorting to "the state of nature" and acting in bad-faith with one another. 
 
 <figure class="quote">
