@@ -51,6 +51,24 @@ Gibsons most powerful argument was wonderful:
 > mark on the world. The true creative class can’t afford to rent expensive new
 > studios.
 
+<figure class="quote">
+  <blockquote cite="https://www.nationalreview.com/2019/04/san-francisco-decline-failed-government-policies/">
+    "The legendary urbanist Jane Jacobs once remarked that new ideas come from 
+    old buildings, the types of places you can alter without permission because 
+    no one cares about them. This is one reason why so many garage startups and 
+    garage bands and artists spilling paint in discarded warehouse lofts have 
+    left their mark on the world. The true creative class can’t afford to 
+    rent expensive new studios."
+  </blockquote>
+  <figcaption>
+    &mdash;Michael Gibson,
+    <cite>
+      <a href="https://www.nationalreview.com/2019/04/san-francisco-decline-failed-government-policies/" rel="external">
+        San Francisco’s Slow-Motion Suicide</a>
+    </cite>
+  </figcaption>
+</figure>
+
 Gibson alludes to the conservative zoning laws and wealthy property owners
 exacerbating the plight of San Francisco and similar cities: Owners want
 property values to rise above all other concerns. The problem in San Francisco
