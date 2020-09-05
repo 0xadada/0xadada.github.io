@@ -31,12 +31,11 @@ tags: [essays]
     austerity and borrowing/payment for you."
   </blockquote>
   <figcaption>
+    &mdash;Perry Mehrling,
     <cite>
       <a href="https://www.perrymehrling.com/2019/03/liquidity-changes-everything/" rel="external">
         Liquidity Changes Everything</a>
     </cite>
-    &mdash;
-    Perry Mehrling
   </figcaption>
 </figure>
 
@@ -171,11 +170,13 @@ puts it: <q>the cruelty is the point</q>:
     themselves in the process.
   </blockquote>
   <figcaption>
-  <cite>
-    <a href="https://www.theatlantic.com/ideas/archive/2018/10/the-cruelty-is-the-point/572104/" rel="external" title="The Cruelty is the Point">The
-      Cruelty is the Point
-    </a>
-  </cite>
+    &mdash;
+    Adam Serwer,
+    <cite>
+      <a href="https://www.theatlantic.com/ideas/archive/2018/10/the-cruelty-is-the-point/572104/" rel="external" title="The Cruelty is the Point">The
+        Cruelty is the Point
+      </a>
+    </cite>
   </figcaption>
 </figure>
 
