@@ -70,15 +70,16 @@ advertisers.
 
 > “The new media of surveillance capitalism solicit social behaviors, monitor
 > those behaviors, map social interactions, and resell what they learn to
-> advertisers and others.” (Turner, 2017).
+> advertisers and others.”
+> <cite>(Turner, 2017)</cite>
 
 Platforms like Facebook are attempting to create systems for the generation of
 distraction, Crary describes it as follows:
 
 > “conditions that individuate, immobilize, and separate subjects, even within a
 > world in which mobility and circulation are ubiquitous. In this way attention
-> becomes key to the operation of noncoercive forms of power” (Crary, 2001,
-> pg. 74)
+> becomes key to the operation of noncoercive forms of power”
+> <cite>(Crary, 2001, pg. 74)</cite>
 
 Over time, these systems continually push our attention and distraction to new
 limits and thresholds. Youtube & Netflix discovers that auto-playing the next
@@ -165,7 +166,8 @@ Annual Report makes it clear:
 > The increase in the ads delivered was driven by an increase in users and their
 > engagement and an increase in the number and frequency of ads displayed on
 > News Feed, partially offset by increasing user engagement with video content
-> and other product changes. (Facebook, 2017).
+> and other product changes.
+> <cite>(Facebook, 2017)</cite>
 
 We think we’re immune to the persuasiveness of advertising, but remember,
 advertising is a \$600 billion dollar industry that is the financial basis of
@@ -198,7 +200,8 @@ image and as advertising revenues would indicate, is itself productive of
 value." (Beller 2006, p.79)
 
 > "Facebook’s nearly one billion users have become the largest unpaid workforce
-> in history" (Laney, 2012).
+> in history"
+> <cite>(Laney, 2012)</cite>
 
 The intended effect the media wishes to create is media-driven neuroticism—a
 love of change for its own sake, or neomania, a love of new things. Ultimately,
@@ -246,7 +249,8 @@ both misdirect and distract, and has negative effects on our mood.
 
 > Distraction could be described as a phenomenon in which you connect,
 > inadvertently or absentmindedly, to more things than you intended. The noise
-> drowns out the signal. (Solnit, 2018).
+> drowns out the signal.
+> <cite>(Solnit, 2018)</cite>
 
 A practical approach for a healthy relationship with the media we consume is to
 create distance between ourselves and the media that surrounds us on a daily
@@ -279,7 +283,8 @@ Thoreau described a similar mental recalibration in _Life Without Principle_:
 > of the mind. _We should treat our minds, that is, ourselves, as innocent and
 > ingenuous children, whose guardians we are, and be careful what objects and
 > what subjects we thrust on their attention._ Read not the Times. Read the
-> Eternities. (Thoreau, 1863).
+> Eternities.
+> <cite>(Thoreau, 1863)</cite>
 
 This essay proposes the _survivorship_ bias as the criteria to determine which
 media to ignore as mundane, cheap, and ephemeral. Survivorship sets the focus on
@@ -294,7 +299,8 @@ Aaron Swartz had similar sentiments:
 
 > Its obsession with the criminal and the deviant makes us less trusting people.
 > Its obsession with the hurry of the day-to-day makes us less reflective
-> thinkers. Its obsession with surfaces makes us shallow. (Swartz, 2006).
+> thinkers. Its obsession with surfaces makes us shallow.
+> <cite>(Swartz, 2006)</cite>
 
 Survivorship is a simple heuristic with which to judge media, be it books, news,
 social media, television, academic journal articles or even video games. A
@@ -327,7 +333,8 @@ take action!
 > example of the ways that the spectacle takes advantage of its subordination of
 > the masses. It is a process to which they have no control other than to
 > renounce image culture completely which in a hyperreal world is almost
-> inconceivable. (Berthelot, 2013)
+> inconceivable.
+> <cite>(Berthelot, 2013)</cite>
 
 We propose a collective media consumption strike, and rather than allowing our
 attention to be driven by these platforms, we must direct our attention to the
@@ -654,7 +661,8 @@ promotions and deals. (Dormehl, 2014).
 > "The problem with the web and its associated technologies is that it has made
 > it so easy to share information about ourselves that doing so begins to feel
 > like an obligation, a sentence, a sisyphean curse; another day, another photo
-> of lunch to post." (Beato, G.)
+> of lunch to post."
+> <cite>(Beato, G.)</cite>
 
 Facebook manipulates our emotions with experiments on the News Feed. (Booth,
 2014).
