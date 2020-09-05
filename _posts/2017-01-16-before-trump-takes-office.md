@@ -36,8 +36,7 @@ or the distortions of propaganda and ideology. I was inspired by Sarah Kendzior:
 > is possible that in the next year, you will either believe them or be forced
 > to say you believe them.
 >
-> <cite>We’re heading into dark times. This is how to be your own light in the Age of Trump<sup class="Ref" id="ref:cite:1">[[1](#cite:1)]</sup></cite>
-> by Sarah Kendzior
+> ‒Sarah Kendzior, <cite>We’re heading into dark times. This is how to be your own light in the Age of Trump<sup class="Ref" id="ref:cite:1">[[1](#cite:1)]</sup></cite>
 
 ## The Spectacle of 2016
 
