@@ -33,8 +33,7 @@ The United States was started as a rational experiment in democratic capitalism 
     </p>
   </blockquote>
   <figcaption>
-    <cite>The Federalist Papers</cite>
-    by The Forefathers™
+    —The Forefathers™, <cite>The Federalist Papers</cite>
   </figcaption>
 </figure>
 
