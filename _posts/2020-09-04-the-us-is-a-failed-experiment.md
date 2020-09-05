@@ -28,10 +28,13 @@ The United States was started as a rational experiment in democratic capitalism 
 
 <figure class="quote">
   <blockquote>
-    "fuck the monarchy, let's experiment with a rational government based on contract law and this new capitalism stuff."
+    <p>
+      "fuck the monarchy, let's experiment with a rational government based on contract law and this new capitalism stuff."
+    </p>
   </blockquote>
   <figcaption>
-    <cite>The Forefathers</cite>
+    <cite>The Federalist Papers</cite>
+    by The Forefathers™
   </figcaption>
 </figure>
 
@@ -41,6 +44,8 @@ My thinking is more aligned to [Zeynep Tufecki](https://www.nytimes.com/2020/08/
 
 > “We think of society as this Hobbesian thing, as opposed to the reality where
 > most people are very friendly, most people are prone to solidarity.”
+> <cite><a href="https://www.nytimes.com/2020/08/23/business/media/how-zeynep-tufekci-keeps-getting-the-big-things-right.html">How Zeynep Tufekci Keeps Getting the Gig-things Right</a>
+</cite>
 
 In disasters and daily life, people want to help each other, and feel as part of something greater than themselves. The atomization of the individual, a result of capitalism, continually undermines this fundamental aspect of the human experience.
 
