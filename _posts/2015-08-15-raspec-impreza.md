@@ -10,7 +10,7 @@ metaOgType: "article"
 metaImage: /static/images/2015-08-15-raspec-impreza-exterior-front-left-01-far.jpg
 author: "0xADADA"
 license: cc-by-nc-sa
-tags: [projects]
+tags: [projects, motorsports]
 imageGalleries:
   chassis:
     - src: /static/images/2015-08-15-raspec-impreza-chassis-underbody.jpg
