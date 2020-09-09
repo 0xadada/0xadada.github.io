@@ -2,7 +2,7 @@
 title: "About - 0xADADA"
 navTitle: About
 inNav: true
-navOrder: 5
+navOrder: 6
 displayTitle: About
 metaDescription: "About 0xADADA"
 metaOgType: "article"

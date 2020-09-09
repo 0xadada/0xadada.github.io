@@ -7,7 +7,7 @@ metaOgType: "article"
 metaImage: /static/images/2011-10-12-keep-buying-and-carry-debt.png
 author: "0xADADA"
 license: "cc-by-nc-ca"
-tags: [projects]
+tags: [notes, projects]
 hidden: true
 ---
 

@@ -10,7 +10,7 @@ metaKeywords:
 metaOgType: "article"
 author: "0xADADA"
 license: cc-by-nc-sa
-tags: [essays]
+tags: [notes, essays]
 ---
 
 In “Understanding Media<sup class="Ref" id="ref:cite:1">[[1](#cite:1)]</sup>,”

@@ -9,7 +9,7 @@ image: /static/images/2018-12-05-opus-cover-satoshi-kon-preview.jpg
 metaImage: /static/images/2018-12-05-opus-cover-satoshi-kon-preview.jpg
 metaOgType: "article"
 author: "0xADADA"
-tags: [essays]
+tags: [notes]
 license: cc-by-nc-sa
 hidden: true
 ---

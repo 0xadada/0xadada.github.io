@@ -4,7 +4,7 @@ title: Talks
 displayTitle: Talks
 slug: talks
 inNav: true
-navOrder: 3
+navOrder: 4
 ---
 
 Talks I've given at conferences, meetups, etc.
