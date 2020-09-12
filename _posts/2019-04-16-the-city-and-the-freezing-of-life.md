@@ -111,12 +111,18 @@ the very people who live in these spaces, people who wish to change their
 surroundings over time as use-patterns and ways of living change with the
 seasons and with time. The philosopher Hegel explored this concept saying:
 
-> _"Space is the connection of the quiescent asunderness and side-by-sideness of
-> things [objects]; Time is the connection of their vanishing or alteration...
-> In the spatial world the question is not succession but of coexistence... As a
-> restless Becoming [Time] is not an element of the synthetic whole."_ >
-> <cite>(G.W.F. Hegel ; translated by A.V. Miller. Oxford, UK ; New York, NY :
-> B. Blackwell, 1986.)</cite>
+<figure class="quote">
+  <blockquote cite="https://www.nationalreview.com/2019/04/san-francisco-decline-failed-government-policies/">
+    “Space is the connection of the quiescent asunderness and side-by-sideness of
+    things [objects]; Time is the connection of their vanishing or alteration...
+    In the spatial world the question is not succession but of coexistence... As a
+    restless Becoming [Time] is not an element of the synthetic whole.”
+  </blockquote>
+  <figcaption>
+    &mdash;G.W.F. Hegel,
+    <cite>The Philosophical Propadeutic</cite>
+  </figcaption>
+</figure>
 
 This is to say: the privileging of objects in space fetishizes the object and
 therefore sacrifices changes in time. This creates an
