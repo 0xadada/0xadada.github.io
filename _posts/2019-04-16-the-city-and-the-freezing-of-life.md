@@ -44,13 +44,6 @@ with the living force of the city.
 
 Gibsons most powerful argument was wonderful:
 
-> The legendary urbanist Jane Jacobs once remarked that new ideas come from old
-> buildings, the types of places you can alter without permission because no one
-> cares about them. This is one reason why so many garage startups and garage
-> bands and artists spilling paint in discarded warehouse lofts have left their
-> mark on the world. The true creative class can’t afford to rent expensive new
-> studios.
-
 <figure class="quote">
   <blockquote cite="https://www.nationalreview.com/2019/04/san-francisco-decline-failed-government-policies/">
     "The legendary urbanist Jane Jacobs once remarked that new ideas come from 
@@ -94,7 +87,7 @@ non-existent.
     <br>
     Photo by <a href="https://commons.wikimedia.org/wiki/File:Gentrified_architecture_in_Shaw_Neighborhood,_Washington,_DC_USA.jpg">Ted Eytan</a> 
     <br>
-    An example of "Gentrified Architecture" is as obliterating as it is banal because
+    It is as obliterating as it is banal because
     it does not modify or build from an existing architectural tradition of an area,
     but rather changes it completely. It subtly shifts collective perceptions of
     formerly "working class" areas to abide by the homogenizing effects of global
