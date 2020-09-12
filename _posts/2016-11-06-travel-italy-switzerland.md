@@ -86,17 +86,34 @@ into Switzerland via the Italian/Swiss Alps.
   <figcaption>Looking southwest from the Col Val Ferret into Italy</figcaption>
 </figure>
 
-Importantly, this trip wasn't about setting off on a "Hero's Journey", to return
+Importantly, this trip wasn't about setting off on a 'Hero's Journey', to return
 home a changed man, but to spend time alone to better understand myself. It was
 a journey inwards. More than anything else, I had ample time to myself, whole
-days went by without talking to anyone. I learned to be kind & gentle with
-myself, to calm my own anxieties when stressed, to assess reality with facts and
-realize only my actions will have any impact on the outcomes. To foster a
-feeling of contentment with what **is**, not what could or may be. These are
-things I discovered not out on the road, or on a mountain path, but within
-myself. These learnings are not discoverable by going farther, or hiking higher,
-but by allocating time and opening oneself to finding them. One has to both open
-the door, but then be willing to walk through the doorway.
+days went by without talking to anyone.
+
+<figure class="quote">
+  <blockquote>
+    “For my part, I travel not to go anywhere, but to go. I travel for travel's
+    sake. The great affair is to move; to feel the needs and hitches of our life
+    more clearly; to come down off this feather-bed of civilization, and find
+    the globe granite underfoot and strewn with cutting flints.”
+  </blockquote>
+  <figcaption>
+    &mdash;Robert Louis Stevenson,
+    <cite>
+      Travels with a Donkey in the Cévennes
+    </cite>
+  </figcaption>
+</figure>
+
+I learned to be kind & gentle with myself, to calm my own anxieties when
+stressed, to assess reality with facts and realize only my actions will have any
+impact on the outcomes. To foster a feeling of contentment with what **is**, not
+what could or may be. These are things I discovered not out on the road, or on a
+mountain path, but within myself. These learnings are not discoverable by going
+farther, or hiking higher, but by allocating time and opening oneself to finding
+them. One has to both open the door, but then be willing to walk through the
+doorway.
 
 <figure>
   <img src="/static/images/2016-10-30-travel-augstmatthorn.jpg"
