@@ -27,9 +27,13 @@ to an information economy.
     of leisure and of recreation."
   </blockquote>
   <figcaption>
-    <cite><a href="https://books.google.com/books?id=UUMoGmujREwC&pg=PA173&lpg=PA173&dq=%22Another+characteristic+reversal%22&source=bl&ots=2E5XNz0d_S&sig=s669uSFDmRDh9TE3ZdZr-WtuAR0&hl=en&sa=X&ved=0ahUKEwiPgdnridfRAhVi54MKHZ3BBn4Q6AEIEzAA#v=onepage&q=%22Another%20characteristic%20reversal%22&f=false)">Understanding
-Media</a></cite>&mdash;Marshall McLuhan
-    </figcaption>
+    <cite>
+      <a href="https://books.google.com/books?id=UUMoGmujREwC&pg=PA173&lpg=PA173&dq=%22Another+characteristic+reversal%22&source=bl&ots=2E5XNz0d_S&sig=s669uSFDmRDh9TE3ZdZr-WtuAR0&hl=en&sa=X&ved=0ahUKEwiPgdnridfRAhVi54MKHZ3BBn4Q6AEIEzAA#v=onepage&q=%22Another%20characteristic%20reversal%22&f=false)">Understanding
+Media</a>
+    </cite>
+    &mdash;
+    Marshall McLuhan
+  </figcaption>
 </figure>
 
 He goes on to describe how farmers lived and worked on the land in the
