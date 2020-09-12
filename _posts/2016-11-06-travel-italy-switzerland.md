@@ -35,6 +35,19 @@ the distances are percieved that really matters. If ones perception of 2,400
 miles is two mediocre movies and a few bad in-flight meals, perhaps it’s not
 really "travel".
 
+<figure>
+  <blockquote>
+    “The air traveller only travels after he has landed.”
+  </blockquote>
+  <figcaption>
+    &mdash;
+    Marshall McLuhan,
+    <cite>
+      Understanding Media: The Extensions of Man
+    </cite>
+  </figcaption>
+</figure>
+
 After travelling through Croatia in 2014, I wrote:
 
 > I most enjoyed the activities where we weren't charged an entry fee.
@@ -171,3 +184,8 @@ growth any more than puzzels improve intellectual growth.
    1983.
    <a class="RefBack" href="#ref:cite:1">1</a>
    </cite>
+1. McLuhan, Marshall, and Lewis H. Lapham.
+   Understanding media : the extensions of man.
+   Cambridge, Mass: MIT Press, 1994.
+   Print.
+
