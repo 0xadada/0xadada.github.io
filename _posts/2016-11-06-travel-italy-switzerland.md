@@ -185,7 +185,7 @@ growth any more than puzzels improve intellectual growth.
    <a class="RefBack" href="#ref:cite:1">1</a>
    </cite>
 1. McLuhan, Marshall, and Lewis H. Lapham.
-   Understanding media : the extensions of man.
-   Cambridge, Mass: MIT Press, 1994.
-   Print.
-
+   _Understanding Media: the Extensions of Man_.
+   Cambridge, Mass: MIT Press, 
+   Print. 
+   1994.
