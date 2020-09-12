@@ -35,7 +35,7 @@ the distances are percieved that really matters. If ones perception of 2,400
 miles is two mediocre movies and a few bad in-flight meals, perhaps it’s not
 really "travel".
 
-<figure>
+<figure class="quote">
   <blockquote>
     “The air traveller only travels after he has landed.”
   </blockquote>
