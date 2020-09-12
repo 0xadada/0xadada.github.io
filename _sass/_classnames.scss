@@ -253,4 +253,16 @@
 
 .quote {
   text-align: left;
+  position: relative;
+  padding: 1em 0;
+}
+.quote::before {
+  content: '\201C';
+  font-family: serif;
+  font-size: 15em;
+  position: absolute;
+  color: rgba(0, 0, 0, 0.125);
+  left: -2px;
+  top: -87px;
+  display: block;
 }
