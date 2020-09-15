@@ -10,7 +10,7 @@ metaKeywords:
 metaOgType: "article"
 author: "0xADADA"
 license: cc-by-nc-sa
-tags: [projects]
+tags: [notes]
 ---
 
 A summary of my notes taken while reading
