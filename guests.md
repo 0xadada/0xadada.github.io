@@ -4,7 +4,7 @@ title: Guests
 displayTitle: Guests
 slug: guests
 inNav: true
-navOrder: 5
+navOrder: 6
 ---
 
 Essays by guest authors of relevance and importance.
