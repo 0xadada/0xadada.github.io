@@ -7,7 +7,7 @@ metaDescription:
 metaKeywords: right to repair, law, legislation
 metaOgType: "article"
 author: "0xADADA"
-tags: [notes]
+tags: [notes, motorsports]
 license: cc-by-nc-sa
 ---
 
