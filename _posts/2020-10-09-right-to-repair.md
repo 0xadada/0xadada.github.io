@@ -1,5 +1,5 @@
 ---
-title: "Right to Repair"
+title: "Right to Repair - 2020 - Vote YES on Question 1"
 displayTitle: "Right to Repair"
 date: 2020-10-09 13:57:00
 metaDescription:
@@ -11,7 +11,7 @@ tags: [notes, motorsports]
 license: cc-by-nc-sa
 ---
 
-2020 Elections are coming up, and beyond the Trump vs Biden theatrics, in Massachusets we have a [ballot referendum on the Right to Repair](https://www.mass.gov/files/documents/2019/08/07/19-06.pdf).
+2020 Elections are coming up, and beyond the Trump vs Biden theatrics, in Massachusets we have a [ballot referendum on the Right to Repair](https://www.mass.gov/files/documents/2019/08/07/19-06.pdf). TL;DR: Vote 'Yes' on Question 1.
 
 > Currently auto manufacturers must provide independent auto repair shops access to the same diagnostic 
 and repair information about a vehicle as the manufacturers' dealers have, but the current law doesn't 
