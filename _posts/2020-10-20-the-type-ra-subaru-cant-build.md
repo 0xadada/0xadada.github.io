@@ -40,7 +40,7 @@ reference to the highly modified WRX STI Type RA NBR that Subaru used to set a
 lap record at the Nürburgring Nordschleifes for a sedan at 6"57s. This was also
 the very same vehicle Mark Higgins drove at the Isle of Man TT course and set
 the record at 17"35s. Japanese manufacturers love badging of this type, and
-famously the Nissan Skyline team badged their GT-R R34 with a "Nür-spec" emblem
+famously the Nissan Skyline team badged their GT-R R34 with a "V-Spec II Nur" emblem
 to mark their achievements at the Ring.
 
 <figure>
