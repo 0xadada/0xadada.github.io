@@ -336,6 +336,28 @@ overall car, it takes the best aspects of the 1.0 and simplifies until there is
 nothing else to take away&mdash; creating a minimalist race-ready track
 platform.
 
+## Significant Results
+
+* 2006
+  * [COMSCC July - NHIS](https://www.comscc.org/events/results/view/?id=2006-07-04)
+    * 2nd Place - Street Touring 1 (of 5)
+* 2007
+  * [COMSCC Season Standings](https://www.comscc.org/events/results/view/?id=2007-final)
+    * 3rd place - Street Touring 2 (of 10)
+  * COMSCC June Mosport international Raceway
+    * 2nd Place - Street Touring 2 (of 3)
+  * [COMSCC July - NHIS](https://www.comscc.org/events/results/view/?id=2007-07-08)
+    * 1st Place - Street Touring 2 (of 5)
+* 2009
+  * [COMSCC Season Standings](https://www.comscc.org/events/results/view/?id=2009-final)
+    * 4th Place - Street Prepared B (of 22)
+  * COMSCC July New Hampshire Motor Speedway
+    * 2nd Place - Street Prepared B (of 5)
+* 2010
+  * Duryea Hillclimb - August
+    * 1st Place / 4th overall - Improved Touring E (of 103)
+
+
 ## FAQ - Frequently Asked Questions
 
 - _What makes the car track-only?_<br> Its a fully-built race car, so its been
