@@ -58,16 +58,23 @@
   overflow: hidden;
   width: 4em;
 }
+.Avatar--label { 
+  font-weight: 100;
+  font-size: 2rem;
+}
 
 /** ===== c-Header =============================================================
  * The global site header
  */
 .c-Header {
   margin-bottom: 4.5em;
+  display: flex;
+  justify-content: space-between;
 }
 .c-Header .Avatar {
-  margin: 0 auto 2em auto;
+  text-decoration: none;
 }
+.c-Header .Avatar--img { display: none; }
 
 /** ===== template-content =====================================================
  * The content optimized styles
@@ -104,7 +111,8 @@
   list-style: none;
   padding: 0;
   margin: 0;
-  text-align: center;
+  display: inline-block;
+  line-height: 3.5rem;
 }
 
 .c-GlobalNav--Item {
@@ -133,7 +141,10 @@
 /** ===== c-Index =============================================================
  * The global index nav
  */
-.c-Index { list-style-type: upper-roman; }
+.c-Index {
+  list-style-type: upper-roman;
+  padding-left: 0;
+}
 .c-Index--Item { margin-bottom: 0.5em; }
 
 
