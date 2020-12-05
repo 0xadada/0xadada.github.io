@@ -68,13 +68,15 @@
  */
 .c-Header {
   margin-bottom: 4.5em;
+}
+body > .c-Header {
   display: flex;
   justify-content: space-between;
 }
-.c-Header .Avatar {
+body > .c-Header .Avatar {
   text-decoration: none;
 }
-.c-Header .Avatar--img { display: none; }
+body > .c-Header .Avatar--img { display: none; }
 
 /** ===== template-content =====================================================
  * The content optimized styles
