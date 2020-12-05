@@ -116,7 +116,11 @@ body > .c-Header .Avatar--img { display: none; }
   padding: 0;
   margin: 0;
   display: inline-block;
-  line-height: 3.5rem;
+}
+@media screen and (min-width: 35em) {
+  .c-GlobalNav--List {
+    line-height: 3.5rem;
+  }
 }
 
 .c-GlobalNav--Item {
