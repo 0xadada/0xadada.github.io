@@ -9,9 +9,15 @@ metaOgType: "article"
 metaImage: /static/images/meta/apple-touch-icon.png
 ---
 
+<figure>
+  <img src="/static/images/meta/avatar.svg" alt="0xADADA">
+  <figcaption>0xADADA</figcaption>
+</figure>
+
 {{ site.data.authors["0xADADA"].note }}
 
 {{ site.data.authors["0xADADA"].bio }}
+
 
 ## References
 
