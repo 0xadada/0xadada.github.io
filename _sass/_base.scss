@@ -59,7 +59,8 @@ a {
 a:hover {
   color: #0000cc;
 }
-a[href^="http"]::after {
+.e-content a[href^="http"]::after,
+.entry-content a[href^="http"]::after {
   content: ' ⎋';
 }
 
