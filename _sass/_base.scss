@@ -59,6 +59,9 @@ a {
 a:hover {
   color: #0000cc;
 }
+a[href^="http"]::after {
+  content: ' ⎋';
+}
 
 hr {
   border: none;
