@@ -62,6 +62,7 @@ a:hover {
 .e-content a[href^="http"]::after,
 .entry-content a[href^="http"]::after {
   content: ' ⎋';
+  font-style: normal;
 }
 
 hr {
