@@ -70,6 +70,7 @@ hr {
   border-top: 2pt solid black;
   border-bottom: 1pt solid black;
   height: 4pt;
+  margin: 5rem 10rem;
 }
 
 h1,
@@ -97,6 +98,17 @@ blockquote cite {
 
 p {
   hyphens: auto;
+}
+
+.entry-content > h1 + p::first-letter,
+.entry-content > h2 + p::first-letter,
+.entry-content > h3 + p::first-letter,
+.entry-content > hr + p::first-letter {
+    font-size: 4em;
+    float: left;
+    line-height: 3rem;
+    font-weight: 100;
+    padding-right: 6px;
 }
 
 cite {
