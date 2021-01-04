@@ -26,8 +26,6 @@
   width: auto;
 }
 
-/** o-Layout
- */
 .o-Layout {
   max-width: 57em;
   margin: 0 auto;
@@ -36,65 +34,38 @@
   border-bottom: 1px solid rgba(61,70,77,0.1);
 }
 
-
-/** o-Center
- */
-.o-Center {
-  text-align: center;
+@media screen and (min-width: 35em) {
+  .c-Global {
+    display: flex;
+    justify-content: space-between;
+  }
 }
 
-/** other
- * ========================================================================== */
 .byline,
 .byline .author,
 .published {
   color: darkgrey;
 }
 
-/** ===== Avatar ===============================================================
- * Doge profile avatar in the header
- */
+
+.c-Global .Avatar {
+  text-decoration: none;
+}
 .Avatar--img {
   border-radius: 2em;
-  display: block;
+  display: none;
   height: 4em;
   overflow: hidden;
   width: 4em;
 }
-.Avatar--label { 
+.Avatar--label {
   font-weight: 100;
   font-size: 2rem;
 }
 
-/** ===== c-Header =============================================================
- * The global site header
- */
 .c-Header {
   margin-bottom: 4.5em;
 }
-@media screen and (min-width: 35em) {
-  body > .c-Header {
-    display: flex;
-    justify-content: space-between;
-  }
-}
-body > .c-Header .Avatar {
-  text-decoration: none;
-}
-body > .c-Header .Avatar--img { display: none; }
-
-/** ===== template-content =====================================================
- * The content optimized styles
- */
-.template-content .c-Header,
-.template-content h2,
-.template-content h3,
-.template-content h4,
-.template-content h5,
-.template-content h6 {
-  text-align: center;
-}
-
 
 .template-content .c-Header h1 {
   margin-bottom: 0;
@@ -109,10 +80,6 @@ body > .c-Header .Avatar--img { display: none; }
   }
 }
 
-
-/** c-GlobalNav
- * The global navigation links
- * ========================================================================== */
 
 .c-GlobalNav--List {
   list-style: none;
@@ -148,10 +115,6 @@ body > .c-Header .Avatar--img { display: none; }
   text-decoration: underline;
 }
 
-
-/** ===== c-Index =============================================================
- * The global index nav
- */
 .c-Index {
   list-style-type: upper-roman;
   padding-left: 0;
@@ -159,8 +122,6 @@ body > .c-Header .Avatar--img { display: none; }
 .c-Index--Item { margin-bottom: 0.5em; }
 
 
-/** Annotations
- * ========================================================================== */
 .Annotation-ref {
   border-bottom: 0.0625em dotted lightgreen;
   cursor: help;
@@ -192,46 +153,21 @@ body > .c-Header .Avatar--img { display: none; }
   opacity: 0.95;
 }
 
-/** Ref
- *
- * A link to a reference, footnote or citation.
- */
 .Ref:target { font-weight: bold; }
 
-/** RefBack
- *
- * A link from a citation or footnote back to its reference.
- */
 .RefBack { text-decoration: none; }
 .RefBack::after { content: "↑"; }
 
-/** c-Footer
- * Global site footer
- * ========================================================================== */
 .c-Footer {
   margin: 1.5em auto;
   border-top: 1px solid rgba(61, 70, 77, 0.1);
 }
 
 
-/** ===== c-Meta ==============================================================
- * Non-content styling
- */
 .c-Meta {
   color: rgba(61, 70, 77, 0.6);
 }
 
-/** ===== highlighter ======================================================= */
-.highlighter-rouge pre.highlight {
-  padding: 0.5rem 1rem;
-  letter-spacing: -0.06em;
-  font-size: 12px;
-  white-space: pre-wrap;
-}
-
-/** ===== c-License ===========================================================
- * Copyright and ownership styles
- */
 .c-License {
   margin-top: 4em;
   margin-bottom: 4em;
@@ -241,9 +177,6 @@ body > .c-Header .Avatar--img { display: none; }
 }
 
 
-/** ===== c-Museum ============================================================
- * the image gallery
- */
 .c-Museum--Gallery {
   list-style: none;
   padding: 0;
@@ -288,3 +221,13 @@ body > .c-Header .Avatar--img { display: none; }
   top: -87px;
   display: block;
 }
+
+
+/** ===== highlighter ======================================================= */
+.highlighter-rouge pre.highlight {
+  padding: 0.5rem 1rem;
+  letter-spacing: -0.06em;
+  font-size: 12px;
+  white-space: pre-wrap;
+}
+

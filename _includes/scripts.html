@@ -23,23 +23,3 @@
     }(document));
   </script>
 {% endif %}
-
-<script>
-  /** enable support for ASCII rendering mode
-   * add this to the URL to view: ?format=ascii
-   */
-  (function() {
-    var params = new window.URLSearchParams(window.location.search);
-    var isFormatAscii = window.sessionStorage.getItem('format') === 'ascii' || params.get('format') === 'ascii';
-    if (isFormatAscii) {
-      var alternate = document.createElement('link');
-      alternate.setAttribute('rel', 'stylesheet');
-      alternate.setAttribute('href', '/static/css/ascii.css');
-      document.head.appendChild(alternate);
-      document.querySelector('style').remove();
-      window.sessionStorage.setItem('format', 'ascii');
-    } else {
-      window.sessionStorage.removeItem('format');
-    }
-  })();
-</script>
