@@ -16,6 +16,17 @@ metaOgType: "article"
 author: "0xADADA"
 license: cc-by-nc-sa
 tags: [essays]
+style: |
+  .hentry {
+    font-family: Computer Modern Serif;
+  }
+  .hentry h1,
+  .hentry h2,
+  .hentry h3,
+  .hentry h4 {
+    text-align: center;
+    text-transform: uppercase;
+  }
 ---
 
 <figure>
@@ -390,69 +401,69 @@ identity by reference to out-groups that it creates and reinforces.
 
 ## References
 
-1. <cite id="cite:1">
-   De Vos, George A.
-   _Social Cohesions and Alienation: Minorities in the United States
-   and Japan_.
-   Boulder, Colorado:
-   Westview Press, Inc.
-   Print.
-   1992.
-   <a class="RefBack" href="#ref:cite:1"></a>
-   </cite>
+<cite class="hanging-indent" id="cite:1">
+De Vos, George A.
+_Social Cohesions and Alienation: Minorities in the United States
+and Japan_.
+Boulder, Colorado:
+Westview Press, Inc.
+Print.
+1992.
+<a class="RefBack" href="#ref:cite:1"></a>
+</cite>
 
-1. <cite id="cite:2">
-   Christopher, Robert C.
-   _The Japanese Mind_.
-   New York:
-   Fawcett Columbine.
-   Print.
-   1983.
-   <a class="RefBack" href="#ref:cite:2"></a>
-   </cite>
+<cite class="hanging-indent" id="cite:2">
+Christopher, Robert C.
+_The Japanese Mind_.
+New York:
+Fawcett Columbine.
+Print.
+1983.
+<a class="RefBack" href="#ref:cite:2"></a>
+</cite>
 
-1. <cite id="cite:3">
-   Dower, John.
-   _War without mercy: Race and power in the pacific War_.
-   "The Demonic Other"
-   New York:
-   Pantheon Books.
-   Print.
-   1986.
-   <a class="RefBack" href="#ref:cite:3"></a>
-   </cite>
+<cite class="hanging-indent" id="cite:3">
+Dower, John.
+_War without mercy: Race and power in the pacific War_.
+"The Demonic Other"
+New York:
+Pantheon Books.
+Print.
+1986.
+<a class="RefBack" href="#ref:cite:3"></a>
+</cite>
 
-1. <cite id="cite:4">
-   Smith, Patrick L.
-   _Japan: A Reinterpretation_.
-   New York:
-   Vintage Books.
-   Print.
-   1998.
-   <a class="RefBack" href="#ref:cite:4"></a>
-   </cite>
+<cite class="hanging-indent" id="cite:4">
+Smith, Patrick L.
+_Japan: A Reinterpretation_.
+New York:
+Vintage Books.
+Print.
+1998.
+<a class="RefBack" href="#ref:cite:4"></a>
+</cite>
 
-1. <cite id="cite:5">
-   Murakami, Ryu.
-   [_Japan's Lost
-   Generation_](http://www.time.com/time/asia/magazine/2000/0501/japan.essaymurakami.html)
-   <sup>[1](http://web.archive.org/web/20110219091725/http://www.time.com/time/asia/magazine/2000/0501/japan.essaymurakami.html)</sup>
-   New York:
-   Time, Inc.
-   Web.
-   2000.
-   <a class="RefBack" href="#ref:cite:5"></a>
-   </cite>
+<cite class="hanging-indent" id="cite:5">
+Murakami, Ryu.
+[_Japan's Lost
+Generation_](http://www.time.com/time/asia/magazine/2000/0501/japan.essaymurakami.html)
+<sup>[1](http://web.archive.org/web/20110219091725/http://www.time.com/time/asia/magazine/2000/0501/japan.essaymurakami.html)</sup>
+New York:
+Time, Inc.
+Web.
+2000.
+<a class="RefBack" href="#ref:cite:5"></a>
+</cite>
 
-1. <cite id="cite:6">
-   Kerr, Alex.
-   _Dogs and Demons: Tales from the Dark Side of Japan_.
-   New York:
-   Hill and Wang.
-   Print.
-   2001.
-   <a class="RefBack" href="#ref:cite:6"></a>
-   </cite>
+<cite class="hanging-indent" id="cite:6">
+Kerr, Alex.
+_Dogs and Demons: Tales from the Dark Side of Japan_.
+New York:
+Hill and Wang.
+Print.
+2001.
+<a class="RefBack" href="#ref:cite:6"></a>
+</cite>
 
 <aside>
   <p>Photo of Mt. Isolation by the Author.</p>

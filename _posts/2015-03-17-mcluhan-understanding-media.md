@@ -61,15 +61,10 @@ provide useful insight.
 
 ## References
 
-1. <cite id="cite:1">
-   McLuhan, Marshall.
-   <em>
-     <a href="https://mitpress.mit.edu/books/understanding-media">
-       Understanding Media: The Extensions of Man
-     </a>
-   </em>.
-   Cambridge: MIT,
-   Print.
-   1994.
-   <a class="RefBack" href="#ref:cite:1"></a>
-   </cite>
+<cite class="hanging-indent" id="cite:1">
+McLuhan, Marshall.
+_[Understanding Media: The Extensions of Man](https://mitpress.mit.edu/books/understanding-media)_.
+Cambridge: MIT,
+Print.
+1994.
+<a class="RefBack" href="#ref:cite:1"></a>

@@ -36,7 +36,9 @@ or the distortions of propaganda and ideology. I was inspired by Sarah Kendzior:
 > is possible that in the next year, you will either believe them or be forced
 > to say you believe them.
 >
-> ‒Sarah Kendzior, <cite>We’re heading into dark times. This is how to be your own light in the Age of Trump<sup class="Ref" id="ref:cite:1">[[1](#cite:1)]</sup></cite>
+> ‒Sarah Kendzior, <cite>We’re heading into dark times. This is how to be your
+> own light in the Age of
+> Trump<sup class="Ref" id="ref:cite:1">[[1](#cite:1)]</sup></cite>
 
 ## The Spectacle of 2016
 
@@ -248,18 +250,18 @@ smart and he's got this covered." It kept the Left at ease, and this mindset
 resulting in eight years of political inaction.
 
 The one redeeming side-effect of the Trump administration is that it will reveal
-the true nature of modern neoliberal power politics in the United State. Trumps'
-administration will brazenly take action without the pretenses of conciliatory
-compromise, or mutual respect for any existing political party or an adversarial
-press. His administration will be the "Big Reveal" of the level of corruption in
-our body politic. Trump will accomplish this by placing the big influencers
-(who, up to this point, have been outside advisors) in direct positions of
-power; e.g. Instead of having Exxon Mobile acting as an external industry
-advisor, Trump will make him the CEO the Secretary of State. These acts will
-tear down the facade of a disinterested political apparatus and reveal the true
-nature of politics rigged from top down to reward the biggest corporations. This
-will help the Left appeal to the middle by pointing out readily apparent and
-brazen corrpution.
+the true nature of modern neoliberal power politics in the United States.
+Trumps' administration will brazenly take action without the pretenses of
+conciliatory compromise, or mutual respect for any existing political party or
+an adversarial press. His administration will be the "Big Reveal" of the level
+of corruption in our body politic. Trump will accomplish this by placing the big
+influencers (who, up to this point, have been outside advisors) in direct
+positions of power; e.g. Instead of having Exxon Mobile acting as an external
+industry advisor, Trump will make him the CEO the Secretary of State. These acts
+will tear down the facade of a disinterested political apparatus and reveal the
+true nature of politics rigged from top down to reward the biggest corporations.
+This will help the Left appeal to the middle by pointing out readily apparent
+and brazen corrpution.
 
 During difficult times, there is a blossoming of arts and culture in response to
 authoritarian oppression. While I have no expectations for positive reform in
@@ -267,48 +269,44 @@ federal politics, I have high hopes for local community action and the arts.
 
 ## References
 
-1. <cite id="cite:1">
-   Kendzior, Sarah.
-   <a href="https://thecorrespondent.com/5696/were-heading-into-dark-times-this-is-how-to-be-your-own-light-in-the-age-of-trump/1611114266432-e23ea1a6">
-     "We're heading into dark times. This is how to be your own light in the Age
-   of Trump"</a>.
-   <em>The Correspondent</em>.
-   The Correspondent,
-   18 Nov. 2016.
-   Web.
-   3 Jan. 2017.
-   <a class="RefBack" href="#ref:cite:1"></a>
-   </cite>
+<cite class="hanging-indent" id="cite:1">
+Kendzior, Sarah.
+<a href="https://thecorrespondent.com/5696/were-heading-into-dark-times-this-is-how-to-be-your-own-light-in-the-age-of-trump/1611114266432-e23ea1a6">
+  "We're heading into dark times. This is how to be your own light in the Age
+of Trump"</a>.
+<em>The Correspondent</em>.
+The Correspondent,
+18 Nov. 2016.
+Web.
+3 Jan. 2017.
+<a class="RefBack" href="#ref:cite:1"></a>
 
-1. <cite id="cite:2">
-   Debord, Guy.
-   <em>The Society of the Spectacle</em>.
-   Perlman, Fredy (Translator).
-   Detroit: Black & Red,
-   Print.
-   1983.
-   <a class="RefBack" href="#ref:cite:2"></a>
-   </cite>
+<cite class="hanging-indent" id="cite:2">
+Debord, Guy.
+<em>The Society of the Spectacle</em>.
+Perlman, Fredy (Translator).
+Detroit: Black & Red,
+Print.
+1983.
+<a class="RefBack" href="#ref:cite:2"></a>
 
-1. <cite id="cite:3">
-   Siegel, Eric.
-   <a href="https://blogs.scientificamerican.com/guest-blog/how-hillary-s-campaign-is-almost-certainly-using-big-data/">
-     How Hillary's Campaign Is (Almost Certainly) Using Big Data</a>.
-   <em>Scientific American</em>.
-   Scientific American,
-   Web.
-   2016.
-   <a class="RefBack" href="#ref:cite:3"></a>
-   </cite>
+<cite class="hanging-indent" id="cite:3">
+Siegel, Eric.
+<a href="https://blogs.scientificamerican.com/guest-blog/how-hillary-s-campaign-is-almost-certainly-using-big-data/">
+  How Hillary's Campaign Is (Almost Certainly) Using Big Data</a>.
+<em>Scientific American</em>.
+Scientific American,
+Web.
+2016.
+<a class="RefBack" href="#ref:cite:3"></a>
 
-1. <cite id="cite:4">
-   Wagner, John.
-   <a href="https://www.washingtonpost.com/news/post-politics/wp/2016/11/09/clintons-data-driven-campaign-relied-heavily-on-an-algorithm-named-ada-what-didnt-she-see/">
-     "Clinton’s data-driven campaign relied heavily on an algorithm named Ada.
-     What didn’t she see?"</a>.
-   <em>The Washington Post</em>.
-   The Washington Post,
-   Web.
-   2016.
-   <a class="RefBack" href="#ref:cite:4"></a>
-   </cite>
+<cite class="hanging-indent" id="cite:4">
+Wagner, John.
+<a href="https://www.washingtonpost.com/news/post-politics/wp/2016/11/09/clintons-data-driven-campaign-relied-heavily-on-an-algorithm-named-ada-what-didnt-she-see/">
+  "Clinton’s data-driven campaign relied heavily on an algorithm named Ada.
+  What didn’t she see?"</a>.
+<em>The Washington Post</em>.
+The Washington Post,
+Web.
+2016.
+<a class="RefBack" href="#ref:cite:4"></a>

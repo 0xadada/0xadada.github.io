@@ -367,24 +367,19 @@ forward for the protection of the right to privacy online.
       Logics</a> in 2015, and later at 
     <a href="https://cinchfinancial.com" title="Cinch Financial" rel="nofollow">Cinch
       Financial</a> in 2017.
-    0xADADA (name redacted) is a software engineer and consultant.
-    He speaks about the intersection of technology, privacy, law, and
-    cryptocurrencies. You can find him online by the pseudonym “0xADADA”.
   </em>
 </aside>
 
 ## References
 
-1. <cite id="cite:1">
-   TMZ.com homepage as of December 2nd, 2017.
-   <a class="RefBack" href="#ref:note:1"></a>
-   </cite>
+<cite class="hanging-indent" id="cite:1">
+TMZ.com homepage as of December 2nd, 2017.
+<a class="RefBack" href="#ref:note:1"></a>
 
-1. <cite id="cite:2">
-   [_Online Tracking: A 1-million-site Measurement and Analysis_](http://randomwalker.info/publications/OpenWPM_1_million_site_tracking_measurement.pdf).
-   Englehardt, Steven and Narayanan, Arvind.
-   Princeton:
-   ACM CCS 2016.
-   2016.
-   <a class="RefBack" href="#ref:note:2"></a>
-   </cite>
+<cite class="hanging-indent" id="cite:2">
+[_Online Tracking: A 1-million-site Measurement and Analysis_](http://randomwalker.info/publications/OpenWPM_1_million_site_tracking_measurement.pdf).
+Englehardt, Steven and Narayanan, Arvind.
+Princeton:
+ACM CCS 2016.
+2016.
+<a class="RefBack" href="#ref:note:2"></a>

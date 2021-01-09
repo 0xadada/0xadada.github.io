@@ -175,17 +175,18 @@ growth any more than puzzels improve intellectual growth.
 
 ## References
 
-1. <cite id="cite:1">
-   Debord, Guy.
-   _The Society of the Spectacle_.
-   Trans. Fredy Perlman.
-   Detroit: Black & Red,
-   Print.
-   1983.
-   <a class="RefBack" href="#ref:cite:1">1</a>
-   </cite>
-1. McLuhan, Marshall, and Lewis H. Lapham.
-   _Understanding Media: the Extensions of Man_.
-   Cambridge, Mass: MIT Press, 
-   Print. 
-   1994.
+<cite class="hanging-indent" id="cite:1">
+Debord, Guy.
+_The Society of the Spectacle_.
+Trans. Fredy Perlman.
+Detroit: Black & Red,
+Print.
+1983.
+<a class="RefBack" href="#ref:cite:1">1</a>
+
+<cite class="hanging-indent">
+McLuhan, Marshall, and Lewis H. Lapham.
+_Understanding Media: the Extensions of Man_.
+Cambridge, Mass: MIT Press, 
+Print. 
+1994.

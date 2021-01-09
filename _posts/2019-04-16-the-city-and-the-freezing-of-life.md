@@ -134,9 +134,11 @@ forthcoming book by 0xADADA._
 
 ## References
 
+<cite class="hanging-indent">
 Debord, Guy. (1983). _The Society of the Spectacle_. Trans. Fredy Perlman.
 Detroit: Black & Red, Print.
 
+<cite class="hanging-indent">
 Hegel, G.W.F. (1986). _The Philosophical Propadeutic_. Trans. A.V. Miller.
 Oxford, UK: New York, NY: B. Blackwell, Hardcover.
 

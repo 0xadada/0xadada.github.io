@@ -58,5 +58,6 @@ Debord for the contemporary context.</em>
 
 ## References
 
+<cite class="hanging-indent">
 Debord, G. (1993). _Le Déclin et la chute de l'économie
 spectaculaire-marchande_. Paris: J.J. Pauvert aux Belles Lettres.

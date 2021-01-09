@@ -62,10 +62,13 @@ by 0xADADA which reinterprets the original by Guy Debord._
 
 ## References
 
+<cite class="hanging-indent">
 Debord, G. (1983). _The society of the spectacle_. Trans. Fredy Perlman.
 Detroit: Black & Red, Print.
 
+<cite class="hanging-indent">
 Debord, G. (1994). _The society of the spectacle_. New York: Zone Books.
 
+<cite class="hanging-indent">
 Debord, G. & Knabb, K. (2014). _The Society of the spectacle_. Berkeley, CA:
 Bureau of Public Secrets.

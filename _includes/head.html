@@ -21,9 +21,14 @@
     {% include styles.scss %}
   {% endcapture %}
 
-  <style title="default">
+  <style>
     {{ styles | scssify }}
   </style>
+  {% if page.style %}
+    <style>
+    {{ page.style }}
+    </style>
+  {% endif %}
 
   <link rel="manifest" href="/static/images/meta/0xadada.webmanifest">
   <link rel="apple-touch-icon" href="/static/images/meta/apple-touch-icon.png">

@@ -26,6 +26,12 @@
   width: auto;
 }
 
+.hanging-indent {
+  display: block;
+  padding-left: 1.5em;
+  text-indent: -1.5em;
+}
+
 .o-Layout {
   max-width: 57em;
   margin: 0 auto;
