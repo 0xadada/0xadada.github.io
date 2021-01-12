@@ -163,7 +163,7 @@ computers with "Apples' scraps and leftovers".
 
 Put simply; I don't see any manufacturers building laptops at the same level of
 quality that Apple does, and yet, I can't buy a
-product<sup class="Ref" id="ref:cite:1">[[1](#cite:1)]</sup> that is so tightly
+product[^1] that is so tightly
 controlled. Finally, I refuse to buy a product that is designed to be obsolete
 in two years.
 
@@ -363,7 +363,7 @@ above.
 diskutil partitionDisk /dev/diskX 1 "Free Space" "unused" "100%"
 ```
 
-Now<sup class="Ref" id="ref:note:4">[[4](#note:4)]</sup> we can write the iso
+Now[^4] we can write the iso
 file to the USB drive. **Note** We use `/dev/rdisk*` instead of `/dev/disk`
 because it provides Raw disk access without the typical buffering the operating
 systemprovides. Substitute `DESTINATION` with the name of the `iso` file you
@@ -841,13 +841,13 @@ looks like this:
     initrd  /initramfs-linux.img
     options cryptdevice=/dev/sdaX:vgcrypt:allow-discards root=/dev/mapper/vgcrypt-root rw
 
-**Note**:<sup class="Ref" id="ref:note:7">[[7](#note:7)]</sup> On the options
+**Note**:[^7] On the options
 line, make sure you replace `/dev/sdaX` with the path to the encrypted linux
 partition we previously created on your device (It was `/dev/sda5` in this
 guide). Additionally, if your drive is _not_ a SSD, make sure to remove
 `:allow-discards`.
 
-**Note**:<sup class="Ref" id="ref:note:9">[[9](#note:9)]</sup> Its been reported
+**Note**:[^9] Its been reported
 by some users that when booting to USB, the USB drive is assigned device id
 `/dev/sda` and the hard drive to `/dev/sdb`. When rebooting without USB drive
 (boot to new encrypted linux drive partition), the hard drive is reassigned to
@@ -1016,7 +1016,7 @@ For Macbookpro 7,1 (Mid-2010 or 8,2 (Early-2011):
 ```
 
 For Macbookpro 11,3
-(Late-2013)<sup class="Ref" id="ref:note:8">[[8](#note:8)]</sup>
+(Late-2013)[^8]
 
 ```bash
 # pacman -S nvidia mesa-libgl libva-intel-driver libva
@@ -1050,7 +1050,7 @@ font- rendering libraries that we'll be tweaking later.
 
 ### Improved Typography
 
-**Update<sup class="Ref" id="ref:note:10">[[10](#note:10)]</sup>**
+**Update[^10]**
 
 **It appears
 [the package maintainer for Infinality has gone dark](https://github.com/bohoomil/fontconfig-ultimate/issues/191)**.
@@ -1116,7 +1116,7 @@ To install:
 # pacman -S awesome
 ```
 
-Added this<sup class="Ref" id="ref:note:5">[[5](#note:5)]</sup> to run `awesome`
+Added this[^5] to run `awesome`
 when x starts:
 
     echo exec awesome > .xinitrc
@@ -1182,7 +1182,7 @@ uninstall and reinstall the `broadcom-wl` package so it updates with the new
 linux-header.
 
 We need to stop the dhcpcd service we were using for the ethernet and start the
-`wifi-menu`<sup class="Ref" id="ref:note:1">[[1](#note:1)]</sup> utility.
+`wifi-menu`[^1] utility.
 Keeping both running can cause conflicts.
 
 ```bash
@@ -1289,7 +1289,7 @@ systemctl start --user xfluxd
 
 The power management from Arch out of the box is not very good. There are a few
 good tools out there, but `PowerTOP` is nice because of its benchmarking
-utilities<sup class="Ref" id="ref:note:2">[[2](#note:2)]</sup>.
+utilities[^2].
 
 > PowerTOP is a tool provided by Intel to enable various powersaving modes in
 > userspace, kernel and hardware. It is possible to monitor processes and show
@@ -1334,7 +1334,7 @@ current boot session.
 
 ### Laptop Mode Tools
 
-Laptop Mode Tools<sup class="Ref" id="ref:note:6">[[6](#note:6)]</sup> is a
+Laptop Mode Tools[^6] is a
 laptop power saving package for Linux systems. It is the primary way to enable
 the Laptop Mode feature of the Linux kernel, which allows you to tweak a number
 of other power-related settings using a simple configuration file. Combined with
@@ -1514,7 +1514,7 @@ fi;
 
 ### Apple Trackpad
 
-Finally<sup class="Ref" id="ref:note:3">[[3](#note:3)]</sup>, we'll setup a
+Finally[^3], we'll setup a
 Bluetooth Apple Trackpad. To do this, we'll install some bluetooth core
 utilities
 
@@ -1573,64 +1573,45 @@ The following articles were very useful in providing some help and inspiration.
 Any changes to this article will be annotated with a footnote and explained
 here.
 
-1. <div id="note:1">
-   March 6, 2016: Previously used <code>NetworkManager</code> to detect
-   and connect to WiFi networks, but have changed to use
-   <code>netctl</code> and <code>wifi-menu</code> as these commands are
-   more low-level and have fewer dependencies.
-   <a class="RefBack" href="#ref:note:1"></a>
-   </div>
+[^1]:
+    March 6, 2016: Previously used <code>NetworkManager</code> to detect
+    and connect to WiFi networks, but have changed to use
+    <code>netctl</code> and <code>wifi-menu</code> as these commands are
+    more low-level and have fewer dependencies.
 
-1. <div id="note:2">
-   March 8, 2016: Previously omitted the <code>-S</code> option in
-   yaourt, fixed.
-   <a class="RefBack" href="#ref:note:2"></a>
-   </div>
+[^2]:
+    March 8, 2016: Previously omitted the <code>-S</code> option in
+    yaourt, fixed.
 
-1. <div id="note:3">
-   March 8, 2016: Added a section covering the Apple Trackpad.
-   <a class="RefBack" href="#ref:note:3"></a>
-   </div>
+[^3]:
+    March 8, 2016: Added a section covering the Apple Trackpad.
 
-1. <div id="note:4">
-   March 14, 2016: Thanks
-   <a href="https://www.reddit.com/r/archlinux/comments/493k4n/installing_encrypted_arch_linux_on_an_apple/d0y36h4?context=3">Fr0gm4n</a>
-   for suggestions simplifying the writing of <code>iso</code>
-   images to USB.
-   <a class="RefBack" href="#ref:note:4"></a>
-   </div>
+[^4]:
+    March 14, 2016: Thanks
+    <a href="https://www.reddit.com/r/archlinux/comments/493k4n/installing_encrypted_arch_linux_on_an_apple/d0y36h4?context=3">Fr0gm4n</a>
+    for suggestions simplifying the writing of <code>iso</code>
+    images to USB.
 
-1. <div id="note:5">
-   March 18, 2016: Changed references to <code>.Xinitrc</code> to the
-   correct filename, <code>.xinitrc</code>.
-   <a class="RefBack" href="#ref:note:5"></a>
-   </div>
+[^5]:
+    March 18, 2016: Changed references to <code>.Xinitrc</code> to the
+    correct filename, <code>.xinitrc</code>.
 
-1. <div id="note:6">
-   March 24, 2016: Added two new sections documenting Laptop Mode Tools
-   and <code>acpid</code>.
-   <a class="RefBack" href="#ref:note:5"></a>
-   </div>
+[^6]:
+    March 24, 2016: Added two new sections documenting Laptop Mode Tools
+    and <code>acpid</code>.
 
-1. <div id="note:7">
-   April 2, 2016: Thanks
-   <a href="https://www.reddit.com/r/archlinux/comments/493k4n/installing_encrypted_arch_linux_on_an_apple/d1mleow?context=3">Perceptes</a>
-   for helping to clarify the text explaining how to configure the bootloader.
-   <a class="RefBack" href="#ref:note:7"></a>
-   </div>
+[^7]:
+    April 2, 2016: Thanks
+    <a href="https://www.reddit.com/r/archlinux/comments/493k4n/installing_encrypted_arch_linux_on_an_apple/d1mleow?context=3">Perceptes</a>
+    for helping to clarify the text explaining how to configure the bootloader.
 
-1. <div id="note:8">
-   July 28, 2016: Updated to support Macbookpro 11,3 devices with NVidia cards. This device uses NVIDIA GeForce GT 750M (Codename NVE7/GK107).
-   <a class="RefBack" href="#ref:note:8"></a>
-   </div>
+[^8]:
+    July 28, 2016: Updated to support Macbookpro 11,3 devices with NVidia cards. This device uses NVIDIA GeForce GT 750M (Codename NVE7/GK107).
 
-1. <div id="note:9">
-   December 2, 2016: Thanks to Joshua Brown for clarifications to writing the bootloader line.
-   <a class="RefBack" href="#ref:note:9"></a>
-   </div>
+[^9]:
+    December 2, 2016: Thanks to Joshua Brown for clarifications to writing the bootloader line.
 
-1. <div id="note:10">
-   February 6, 2017: If anyone has a solution to the loss of Infinality bundle
-   typography, please drop me a line.
-   <a class="RefBack" href="#ref:note:10"></a>
-   </div>
+[^10]:
+    February 6, 2017: If anyone has a solution to the loss of Infinality bundle
+    typography, please drop me a line.
+
