@@ -160,9 +160,10 @@
 }
 
 .Ref:target { font-weight: bold; }
-
 .RefBack { text-decoration: none; }
 .RefBack::after { content: "↑"; }
+
+.reversefootnote { font-family: sans-serif; }
 
 .c-Footer {
   margin: 1.5em auto;

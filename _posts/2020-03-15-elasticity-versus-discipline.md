@@ -68,7 +68,7 @@ will win out, and these ammendments will pass. I hope I'm wrong.
 
 So what does this mean? This means that the Fed can start buying non-government
 backed securities: potentially any failing public stocks, private CDOs and
-MBSs<sup class="Ref" id="ref:note:4">[[4](#note:4)]</sup>. What this means is
+MBSs[^4]. What this means is
 the Fed can buy the most dangerous, volatile, and toxic assets that nobody else
 is buying, the ones that are the first to fail in a bursting bubble. This is a
 Fed that has institutionalized &amp; _encouraged_ systemic moral hazard&mdash;
@@ -95,7 +95,7 @@ will tank</q>, <q>companies will go out of business</q>, <q>we're in desperate
 times, so we need to take desparate measures</q>. These predictions are all
 true, and these outcomes will happen: but the solution they offer only addresses
 the symptoms, but not the root cause&mdash; the
-**deregulation<sup class="Ref" id="ref:note:1">[[1](#note:1)]</sup>** of the
+**deregulation[^1]** of the
 financial sector. Neoliberal deregulation of the financial sector over the last
 40 years has encouraged banks to put money into risky bubbles that keep popping,
 retirement funds of regular people are directly tied into that system, even
@@ -113,7 +113,7 @@ bad. For the rest of the economy, and individuals, we get **discipline**:
 massive losses, austerity and cuts to social programs and public infrastructure,
 moralizing our individual failures as people, capitalizing on the large-scale
 failures of small
-businesses<sup class="Ref" id="ref:note:3">[[3](#note:3)]</sup>, and continual
+businesses[^3], and continual
 indebtedness for the poor and middle classes.
 
 This is an ideological conservatism combined with a blind faith in an economics
@@ -138,19 +138,19 @@ poor</q> &mdash;
 (pp 346).
 
 > [Lemon socialism](https://en.wikipedia.org/wiki/Lemon_socialism) is a
-> pejorative term for a form of government intervention in which government
-> subsidies go to weak or failing firms (lemons; see Lemon law), with the
-> effective result that the government (and thus the taxpayer) absorbs part or
-> all of the recipient's losses. The term derives from the conception that in
-> socialism the government may nationalize a company's profits while leaving the
-> company to pay its own losses, while in lemon socialism the company is allowed
-> to keep its profits but its losses are shifted to the taxpayer.
+pejorative term for a form of government intervention in which government
+subsidies go to weak or failing firms (lemons; see Lemon law), with the
+effective result that the government (and thus the taxpayer) absorbs part or
+all of the recipient's losses. The term derives from the conception that in
+socialism the government may nationalize a company's profits while leaving the
+company to pay its own losses, while in lemon socialism the company is allowed
+to keep its profits but its losses are shifted to the taxpayer.
 
 So the imbalance: Why does the Fed continually save the financial industry every
 10 years, but not any other industry? Why does the
 [Fed create and spend 1.5T dollars to purchase worthless and arcane financial instruments](https://www.newyorkfed.org/markets/opolicy/operating_policy_200312a),
 but never spend on public goods like housing, student education, public
-infrastructure<sup class="Ref" id="ref:note:2">[[2](#note:2)]</sup>?
+infrastructure[^2]?
 
 And now we get to the systemic asymetries of power. Trump and those within his
 inner circle, as well as his political base believe they are entitled to the
@@ -186,74 +186,73 @@ don't play by the rules, why should I?"_. This has the effect or eroding the
 very conception of a nation operating under an equal rule of law, and will
 result in toxic resentment and fuel civil unrest.
 
-## Notes
-
-1. <div id="note:1">
-     Specifically, the gutting of the Volcker Rule, the repeal of the 
-     affiliation restrictions of the Glass–Steagall Act, and the free-for-all stock
-     buybacks in the financial sector since 2010:
-     <figure>
-        <img src="/static/images/2020-03-15-buybacks.jpg" alt="Stock buybacks since 2010">
-        <figcaption>Financial stock buybacks since 2010.</figcaption>
-     </figure>
-     Furthermore, The only ways to mitigate risk-loading is strict limitations 
-     on executive compensation, employee bonuses, and no mergers or acquisitions
-     for at least 10 years. These banks should be nationalized, its execs fired and all 
-     contracts voided. New leadershp will be brought in as reasonably paid public servants.
-     <a class="RefBack" href="#ref:note:1"></a>
-   </div>
-1. <div id="note:2">
-     This is our biggest opportunity, while we have the most leverage, to heavily
-     invest in public infrastructure and works programs. The airline industry is
-     already asking for bailouts to the tune of $50B. This isn't the time for
-     bailouts, this is the time for imagination, to create a society that works
-     for everyone. This is the time to
-     nationalize the airline industry. Since 2010, the
-     very same industry has been investing their money directly into stock
-     buybacks, pumping up their own stock prices, and paying huge bonuses to
-     their execs and CEOs. Since 2010 the major airlines have invested $45B in
-     buybacks, and now asks for $50B in bailouts.
-     <figure>
-        <img src="/static/images/2020-03-15-airline-buybacks.png" alt="Airline buybacks since 2010">
-        <figcaption>Airline stock buybacks since 2010.</figcaption>
-     </figure>
-     This means that they spent $45B
-     of their own money betting that their stocks would go up in value, paying out
-     any profits to their execs and CEOs as their valuations rose, and when
-     the market burst, they asked for their money back <strong>and an additional
-     $5B on top</strong>. To put this simply, this is a massive con-job and
-     outright theft. Nationalizing the airline industry is a win-win: it will
-     create good paying american jobs, make flying more affordable, mitigate cost
-     cutting at the expense of flight safety (see 'Boeing 737 Max'), and mitigate 
-     market risk.
-     <a class="RefBack" href="#ref:note:2"></a>
-   </div>
-1. <div id="note:3">
-     Update: March 25th<br>
-     After reviewing early drafts of the 
-     <q><a href="https://www.majorityleader.gov/sites/democraticwhip.house.gov/files/COVIDSUPP3_xml.pdf" rel="external">Take 
-     Responsibility for Workers and Families Act</a></q>,
-     as proposed, Wall Street, will suddenly have $4-6T of
-     government guaranteed low cost credit to go shopping for businesses in 
-     trouble. We would see the mother of all roll-ups, as small and medium sized 
-     businesses desperately try to get whatever they can from deep-pocketed 
-     private equity investors and monopolists. If that happens, the America we
-     know, of heterogeneous small businesses would look very different
-     after this pandemic is over&mdash;a homogeneous space optimized for 
-     massive corporations and destroying local autonomy and diversity.
-     <a class="RefBack" href="#ref:note:3"></a>
-   </div>
-1. <div id="note:4">
-     Update: April 9th<br>
-     As predicted, the Fed is starting to take consumer credit debt
-     and commercial MBSes onto its balance sheet.
-     <q>The Fed will now accept triple-A rated tranches of existing commercial mortgage-backed securities and newly issued collateralized loan obligations. Under TALF, the Fed lends money to investors to buy securities backed by credit-card loans and other consumer debt. The Fed has made $100 billion available for that program and didn’t increase the amount Thursday.</q>
-     <a href="https://www.wsj.com/articles/fed-announces-new-facilities-to-support-2-3-trillion-in-lending-11586435450?emailToken=541e2dedd6bede9b4d6ae9d44a2a062c7HuWo9MeoBNqhzmd09hf0IEjJVhb1HTeGJkTRwnEgr2wW1szbCZ9iSqB5eAUfJ5MrTaa7qUHJRxPktf+vdJ7dWh4tMok+E1cIneDsYK4DiTVjOvzKtS2+Vbq7iqpfucG">Fed Expands Corporate-Debt Backstops, Unveils New Programs to Aid States, Cities and Small Businesses</a>
-     <a class="RefBack" href="#ref:note:4"></a>
-   </div>
 
 ## Thanks
 
 Thanks to [@b_apothecary](https://twitter.com/b_apothecary), Coby Durling, Jason
 C., and Garrick Y. for reviewing early drafts of this essay and providing
 feedback.
+
+
+## Footnotes
+
+
+[^1]:
+    Specifically, the gutting of the Volcker Rule, the repeal of the 
+    affiliation restrictions of the Glass–Steagall Act, and the free-for-all stock
+    buybacks in the financial sector since 2010:
+    <figure>
+       <img src="/static/images/2020-03-15-buybacks.jpg" alt="Stock buybacks since 2010">
+       <figcaption>Financial stock buybacks since 2010.</figcaption>
+    </figure>
+    Furthermore, The only ways to mitigate risk-loading is strict limitations 
+    on executive compensation, employee bonuses, and no mergers or acquisitions
+    for at least 10 years. These banks should be nationalized, its execs fired and all 
+    contracts voided. New leadershp will be brought in as reasonably paid public servants.
+
+[^2]:
+    This is our biggest opportunity, while we have the most leverage, to heavily
+    invest in public infrastructure and works programs. The airline industry is
+    already asking for bailouts to the tune of $50B. This isn't the time for
+    bailouts, this is the time for imagination, to create a society that works
+    for everyone. This is the time to
+    nationalize the airline industry. Since 2010, the
+    very same industry has been investing their money directly into stock
+    buybacks, pumping up their own stock prices, and paying huge bonuses to
+    their execs and CEOs. Since 2010 the major airlines have invested $45B in
+    buybacks, and now asks for $50B in bailouts.
+    <figure>
+       <img src="/static/images/2020-03-15-airline-buybacks.png" alt="Airline buybacks since 2010">
+       <figcaption>Airline stock buybacks since 2010.</figcaption>
+    </figure>
+    This means that they spent $45B
+    of their own money betting that their stocks would go up in value, paying out
+    any profits to their execs and CEOs as their valuations rose, and when
+    the market burst, they asked for their money back <strong>and an additional
+    $5B on top</strong>. To put this simply, this is a massive con-job and
+    outright theft. Nationalizing the airline industry is a win-win: it will
+    create good paying american jobs, make flying more affordable, mitigate cost
+    cutting at the expense of flight safety (see 'Boeing 737 Max'), and mitigate 
+    market risk.
+
+[^3]:
+    Update: March 25th<br>
+    After reviewing early drafts of the 
+    <q><a href="https://www.majorityleader.gov/sites/democraticwhip.house.gov/files/COVIDSUPP3_xml.pdf" rel="external">Take 
+    Responsibility for Workers and Families Act</a></q>,
+    as proposed, Wall Street, will suddenly have $4-6T of
+    government guaranteed low cost credit to go shopping for businesses in 
+    trouble. We would see the mother of all roll-ups, as small and medium sized 
+    businesses desperately try to get whatever they can from deep-pocketed 
+    private equity investors and monopolists. If that happens, the America we
+    know, of heterogeneous small businesses would look very different
+    after this pandemic is over&mdash;a homogeneous space optimized for 
+    massive corporations and destroying local autonomy and diversity.
+
+[^4]:
+    Update: April 9th<br>
+    As predicted, the Fed is starting to take consumer credit debt
+    and commercial MBSes onto its balance sheet.
+    <q>The Fed will now accept triple-A rated tranches of existing commercial mortgage-backed securities and newly issued collateralized loan obligations. Under TALF, the Fed lends money to investors to buy securities backed by credit-card loans and other consumer debt. The Fed has made $100 billion available for that program and didn’t increase the amount Thursday.</q>
+    <a href="https://www.wsj.com/articles/fed-announces-new-facilities-to-support-2-3-trillion-in-lending-11586435450?emailToken=541e2dedd6bede9b4d6ae9d44a2a062c7HuWo9MeoBNqhzmd09hf0IEjJVhb1HTeGJkTRwnEgr2wW1szbCZ9iSqB5eAUfJ5MrTaa7qUHJRxPktf+vdJ7dWh4tMok+E1cIneDsYK4DiTVjOvzKtS2+Vbq7iqpfucG">Fed Expands Corporate-Debt Backstops, Unveils New Programs to Aid States, Cities and Small Businesses</a>
+
