@@ -44,23 +44,21 @@ with the living force of the city.
 
 Gibsons most powerful argument was wonderful:
 
-<figure class="quote">
-  <blockquote cite="https://www.nationalreview.com/2019/04/san-francisco-decline-failed-government-policies/">
-    "The legendary urbanist Jane Jacobs once remarked that new ideas come from 
-    old buildings, the types of places you can alter without permission because 
-    no one cares about them. This is one reason why so many garage startups and 
-    garage bands and artists spilling paint in discarded warehouse lofts have 
-    left their mark on the world. The true creative class can’t afford to 
-    rent expensive new studios."
-  </blockquote>
-  <figcaption>
-    &mdash;Michael Gibson,
-    <cite>
-      <a href="https://www.nationalreview.com/2019/04/san-francisco-decline-failed-government-policies/" rel="external">
-        San Francisco’s Slow-Motion Suicide</a>
-    </cite>
-  </figcaption>
-</figure>
+> “The legendary urbanist Jane Jacobs once remarked that new ideas come from 
+> old buildings, the types of places you can alter without permission because 
+> no one cares about them. This is one reason why so many garage startups and 
+> garage bands and artists spilling paint in discarded warehouse lofts have 
+> left their mark on the world. The true creative class can’t afford to 
+> rent expensive new studios.”
+> <figcaption>
+>   &mdash;
+>   Michael Gibson,
+>   <cite>
+>     <a href="https://www.nationalreview.com/2019/04/san-francisco-decline-failed-government-policies/" rel="external">
+>       San Francisco’s Slow-Motion Suicide</a>
+>   </cite>
+> </figcaption>
+{: cite="https://www.nationalreview.com/2019/04/san-francisco-decline-failed-government-policies/" }
 
 Gibson alludes to the conservative zoning laws and wealthy property owners
 exacerbating the plight of San Francisco and similar cities: Owners want
@@ -97,7 +95,7 @@ non-existent.
 </figure>
 
 The drive to urbanization is an imperative of capitalism, this drive results in
-"a freezing of life"— a static world devoid of spontaneity, the result of land
+<q>"a freezing of life"</q>— a static world devoid of spontaneity, the result of land
 development and bureaucratic zoning laws optimized for rent seeking and
 increased land valuations, devoid of nature and where its residents have no
 ability to change their surroundings to suit daily life. All desire for change
@@ -111,26 +109,23 @@ the very people who live in these spaces, people who wish to change their
 surroundings over time as use-patterns and ways of living change with the
 seasons and with time. The philosopher Hegel explored this concept saying:
 
-<figure class="quote">
-  <blockquote cite="https://www.nationalreview.com/2019/04/san-francisco-decline-failed-government-policies/">
-    “Space is the connection of the quiescent asunderness and side-by-sideness of
-    things [objects]; Time is the connection of their vanishing or alteration...
-    In the spatial world the question is not succession but of coexistence... As a
-    restless Becoming [Time] is not an element of the synthetic whole.”
-  </blockquote>
-  <figcaption>
-    &mdash;G.W.F. Hegel,
-    <cite>The Philosophical Propadeutic</cite>
-  </figcaption>
-</figure>
+> “Space is the connection of the quiescent asunderness and side-by-sideness of
+> things [objects]; Time is the connection of their vanishing or alteration...
+> In the spatial world the question is not succession but of coexistence... As a
+> restless Becoming [Time] is not an element of the synthetic whole.”
+> <figcaption>
+>   &mdash;
+>   G.W.F. Hegel,
+>   <cite>The Philosophical Propadeutic</cite>
+> </figcaption>
 
 This is to say: the privileging of objects in space fetishizes the object and
 therefore sacrifices changes in time. This creates an
 [alienated and static space of purely fetishized structures](https://en.wikipedia.org/wiki/Gentrified_architecture),
 devoid of life.
 
-_This was an excerpt from "The Society of The Spectacle: Elaborated" a
-forthcoming book by 0xADADA._
+_This was an excerpt from "The Society of The Spectacle" a
+forthcoming translation of Guy Debord, translated by 0xADADA._
 
 ## References
 

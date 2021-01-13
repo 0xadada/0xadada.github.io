@@ -35,18 +35,14 @@ the distances are percieved that really matters. If ones perception of 2,400
 miles is two mediocre movies and a few bad in-flight meals, perhaps it’s not
 really "travel".
 
-<figure class="quote">
-  <blockquote>
-    “The air traveller only travels after he has landed.”
-  </blockquote>
-  <figcaption>
-    &mdash;
-    Marshall McLuhan,
-    <cite>
-      Understanding Media: The Extensions of Man
-    </cite>
-  </figcaption>
-</figure>
+> “The air traveller only travels after he has landed.”
+> <figcaption>
+>   &mdash;
+>   Marshall McLuhan,
+>   <cite>
+>     Understanding Media: The Extensions of Man
+>   </cite>
+> </figcaption>
 
 After travelling through Croatia in 2014, I wrote:
 
@@ -104,20 +100,17 @@ home a changed man, but to spend time alone to better understand myself. It was
 a journey inwards. More than anything else, I had ample time to myself, whole
 days went by without talking to anyone.
 
-<figure class="quote">
-  <blockquote>
-    “For my part, I travel not to go anywhere, but to go. I travel for travel's
-    sake. The great affair is to move; to feel the needs and hitches of our life
-    more clearly; to come down off this feather-bed of civilization, and find
-    the globe granite underfoot and strewn with cutting flints.”
-  </blockquote>
-  <figcaption>
-    &mdash;Robert Louis Stevenson,
-    <cite>
-      Travels with a Donkey in the Cévennes
-    </cite>
-  </figcaption>
-</figure>
+>  “For my part, I travel not to go anywhere, but to go. I travel for travel's
+>  sake. The great affair is to move; to feel the needs and hitches of our life
+>  more clearly; to come down off this feather-bed of civilization, and find
+>  the globe granite underfoot and strewn with cutting flints.”
+> <figcaption>
+>   &mdash;
+>   Robert Louis Stevenson,
+>   <cite>
+>     Travels with a Donkey in the Cévennes
+>   </cite>
+> </figcaption>
 
 I learned to be kind & gentle with myself, to calm my own anxieties when
 stressed, to assess reality with facts and realize only my actions will have any
@@ -142,11 +135,14 @@ experiences of life, hopefully getting a taste of other possible lives so you
 can tell yourself what it would've been like. Travel becomes the yearly
 experience people remember, the marker we live by when our lives become banal.
 
-> Tourism, human circulation considered as consumption, a by-product of the
+> “Tourism, human circulation considered as consumption, a by-product of the
 > circulation of commodities, is fundamentally nothing more than the leisure of
 > going to see what has become banal. The economic organization of visits to
-> different places is already in itself the guarantee of their equivalence.
-> <cite>Guy Debord<sup class="Ref" id="ref:cite:1">[[1](#cite:1)]</sup></cite>
+> different places is already in itself the guarantee of their equivalence.”
+> <figcaption>
+>   —Guy Debord,
+>   <cite>The Society of the Spectacle</cite>
+> </figcaption>
 
 So if you are looking for something inwards, be prepared to focus on whats
 inside, not whats outside. Travel can be an escape from oneself or ones
@@ -182,7 +178,6 @@ Trans. Fredy Perlman.
 Detroit: Black & Red,
 Print.
 1983.
-<a class="RefBack" href="#ref:cite:1">1</a>
 
 <cite class="hanging-indent">
 McLuhan, Marshall, and Lewis H. Lapham.
@@ -190,3 +185,4 @@ _Understanding Media: the Extensions of Man_.
 Cambridge, Mass: MIT Press, 
 Print. 
 1994.
+

@@ -24,20 +24,16 @@ tags: [essays]
   <figcaption>Police in Valencia Spain by Luther Bottrill</figcaption>
 </figure>
 
-<figure class="quote">
-  <blockquote>
-    "A central issue of contestation is <strong>elasticity versus discipline</strong>, elasticity 
-    for me and discipline for you, alchemy of banking and money funding for me,
-    austerity and borrowing/payment for you."
-  </blockquote>
-  <figcaption>
-    &mdash;Perry Mehrling,
-    <cite>
-      <a href="https://www.perrymehrling.com/2019/03/liquidity-changes-everything/" rel="external">
-        Liquidity Changes Everything</a>
-    </cite>
-  </figcaption>
-</figure>
+> “A central issue of contestation is <strong>elasticity versus discipline</strong>, elasticity 
+> for me and discipline for you, alchemy of banking and money funding for me,
+> austerity and borrowing/payment for you.”
+> <figcaption>
+>   &mdash;Perry Mehrling,
+>   <cite>
+>     <a href="https://www.perrymehrling.com/2019/03/liquidity-changes-everything/" rel="external">
+>       Liquidity Changes Everything</a>
+>   </cite>
+> </figcaption>
 
 Like 2009,
 [the (coming/arriving) financial collapse of 2020](https://twitter.com/i/events/1238487524856803331)
@@ -161,24 +157,20 @@ most adversely affect the out-group. As
 [Adam Serwer](https://www.theatlantic.com/ideas/archive/2018/10/the-cruelty-is-the-point/572104/)
 puts it: <q>the cruelty is the point</q>:
 
-<figure class="quote">
-  <blockquote>
-    Only the president and his allies, his supporters, and their anointed are entitled 
-    to the rights and protections of the law, and if necessary, immunity from it.
-    The rest of us are entitled only to cruelty, by their whim. This is how the 
-    powerful have ever kept the powerless divided and in their place, and enriched 
-    themselves in the process.
-  </blockquote>
-  <figcaption>
-    &mdash;
-    Adam Serwer,
-    <cite>
-      <a href="https://www.theatlantic.com/ideas/archive/2018/10/the-cruelty-is-the-point/572104/" rel="external" title="The Cruelty is the Point">The
-        Cruelty is the Point
-      </a>
-    </cite>
-  </figcaption>
-</figure>
+> Only the president and his allies, his supporters, and their anointed are entitled 
+> to the rights and protections of the law, and if necessary, immunity from it.
+> The rest of us are entitled only to cruelty, by their whim. This is how the 
+> powerful have ever kept the powerless divided and in their place, and enriched 
+> themselves in the process.
+> <figcaption>
+>   &mdash;
+>   Adam Serwer,
+>   <cite>
+>     <a href="https://www.theatlantic.com/ideas/archive/2018/10/the-cruelty-is-the-point/572104/" rel="external" title="The Cruelty is the Point">The
+>       Cruelty is the Point
+>     </a>
+>   </cite>
+> </figcaption>
 
 We, as a society are starting to understand that the financial sector is rotten
 to the core, and this rot is going to seep into public sentiment: _"If they
@@ -195,7 +187,6 @@ feedback.
 
 
 ## Footnotes
-
 
 [^1]:
     Specifically, the gutting of the Volcker Rule, the repeal of the 

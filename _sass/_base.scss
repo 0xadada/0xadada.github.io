@@ -92,9 +92,30 @@ pre {
 }
 
 q,
-blockquote,
-blockquote cite {
+blockquote p {
+  font-family: Georgia, Times, Times New Roman, serif;
   font-style: italic;
+}
+
+blockquote {
+  text-align: left;
+  position: relative;
+  padding: 1em 0;
+  border-left: 2rem solid rgba(61,70,77,0.1);
+}
+blockquote::before {
+  content: '\201C';
+  font-family: serif;
+  font-size: 15em;
+  position: absolute;
+  color: rgba(0, 0, 0, 0.125);
+  left: -2px;
+  top: -87px;
+  display: block;
+}
+
+blockquote p {
+  margin: 1.25rem 2.5rem;
 }
 
 p {
@@ -106,10 +127,16 @@ cite {
 }
 
 figure {
-  margin: 0 -2rem 0 -2rem;
   text-align: center;
 }
-figure figcaption {
+
+figure,
+blockquote {
+  margin: 0 -2rem 0 -2rem;
+}
+
+figure figcaption,
+blockquote figcaption {
   color: darkgray;
   margin: 0 3rem;
   font-size: 0.7em;

@@ -31,28 +31,27 @@ coming out of the Enlightenment, specifically Adam Smith, Locke, Rousseau, and
 the conception of humans resorting to "the state of nature" and acting in
 bad-faith with one another.
 
-<figure class="quote">
-  <blockquote>
-    <p>
-      "fuck the monarchy, let's experiment with a rational government based on contract law and this new capitalism stuff."
-    </p>
-  </blockquote>
-  <figcaption>
-    —The Forefathers™, <cite>The Federalist Papers</cite>
-  </figcaption>
-</figure>
+> “fuck the monarchy, let's experiment with a rational government based on 
+> contract law and this new capitalism stuff.”
+> <figcaption>
+>   —The Forefathers™,
+>   <cite>The Federalist Papers</cite>
+> </figcaption>
 
 The problem with this type of Hobbesian thinking is "man will resort to kill or
 be killed in the 'state of nature'" and therefore the State must enforce
 contacts to ensure civility and protect the rights of property.
 
-My thinking is more aligned to
-[Zeynep Tufecki](https://www.nytimes.com/2020/08/23/business/media/how-zeynep-tufekci-keeps-getting-the-big-things-right.html)
+My thinking is more aligned with Zeynep Tufecki:
 
 > “We think of society as this Hobbesian thing, as opposed to the reality where
 > most people are very friendly, most people are prone to solidarity.”
-> <cite><a href="https://www.nytimes.com/2020/08/23/business/media/how-zeynep-tufekci-keeps-getting-the-big-things-right.html">How
-> Zeynep Tufekci Keeps Getting the Gig-things Right</a> </cite>
+> <figcaption>
+>   Zeynep Tufecki
+>   <cite><a href="https://www.nytimes.com/2020/08/23/business/media/how-zeynep-tufekci-keeps-getting-the-big-things-right.html">How
+>     Zeynep Tufekci Keeps Getting the Gig-things Right</a>
+>   </cite>
+> </figcaption>
 
 In disasters and daily life, people want to help each other, and feel as part of
 something greater than themselves. The atomization of the individual, a result
