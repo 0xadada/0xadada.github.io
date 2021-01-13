@@ -13,16 +13,6 @@ license: cc-by-nc-sa
 tags: [talks, open-source]
 ---
 
-<iframe width="560" height="315" 
-  src="https://www.youtube.com/embed/gh9_5lMKtAY?start=286" 
-  frameborder="0" 
-  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-  allowfullscreen></iframe>
-
-<iframe width="800" height="800" 
-  src="https://0xadada.pub/talk-using-ember-fastboot-in-weird-ways/"
-  frameborder="0">
-</iframe>
 
 This talk was presented at the Boston Ember.js Community meetup at Salsify, Inc
 about a unique usecase for deploying FastBoot in order to do server-side
@@ -33,3 +23,26 @@ rendering by introducing Ember FastBoot. I showcase our architecture and provide
 a quick summary of how we use FastBoot in production.
 
 [Using Ember FastBoot in Weird Ways (slides)](https://0xadada.pub/talk-using-ember-fastboot-in-weird-ways/)
+
+
+## Recording
+
+<center>
+  <iframe width="560" height="315" 
+    src="https://www.youtube.com/embed/gh9_5lMKtAY?start=286" 
+    frameborder="0" 
+    allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+    style="margin-bottom:3rem; box-shadow: 0 0 3.5rem rgba(0,0,0,0.5);"
+    allowfullscreen></iframe>
+</center>
+
+## Presentation Slides
+
+<div style="transform:scale(0.5); transform-origin: left top;">
+  <iframe width="1920" height="1200" 
+    src="https://0xadada.pub/talk-using-ember-fastboot-in-weird-ways/"
+    style="box-shadow: 0 0 3.5rem rgba(0,0,0,0.5);"
+    frameborder="0">
+  </iframe>
+</div>
+
