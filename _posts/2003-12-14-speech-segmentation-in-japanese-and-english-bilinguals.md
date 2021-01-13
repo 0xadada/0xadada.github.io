@@ -20,6 +20,7 @@ style: |
   .hentry {
     font-family: Computer Modern Serif;
   }
+  .hentry .c-Header { text-align: center; }
   .hentry h1,
   .hentry h2,
   .hentry h3,
@@ -29,15 +30,20 @@ style: |
   }
 ---
 
-###### Colleges of Computer Science and Cognitive Psychology, Northeastern University<br>Topics Concerning Japanese and English Bilinguals
+Colleges of Computer Sciences and Science (Psychology)
+<br>
+Northeastern University Boston, MA
+<br>
+Topics Concerning Japanese and English Bilinguals
+{: style="text-align:center;" }
 
 ### A Literature Review
 
 ---
 
-<p style="padding:0 8em; font-size:0.7em;">
 The purpose of this paper is to provide an overview of the existing literature concerning speech segmentation, categorical perception, and some other issues concerning bilinguals of English and Japanese. It will touch on some of the differences in the two languages and how they affect learning the L2. The paper will start by providing background information about some of the two languages and some of the current issues involved in speech processing. The paper will then delve into the most current research, what the issues are, how it was done, and the results they have found. It will then go on to discuss the possible future directions of this research and end with references.
-</p>
+{: style="padding:0 8em; font-size:0.7em;" }
+
 ----
 
 ## I. Introduction

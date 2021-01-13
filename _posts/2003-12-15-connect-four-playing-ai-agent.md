@@ -7,22 +7,32 @@ metaDescription:
   "This paper documents the creation and testing of a game playing artificial
   intelligence (AI) agent program.  The agent is designed to play a game of
   Connect Four by Milton-Bradely."
-metaKeywords: ai, artificial intelligence, machine learning, connect four
+metaKeywords: ai, artificial intelligence, machine learning, connect four, minimax
 metaOgType: "article"
 license: cc-by
 tags: [projects]
+style: |
+  .hentry {
+    font-family: Computer Modern Serif;
+  }
+  .hentry .c-Header { text-align: center; }
+  .hentry h1,
+  .hentry h2,
+  .hentry h3,
+  .hentry h4 {
+    text-align: center;
+    text-transform: uppercase;
+  }
 ---
 
-<aside>
-  <center>
-    0xADADA, Erik Ibsen, Chen Zhang<br>
-    College of Computer and Information Science<br>
-    Northeastern University<br>
-    Boston, MA
-  </center>
-</aside>
+0xADADA, Erik Ibsen, Chen Zhang
+<br>
+Khoury College of Computer Sciences
+<br>
+Northeastern University Boston, MA
+{: style="text-align:center;" }
 
-## Abstract
+---
 
 This paper documents the creation and testing of a game playing artificial
 intelligence (AI) agent program. The agent is designed to play a game of Connect
@@ -31,6 +41,9 @@ consisting of a grid of 6x7 slots. The object is to make a vertical, horizontal
 or diagonal line of four pieces before the opposing player does. The agent
 designed in the current study is able to play against a human opponent or
 against another AI agent.
+{: style="padding:0 8em; font-size:0.7em;" }
+
+---
 
 ## Introduction
 
@@ -108,20 +121,22 @@ described in Table 1.2.
 | Environment         | Game Board, Agent’s pieces, and Opponent’s pieces.                                        |
 | Actuators           | Piece placing function.                                                                   |
 | Sensors             | Direct access to the state of the board.                                                  |
+{: style="font-size:0.625em" }
 
 <aside>
   <a id="#table:1.1"></a>
   Table 1.1 – A PEAS description of the task environment.
 </aside>
 
-| Environment Property                      | Description                                                                                                                                                                                                                                                                                                                                                                                                                      |
-| ----------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Environment Property | Description |
+| :--- | :--- |
 | Fully Observable vs. Partially Observable | The Connect Four environment is fully observable. The environment consists of the board, which has constant dimensions, and the pieces, which belong to either the player or the opponent. The agent has access to all of this information.                                                                                                                                                                                      |
 | Deterministic vs. Stochastic              | This environment could be considered deterministic, as there are no random elements at work here. The only unknown is the actions of the opponent. Therefore, the environment can be classified as strategic.                                                                                                                                                                                                                    |
 | Episodic vs. Sequential                   | The environment could be either episodic or sequential, depending on the algorithm the agent uses. If the algorithm calls for random placement of a piece, then the environment is episodic. However, if the algorithm is more sophisticated, calling for prediction of the opponent’s moves, then the environment is sequential.                                                                                                |
 | Static vs. Dynamic                        | This environment is fully static. Time is not a factor in making the decision as to where to place pieces. Once it is the agent’s turn, the state cannot be changed until it makes its move. The agent is also not penalized as a function of decision time.                                                                                                                                                                     |
 | Discrete vs. Continuous                   | Connect Four is a fairly simple game with a finite, albeit large, number of different states. Therefore, the environment is decidedly discrete.                                                                                                                                                                                                                                                                                  |
 | Single agent vs. multi-agent              | In this game, there are two agents at work. From the point of view of the AI agent, there is itself, and another agent. The other agent can either be a human player or another AI agent, which may or may not use the same algorithm. Since both agents (be they human or otherwise) are out to maximize their own performance measure and minimize their opponent’s, the environment is classified as competitive multi-agent. |
+{: style="font-size:0.625em" }
 
 <aside>
   <a id="table:1.1"></a>
@@ -378,6 +393,7 @@ Table 5.1 is a brief summary of how the different algorithms interact.
 | Defensive vs. Aggressive                           | Aggressive          | Since Aggressive AI takes into account more of the state than the Defensive, Aggressive will always prevail.                                                                                                                                    |
 | Defensive or Aggressive vs. Minimax                | Minimax             | Since Minimax is able to look ahead four moves, it will usually defeat both Defensive and Aggressive. There are some instances where the game will end in a draw.                                                                               |
 | Minimax vs. Minimax                                | Player 2            | For some coincidental reason, when Minimax is pitted against itself, the second player always wins, and the same game is always played. This may be due to the fact that the entire game tree is not searched, so the algorithm is not perfect. |
+{: style="font-size:0.625em" }
 
 <aside>
   Table 5.1 – A summary of the results of AI vs. AI games.
@@ -403,38 +419,36 @@ they will remain one of the best solutions to a computer game-playing problem.
 
 ## References
 
-1. <cite id="cite:4">
-   Russell, S., Norvig, P.
-   _Artificial Intelligence, A Modern Approach_.
-   Third Edition
-   Pearson Education, Inc.
-   Prentice Hall.
-   Print.
-   2003.
-   </cite>
+<cite class="hanging-indent" id="cite:4">
+Russell, S., Norvig, P.
+_Artificial Intelligence, A Modern Approach_.
+Third Edition
+Pearson Education, Inc.
+Prentice Hall.
+Print.
+2003.
 
-1. <cite id="cite:1">
-   Flanagan, D.
-   _Java in a Nutshell_.
-   Third Edition.
-   O’Reilly & Associates, Inc. 
-   Print.
-   1999.
-   </cite>
+<cite class="hanging-indent" id="cite:1">
+Flanagan, D.
+_Java in a Nutshell_.
+Third Edition.
+O’Reilly & Associates, Inc. 
+Print.
+1999.
 
-1. <cite id="cite:2">
-   Knudsen, J.
-   _Java 2D Graphics_.
-   O’Reilly & Associates, Inc.
-   Print.
-   1999.
-   </cite>
+<cite class="hanging-indent" id="cite:2">
+Knudsen, J.
+_Java 2D Graphics_.
+O’Reilly & Associates, Inc.
+Print.
+1999.
 
-1. <cite id="cite:3">
-   Milton-Bradley, Inc. Connect Four Game, Hasbro, Inc.
-   </cite>
+<cite class="hanging-indent" id="cite:3">
+Milton-Bradley, Inc. Connect Four Game, Hasbro, Inc.
 
-## Appendix
 
-All source code is available at
-[GitHub](https://github.com/0xadada/smart-connect-four).
+<aside>
+  All source code is available at
+  <a href="https://github.com/0xadada/smart-connect-four">GitHub</a>.
+</aside>
+

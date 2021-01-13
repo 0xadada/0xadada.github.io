@@ -20,6 +20,7 @@ style: |
   .hentry {
     font-family: Computer Modern Serif;
   }
+  .hentry .c-Header { text-align: center; }
   .hentry h1,
   .hentry h2,
   .hentry h3,
@@ -71,8 +72,12 @@ importantly be by-blood, Japanese.
 > people of Japan-or at least more than 97 percent of them-really are: members
 > of a single great tribe united not just by common citizenship or common
 > language but by common bloodlines, common racial memory and common tribal
-> codes, so of which stretch back into prehistory." <cite>Christopher, Robert
-> C., 51<sup class="Ref" id="ref:cite:2">[[2](#cite:2)]</sup></cite>
+> codes, so of which stretch back into prehistory."
+> <figcaption>
+>   <cite>
+>     Christopher, Robert C., 51
+>   </cite>
+> </figcaption>
 
 Japanese society distinguishes itself from other cultures based on in-groups and
 out-groups. The groups that are not Japanese, not local, and different are
@@ -113,12 +118,14 @@ outsiders to the Japanese. While these people were easily identified as
 outsiders because of their foreign origins, they were also outsiders because of
 the way they were seen and accepted by society.
 
-> "At the same time however, outsiders themselves were ambiguous figures, for
+> “At the same time however, outsiders themselves were ambiguous figures, for
 > usually they were believed to possess both beneficent and malevolent powers.
 > The stranger our outsider might have skills pleasing or valuable to the
 > community and be the harbinger of good fortune in general, but he or she could
-> equally well be the bringer of calamity, the bearer of evil." <cite>Dower,
-> John., 234<sup class="Ref" id="ref:cite:3">[[3](#cite:3)]</sup></cite>
+> equally well be the bringer of calamity, the bearer of evil.”
+> <figcaption>
+>   <cite>Dower, John., 234</cite>
+> </figcaption>
 
 Koreans have been a largely disenfranchised group of Japanese society since
 Korea was colonized in 1910. The situation of Koreans in Japan is that many were
@@ -160,8 +167,10 @@ society.
 > The term Otaku is derived from its ancient meaning of addressing someone from
 > another household, and implies that you are unconcerned with the details of
 > the other persons family and circumstances. It prevented the discovery that
-> there were differences between 'I' and 'You'. <cite>Smith,
-> 80-81<sup class="Ref" id="ref:cite:4">[[4](#cite:4)]</sup></cite>
+> there were differences between 'I' and 'You'.
+> <figcaption>
+>   <cite>Smith, 80-81</cite>
+> </figcaption>
 
 Today the term is used to mean
 
@@ -212,14 +221,16 @@ conformity to the education system that he/she was brought up in. Both of these
 qualities are seen as having 'virtue' in Japanese society, but when brought to
 extremes can have serious social implications.
 
-> "This is the purest imaginable display of the narcissism inherent in Japanese
+> “This is the purest imaginable display of the narcissism inherent in Japanese
 > society. The otaku desires both an idealized union and an impregnable
 > independence-the classic drives of the narcissist. He seems postmodern and
 > marginal but is deeply traditional in his rejection of the unfamiliar.
 > Students in the ancient schools of tea ceremony were like otaku. Every member
 > had to be a mirror of every other member. The otaku represent rebellion as
-> parodic conformity." <cite>Smith,
-> 81<sup class="Ref" id="ref:cite:4">[[4](#cite:4)]</sup></cite>
+> parodic conformity.”
+> <figcaption>
+>   <cite>Smith, 81</cite>
+> </figcaption>
 
 The media have recently jumped on the rash of violent activities of a few otaku
 and have made the group into monsters. The rate of teenage violent acts of crime
@@ -280,12 +291,14 @@ system is ideal for a state that means to create people who will work well in
 industrialized society, and contribute to the state by being a productive
 individual who works towards the common goal of prosperity for the nation.
 
-> "Pupils are taught not to think but to accumulate immense piles of disparate
+> “Pupils are taught not to think but to accumulate immense piles of disparate
 > facts that can be repeated on command but cannot be connected. This is not an
 > accident or a lapse. Rote learning is the child's next lesson is dependence.
 > To think is an act of autonomy; to memorize the given is to rely upon
-> authority." <cite>Smith,
-> 78<sup class="Ref" id="ref:cite:4">[[4](#cite:4)]</sup></cite>
+> authority.”
+> <figcaption>
+>   <cite>Smith, 78</cite>
+> </figcaption>
 
 This type of education system, rote learning, is measured by intense
 examinations that will judge if you have conformed, as well as if you have
@@ -293,7 +306,7 @@ memorized the facts presented to you. The subject will either pass or fail; this
 does not judge individual achievement, or critical thinking, but instead to
 rewards the most conformist individual with entrance to industrial society.
 
-> "Savage competition and force-fed information without the cultivation of
+> “Savage competition and force-fed information without the cultivation of
 > critical thought go far to explain the character of Japanese graduates. The
 > system's demands-years in exam hell, every other student an adversary-produce
 > not exploring intellects but the narrow, machinelike people we assume the
@@ -302,8 +315,10 @@ rewards the most conformist individual with entrance to industrial society.
 > equals-horizontal relationships. They are indifferent to most public issues
 > because they are unnaturally inward-looking and (by official design) ignorant
 > of large patches of their own history. Outside of a few conventional
-> settings-karaoke bars are one-they display little sense of autonomy".
-> <cite>Smith, 79<sup class="Ref" id="ref:cite:4">[[4](#cite:4)]</sup></cite>
+> settings-karaoke bars are one-they display little sense of autonomy.”
+> <figcaption>
+>   <cite>Smith, 79</cite>
+> </figcaption>
 
 Otaku are the direct result of this type of education system. They are an
 extreme example of an authoritarian and militaristic rote learning system gone
@@ -316,27 +331,31 @@ thinks about the topic given to him/her. This phenomenon is concrete, as you
 would find it increasingly difficult to find an example of otaku outside the
 realm of the academic system.
 
-> "There is no doubt that Japan's educational system produces a dedicated
+> “There is no doubt that Japan's educational system produces a dedicated
 > workforce, and that these "corporate warriors" are the engine behind Japan's
 > tremendous industrial strength. Obedience to authority, instilled in people
 > from the time they are small children, makes Japanese society work very
 > smoothly, with far less of the social turmoil and violent crime that have
 > plagued other countries. All this is on the plus side of the balance. But
 > there is a minus side, which, like so many other modern Japanese problems, has
-> to do with once-good ideas carried too far." <cite>Kerr,
-> 285<sup class="Ref" id="cite:ref:6">[[6](#cite:6)]</sup></cite>
+> to do with once-good ideas carried too far.”
+> <figcaption>
+>   <cite>Kerr, 285</cite>
+> </figcaption>
 
 Hikikomori, on the other hand, also exhibit symptoms rooting from problems
 within the education system. These problems are from a different issue entirely.
 The Japanese education system is built upon the concept of the individual as a
 contributor to the society.
 
-> "Standardized textbooks, uniforms, school rules, marching in lockstep around
+> “Standardized textbooks, uniforms, school rules, marching in lockstep around
 > the school grounds, bowing in unison-these regimens were able to achieve what
 > 350 years of isolation could not: a triumph over regionalism and
 > individuality. It was probably Japan's single most serious modern
-> maladaptation." <cite>Kerr,
-> 282<sup class="Ref" id="ref:cite:6">[[6](#cite:6)]</sup></cite>
+> maladaptation.”
+> <figcaption>
+>   <cite>Kerr, 282</cite>
+> </figcaption>
 
 When children start schooling in kindergarten, the teacher assigns the students
 into "kumi" or groups. These groups will stay together until graduation; they
@@ -401,7 +420,7 @@ identity by reference to out-groups that it creates and reinforces.
 
 ## References
 
-<cite class="hanging-indent" id="cite:1">
+<cite class="hanging-indent">
 De Vos, George A.
 _Social Cohesions and Alienation: Minorities in the United States
 and Japan_.
@@ -409,20 +428,16 @@ Boulder, Colorado:
 Westview Press, Inc.
 Print.
 1992.
-<a class="RefBack" href="#ref:cite:1"></a>
-</cite>
 
-<cite class="hanging-indent" id="cite:2">
+<cite class="hanging-indent">
 Christopher, Robert C.
 _The Japanese Mind_.
 New York:
 Fawcett Columbine.
 Print.
 1983.
-<a class="RefBack" href="#ref:cite:2"></a>
-</cite>
 
-<cite class="hanging-indent" id="cite:3">
+<cite class="hanging-indent">
 Dower, John.
 _War without mercy: Race and power in the pacific War_.
 "The Demonic Other"
@@ -430,40 +445,32 @@ New York:
 Pantheon Books.
 Print.
 1986.
-<a class="RefBack" href="#ref:cite:3"></a>
-</cite>
 
-<cite class="hanging-indent" id="cite:4">
+<cite class="hanging-indent">
 Smith, Patrick L.
 _Japan: A Reinterpretation_.
 New York:
 Vintage Books.
 Print.
 1998.
-<a class="RefBack" href="#ref:cite:4"></a>
-</cite>
 
-<cite class="hanging-indent" id="cite:5">
+<cite class="hanging-indent">
 Murakami, Ryu.
 [_Japan's Lost
-Generation_](http://www.time.com/time/asia/magazine/2000/0501/japan.essaymurakami.html)
-<sup>[1](http://web.archive.org/web/20110219091725/http://www.time.com/time/asia/magazine/2000/0501/japan.essaymurakami.html)</sup>
+Generation_](http://edition.cnn.com/ASIANOW/time/magazine/2000/0501/japan.essaymurakami.html)
+<sup>[mirror](http://web.archive.org/web/20110219091725/http://www.time.com/time/asia/magazine/2000/0501/japan.essaymurakami.html)</sup>
 New York:
 Time, Inc.
 Web.
 2000.
-<a class="RefBack" href="#ref:cite:5"></a>
-</cite>
 
-<cite class="hanging-indent" id="cite:6">
+<cite class="hanging-indent">
 Kerr, Alex.
 _Dogs and Demons: Tales from the Dark Side of Japan_.
 New York:
 Hill and Wang.
 Print.
 2001.
-<a class="RefBack" href="#ref:cite:6"></a>
-</cite>
 
 <aside>
   <p>Photo of Mt. Isolation by the Author.</p>
