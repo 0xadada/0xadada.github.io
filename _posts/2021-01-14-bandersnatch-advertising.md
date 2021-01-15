@@ -31,7 +31,19 @@ Since television viewers are conditioned to be passive spectators, the film
 included a tutorial early on to help viewers become familiar with the choice
 mechanic. The first example asks the viewer to make a seemingly trivial choice
 of which breakfast cereal the main character Stefan eats for breakfast: Kellogs
-Frosted Flakes™, or Quaker Sugar Puffs™. This not only shows the viewer how
+Frosted Flakes™, or Quaker Sugar Puffs™.
+
+> “by giving the viewer the power to change the course of the storyline, the
+> viewer’s role changes from one of voyeurism to one of active surveillance[^2].”
+> <figcaption>
+>   —Nada Elnahla
+>   <cite>
+>     <a href="https://twitter.com/Nada_Elnahla" title="">Black Mirror: 
+>     Bandersnatch and how Netflix manipulates us, the new gods</a>
+>   </cite>
+> </figcaption>
+
+The choice mechanic not only shows the viewer how
 choices are presented during the film, but demonstrates how the choice is stored
 and recalled by the film later when a retro commercial with Tony the Tiger plays
 on a TV in the background: programmatic product placement[^1]. This simple
@@ -114,3 +126,11 @@ are impossible to distinguish because they've become the same thing**.
 [^1]:
     [Netflix's hit 'Bandersnatch' takes interactive marketing to new level](https://www.marketingdive.com/news/netflixs-hit-bandersnatch-takes-interactive-marketing-to-new-level/545202/)
 
+[^2]:
+    <cite class="hanging-indent">
+    Nada Elnahla.
+    (2020).
+    Black Mirror: Bandersnatch and how Netflix manipulates us, the new gods,
+    _Consumption Markets & Culture_,
+    23:5, 506-511,
+    [DOI: 10.1080/10253866.2019.1653288](https://doi.org/10.1080/10253866.2019.1653288)
