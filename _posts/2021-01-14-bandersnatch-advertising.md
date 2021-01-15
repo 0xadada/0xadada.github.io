@@ -34,7 +34,11 @@ of which breakfast cereal the main character Stefan eats for breakfast: Kellogs
 Frosted Flakes™, or Quaker Sugar Puffs™.
 
 > “by giving the viewer the power to change the course of the storyline, the
-> viewer’s role changes from one of voyeurism to one of active surveillance[^2].”
+> viewer’s role changes from one of voyeurism to one of active surveillance.
+> Nevertheless, and in reality, the viewer’s new power only increases
+> the tracking and profiling of his/her choices. We, the viewers, might control
+> Stefan, but Netflix (the producer of this commodity) panoptically monitors
+> and surveys us[^2].”
 > <figcaption>
 >   —Nada Elnahla
 >   <cite>
