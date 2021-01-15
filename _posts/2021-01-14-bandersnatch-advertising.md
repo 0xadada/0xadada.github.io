@@ -109,6 +109,19 @@ experience gently nudges the viewer, more subversively, and more efficiently.
 The success of this approach lies in subtlety, the product placement must not be
 frequent nor blatant.
 
+> “Even the role we, the interactive viewers, play has now changed. Instead of
+> being passive viewers/consumers, Netflix has given us the opportunity to
+> become the new gods, an omniscient presence that controls the Black Mirror
+> world. A closer look, however, shatters this reality, for the more control
+> we are given, the more we are manipulated.”
+> <figcaption>
+>   —Nada Elnahla
+>   <cite>
+>     <a href="https://twitter.com/Nada_Elnahla" title="">Black Mirror: 
+>     Bandersnatch and how Netflix manipulates us, the new gods</a>
+>   </cite>
+> </figcaption>
+
 Superficially, this approach solves a problem for Netflix: How do you make money
 advertising to a userbase who've become accustomed to paying for an entirely
 ad-free experience? The approach of content-oriented product placement seems
