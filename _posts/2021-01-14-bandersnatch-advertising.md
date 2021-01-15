@@ -11,7 +11,7 @@ metaOgType: "article"
 image: /static/images/2021-01-14-cereal.png
 metaImage: /static/images/2021-01-14-cereal.png
 author: "0xADADA"
-tags: [notes]
+tags: [notes, privacy, surveillance]
 license: cc-by-nc-sa
 ---
 
