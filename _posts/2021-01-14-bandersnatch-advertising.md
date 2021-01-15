@@ -38,7 +38,7 @@ Frosted Flakes™, or Quaker Sugar Puffs™.
 > Nevertheless, and in reality, the viewer’s new power only increases
 > the tracking and profiling of his/her choices. We, the viewers, might control
 > Stefan, but Netflix (the producer of this commodity) panoptically monitors
-> and surveys us[^2].”
+> and surveys us[^1].”
 > <figcaption>
 >   —Nada Elnahla
 >   <cite>
@@ -50,7 +50,7 @@ Frosted Flakes™, or Quaker Sugar Puffs™.
 The choice mechanic not only shows the viewer how
 choices are presented during the film, but demonstrates how the choice is stored
 and recalled by the film later when a retro commercial with Tony the Tiger plays
-on a TV in the background: programmatic product placement[^1]. This simple
+on a TV in the background: programmatic product placement[^2]. This simple
 mechanic has wide reaching implications for a future of personalized _content
 marketing_.
 
@@ -128,9 +128,6 @@ are impossible to distinguish because they've become the same thing**.
 ## Footnotes
 
 [^1]:
-    [Netflix's hit 'Bandersnatch' takes interactive marketing to new level](https://www.marketingdive.com/news/netflixs-hit-bandersnatch-takes-interactive-marketing-to-new-level/545202/)
-
-[^2]:
     <cite class="hanging-indent">
     Nada Elnahla.
     (2020).
@@ -138,3 +135,7 @@ are impossible to distinguish because they've become the same thing**.
     _Consumption Markets & Culture_,
     23:5, 506-511,
     [DOI: 10.1080/10253866.2019.1653288](https://doi.org/10.1080/10253866.2019.1653288)
+
+[^2]:
+    [Netflix's hit 'Bandersnatch' takes interactive marketing to new
+    level](https://www.marketingdive.com/news/netflixs-hit-bandersnatch-takes-interactive-marketing-to-new-level/545202/)
