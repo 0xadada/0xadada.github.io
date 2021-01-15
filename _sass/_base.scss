@@ -112,6 +112,7 @@ blockquote::before {
   left: -2px;
   top: -87px;
   display: block;
+  z-index: -1;
 }
 
 blockquote p {
