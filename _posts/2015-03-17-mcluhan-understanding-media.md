@@ -43,16 +43,16 @@ McLuhan utilizes the agrarian-to-industrial economic shift as a template by
 which we will see the next shift; from an industrial economy to an information
 economy.
 
-The (in his words) “electronic economy” or “information economy” (in modern
-words) will be a new economic/societal shift in which the information
+The (in his words) “electronic economy” or information economy (in contemporary
+parlance) will be a new economic/societal shift in which the information
 infrastructure (fiber optics, cheap hardware, ubiquitous internet access) will
 afford another shift from the centers of industrial production back to the
 countryside — ie: working remotely from your country home.
 
-McLuhan in the dawn of the color-TV era, was widely seen as a visionary capable
+McLuhan, in the dawn of the color-TV era, was widely seen as a visionary capable
 of seeing deep into societal shifts before they happened, and providing guidance
 as they unfolded. Perhaps his works should be revisited, as they continue to
-provide useful insight.
+provide useful insights.
 
 ## References
 
