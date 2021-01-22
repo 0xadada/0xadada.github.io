@@ -11,7 +11,7 @@ image: /static/images/2020-03-20-ember-emplates-classic-vs-angle-bracket-syntaxe
 metaImage: /static/images/2020-03-20-ember-emplates-classic-vs-angle-bracket-syntaxes.png
 author: "0xADADA"
 license: cc-by-nc-sa
-tags: [projects, open-source]
+tags: [projects, open-source, software-development]
 ---
 
 This articles describes the difference between how component invocation differs
