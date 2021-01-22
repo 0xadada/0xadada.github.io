@@ -12,7 +12,7 @@ metaKeywords: responsive, design, responsive design, web design, process
 metaOgType: "article"
 author: "0xADADA"
 license: cc-by-nc-sa
-tags: [essays]
+tags: [essays, software-development]
 ---
 
 Not too long ago, there was a great debate between two sides of the web. The
