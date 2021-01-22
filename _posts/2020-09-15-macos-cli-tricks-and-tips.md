@@ -7,7 +7,7 @@ metaDescription:
 metaKeywords: OSX, Apple, macOS, CLI, unix, BSD
 metaOgType: "article"
 author: "0xADADA"
-tags: [notes]
+tags: [notes, software-development]
 license: cc-by-nc-sa
 ---
 

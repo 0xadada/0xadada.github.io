@@ -10,7 +10,7 @@ metaKeywords:
 metaOgType: "article"
 author: "0xADADA"
 license: cc-by-nc-sa
-tags: [notes]
+tags: [notes, software-development]
 ---
 
 A summary of my notes taken while reading
@@ -331,7 +331,6 @@ Keyword syntax uses a keyword list to express a query.
                   select: count(u.id),
                   where: ilike(u.username, ^"j%") or
                          ilike(u.username, ^"c%")
-
 
 the u variable is bound as part of Ecto's from macro, representing entries from
 the User schema. Each join in a query gets a special binding.

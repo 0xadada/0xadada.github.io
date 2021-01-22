@@ -7,7 +7,7 @@ metaDescription:
 metaOgType: "article"
 author: "0xADADA"
 license: cc-by-sa
-tags: [essays]
+tags: [essays, software-development]
 ---
 
 ## General High-Order Principles

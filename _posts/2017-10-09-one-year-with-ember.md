@@ -11,7 +11,7 @@ metaKeywords:
 metaOgType: "article"
 author: "0xADADA"
 license: cc-by-nc-sa
-tags: [essays, open-source]
+tags: [essays, open-source, software-development]
 ---
 
 In early 2015, I was working at an artificial intelligence startup. My team was

@@ -12,7 +12,7 @@ metaKeywords:
 metaOgType: "article"
 author: "0xADADA"
 license: cc-by-nc-sa
-tags: [essays]
+tags: [essays, software-development]
 ---
 
 Docker is getting a lot of hype these days, for good reason. There are plenty of

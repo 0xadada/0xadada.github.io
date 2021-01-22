@@ -6,7 +6,7 @@ metaKeywords: software engineering, web development, 12 factor
 metaOgType: "article"
 author: "0xADADA"
 license: cc-by-nc-sa
-tags: [essays, open-source]
+tags: [essays, open-source, software-development]
 ---
 
 Application logs are useful for many reasons. They are the primary source of

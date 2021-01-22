@@ -6,39 +6,38 @@ metaDescription: Javascript The Good Parts notes
 metaKeywords: marketing, advertising
 metaOgType: "article"
 author: "0xADADA"
-tags: [notes]
+tags: [notes, software-development]
 license: cc-by-nc-sa
 ---
-
 
 _Notes from the book: JavaScript: The Good Parts by Douglas Crockford_
 
 ## Index
 
-* [JavaScript: The Good Parts](#javascript-the-good-parts)
-  * [Primitives](#primitives)
-  * [Execution Flow](#execution-flow)
-  * [Equality](#equality)
-  * [Loops / Enumeration](#loops--enumeration)
-  * [Object Literals](#object-literals)
-  * [Arrays](#arrays)
-  * [Delete](#delete)
-  * [Global Abatement](#global-abatement)
-  * [Reference](#reference)
-  * [Reflection](#reflection)
-  * [Functions](#functions)
-  * [Prototype](#prototype)
-  * [Function Invocation Pattern](#function-invocation-pattern)
-  * [Constructor Invocation pattern](#constructor-invocation-pattern)
-  * [Closure](#closure)
-* [Modules](#modules)
-* [WTF](#wtf)
-
+- [JavaScript: The Good Parts](#javascript-the-good-parts)
+  - [Primitives](#primitives)
+  - [Execution Flow](#execution-flow)
+  - [Equality](#equality)
+  - [Loops / Enumeration](#loops--enumeration)
+  - [Object Literals](#object-literals)
+  - [Arrays](#arrays)
+  - [Delete](#delete)
+  - [Global Abatement](#global-abatement)
+  - [Reference](#reference)
+  - [Reflection](#reflection)
+  - [Functions](#functions)
+  - [Prototype](#prototype)
+  - [Function Invocation Pattern](#function-invocation-pattern)
+  - [Constructor Invocation pattern](#constructor-invocation-pattern)
+  - [Closure](#closure)
+- [Modules](#modules)
+- [WTF](#wtf)
 
 ## JavaScript: The Good Parts
 
-A walkthrough many of the useful code examples from Douglas Crockfords' seminal book, [JavaScript: The Good Parts](http://shop.oreilly.com/product/9780596517748.do).
-
+A walkthrough many of the useful code examples from Douglas Crockfords' seminal
+book,
+[JavaScript: The Good Parts](http://shop.oreilly.com/product/9780596517748.do).
 
 ### Primitives
 
@@ -79,7 +78,8 @@ Built in values
     NaN
     Infinity
 
-JavaScript represents all numbers internally as a 64-bit floating point value (like Java's `double`).
+JavaScript represents all numbers internally as a 64-bit floating point value
+(like Java's `double`).
 
     // integer
     1 === 1.0  // true
@@ -96,7 +96,8 @@ JavaScript represents all numbers internally as a 64-bit floating point value (l
     1.79769313486231570e+103
     typeof Infinity === 'number'; // true
 
-Numbers, strings and booleans are object like in that they have methods, but they are immutable.
+Numbers, strings and booleans are object like in that they have methods, but
+they are immutable.
 
 Arrays, functions, regular expressions and objects are Objects. A simple object:
 
@@ -114,10 +115,13 @@ Arrays, functions, regular expressions and objects are Objects. A simple object:
     // Prevent TypeError by testing that all attributes exist before accessing
     another_object.test && another_object.test.test || "none" // "none"
 
-Objects are class-free, which is to say that there is no constraint on the names of its properties or their values. The object doesn't need to be defined before it is instantiated.
+Objects are class-free, which is to say that there is no constraint on the names
+of its properties or their values. The object doesn't need to be defined before
+it is instantiated.
 
-JavaScript has prototype linkage, meaning an object can inherit the properties of another object. This can be used to reduce object initialization time, memory consumption and increase code reuse.
-
+JavaScript has prototype linkage, meaning an object can inherit the properties
+of another object. This can be used to reduce object initialization time, memory
+consumption and increase code reuse.
 
 ### Execution Flow
 
@@ -127,7 +131,8 @@ Execution and flow statements.
     // Looping statements: do, for, while
     // Disruptive statements: break, continue, return, throw
 
-Falsy values. When conditional expressions evaluate to these values, the expression will result in `false`.
+Falsy values. When conditional expressions evaluate to these values, the
+expression will result in `false`.
 
     false
     null
@@ -160,10 +165,10 @@ NaN
     // Use isNaN to detect if a value is NaN
     isNaN(NaN);  // true
 
-
 ### Equality
 
-Rule of thumb, the following expressions are all false using `===` or `!==` so use these operators instead.
+Rule of thumb, the following expressions are all false using `===` or `!==` so
+use these operators instead.
 
     'c' + 'a' + 't' === 'cat'; // true
     '' == '0';                 // false
@@ -175,10 +180,12 @@ Rule of thumb, the following expressions are all false using `===` or `!==` so u
     false == null;             // false
     null == undefined;         // true
 
-
 ### Loops / Enumeration
 
-The `for in` statement can loop over all properties of an object, but will include all object types (including functions) as well as all objects along the prototype chain. The `for in` operator enumerates the property names on an object.
+The `for in` statement can loop over all properties of an object, but will
+include all object types (including functions) as well as all objects along the
+prototype chain. The `for in` operator enumerates the property names on an
+object.
 
     var animal_names = {
         'dog': 'Piper',
@@ -192,12 +199,13 @@ The `for in` statement can loop over all properties of an object, but will inclu
     > cat Snookins
     > goat Mr J
 
-It is important to know the names can be in any order and can be any type including functions.
-
+It is important to know the names can be in any order and can be any type
+including functions.
 
 ### Object literals
 
-Object literal - pair of curly braces surrounding zero or more name: value pairs.
+Object literal - pair of curly braces surrounding zero or more name: value
+pairs.
 
     var empty_object = {};
     var stooge = {
@@ -211,7 +219,6 @@ Object literal - pair of curly braces surrounding zero or more name: value pairs
     console.log(jer2); // "Jerome"
     var jer3 = stooge.favorite && stooge.favorite.color; // return undefined
     console.log(jer3); // undefined
-
 
 ### Arrays
 
@@ -248,8 +255,8 @@ Objects have no length property
     myArray.length
     > 0
 
-Arbitrary array indexes can be set, although there may not be items
-populating the array before it.
+Arbitrary array indexes can be set, although there may not be items populating
+the array before it.
 
     // myArray = [];
     myArray[1001] = true; // create and set value of index 1001 to true
@@ -261,7 +268,10 @@ populating the array before it.
     }
     console.log('myArray counted items: ' + arrayItemCount);
 
-To delete from an array, use `Array.splice()`. This function takes 3 arguments, `start` the index to start adding/removing items, `deleteCount` the number of items to remove/replace, and finally n-arguments for the addition n-items to add to the array.
+To delete from an array, use `Array.splice()`. This function takes 3 arguments,
+`start` the index to start adding/removing items, `deleteCount` the number of
+items to remove/replace, and finally n-arguments for the addition n-items to add
+to the array.
 
     var animals = ['cat', 'dog', 'pork', 'pig', 'fish'];
 
@@ -277,21 +287,24 @@ To delete from an array, use `Array.splice()`. This function takes 3 arguments, 
 
 viola!
 
-
 ### Delete
 
-The `delete` operator removes a property from an object. If will not remove the property if it only exists on parent objects along the prototype chain. It is useful for removing the property from a leaf object so that the property along the prototype chain is used.
-
+The `delete` operator removes a property from an object. If will not remove the
+property if it only exists on parent objects along the prototype chain. It is
+useful for removing the property from a leaf object so that the property along
+the prototype chain is used.
 
 ### Global Abatement
 
-Global variables in general weaken the portability and resiliency of programs, but in the case they're necessary, aim to limit them to a single global variable. This is done by attaching all properties to a single global variable.
+Global variables in general weaken the portability and resiliency of programs,
+but in the case they're necessary, aim to limit them to a single global
+variable. This is done by attaching all properties to a single global variable.
 
     var MYAPP = {};
     MYAPP.views = {};
 
-This will reduce namespace or scope collisions with other applications or libraries.
-
+This will reduce namespace or scope collisions with other applications or
+libraries.
 
 ### Reference
 
@@ -306,12 +319,13 @@ JavaScript passes objects around by reference, never by value.
     x.nn = 'curly';
     console.log(y); // 'curly'
 
-
 ### Reflection
 
 Reflection is the ability of a program to introspect is own code at runtime.
 
-Javascript offers the `typeof` operator to check the type of a property, and `hasOwnProperty()` which return true if the property exists directly on an object, false if it does not (and possibly exists up the prototype chain.)
+Javascript offers the `typeof` operator to check the type of a property, and
+`hasOwnProperty()` which return true if the property exists directly on an
+object, false if it does not (and possibly exists up the prototype chain.)
 
     var a_var = "a message";
     typeof a_var;
@@ -323,58 +337,82 @@ Javascript offers the `typeof` operator to check the type of a property, and `ha
     an_object.hasOwnProperty('a_prop');
     > true
 
-
 ### Functions
 
-> "The craft of programming is the factoring of a set of requirements into a set of functions and data structures."
-> <cite>Douglas Crockford</cite>
+> "The craft of programming is the factoring of a set of requirements into a set
+> of functions and data structures." <cite>Douglas Crockford</cite>
 
-Functions encapsulate a set of statements. They enable code reuse, information hiding and behavior composition.
+Functions encapsulate a set of statements. They enable code reuse, information
+hiding and behavior composition.
 
-Functions in JavaScript are objects. Objects are collections of name-value pairs that have a hidden prototype link to `Object.prototype`. The Objects produced from object literals are linked to `Object.prototype`. Function objects are linked to `Function.prototype`&ndash; which is linked to `Object.prototype`. Functions are also created with two additional hidden properties: the function's execution context (lexical scope) and the source code that implements the function.
+Functions in JavaScript are objects. Objects are collections of name-value pairs
+that have a hidden prototype link to `Object.prototype`. The Objects produced
+from object literals are linked to `Object.prototype`. Function objects are
+linked to `Function.prototype`&ndash; which is linked to `Object.prototype`.
+Functions are also created with two additional hidden properties: the function's
+execution context (lexical scope) and the source code that implements the
+function.
 
-Functions have a `prototype` property whos value is an object with a `constructor` property whos value is the function. This is distinct from the hidden link to `Function.prototype`.
-[](#ToDo: this needs to be fleshed-out in more detail)
+Functions have a `prototype` property whos value is an object with a
+`constructor` property whos value is the function. This is distinct from the
+hidden link to `Function.prototype`. [](#ToDo: this needs to be fleshed-out in
+more detail)
 
-When invoked, functions receive two additional parameters: `this` and `arguments`. The value of `this` depends on how the function was invoked (invoked as method, invoked as function, invoked as constructor, and invoked as apply). The value of `arguments` is an array-like object (in that the object has a `length` property) of all parameters passed to the function when invoked.
+When invoked, functions receive two additional parameters: `this` and
+`arguments`. The value of `this` depends on how the function was invoked
+(invoked as method, invoked as function, invoked as constructor, and invoked as
+apply). The value of `arguments` is an array-like object (in that the object has
+a `length` property) of all parameters passed to the function when invoked.
 
 #### Method Invocation Pattern
 
-When a function is created as a property of an object, it is called a method. When a method is invoked, it is bound to the object it is a property of. You can tell a function is invoked as a method when it uses a refinement; a `.` notation to call the function.
+When a function is created as a property of an object, it is called a method.
+When a method is invoked, it is bound to the object it is a property of. You can
+tell a function is invoked as a method when it uses a refinement; a `.` notation
+to call the function.
 
-Functions invoked as a method can access the bound object using the `this` reference to access other properties and values on that object. The methods `this` object is late-bound at function invocation time. This makes methods that make references to `this` more portable. These type of objects are called public methods.
+Functions invoked as a method can access the bound object using the `this`
+reference to access other properties and values on that object. The methods
+`this` object is late-bound at function invocation time. This makes methods that
+make references to `this` more portable. These type of objects are called public
+methods.
 
 ```javascript
 var myObj = {
   value: 2,
   increment: function(inc) {
-    this.value += typeof inc === 'number' ? inc : 1;
+    this.value += typeof inc === "number" ? inc : 1;
   }
 };
 ```
 
-The binding of `this` happens very late, at invocation time. A method can use `this` to retrieve values from the object, or modify the object.
+The binding of `this` happens very late, at invocation time. A method can use
+`this` to retrieve values from the object, or modify the object.
 
-Crockford introduces the `method` method, it is used throughout the book to define new methods on existing objects. Crockford attaches it to the `Function` prototype, so it is available to all objects.
+Crockford introduces the `method` method, it is used throughout the book to
+define new methods on existing objects. Crockford attaches it to the `Function`
+prototype, so it is available to all objects.
 
 ```javascript
 Function.prototype.method = function(name, func) {
   this.prototype[name] = func;
   return this;
-}
+};
 ```
 
-A use of the `method` method would be to define a new function `predictLength` on the String object. This function will return the predicted length a string when concatenated with the existing string.
+A use of the `method` method would be to define a new function `predictLength`
+on the String object. This function will return the predicted length a string
+when concatenated with the existing string.
 
 ```javascript
 // use Crockfords' `method` method on the `String` object.
-String.method('predictLength', function(arg) {
+String.method("predictLength", function(arg) {
   var len = this.length,
     argLen = arg.len,
     nextLen = len + argLen;
   var message = "Predicted length is %0 for string '%1'"
-    .replace('%0', nextLen)
-    .replace('%1', arg);
+    .replace("%0", nextLen)
+    .replace("%1", arg);
   console.log(message);
   return nextLen;
 });
@@ -382,23 +420,27 @@ String.method('predictLength', function(arg) {
 
 #### Function Invocation Pattern
 
-When a function is not a property of an object, it is invoked directly as a function:
+When a function is not a property of an object, it is invoked directly as a
+function:
 
 ```javascript
-var sum = add(3, 4)
+var sum = add(3, 4);
 ```
 
-Any function invoked in this pattern, the `this` value is bound to the global object. This becomes confusing for many developers when defining objects with sub-functions that expect the value of the `this` value to refer to the containing object. A example of problematic code illustrates:
+Any function invoked in this pattern, the `this` value is bound to the global
+object. This becomes confusing for many developers when defining objects with
+sub-functions that expect the value of the `this` value to refer to the
+containing object. A example of problematic code illustrates:
 
 ```javascript
 var brokenObj = {
-  'value': 2,
-  'double': function() {
+  value: 2,
+  double: function() {
     var helper = function() {
       // broken, the value of `this` in `this.value` refers to the global
-      // Object, not `brokenObj`. 
-      this.value = this.value * 2;  // fails, global Object.value set to NaN
-    }
+      // Object, not `brokenObj`.
+      this.value = this.value * 2; // fails, global Object.value set to NaN
+    };
     helper();
   }
 };
@@ -406,7 +448,10 @@ var brokenObj = {
 
 #### Constructor Invocation Pattern
 
-If a function is invoked with the `new` prefix e.g. `var x = new Status('confused')`, then a new object is created and returned with a link to the value of the function's `prototype` property. The value of `this` is bound to the new object.
+If a function is invoked with the `new` prefix e.g.
+`var x = new Status('confused')`, then a new object is created and returned with
+a link to the value of the function's `prototype` property. The value of `this`
+is bound to the new object.
 
 ```javascript
 var Status = function(status) {
@@ -414,42 +459,50 @@ var Status = function(status) {
   this.valueOf = function() {
     console.info(`status ${this.status}`);
     return this.status;
-  }
-}
-var happy = new Status('happy');
-typeof Status === 'function';    // true
-typeof happy === 'object';       // true
-happy.valueOf() === 'happy';     // true
-"status happy"
-true
+  };
+};
+var happy = new Status("happy");
+typeof Status === "function"; // true
+typeof happy === "object"; // true
+happy.valueOf() === "happy"; // true
+("status happy");
+true;
 ```
 
 #### Apply Invocation Pattern
 
-The `apply` method is available on every function. In the constructor invocation pattern above, the `valueOf` method was bound to the local object. Instead, the the `apply` method allows the developer supply an arbitrary value for `this`, in effect allowing the developer to apply the method to any object rather than to the object it is currently bound too.
+The `apply` method is available on every function. In the constructor invocation
+pattern above, the `valueOf` method was bound to the local object. Instead, the
+the `apply` method allows the developer supply an arbitrary value for `this`, in
+effect allowing the developer to apply the method to any object rather than to
+the object it is currently bound too.
+
 ```javascript
 var DoMath = function(x, y) {
   this.x = x;
   this.y = y;
   this.sum = function() {
     return this.x + this.y;
-  }
-}
-var oneTwo = new DoMath(1,2);
-oneTwo.sum() === 3;           // true
+  };
+};
+var oneTwo = new DoMath(1, 2);
+oneTwo.sum() === 3; // true
 
 // now we can force sum() to reference an object that we pass to the apply() method
 var threeFour = {
   x: 3,
   y: 4
 };
-oneTwo.sum.apply(threeFour, null)
-7
+oneTwo.sum.apply(threeFour, null);
+7;
 ```
 
 ### Prototype
 
-Every object is linked to a prototype from which it inherits properties. All objects created with object literal syntax are linked to `Object.prototype`. When creating new objects, we can select which object it inherits from. We can use a method named `Object.create` to implement this behavior.
+Every object is linked to a prototype from which it inherits properties. All
+objects created with object literal syntax are linked to `Object.prototype`.
+When creating new objects, we can select which object it inherits from. We can
+use a method named `Object.create` to implement this behavior.
 
 `Object.create`
 
@@ -461,11 +514,18 @@ Every object is linked to a prototype from which it inherits properties. All obj
         }
     }
 
-The prototype link is used only in retrieval. If we try to retrieve a property value from an object, it will either return the value on the object itself, or look up to **its** prototype, and so on, until the lookup finds the property or `undefined` is returned if nowhere along the prototype chain nor `Object.prototype` has the property. This is called prototype retrieval delegation.
+The prototype link is used only in retrieval. If we try to retrieve a property
+value from an object, it will either return the value on the object itself, or
+look up to **its** prototype, and so on, until the lookup finds the property or
+`undefined` is returned if nowhere along the prototype chain nor
+`Object.prototype` has the property. This is called prototype retrieval
+delegation.
 
-If properties are added to a prototype, all children of that prototype will immediately be available.
+If properties are added to a prototype, all children of that prototype will
+immediately be available.
 
-To determine if an object has a property directly, without invoking the prototype chain, use `hasOwnProperty`.
+To determine if an object has a property directly, without invoking the
+prototype chain, use `hasOwnProperty`.
 
     var ob = {};
     ob.hasOwnProperty('newProperty');
@@ -532,7 +592,6 @@ For-in loops
     myObject.increment(2);
     console.log(myObject.value); // 3
 
-
 ### Function invocation pattern
 
     myObject.double = function() {
@@ -546,7 +605,6 @@ For-in loops
     myObject.double();
     myObject.value
     > 6
-
 
 ### Constructor Invocation pattern
 
@@ -584,7 +642,7 @@ For-in loops
         if(typeof a !== 'number' || typeof b !== 'number') {
            throw { // throw an object with a name and message property
                name: 'TypeError',
-               message: 'add need numbers'      
+               message: 'add need numbers'
            };
         }
         debugger;
@@ -611,10 +669,12 @@ Object augmentation
     });
     console.log( (-10/3).integer() ); // -3
 
-
 ### Lexical Scope
 
-Lexical scope is the availability of variables to an executing block of code. JavaScript lexical scope is determined by resolving objects in the immediate lexical scope, then moving up the chain until it reaches the variables defined in the global scope.
+Lexical scope is the availability of variables to an executing block of code.
+JavaScript lexical scope is determined by resolving objects in the immediate
+lexical scope, then moving up the chain until it reaches the variables defined
+in the global scope.
 
     var foo = function() {
         var a = 3,
@@ -640,10 +700,10 @@ Lexical scope is the availability of variables to an executing block of code. Ja
     > a 21 b 7 c 11
     > a 21 b 5
 
-
 ### Closure
 
-A closure is a reference to a function as well as the runtime environment of the function. This includes any variables within the lexical scope of the function.
+A closure is a reference to a function as well as the runtime environment of the
+function. This includes any variables within the lexical scope of the function.
 
     // addN returns a function that adds its argument.
     var addN = function(x) {
@@ -733,30 +793,27 @@ Using closure and setTimout to increment a local variable.
       }(i));
     }
 
-
 ## Modules
 
-> A module is a function or object that presents an interface but that
-> hides its state and implementation.<br>
-> &mdash;<cite>Douglas Crockford</cite>
+> A module is a function or object that presents an interface but that hides its
+> state and implementation.<br> > &mdash;<cite>Douglas Crockford</cite>
 
-Modules exist because developers *want* to write code in discrete JavaScript
-files, while [web] deployment *wants* optimized code in as few HTTP requests
-as possible. These interests are add odds with one another.
+Modules exist because developers _want_ to write code in discrete JavaScript
+files, while [web] deployment _wants_ optimized code in as few HTTP requests as
+possible. These interests are add odds with one another.
 
-Modules aim to encapsulate a piece of code into a useful unit, and
-register its capability/export a value for the module.
+Modules aim to encapsulate a piece of code into a useful unit, and register its
+capability/export a value for the module.
 
-> The general pattern of a module is a function that defines private
-> variables and functions; creates privileged function which, through
-> closure, will have access to the private variables an functions; and
-> that returns the privileged functions or stores them in an accessible
-> place.<br>
-> &mdash;<cite>Douglas Crockford</cite>
+> The general pattern of a module is a function that defines private variables
+> and functions; creates privileged function which, through closure, will have
+> access to the private variables an functions; and that returns the privileged
+> functions or stores them in an accessible place.<br> > &mdash;<cite>Douglas
+> Crockford</cite>
 
-Douglas then defines a simple module using the function-closure pattern,
-which returns an anonymous function to a global variable where the module
-will be referenced.
+Douglas then defines a simple module using the function-closure pattern, which
+returns an anonymous function to a global variable where the module will be
+referenced.
 
     // SayModule: A function that simply console.log's its argument.
     var SayModule = ( function() {
@@ -774,39 +831,35 @@ will be referenced.
     > 'hello world!'
 
 With many of these, module scripts are strung together in the DOM with
-namespaces being described by a single global object where it's still
-possible to incur naming collisions in the architecture.
+namespaces being described by a single global object where it's still possible
+to incur naming collisions in the architecture.
 
 CommonJS is a set of conventions used to define how JavaScript modules are used
-and packaged. It defines the Module specification. This
-describes how code can fetch and include external modules
-as a dependency using the `require("<name>")` function. It
-also defines
-how authors export their code either by reassigning a `module.exports`
-object, or adding properties to an `exports` variable. CommonJS is most
-often used for synchronous loading of dependencies on server-side
+and packaged. It defines the Module specification. This describes how code can
+fetch and include external modules as a dependency using the `require("<name>")`
+function. It also defines how authors export their code either by reassigning a
+`module.exports` object, or adding properties to an `exports` variable. CommonJS
+is most often used for synchronous loading of dependencies on server-side
 systems such as Node.js.
 
 AMD (Asynchronous Module Definition) is another specification for modules.
-RequireJS is probably the most popular implementation of AMD.
-RequireJS was designed to asynchronously load modules in a browser context.
-RequireJS implements AMD, which is designed to suit the async nature of
-a browser. RequireJS implements a `define()` function that allows the module to
-declare its dependencies before being loaded. RequireJS can easily be
-wrapped by CommonJS such that CommonJS modules can easily be included
-using RequireJS.
+RequireJS is probably the most popular implementation of AMD. RequireJS was
+designed to asynchronously load modules in a browser context. RequireJS
+implements AMD, which is designed to suit the async nature of a browser.
+RequireJS implements a `define()` function that allows the module to declare its
+dependencies before being loaded. RequireJS can easily be wrapped by CommonJS
+such that CommonJS modules can easily be included using RequireJS.
 
-[Browserify](http://browserify.org/) is a CommonJS Module implementation
-that can run in the browser. Browserify introspects JavaScript use of the
-CommonJS `require()` function and builds a "bundle" that can be served
-in a single HTML `<script>` tag.
+[Browserify](http://browserify.org/) is a CommonJS Module implementation that
+can run in the browser. Browserify introspects JavaScript use of the CommonJS
+`require()` function and builds a "bundle" that can be served in a single HTML
+`<script>` tag.
 
 [webpack](http://webpack.github.io/docs/what-is-webpack.html) is a module
-bundler that aims to understand the needs of the developer as well as
-solve the problems of delivering code modules efficiently in the browser.
-webpack uses an opinionated configuration-over-code approach (similar to
-Grunt, but with more opinions) vs Gulp, which requires much more manual
-wiring.
+bundler that aims to understand the needs of the developer as well as solve the
+problems of delivering code modules efficiently in the browser. webpack uses an
+opinionated configuration-over-code approach (similar to Grunt, but with more
+opinions) vs Gulp, which requires much more manual wiring.
 
 ## WTF
 
