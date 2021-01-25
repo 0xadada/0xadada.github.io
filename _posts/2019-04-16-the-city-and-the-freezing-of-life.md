@@ -21,7 +21,7 @@ metaImage: /static/images/2019-04-16-san-francisco-seattle-boston-nyc-and-the-fr
 metaOgType: "article"
 author: "0xADADA"
 license: cc-by-nc-sa
-tags: [essays]
+tags: [essays, economics]
 ---
 
 <figure>

@@ -16,7 +16,7 @@ metaImage: /static/images/2020-03-15-elasticity-versus-discipline-luther-bottril
 metaOgType: "article"
 author: "0xADADA"
 license: cc-by-nc-sa
-tags: [essays]
+tags: [essays, economics]
 ---
 
 <figure>
@@ -85,6 +85,22 @@ last 10 years, those very same assets the industry has made huge profits from;
 but now that the profits have stopped, the Fed bails them out by buying them
 when no one else will.
 
+(Update: Jan 2021[^5]) nearly 10 months since this essay was published, we're 
+already seeing strong indicators that inflation and consumer purchasing power 
+will be severely hurt by inflation. So while government stipends may help in the
+near short term, long term people will be hurt by less value for every dollar
+they earn.
+
+<figure>
+  <img src="/static/images/2020-03-15-M2-money-stock.png" alt="FRED: M2 Money Stock">
+  <figcaption>
+    Chart from the St. Louis Federal Reserve Bank. FRED M2 Money Stock.
+    <br>
+    The US Fed has printed more money in 2020 alone than the prior 6 years 
+    combined.
+  </figcaption>
+</figure>
+
 When the Fed goes to congress to ask for changes to Section 14, they will use
 the Shock Doctrine playbook: <q>the banks will fail</q>, <q>retirement funds
 will tank</q>, <q>companies will go out of business</q>, <q>we're in desperate
@@ -108,9 +124,8 @@ fungible rules around banking, investing, taxation, and bailouts when things go
 bad. For the rest of the economy, and individuals, we get **discipline**:
 massive losses, austerity and cuts to social programs and public infrastructure,
 moralizing our individual failures as people, capitalizing on the large-scale
-failures of small
-businesses[^3], and continual
-indebtedness for the poor and middle classes.
+failures of small businesses[^3], and continual indebtedness for the poor and 
+middle classes.
 
 This is an ideological conservatism combined with a blind faith in an economics
 that can never be wrong. As Frank Wilhoit put it <q>Conservatism consists of
@@ -247,3 +262,14 @@ feedback.
     <q>The Fed will now accept triple-A rated tranches of existing commercial mortgage-backed securities and newly issued collateralized loan obligations. Under TALF, the Fed lends money to investors to buy securities backed by credit-card loans and other consumer debt. The Fed has made $100 billion available for that program and didn’t increase the amount Thursday.</q>
     <a href="https://www.wsj.com/articles/fed-announces-new-facilities-to-support-2-3-trillion-in-lending-11586435450?emailToken=541e2dedd6bede9b4d6ae9d44a2a062c7HuWo9MeoBNqhzmd09hf0IEjJVhb1HTeGJkTRwnEgr2wW1szbCZ9iSqB5eAUfJ5MrTaa7qUHJRxPktf+vdJ7dWh4tMok+E1cIneDsYK4DiTVjOvzKtS2+Vbq7iqpfucG">Fed Expands Corporate-Debt Backstops, Unveils New Programs to Aid States, Cities and Small Businesses</a>
 
+[^5]:
+    Update: January 25, 2021<br>
+    Added a chart of the FRED M2 Money Stock from the Federal Reserve Bank of
+    St. Louis.<br />
+    M2 is closely watched as an indicator of money supply and future inflation,
+    and as a target of central bank monetary policy. M2 is a calculation of the
+    money supply that includes all elements of M1 as well as "near money." M1 
+    includes cash and checking deposits, while near money refers to savings 
+    deposits, money market securities, mutual funds, and other time deposits. 
+    These assets are less liquid than M1 and not as suitable as exchange mediums,
+    but they can be quickly converted into cash or checking deposits.

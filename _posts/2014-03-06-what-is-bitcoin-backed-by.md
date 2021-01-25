@@ -6,7 +6,7 @@ metaDescription: When friends ask me 'yes, but what is bitcoin backed by?' this 
 metaKeywords: bitcoin, cryptocurrency
 metaOgType: "article"
 author: "0xADADA"
-tags: [notes, bitcoin, cryptocurrencies]
+tags: [notes, bitcoin, cryptocurrencies, economics]
 license: cc-by-nc-sa
 ---
 

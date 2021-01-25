@@ -14,7 +14,7 @@ metaImage: /static/images/2020-06-05-on-looting.jpg
 metaOgType: "article"
 author: "0xADADA"
 license: cc-by-nc-sa
-tags: [essays]
+tags: [essays, economics]
 ---
 
 <figure>
