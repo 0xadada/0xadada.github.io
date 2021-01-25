@@ -3,8 +3,6 @@ layout: tag
 title: Motorsports
 displayTitle: Motorsports
 slug: motorsports
-inNav: true
-navOrder: 3
 ---
 
 I've been racing cars since 2002. I've built a variety of cars for street and track
