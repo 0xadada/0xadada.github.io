@@ -43,77 +43,87 @@ book,
 
 JavaScript Reserved words:
 
-    abstract
-    boolean break byte
-    case catch char class const continue
-    debugger default delete do double
-    else enum export extends
-    false final finally float for function
-    goto
-    if implements import in instanceof int interface
-    long
-    native new null
-    package private protected public
-    return
-    short static super switch synchronized
-    this throw throws transient true try typeof
-    var volatile void
-    while with
+```javascript
+abstract
+boolean break byte
+case catch char class const continue
+debugger default delete do double
+else enum export extends
+false final finally float for function
+goto
+if implements import in instanceof int interface
+long
+native new null
+package private protected public
+return
+short static super switch synchronized
+this throw throws transient true try typeof
+var volatile void
+while with
+```
 
 Simple types
 
-    // Numbers: 1, 1.1, 1e10, 1e+10,
-    // Strings: "Hello", 'hello'
-    // Booleans: true, false
-    // null
-    // undefined
-    // Object
+```javascript
+// Numbers: 1, 1.1, 1e10, 1e+10,
+// Strings: "Hello", 'hello'
+// Booleans: true, false
+// null
+// undefined
+// Object
+```
 
 Built in values
 
-    true
-    false
-    null
-    undefined
-    NaN
-    Infinity
+```javascript
+true
+false
+null
+undefined
+NaN
+Infinity
+```
 
 JavaScript represents all numbers internally as a 64-bit floating point value
 (like Java's `double`).
 
-    // integer
-    1 === 1.0  // true
+```javascript
+// integer
+1 === 1.0  // true
 
-    // fraction
-    .1 === 0.1 // true
+// fraction
+.1 === 0.1 // true
 
-    // exponent: value is calculated by multiplying the part before the
-    // e by 10 raised to the power of the part after the e.
-    (1*10) * (1*10) === 1e2 // true
-    1e2 === 100 // true
+// exponent: value is calculated by multiplying the part before the
+// e by 10 raised to the power of the part after the e.
+(1*10) * (1*10) === 1e2 // true
+1e2 === 100 // true
 
-    // Infinity represents all values greater than:
-    1.79769313486231570e+103
-    typeof Infinity === 'number'; // true
+// Infinity represents all values greater than:
+1.79769313486231570e+103
+typeof Infinity === 'number'; // true
+```
 
 Numbers, strings and booleans are object like in that they have methods, but
 they are immutable.
 
 Arrays, functions, regular expressions and objects are Objects. A simple object:
 
-    // simple object literal
-    var an_object = {};
-    // simple object literal with 2 values (comma-separated)
-    var another_object = {
-        'my_value': 3.1,
-        'your_value': 3.2
-    };
-    another_object.my_value == 3.1; // true
+```javascript
+// simple object literal
+var an_object = {};
+// simple object literal with 2 values (comma-separated)
+var another_object = {
+  'my_value': 3.1,
+  'your_value': 3.2
+};
+another_object.my_value == 3.1; // true
 
-    // attempts to access undefined properties will throw TypeError
-    another_object.fake.my_value // Throws TypeError
-    // Prevent TypeError by testing that all attributes exist before accessing
-    another_object.test && another_object.test.test || "none" // "none"
+// attempts to access undefined properties will throw TypeError
+another_object.fake.my_value // Throws TypeError
+// Prevent TypeError by testing that all attributes exist before accessing
+another_object.test && another_object.test.test || "none" // "none"
+```
 
 Objects are class-free, which is to say that there is no constraint on the names
 of its properties or their values. The object doesn't need to be defined before
@@ -127,58 +137,68 @@ consumption and increase code reuse.
 
 Execution and flow statements.
 
-    // Conditional statements: if and switch
-    // Looping statements: do, for, while
-    // Disruptive statements: break, continue, return, throw
+```javascript
+// Conditional statements: if and switch
+// Looping statements: do, for, while
+// Disruptive statements: break, continue, return, throw
+```
 
 Falsy values. When conditional expressions evaluate to these values, the
 expression will result in `false`.
 
-    false
-    null
-    undefined
-    ''         // empty  string
-    0
-    NaN
+```javascript
+false
+null
+undefined
+''         // empty  string
+0
+NaN
+```
 
 Operators and statements of equality.
 
-    // Operator precedence
-    . [] ()                   // Refinement and invocation
-    delete new typeof + - !   // Unary operators
-    * / %                     // Multiplication, division, remainder
-    + -                       // Addition/concatenation, subtraction
-    >= <= > <                 // Inequality
-    === !==                   // Equality
-    &&                        // Logical and
-    ||                        // Logical or
-    ? :                       // Ternary
+```javascript
+// Operator precedence
+. [] ()                   // Refinement and invocation
+delete new typeof + - !   // Unary operators
+* / %                     // Multiplication, division, remainder
++ -                       // Addition/concatenation, subtraction
+>= <= > <                 // Inequality
+=== !==                   // Equality
+&&                        // Logical and
+||                        // Logical or
+? :                       // Ternary
+```
 
 NaN
 
-    // NaN is a number value that is the result of an operation that
-    // cannot produce a normal result. It is not equal to anything else,
-    // including itself.
-    NaN == NaN;  // false
-    NaN === NaN; // false
+```javascript
+// NaN is a number value that is the result of an operation that
+// cannot produce a normal result. It is not equal to anything else,
+// including itself.
+NaN == NaN;  // false
+NaN === NaN; // false
 
-    // Use isNaN to detect if a value is NaN
-    isNaN(NaN);  // true
+// Use isNaN to detect if a value is NaN
+isNaN(NaN);  // true
+```
 
 ### Equality
 
 Rule of thumb, the following expressions are all false using `===` or `!==` so
 use these operators instead.
 
-    'c' + 'a' + 't' === 'cat'; // true
-    '' == '0';                 // false
-    0 == '';                   // true, both are falsy
-    0 == '0';                  // true
-    false == 'false';          // false
-    false == '0';              // true
-    false == undefined;        // false
-    false == null;             // false
-    null == undefined;         // true
+```javascript
+'c' + 'a' + 't' === 'cat'; // true
+'' == '0';                 // false
+0 == '';                   // true, both are falsy
+0 == '0';                  // true
+false == 'false';          // false
+false == '0';              // true
+false == undefined;        // false
+false == null;             // false
+null == undefined;         // true
+```
 
 ### Loops / Enumeration
 
@@ -187,17 +207,19 @@ include all object types (including functions) as well as all objects along the
 prototype chain. The `for in` operator enumerates the property names on an
 object.
 
-    var animal_names = {
-        'dog': 'Piper',
-        'cat': 'Snookins',
-        'goat': 'Mr J'
-    };
-    for( var animal in animal_names ) {
-        console.log( animal, animal_names[animal] );
-    }
-    > dog Piper
-    > cat Snookins
-    > goat Mr J
+```javascript
+var animal_names = {
+    'dog': 'Piper',
+    'cat': 'Snookins',
+    'goat': 'Mr J'
+};
+for( var animal in animal_names ) {
+    console.log( animal, animal_names[animal] );
+}
+> dog Piper
+> cat Snookins
+> goat Mr J
+```
 
 It is important to know the names can be in any order and can be any type
 including functions.
@@ -207,83 +229,93 @@ including functions.
 Object literal - pair of curly braces surrounding zero or more name: value
 pairs.
 
-    var empty_object = {};
-    var stooge = {
-        "first_name" : "Jerome",
-        "last_name" : "Howard",
-        'nickname' : 'Jer'
-    };
-    var jer1 = stooge['first_name'];
-    console.log(jer1);  // "Jerome"
-    var jer2 = stooge.first_name;
-    console.log(jer2); // "Jerome"
-    var jer3 = stooge.favorite && stooge.favorite.color; // return undefined
-    console.log(jer3); // undefined
+```javascript
+var empty_object = {};
+var stooge = {
+    "first_name" : "Jerome",
+    "last_name" : "Howard",
+    'nickname' : 'Jer'
+};
+var jer1 = stooge['first_name'];
+console.log(jer1);  // "Jerome"
+var jer2 = stooge.first_name;
+console.log(jer2); // "Jerome"
+var jer3 = stooge.favorite && stooge.favorite.color; // return undefined
+console.log(jer3); // undefined
+```
 
 ### Arrays
 
 Arrays have a length property.
 
-    var empty = [];
-    var numbers = [
-        'zero', 'one', 'two', 'three', 'four', 'five', 'six', 'seven',
-        'eight', 'nine'
-    ];
-    empty.length
-    > 0
-    numbers.length
-    > 10
+```javascript
+var empty = [];
+var numbers = [
+    'zero', 'one', 'two', 'three', 'four', 'five', 'six', 'seven',
+    'eight', 'nine'
+];
+empty.length
+> 0
+numbers.length
+> 10
+```
 
 Objects have no length property
 
-    var numbers_object = {
-        '0': 'zero',
-        '1': 'one',
-        '2': 'two',
-        '3': 'three',
-        '4': 'four',
-        '5': 'five',
-        '6': 'six',
-        '7': 'seven',
-        '8': 'eight',
-        '9': 'nine'
-    };
-    numbers_object.length
-    > undefined
+```javascript
+var numbers_object = {
+    '0': 'zero',
+    '1': 'one',
+    '2': 'two',
+    '3': 'three',
+    '4': 'four',
+    '5': 'five',
+    '6': 'six',
+    '7': 'seven',
+    '8': 'eight',
+    '9': 'nine'
+};
+numbers_object.length
+> undefined
 
-    var myArray = [];
-    myArray.length
-    > 0
+var myArray = [];
+myArray.length
+> 0
+```
 
 Arbitrary array indexes can be set, although there may not be items populating
 the array before it.
 
-    // myArray = [];
-    myArray[1001] = true; // create and set value of index 1001 to true
-    console.log(myArray.length); // 1002 OMG!!
+```javascript
+// myArray = [];
+myArray[1001] = true; // create and set value of index 1001 to true
+console.log(myArray.length); // 1002 OMG!!
 
-    var arrayItemCount = 0;
-    for(var item in myArray) {
-        arrayItemCount += 1;
-    }
-    console.log('myArray counted items: ' + arrayItemCount);
+var arrayItemCount = 0;
+for(var item in myArray) {
+    arrayItemCount += 1;
+}
+console.log('myArray counted items: ' + arrayItemCount);
+```
 
 To delete from an array, use `Array.splice()`. This function takes 3 arguments,
 `start` the index to start adding/removing items, `deleteCount` the number of
 items to remove/replace, and finally n-arguments for the addition n-items to add
 to the array.
 
-    var animals = ['cat', 'dog', 'pork', 'pig', 'fish'];
+```javascript
+var animals = ['cat', 'dog', 'pork', 'pig', 'fish'];
 
-    // remove 'pork'
-    a.splice(2,1)
-    // removed 'pork'
-    a
-    > ['cat', 'dog', 'pig', 'fish']
+// remove 'pork'
+a.splice(2,1)
+// removed 'pork'
+a
+> ['cat', 'dog', 'pig', 'fish']
 
-    // add 'snake' before item 2.
-    a.splice(2,0,'snake')
-    > ['cat', 'dog', 'snake', 'pig', 'fish']
+// add 'snake' before item 2.
+a.splice(2,0,'snake')
+> ['cat', 'dog', 'snake', 'pig', 'fish']
+```
 
 viola!
 
@@ -300,8 +332,10 @@ Global variables in general weaken the portability and resiliency of programs,
 but in the case they're necessary, aim to limit them to a single global
 variable. This is done by attaching all properties to a single global variable.
 
-    var MYAPP = {};
-    MYAPP.views = {};
+```javascript
+var MYAPP = {};
+MYAPP.views = {};
+```
 
 This will reduce namespace or scope collisions with other applications or
 libraries.
@@ -310,14 +344,16 @@ libraries.
 
 JavaScript passes objects around by reference, never by value.
 
-    var x = {
-        fn: 'Jerome',
-        ln: 'Howard',
-        nn: 'Jer'
-    };
-    var y = x.nn; // new variable value: 'Jer'
-    x.nn = 'curly';
-    console.log(y); // 'curly'
+```javascript
+var x = {
+    fn: 'Jerome',
+    ln: 'Howard',
+    nn: 'Jer'
+};
+var y = x.nn; // new variable value: 'Jer'
+x.nn = 'curly';
+console.log(y); // 'curly'
+```
 
 ### Reflection
 
@@ -327,15 +363,17 @@ Javascript offers the `typeof` operator to check the type of a property, and
 `hasOwnProperty()` which return true if the property exists directly on an
 object, false if it does not (and possibly exists up the prototype chain.)
 
-    var a_var = "a message";
-    typeof a_var;
-    > 'string'
+```javascript
+var a_var = "a message";
+typeof a_var;
+> 'string'
 
-    var an_object = {
-        a_prop: true;
-    };
-    an_object.hasOwnProperty('a_prop');
-    > true
+var an_object = {
+    a_prop: true;
+};
+an_object.hasOwnProperty('a_prop');
+> true
+```
 
 ### Functions
 
@@ -408,8 +446,8 @@ when concatenated with the existing string.
 // use Crockfords' `method` method on the `String` object.
 String.method("predictLength", function(arg) {
   var len = this.length,
-    argLen = arg.len,
-    nextLen = len + argLen;
+argLen = arg.len,
+nextLen = len + argLen;
   var message = "Predicted length is %0 for string '%1'"
     .replace("%0", nextLen)
     .replace("%1", arg);
@@ -436,12 +474,12 @@ containing object. A example of problematic code illustrates:
 var brokenObj = {
   value: 2,
   double: function() {
-    var helper = function() {
-      // broken, the value of `this` in `this.value` refers to the global
-      // Object, not `brokenObj`.
-      this.value = this.value * 2; // fails, global Object.value set to NaN
-    };
-    helper();
+  var helper = function() {
+    // broken, the value of `this` in `this.value` refers to the global
+    // Object, not `brokenObj`.
+    this.value = this.value * 2; // fails, global Object.value set to NaN
+};
+helper();
   }
 };
 ```
@@ -463,8 +501,8 @@ var Status = function(status) {
 };
 var happy = new Status("happy");
 typeof Status === "function"; // true
-typeof happy === "object"; // true
-happy.valueOf() === "happy"; // true
+typeof happy === "object";    // true
+happy.valueOf() === "happy";  // true
 ("status happy");
 true;
 ```
@@ -506,13 +544,15 @@ use a method named `Object.create` to implement this behavior.
 
 `Object.create`
 
-    if( typeof Object.create !== 'function') {
-        Object.create = function(o) {
-            var F = function() {};
-            F.prototype = o;
-            return new F();
-        }
+```javascript
+if( typeof Object.create !== 'function') {
+    Object.create = function(o) {
+        var F = function() {};
+        F.prototype = o;
+        return new F();
     }
+}
+```
 
 The prototype link is used only in retrieval. If we try to retrieve a property
 value from an object, it will either return the value on the object itself, or
@@ -527,147 +567,159 @@ immediately be available.
 To determine if an object has a property directly, without invoking the
 prototype chain, use `hasOwnProperty`.
 
-    var ob = {};
-    ob.hasOwnProperty('newProperty');
-    > false
-    eb.newProperty = "a value";
-    ob.hasOwnProperty('newProperty');
-    > true
+```javascript
+var ob = {};
+ob.hasOwnProperty('newProperty');
+> false
+eb.newProperty = "a value";
+ob.hasOwnProperty('newProperty');
+> true
+```
 
 Prototypal inheritance
 
-    // differential inheritance
-    var Mammal = {
-        name: 'A Mammal',
-        says: 'Noise',
-        get_name: function() {
-            return this.name;
-        },
-        speak: function() {
-            return this.says || '';
+```javascript
+// differential inheritance
+var Mammal = {
+    name: 'A Mammal',
+    says: 'Noise',
+    get_name: function() {
+        return this.name;
+    },
+    speak: function() {
+        return this.says || '';
+    }
+};
+var myCat = Object.create(Mammal);
+myCat.name = 'Henrietta';
+myCat.says = 'meow';
+myCat.purr = function(n) {
+    var i,
+        s = '';
+    for(i = 0; i < n; i += 1) {
+        if(s) {
+            s += '-';
         }
-    };
-    var myCat = Object.create(Mammal);
-    myCat.name = 'Henrietta';
-    myCat.says = 'meow';
-    myCat.purr = function(n) {
-        var i,
-            s = '';
-        for(i = 0; i < n; i += 1) {
-            if(s) {
-                s += '-';
-            }
-            s += 'r';
-        }
-        return s;
-    };
-    myCat.get_name = function() {
-        return this.speak() + ' ' + this.name + ' ' + this.speak();
-    };
+        s += 'r';
+    }
+    return s;
+};
+myCat.get_name = function() {
+    return this.speak() + ' ' + this.name + ' ' + this.speak();
+};
+```
 
 For-in loops
 
-    var stooge_2 = Object.create(stooge);
-    stooge_2.first_name = 'Harry';
-    stooge_2.last_name = 'Moses';
-    stooge_2.nickname = 'John';
-    for(var name in stooge_2) {
-        console.log( stooge_2[name] );
+```javascript
+var stooge_2 = Object.create(stooge);
+stooge_2.first_name = 'Harry';
+stooge_2.last_name = 'Moses';
+stooge_2.nickname = 'John';
+for(var name in stooge_2) {
+    console.log( stooge_2[name] );
+}
+
+delete stooge_2.nickname;
+console.log(stooge_2.nickname); // 'curly'
+
+// Method invocation pattern
+console.log('===== Method invocation pattern ====');
+var myObject = {
+    value: 0,
+    increment: function(inc) {
+        this.value += typeof inc === 'number' ? inc : 1;
     }
+};
 
-    delete stooge_2.nickname;
-    console.log(stooge_2.nickname); // 'curly'
-
-    // Method invocation pattern
-    console.log('===== Method invocation pattern ====');
-    var myObject = {
-        value: 0,
-        increment: function(inc) {
-            this.value += typeof inc === 'number' ? inc : 1;
-        }
-    };
-
-    myObject.increment();
-    console.log(myObject.value); // 1
-    myObject.increment(2);
-    console.log(myObject.value); // 3
+myObject.increment();
+console.log(myObject.value); // 1
+myObject.increment(2);
+console.log(myObject.value); // 3
+```
 
 ### Function invocation pattern
 
-    myObject.double = function() {
-        var that = this;  // global this mis-assignment fix
-        var helper = function() {
-            that.value = that.value * 2;
-        };
-        helper(); // invoke helper as a function
+```javascript
+myObject.double = function() {
+    var that = this;  // global this mis-assignment fix
+    var helper = function() {
+        that.value = that.value * 2;
     };
-    // invoke double as a method
-    myObject.double();
-    myObject.value
-    > 6
+    helper(); // invoke helper as a function
+};
+// invoke double as a method
+myObject.double();
+myObject.value
+> 6
+```
 
 ### Constructor Invocation pattern
 
-    var Quo = function(string) {
-        this.status = string;
-    };
-    Quo.prototype.get_status = function() {
-        return this.status;
-    };
-    var myQuo = new Quo('confused');
-    console.log(myQuo.get_status()); // 'confused'
+```javascript
+var Quo = function(string) {
+    this.status = string;
+};
+Quo.prototype.get_status = function() {
+    return this.status;
+};
+var myQuo = new Quo('confused');
+console.log(myQuo.get_status()); // 'confused'
 
-    // Apply Invocation pattern
-    console.log('===== Apply Invocation pattern =====');
-    var statusObject = {
-        status: 'A-OK'
-    };
-    // invoke the get_status method from Quo on our statusObject
-    var status = Quo.prototype.get_status.apply(statusObject);
-    console.log(status); // 'A-OK'
+// Apply Invocation pattern
+console.log('===== Apply Invocation pattern =====');
+var statusObject = {
+    status: 'A-OK'
+};
+// invoke the get_status method from Quo on our statusObject
+var status = Quo.prototype.get_status.apply(statusObject);
+console.log(status); // 'A-OK'
 
-    // Function Parameters
-    console.log('===== Function Parameters =====');
-    var sum = function() {
-        var i, sum = 0;
-        for(i = 0; i < arguments.length; i += 1) {
-            sum += arguments[i];
-        }
-        return sum;
-    };
-    console.log( sum(4,8,15,16,23,42) ); // 108
-
-    // Exceptions
-    var add = function(a, b) {
-        if(typeof a !== 'number' || typeof b !== 'number') {
-           throw { // throw an object with a name and message property
-               name: 'TypeError',
-               message: 'add need numbers'
-           };
-        }
-        debugger;
-        return a + b;
-    };
-    var try_it = function() {
-        try {
-            add("seven");
-        } catch(e) {
-            console.log('name: ' + e.name + ' msg: ' + e.message);
-        }
+// Function Parameters
+console.log('===== Function Parameters =====');
+var sum = function() {
+    var i, sum = 0;
+    for(i = 0; i < arguments.length; i += 1) {
+        sum += arguments[i];
     }
-    try_it();
+    return sum;
+};
+console.log( sum(4,8,15,16,23,42) ); // 108
+
+// Exceptions
+var add = function(a, b) {
+    if(typeof a !== 'number' || typeof b !== 'number') {
+       throw { // throw an object with a name and message property
+           name: 'TypeError',
+           message: 'add need numbers'
+       };
+    }
+    debugger;
+    return a + b;
+};
+var try_it = function() {
+    try {
+        add("seven");
+    } catch(e) {
+        console.log('name: ' + e.name + ' msg: ' + e.message);
+    }
+}
+try_it();
+```
 
 Object augmentation
 
-    Function.prototype.method = function(name, func) {
-        // add arbitrary functions with name name to our Object.
-        this.prototype[name] = func;
-        return this;
-    };
-    Number.method('integer', function() {
-        return Math[this < 0 ? 'ceil' : 'floor'](this);
-    });
-    console.log( (-10/3).integer() ); // -3
+```javascript
+Function.prototype.method = function(name, func) {
+    // add arbitrary functions with name name to our Object.
+    this.prototype[name] = func;
+    return this;
+};
+Number.method('integer', function() {
+    return Math[this < 0 ? 'ceil' : 'floor'](this);
+});
+console.log( (-10/3).integer() ); // -3
+```
 
 ### Lexical Scope
 
@@ -676,122 +728,132 @@ JavaScript lexical scope is determined by resolving objects in the immediate
 lexical scope, then moving up the chain until it reaches the variables defined
 in the global scope.
 
-    var foo = function() {
-        var a = 3,
-            b = 5;
-        var bar = function() {
-            var b = 7,  // define local b
-                c = 11; // define local c
-            // a = 3, b = 7, c = 11
-            console.log('a', a, 'b', b, 'c', c);
-            a += b + c; // 3 + 7 + 11
-            // a = 21, b = 7, c = 11
-            console.log('a', a, 'b', b, 'c', c);
-        };
-        // now: a = 3, b = 5, c = undefined
-        console.log('a', a, 'b', b);
-        bar();
-        // a = 21, b = 5
-        console.log('a', a, 'b', b);
+```javascript
+var foo = function() {
+    var a = 3,
+        b = 5;
+    var bar = function() {
+        var b = 7,  // define local b
+            c = 11; // define local c
+        // a = 3, b = 7, c = 11
+        console.log('a', a, 'b', b, 'c', c);
+        a += b + c; // 3 + 7 + 11
+        // a = 21, b = 7, c = 11
+        console.log('a', a, 'b', b, 'c', c);
     };
-    foo();
-    > a 3 b 5
-    > a 3 b 7 c 11
-    > a 21 b 7 c 11
-    > a 21 b 5
+    // now: a = 3, b = 5, c = undefined
+    console.log('a', a, 'b', b);
+    bar();
+    // a = 21, b = 5
+    console.log('a', a, 'b', b);
+};
+foo();
+> a 3 b 5
+> a 3 b 7 c 11
+> a 21 b 7 c 11
+> a 21 b 5
+```
 
 ### Closure
 
 A closure is a reference to a function as well as the runtime environment of the
 function. This includes any variables within the lexical scope of the function.
 
-    // addN returns a function that adds its argument.
-    var addN = function(x) {
-        // x and the function below are in the same lexical scope
-        return function(y) {
-            return x + y;
-        }
+```javascript
+// addN returns a function that adds its argument.
+var addN = function(x) {
+    // x and the function below are in the same lexical scope
+    return function(y) {
+        return x + y;
     }
+}
 
-    // add3: Return a function that adds 3 to its argument
-    var add3 = addN(3);
-    // add5: Return a function that adds 3 to its argument
-    var add5 = addN(5);
-    var resultOfAdd3 = add3(4); // 7
-    var resultOfAdd5 = add5(4); // 8
-    resultOfAdd3
-    > 7
-    resultOfAdd5
-    > 8
+// add3: Return a function that adds 3 to its argument
+var add3 = addN(3);
+// add5: Return a function that adds 3 to its argument
+var add5 = addN(5);
+var resultOfAdd3 = add3(4); // 7
+var resultOfAdd5 = add5(4); // 8
+resultOfAdd3
+> 7
+resultOfAdd5
+> 8
+```
 
 Additional examples of closures in JavaScript:
 
-    var closureObject = (function() {
-        var y = 0; // this variables lifetime is always available to
-                   // functions in the same lexical scope.
-        return {
-            increment: function(x) {
-                y += typeof incrementBy === 'number' ?
-                    x :
-                    1;
-            },
-            getValue: function() {
-                return y;
-            }
+```javascript
+var closureObject = (function() {
+    var y = 0; // this variables lifetime is always available to
+               // functions in the same lexical scope.
+    return {
+        increment: function(x) {
+            y += typeof incrementBy === 'number' ?
+                x :
+                1;
+        },
+        getValue: function() {
+            return y;
         }
-    }());
-    // Assign the result of returning a self-executing function to
-    // closureObject.
-    // The function returns an object with 2 methods, each
-    // maintains access to the `y` variable.
-    closureObject.increment(3);
-    closureObject.getValue();
-    > 3
+    }
+}());
+// Assign the result of returning a self-executing function to
+// closureObject.
+// The function returns an object with 2 methods, each
+// maintains access to the `y` variable.
+closureObject.increment(3);
+closureObject.getValue();
+> 3
 
-    // Demonstrates the preservation of the lexical scope of execution.
-    var quo = function(status) {
-        return {
-            get_status: function() {
-                return status;
-            }
-        };
+// Demonstrates the preservation of the lexical scope of execution.
+var quo = function(status) {
+    return {
+        get_status: function() {
+            return status;
+        }
     };
-    var newQuo = quo('amazed!');
-    // newQuo still has access to the status parameter even after
-    // execution has ended and the lifetime of its lexical scope has ended.
-    // This is possible because the function has access to the lexical
-    // scope in which it was created. This is called a closure.
-    newQuo.get_status();
-    > 'amazed!'
+};
+var newQuo = quo('amazed!');
+// newQuo still has access to the status parameter even after
+// execution has ended and the lifetime of its lexical scope has ended.
+// This is possible because the function has access to the lexical
+// scope in which it was created. This is called a closure.
+newQuo.get_status();
+> 'amazed!'
+```
 
 Closure can be useful for things such as callbacks used in animation.
 
-    var fade = function(node) {
-        var level = 1;
-        var step = function() {
-            var hex = level.toString(16);
-            var colorValue = '#ffff' + hex + hex;
-            node.style.backgroundColor = colorValue;
-            console.log('level ' + level + ' backgroundColor: ' + colorValue);
-            // step() maintains access to 'level' variable outside its execution scope via Closure.
-            if(level < 15) {
-                level += 1;
-                setTimeout(step, 100);
-            }
-        };
-        setTimeout(step, 100);
+```javascript
+var fade = function(node) {
+    var level = 1;
+    var step = function() {
+        var hex = level.toString(16);
+        var colorValue = '#ffff' + hex + hex;
+        node.style.backgroundColor = colorValue;
+        console.log('level ' + level + ' backgroundColor: ' + colorValue);
+        // step() maintains access to 'level' variable outside its execution scope via Closure.
+        if(level < 15) {
+            level += 1;
+            setTimeout(step, 100);
+        }
     };
-    fade(document.body);
+    setTimeout(step, 100);
+};
+fade(document.body);
+```
 
 Using closure and setTimout to increment a local variable.
 
-    for( var i = 0; i <= 10; i++ ) {
-      (function(i) {
-        setTimeout(
-            function() { console.log(i) },
-            1000*i);
-      }(i));
-    }
+```javascript
+for( var i = 0; i <= 10; i++ ) {
+  (function(i) {
+    setTimeout(
+        function() { console.log(i) },
+        1000*i);
+  }(i));
+}
+```
 
 ## Modules
 
@@ -815,20 +877,22 @@ Douglas then defines a simple module using the function-closure pattern, which
 returns an anonymous function to a global variable where the module will be
 referenced.
 
-    // SayModule: A function that simply console.log's its argument.
-    var SayModule = ( function() {
-        var message = 'You said: {0}';
-        return function(arg) {
-            console.log( message.replace( '{0}', arg ) );
-            return arg;
-        }
-    }() );
+```javascript
+// SayModule: A function that simply console.log's its argument.
+var SayModule = ( function() {
+    var message = 'You said: {0}';
+    return function(arg) {
+        console.log( message.replace( '{0}', arg ) );
+        return arg;
+    }
+}() );
 
-    var whatSaid = SayModule("hello world!");
-    > You said: hello world!
-    > 'hello world!'
-    whatSaid
-    > 'hello world!'
+var whatSaid = SayModule("hello world!");
+> You said: hello world!
+> 'hello world!'
+whatSaid
+> 'hello world!'
+```
 
 With many of these, module scripts are strung together in the DOM with
 namespaces being described by a single global object where it's still possible
@@ -863,14 +927,16 @@ opinions) vs Gulp, which requires much more manual wiring.
 
 ## WTF
 
-    0.1 + 0.2 // 0.3? NOPE!
-    > 0.30000000000000004
+```javascript
+0.1 + 0.2 // 0.3? NOPE!
+> 0.30000000000000004
 
-    x = 1.0000000000000001
-    x === 1
-    true // Huh?
+x = 1.0000000000000001
+x === 1
+true // Huh?
 
-    y = {}
-    > y[[]] = 1
-    > Object.keys(y)
-    [ '' ] // HuH?
+y = {}
+> y[[]] = 1
+> Object.keys(y)
+[ '' ] // HuH?
+```

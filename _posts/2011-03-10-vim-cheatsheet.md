@@ -57,21 +57,21 @@ _Motion, keyboard commands and shortcuts for VI Improved_
 
 ## Motion - Normal Mode
 
-* <kbd>j</kbd>          - Down
-* <kbd>k</kbd>          - Up
-* <kbd>h</kbd>          - Left
-* <kbd>l</kbd>          - Right
+* <kbd>j</kbd>                   - Down
+* <kbd>k</kbd>                   - Up
+* <kbd>h</kbd>                   - Left
+* <kbd>l</kbd>                   - Right
 * <kbd>0</kbd>, <kbd>⇧6</kbd>    - Line beginning
-* <kbd>$</kbd>          - Line ending
+* <kbd>$</kbd>                   - Line ending
 * <kbd>e</kbd>, <kbd>w</kbd>     - Forward (Small word)
-* <kbd>⇧e</kbd>, <kbd>⇧w</kbd>     - Forward (big word forward (whitespace only))
-* <kbd>b</kbd>          - Backwards (small word)
-* <kbd>⇧b</kbd>          - Backwards (big word)
-* <kbd>f&lt;char&gt;</kbd>    - Jump to first occurrence of &lt;char&gt;
-* <kbd>;</kbd>          - Repeat previous jump
-* <kbd>⇧f&lt;char&gt;</kbd>    - Jump to previous first occurrence of &lt;char&gt;
-* <kbd>t&lt;char&gt;</kbd>    - Jump to position before first occurrence of &lt;char&gt;
-* <kbd>⇧t&lt;char&gt;</kbd>    - Jump to position before first previous occurrence of &lt;char&gt; in the direction youre searching
+* <kbd>⇧e</kbd>, <kbd>⇧w</kbd>   - Forward (big word forward (whitespace only))
+* <kbd>b</kbd>                   - Backwards (small word)
+* <kbd>⇧b</kbd>                  - Backwards (big word)
+* <kbd>f&lt;char&gt;</kbd>       - Jump to first occurrence of &lt;char&gt;
+* <kbd>;</kbd>                   - Repeat previous jump
+* <kbd>⇧f&lt;char&gt;</kbd>      - Jump to previous first occurrence of &lt;char&gt;
+* <kbd>t&lt;char&gt;</kbd>       - Jump to position before first occurrence of &lt;char&gt;
+* <kbd>⇧t&lt;char&gt;</kbd>      - Jump to position before first previous occurrence of &lt;char&gt; in the direction youre searching
 * <kbd>&lt;n&gt; &lt;motion&gt;</kbd> - Prefix `motion` command with a number `n` to have it jump that `n` away. e.g. <kbd>4li</kbd> jumps to the 4th 'i' forward.
 * <kbd>⌃f</kbd>         - Forward (page)
 * <kbd>⌃b</kbd>         - Backward (page)
