@@ -86,7 +86,7 @@ but now that the profits have stopped, the Fed bails them out by buying them
 when no one else will.
 
 (Update: Jan 2021[^5]) nearly 10 months since this essay was published, we're 
-already seeing strong indicators that inflation and consumer purchasing power 
+already seeing strong indicators that consumer purchasing power 
 will be severely hurt by inflation. So while government stipends may help in the
 near short term, long term people will be hurt by less value for every dollar
 they earn.
