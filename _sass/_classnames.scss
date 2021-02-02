@@ -40,6 +40,10 @@
   border-bottom: 1px solid rgba(61,70,77,0.1);
 }
 
+.layout-post .c-Global {
+  /* hide global header on posts */
+  display: none;
+}
 @media screen and (min-width: 46.25em) {
   .c-Global {
     display: flex;
@@ -52,7 +56,6 @@
 .published {
   color: darkgrey;
 }
-
 
 .c-Global .Avatar {
   text-decoration: none;
@@ -74,7 +77,7 @@
 }
 
 .template-content .c-Header h1 {
-  margin-bottom: 0;
+  margin: 0;
 }
 
 @media screen and (min-width: 35em) {
