@@ -1,5 +1,4 @@
 ---
-layout: longread
 title: "On Fascism"
 displayTitle: "On Fascism"
 date: 2019-09-25 08:10:00

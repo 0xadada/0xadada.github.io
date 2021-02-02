@@ -1,5 +1,4 @@
 ---
-layout: longread
 title: "The City and The Freezing of Life"
 displayTitle: "The City and The Freezing of Life"
 date: 2019-04-16 23:52:00

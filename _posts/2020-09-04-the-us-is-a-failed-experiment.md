@@ -1,5 +1,4 @@
 ---
-layout: longread
 title: "The U.S. is a Failed Experiment"
 displayTitle: "The U.S. is a Failed Experiment"
 date: 2020-09-04 12:36:00

@@ -1,5 +1,4 @@
 ---
-layout: longread
 title: "Notes on Programming Phoenix for Elixir"
 displayTitle: "Notes on Programming Phoenix for Elixir"
 date: 2017-12-22 15:54:00

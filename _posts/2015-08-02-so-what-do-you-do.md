@@ -1,5 +1,4 @@
 ---
-layout: longread
 title:
   "“So what do you do?” — How Idle Conversation Escalates Tensions in Class
   Inequality"

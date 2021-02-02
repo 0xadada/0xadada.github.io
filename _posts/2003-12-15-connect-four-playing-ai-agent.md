@@ -1,5 +1,4 @@
 ---
-layout: longread
 title: "A Connect Four Playing AI Agent: Algorithm and Creation Process"
 displayTitle: "A Connect Four Playing AI Agent: Algorithm and Creation Process"
 date: 2003-12-15 12:00:00

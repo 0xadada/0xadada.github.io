@@ -1,5 +1,4 @@
 ---
-layout: longread
 title:
   "How Do Not Track and The EU GDPR Promise to Disrupt the Future of Web
   Advertising"

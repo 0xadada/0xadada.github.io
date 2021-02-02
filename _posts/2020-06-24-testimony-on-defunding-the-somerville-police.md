@@ -1,5 +1,4 @@
 ---
-layout: longread
 title: "Testimony to Defund the Police in Somerville"
 displayTitle: "Testimony to Defund the Police"
 date: 2020-06-24 19:00:00

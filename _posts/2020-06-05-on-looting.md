@@ -1,5 +1,4 @@
 ---
-layout: longread
 title: "On Looting"
 displayTitle: "On Looting"
 date: 2020-06-05 14:17:00

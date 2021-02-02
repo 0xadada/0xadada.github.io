@@ -1,5 +1,4 @@
 ---
-layout: longread
 title: "Encouraging individual sovereignty and a healthy commons"
 displayTitle: "Encouraging individual sovereignty and a healthy commons"
 date: 2017-02-18 11:41:30

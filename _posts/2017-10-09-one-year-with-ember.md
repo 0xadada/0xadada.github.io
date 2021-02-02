@@ -1,5 +1,4 @@
 ---
-layout: longread
 title: "One Year with Ember"
 displayTitle: "One Year with Ember"
 date: 2017-10-09 20:26:00

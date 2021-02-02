@@ -1,5 +1,4 @@
 ---
-layout: longread
 title: "Testimony on Defunding the Police in Somerville by Paige P."
 displayTitle: "Testimony on Defunding the Police by Paige P."
 date: 2020-06-24 19:24:00

@@ -1,5 +1,4 @@
 ---
-layout: longread
 title: "Extending the browser with the lingua franca of the web"
 displayTitle: "Extending the browser with the lingua franca of the web"
 date: 2019-03-08 11:23:00
