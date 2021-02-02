@@ -1,5 +1,4 @@
 ---
-layout: longread
 title:
   "Hikikomori/Otaku Japans Latest Out-Group - Creating Social Outcasts to
   Construct a National Self-identity"
