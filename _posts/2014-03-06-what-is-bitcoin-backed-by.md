@@ -11,7 +11,7 @@ license: cc-by-nc-sa
 ---
 
 
-## Lets Start With What the USD is backed by
+### Lets Start With What the USD is backed by
 
 The USD is no longer backed by gold[^1], but by a promise that the US Government will pay its debt (in the form of  payment the interest on (and sometime redeem) government securities when due). If these payments are not made to the debt holders (Corporations, China, treasury-bond holders) then a default would occur, which would shift international use of the USD into other currencies. This would flood the US economy will low-value dollars, resulting in massive hyper-inflation.
 
@@ -19,7 +19,7 @@ If you remember the the "Debt Ceiling Crisis" of 2011, the "Fiscal Cliff" of 201
 
 The USD is also backed by simple faith in that the dollar is "Just what everyone uses, so I'll use it". This is fine and good. Many currencies have succeeded since the early 18th century largely on faith. Faith can shift based on perceptions however, so once people begin to see that "The Emperor Has No Clothes", they will begin to store value in other stores-of-value.
 
-## So what is Bitcoin backed by?
+### So what is Bitcoin backed by?
 
 So basically BTC is backed by mathematics, technology and an economy, just like any other currency, but without a central bank. Some argue this is better than any other fiat currency because a fiat currency is controlled by (and manipulated by) a governing power; BTC is peer-to-peer. The block chain is the public record of all BTC transactions, in chronological order. This means that all transactions are known to the world; contrast this with how little we know of central bank activities.
 
