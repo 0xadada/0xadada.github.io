@@ -134,6 +134,12 @@ But the bigger business Netflix is building is the underlying infrastructure to
 support content-oriented experiences through interactive storytelling and
 personalized product placement.
 
+The next phase of innovation points beyond _personalized choice of content_ to
+_personalized content_ in which the media itself is customized, tailored, or
+generated unique to each individual—leaving them unable to relate to one another
+with respect to their media experiences, shared culture, and ultimately we lose
+some of our shared perspective on the world around us.
+
 Just like Google built the backbone of search advertising, Netflix is building
 the backbone for a future of video storytelling where the **ads and the content
 are impossible to distinguish because they've become the same thing**.
