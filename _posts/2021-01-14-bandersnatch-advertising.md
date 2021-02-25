@@ -2,7 +2,7 @@
 title: "Bandersnatch Advertising"
 displayTitle: "Bandersnatch Advertising"
 date: 2021-01-14 17:11:00
-metaDescription: 
+metaDescription:
   "Black Mirror Bandersnatch is the first example of a future of personalized
   content marketing based on user behavior— where ads and content are impossible
   to distinguish because they've become the same thing."
@@ -14,7 +14,6 @@ author: "0xADADA"
 tags: [notes, privacy, surveillance]
 license: cc-by-nc-sa
 ---
-
 
 <figure>
   <img src="/static/images/2021-01-14-bandersnatch.jpg" alt="Black Mirror: Bandersnatch poster">
@@ -35,10 +34,11 @@ Frosted Flakes™, or Quaker Sugar Puffs™.
 
 > “by giving the viewer the power to change the course of the storyline, the
 > viewer’s role changes from one of voyeurism to one of active surveillance.
-> Nevertheless, and in reality, the viewer’s new power only increases
-> the tracking and profiling of his/her choices. We, the viewers, might control
-> Stefan, but Netflix (the producer of this commodity) panoptically monitors
-> and surveys us[^1].”
+> Nevertheless, and in reality, the viewer’s new power only increases the
+> tracking and profiling of his/her choices. We, the viewers, might control
+> Stefan, but Netflix (the producer of this commodity) panoptically monitors and
+> surveys us[^1].”
+>
 > <figcaption>
 >   —Nada Elnahla
 >   <cite>
@@ -47,12 +47,11 @@ Frosted Flakes™, or Quaker Sugar Puffs™.
 >   </cite>
 > </figcaption>
 
-The choice mechanic not only shows the viewer how
-choices are presented during the film, but demonstrates how the choice is stored
-and recalled by the film later when a retro commercial with Tony the Tiger plays
-on a TV in the background: programmatic product placement[^2]. This simple
-mechanic has wide reaching implications for a future of personalized _content
-marketing_.
+The choice mechanic not only shows the viewer how choices are presented during
+the film, but demonstrates how the choice is stored and recalled by the film
+later when a retro commercial with Tony the Tiger plays on a TV in the
+background: programmatic product placement[^2]. This simple mechanic has wide
+reaching implications for a future of personalized _content marketing_.
 
 <figure>
   <img src="/static/images/2021-01-14-cereal.png" alt="You decide: Sugar Puffs or Frosties">
@@ -112,8 +111,9 @@ frequent nor blatant.
 > “Even the role we, the interactive viewers, play has now changed. Instead of
 > being passive viewers/consumers, Netflix has given us the opportunity to
 > become the new gods, an omniscient presence that controls the Black Mirror
-> world. A closer look, however, shatters this reality, for the more control
-> we are given, the more we are manipulated.”
+> world. A closer look, however, shatters this reality, for the more control we
+> are given, the more we are manipulated.”
+>
 > <figcaption>
 >   —Nada Elnahla
 >   <cite>
@@ -134,21 +134,27 @@ But the bigger business Netflix is building is the underlying infrastructure to
 support content-oriented experiences through interactive storytelling and
 personalized product placement.
 
+<figure>
+  <img src="/static/images/2021-01-14-ads.jpg" alt="Google ads, the paid search results have, over time, become so hard to identify that they've become indistinguishable from organic search results.">
+  <figcaption>Google ads, the paid search results have, over time, become so hard to identify that they've become indistinguishable from organic search results.</figcaption>
+</figure>
+
 Just like Google built the backbone of search advertising, Netflix is building
 the backbone for a future of video storytelling where the **ads and the content
-are impossible to distinguish because they've become the same thing**.
+will be impossible to distinguish because they'll become the same thing**.
 
 ## Footnotes
 
 [^1]:
-    <cite class="hanging-indent">
-    Nada Elnahla.
-    (2020).
-    Black Mirror: Bandersnatch and how Netflix manipulates us, the new gods,
-    _Consumption Markets & Culture_,
-    23:5, 506-511,
-    [DOI: 10.1080/10253866.2019.1653288](https://doi.org/10.1080/10253866.2019.1653288)
+
+  <cite class="hanging-indent">
+  Nada Elnahla.
+  (2020).
+  Black Mirror: Bandersnatch and how Netflix manipulates us, the new gods,
+  _Consumption Markets & Culture_,
+  23:5, 506-511,
+  [DOI: 10.1080/10253866.2019.1653288](https://doi.org/10.1080/10253866.2019.1653288)
 
 [^2]:
-    [Netflix's hit 'Bandersnatch' takes interactive marketing to new
-    level](https://www.marketingdive.com/news/netflixs-hit-bandersnatch-takes-interactive-marketing-to-new-level/545202/)
+
+  [Netflix's hit 'Bandersnatch' takes interactive marketing to new level](https://www.marketingdive.com/news/netflixs-hit-bandersnatch-takes-interactive-marketing-to-new-level/545202/)
