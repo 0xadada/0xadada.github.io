@@ -152,7 +152,6 @@ will be impossible to distinguish because they'll become the same thing**.
 ## Footnotes
 
 [^1]:
-
   <cite class="hanging-indent">
   Nada Elnahla.
   (2020).
@@ -162,5 +161,4 @@ will be impossible to distinguish because they'll become the same thing**.
   [DOI: 10.1080/10253866.2019.1653288](https://doi.org/10.1080/10253866.2019.1653288)
 
 [^2]:
-
   [Netflix's hit 'Bandersnatch' takes interactive marketing to new level](https://www.marketingdive.com/news/netflixs-hit-bandersnatch-takes-interactive-marketing-to-new-level/545202/)
