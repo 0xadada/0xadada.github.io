@@ -94,7 +94,7 @@ non-existent.
 </figure>
 
 The drive to urbanization is an imperative of capitalism, this drive results in
-<q>"a freezing of life"</q>— a static world devoid of spontaneity, the result of land
+<q>a freezing of life</q>— a static world devoid of spontaneity, the result of land
 development and bureaucratic zoning laws optimized for rent seeking and
 increased land valuations, devoid of nature and where its residents have no
 ability to change their surroundings to suit daily life. All desire for change
