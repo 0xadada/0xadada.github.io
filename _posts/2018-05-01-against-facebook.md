@@ -1125,8 +1125,8 @@ Random House. Print.
 
 <cite class="hanging-indent">
 Tanner, Grafton. (August 9, 2018).
-_[Digital Detox: Big Tech’s Phony Crisis of
-Conscience](https://lareviewofbooks.org/article/digital-detox-big-techs-phony-crisis-of-conscience/)_.
+[Digital Detox: Big Tech’s Phony Crisis of
+Conscience](https://lareviewofbooks.org/article/digital-detox-big-techs-phony-crisis-of-conscience/).
 (Retrieved on March 3, 2021)
 
 <cite class="hanging-indent">
