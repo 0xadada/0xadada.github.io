@@ -50,7 +50,7 @@ Frosted Flakes™, or Quaker Sugar Puffs™.
 The choice mechanic not only shows the viewer how choices are presented during
 the film, but demonstrates how the choice is stored and recalled by the film
 later when a retro commercial with Tony the Tiger plays on a TV in the
-background: programmatic product placement[^2]. This simple mechanic has wide
+background: [programmatic product placement](https://www.marketingdive.com/news/netflixs-hit-bandersnatch-takes-interactive-marketing-to-new-level/545202/). This simple mechanic has wide
 reaching implications for a future of personalized _content marketing_.
 
 <figure>
@@ -149,10 +149,9 @@ Just like Google built the backbone of search advertising, Netflix is building
 the backbone for a future of video storytelling where the **ads and the content
 will be impossible to distinguish because they'll become the same thing**.
 
-## Footnotes
+## Citations
 
 [^1]:
-  <cite class="hanging-indent">
   Nada Elnahla.
   (2020).
   Black Mirror: Bandersnatch and how Netflix manipulates us, the new gods,
@@ -160,5 +159,3 @@ will be impossible to distinguish because they'll become the same thing**.
   23:5, 506-511,
   [DOI: 10.1080/10253866.2019.1653288](https://doi.org/10.1080/10253866.2019.1653288)
 
-[^2]:
-  [Netflix's hit 'Bandersnatch' takes interactive marketing to new level](https://www.marketingdive.com/news/netflixs-hit-bandersnatch-takes-interactive-marketing-to-new-level/545202/)
