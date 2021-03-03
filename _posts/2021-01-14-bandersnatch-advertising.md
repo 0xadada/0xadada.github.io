@@ -50,8 +50,10 @@ Frosted Flakes™, or Quaker Sugar Puffs™.
 The choice mechanic not only shows the viewer how choices are presented during
 the film, but demonstrates how the choice is stored and recalled by the film
 later when a retro commercial with Tony the Tiger plays on a TV in the
-background: [programmatic product placement](https://www.marketingdive.com/news/netflixs-hit-bandersnatch-takes-interactive-marketing-to-new-level/545202/). This simple mechanic has wide
-reaching implications for a future of personalized _content marketing_.
+background:
+[programmatic product placement](https://www.marketingdive.com/news/netflixs-hit-bandersnatch-takes-interactive-marketing-to-new-level/545202/).
+This simple mechanic has wide reaching implications for a future of personalized
+_content marketing_.
 
 <figure>
   <img src="/static/images/2021-01-14-cereal.png" alt="You decide: Sugar Puffs or Frosties">
@@ -152,10 +154,6 @@ will be impossible to distinguish because they'll become the same thing**.
 ## Citations
 
 [^1]:
-  Nada Elnahla.
-  (2020).
-  Black Mirror: Bandersnatch and how Netflix manipulates us, the new gods,
-  _Consumption Markets & Culture_,
-  23:5, 506-511,
-  [DOI: 10.1080/10253866.2019.1653288](https://doi.org/10.1080/10253866.2019.1653288)
-
+    Nada Elnahla. (2020). Black Mirror: Bandersnatch and how Netflix manipulates
+    us, the new gods, _Consumption Markets & Culture_, 23:5, 506-511,
+    [DOI: 10.1080/10253866.2019.1653288](https://doi.org/10.1080/10253866.2019.1653288)
