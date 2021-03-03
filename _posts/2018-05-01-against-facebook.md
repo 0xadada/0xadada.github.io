@@ -329,30 +329,29 @@ take action!
 > renounce image culture completely which in a hyperreal world is almost
 > inconceivable. <cite>(Berthelot, 2013)</cite>
 
-We propose a collective media consumption strike, and rather than allowing our
-attention to be driven by these platforms, we must direct our attention to the
-things that matter to us.
+Any efforts to reform the practices that produce the addictive symptoms of the
+attention economy will fail to address the underlying structures of late
+capitalism that created these markets—namely, market fundamentalism, technologic
+determinism, deregulation, and privatization (Tanner, 2018).
+
+Given that; we propose a collective media consumption strike, and rather than
+allowing our attention to be driven by these platforms, we must direct our
+attention to the things that matter to us.
 
 The rules can be simple:
 
-- No TV/Netflix/Youtube
-- No radio
-- No podcasts
-- No social media, delete your Facebook account
-- No messaging/chat
-- No idle web browsing
-- No news aggregation sites
-- No video games
-- No using a computer if it is not directly related to creating or resisting
-  (not consuming)
+- No advertising-sponsored TV or Youtube
+- No commercial radio, news, or news aggregation
+- No commercial social media, delete your Facebook account
 
-Don’t be a fundamentalist about the rules. Rules are meant to be broken. If it’s
-art, the rules are more loose; if it’s corporate media, more strict. Cinema,
-literature, sci-fi, comic books, indie games (or board games): as long as these
-types of works are not connected with our professional, interpersonal, or
-political responsibilities, use them in moderation. In general, make sure media
-consumption is done with more moderation than usual. The goal is to break your
-habits.
+This is not a holier-than-thou asceticism, but a refusal to have our attention
+destroyed and exploited. Don’t be a fundamentalist about the rules. Rules are
+meant to be broken. If it’s art, the rules are more loose; if it’s corporate
+media, more strict. Cinema, literature, sci-fi, comic books, indie games (or
+board games): as long as these types of works are not connected with our
+professional, interpersonal, or political responsibilities, use them in
+moderation. In general, make sure media consumption is done with more moderation
+than usual. The goal is to break your habits.
 
 Many people work with computers for their job. Most aren’t privileged enough to
 be able to completely disconnect from work. Work-related email, messaging, and
@@ -376,14 +375,14 @@ the same result. Email can operate similarly. Turn off the red Notification dot
 on all your apps.
 
 Remove Facebook, Snapchat, Twitter, Slack, Instagram, Youtube and any other
-social media apps from your devices. This makes it tougher to have instant
-access to these forms of media since it's not immediately at your fingertips.
-Don’t cheat and use the web interface. Disable notifications for any apps that
-you keep. Turn off all lock screen notifications, this also improves privacy.
-Remove any of the other chat apps from your smartphone: Snapchat, Facebook
-Messenger, WhatsApp, Mastodon, Viber. If our friends need to reach us, they can
-text or call. We should be the masters of our own time, and our network of
-friends isn’t in control of our time. Our inbox isn’t the world’s way to add
+commercial social media apps from your devices. This makes it tougher to have
+instant access to these forms of media since it's not immediately at your
+fingertips. Don’t cheat and use the web interface. Disable notifications for any
+apps that you keep. Turn off all lock screen notifications, this also improves
+privacy. Remove any of the other chat apps from your smartphone: Snapchat,
+Facebook Messenger, WhatsApp, Mastodon, Viber. If our friends need to reach us,
+they can text or call. We should be the masters of our own time, and our network
+of friends isn’t in control of our time. Our inbox isn’t the world’s way to add
 items to our TODO list.
 
 Remove any Bookmarks or Recently Viewed sites from your browser to prevent
@@ -394,6 +393,10 @@ to block.
 Try to limit checking email to once a day. Set a schedule at a set time, and
 stick to it. Do the same for messaging. Set an auto-responder if that helps
 reduce anxiety.
+
+Tell your friends why you are leaving commercial social media, make it clear
+that your reason to leave is political, and not because you're ignoring them.
+Give your friends a direct way of reaching you.
 
 The idea behind this practice is to stop the urge to immediately unlock our
 phone whenever we have idle time. Our idle time should be owned by us.
@@ -1119,6 +1122,12 @@ Swartz, Aaron. (October 20, 2006).
 <cite class="hanging-indent">
 Taleb, Nassim Nicholas. (2012). _Antifragile: Things That Gain from Disorder_.
 Random House. Print.
+
+<cite class="hanging-indent">
+Tanner, Grafton. (August 9, 2018).
+_[Digital Detox: Big Tech’s Phony Crisis of
+Conscience](https://lareviewofbooks.org/article/digital-detox-big-techs-phony-crisis-of-conscience/)_.
+(Retrieved on March 3, 2021)
 
 <cite class="hanging-indent">
 Thaler, Richard H., and Cass R. Sunstein. (2008). _Nudge: Improving Decisions
