@@ -134,7 +134,7 @@ machine learning.
 If you’re looking for a translation that aims to stay faithful to Debord’s
 classical French prose, this book is not that. There are editions perfectly
 suited for that purpose, I would direct you to the translations by Ken Knabb,
-Donald Nichonson-Smith, or Fredy Perlman—all of which I referenced extensively
+Donald Nicholson-Smith, or Fredy Perlman—all of which I referenced extensively
 during the preparation of this book. I’d especially like to point out how
 valuable Ken Knabb’s annotated translation has been as a resource for this
 edition. His work handed me many of these references, and was instrumental in
@@ -175,25 +175,23 @@ London New York: Verso. 9781844676729.
 ## Footnotes
 
 [^1]:
-
-  Quoting Hardt & Negri: "...Debord recognized this spectacle as the destiny of
-  triumphant capitalism. Despite their important differences, such authors offer
-  us real anticipations of the path of capitalist development." And continuting
-  in their notes: "[The Spectacle], which is perhaps the best articulation, in
-  its own delirious way, of the contemporary consciousness of the triumph of
-  capital." See Hardt, M. & Negri, A., 2000 (Pp. 188/444).
+    Quoting Hardt & Negri: "...Debord recognized this spectacle as the destiny of
+    triumphant capitalism. Despite their important differences, such authors offer
+    us real anticipations of the path of capitalist development." And continuting
+    in their notes: "[The Spectacle], which is perhaps the best articulation, in
+    its own delirious way, of the contemporary consciousness of the triumph of
+    capital." See Hardt, M. & Negri, A., 2000 (Pp. 188/444).
 
 [^2]:
-
-  “fifty or sixty people”: In Debord’s _Comments on the Society of the
-  Spectacle_, he describes his audience in the first paragraph thus: “These
-  comments are sure to be welcomed by fifty or sixty people; a large number
-  given the times in which we live and the gravity of the matters under
-  discussion. But then, of course, in some circles I am considered to be an
-  authority. It must also be borne in mind that a good half of this interested
-  elite will consist of people who devote themselves to maintaining the
-  spectacular system of domination, and the other half of people who persist in
-  doing quite the opposite. Having, then, to take account of readers who are
-  both attentive and diversely influential, I obviously cannot speak with
-  complete freedom. Above all, I must take care not to give too much information
-  to just anybody.” See Debord, G. & Imrie, M, 1998. Pp 1.
+    “fifty or sixty people”: In Debord’s _Comments on the Society of the
+    Spectacle_, he describes his audience in the first paragraph thus: “These
+    comments are sure to be welcomed by fifty or sixty people; a large number
+    given the times in which we live and the gravity of the matters under
+    discussion. But then, of course, in some circles I am considered to be an
+    authority. It must also be borne in mind that a good half of this interested
+    elite will consist of people who devote themselves to maintaining the
+    spectacular system of domination, and the other half of people who persist in
+    doing quite the opposite. Having, then, to take account of readers who are
+    both attentive and diversely influential, I obviously cannot speak with
+    complete freedom. Above all, I must take care not to give too much information
+    to just anybody.” See Debord, G. & Imrie, M, 1998. Pp 1.
