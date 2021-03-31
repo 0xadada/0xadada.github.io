@@ -1,6 +1,6 @@
 ---
 title: "The Society of the Spectacle: Foreword"
-displayTitle: "The Society of the Spectacle: Foreward"
+displayTitle: "The Society of the Spectacle: Foreword"
 date: 2021-03-28 02:18:00
 metaDescription:
   "I've been writing a new edition of Debord's 1967 book The Society of the
