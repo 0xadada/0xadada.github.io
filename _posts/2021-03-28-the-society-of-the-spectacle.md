@@ -34,7 +34,6 @@ later in April.
 
 ---
 
-
 In this book, Debord describes and critiques the way we live. The power of these
 ideas lies in their ability to question, identify, and name the common
 assumptions of the present. Debord develops the concept of _The Spectacle_,
@@ -63,21 +62,21 @@ who _think and do_.
 
 Debord’s text is concise, economical, poetic, provocative, and difficult. As
 Michael Hardt & Antonio Negri describe it in their notes to _Empire_ as
-"delirious"[^1]. His work contains many references to Hegel and Marx. He
-uses words and phrases defined in other Situationist texts, and expects the
-reader to be familiar with them. This is to be expected, as he demands much from
-the reader, and had written for a small audience of “fifty or sixty people”[^2]
-who were well versed in the history of the western philosophical tradition.
+"delirious".[^1] His work contains many references to Hegel and Marx. He uses
+words and phrases defined in other Situationist texts, and expects the reader to
+be familiar with them. This is to be expected, as he demands much from the
+reader, and had written for a small audience of “fifty or sixty people”[^2] who
+were well versed in the history of the western philosophical tradition.
 
 Debord was concerned that these ideas themselves would be recuperated by
-capitalism, so he wrote in a way to limit them to a small and curious audience.
-His concerns turned out to be warranted, when a few years later in the early
-1970s, the French Socialist Party under François Mitterrand co-opted the
-Situationist phrase "Change Life" as his campaign slogan, and Situationism
-became the party’s unofficial ideology—much to the consternation of Debord. His
-ideas were difficult because they were abstract, but the abstraction meant that
-it continues to remain relevant, arguably even more relevant half a century
-later.
+capitalism (see [thesis 203](https://unredacted-word.pub/spectacle/#ref203.1))
+so he wrote in a way to limit them to a small and curious audience. His concerns
+turned out to be warranted, when a few years later in the early 1970s, the
+French Socialist Party under François Mitterrand co-opted the Situationist
+phrase "Change Life" as his campaign slogan, and Situationism became the party’s
+unofficial ideology—much to the consternation of Debord. His ideas were
+difficult because they were abstract, but the abstraction meant that it
+continues to remain relevant, arguably even more relevant half a century later.
 
 The very first time I read _The Society of the Spectacle_, I knew I’d need to
 re-read it, and possibly need to re-write it in my own words if I wanted to
@@ -93,22 +92,12 @@ This book isn’t as much a straight translation as it is an elaboration, or
 and its various translations. Debord hid some ideas. This is an attempt to
 contextualize and reveal abstract ideas by bringing in references and
 annotations in order to add relevance for our current time. I have added a few
-thoughts and examples to help elucidate difficult concepts.
+thoughts and examples to help elucidate difficult concepts. In the hope of
+making Debord's work more accessible to those unfamiliar with Marx, Hegel, and
+the breadth of other works and concepts alluded to in his text, I've knowingly
+ossified my own translation. The reader is strongly encouraged to wander from
+these pages back to the timelessness of the original—and beyond.
 
-Foreign languages are much like distant places, and the act of translation is to
-visit these places. We may recognize similarities, but these places are unique
-because they have distinct histories. With languages, words not only have
-semantic meaning, but attachments to the rich cultural narratives that tell
-their histories, and these words are attached to libraries of other texts within
-the same cultural milieu. When translating these words, the histories,
-narratives, and cultural aspects most relevant to the original text aren’t
-always translatable with words alone; words simply aren’t enough to capture the
-rich cultural depth that exists _between_ the words. As such, I’ve tried to add
-notes where the text made implicit references. When translating,
-"[plagiarism is necessary](https://unredacted-word.pub/spectacle/#ref207.1)", it
-demands embracing the author’s ideas, and making them semantically and
-culturally relevant, and if done well, it can create an entirely new work, a
-copy without an original.
 Foreign languages are much like distant places, and the act of translation is to
 visit these places. We may recognize similarities, but these places are unique
 because they have distinct histories. With languages, words not only have
@@ -150,31 +139,30 @@ suited for that purpose, I would direct you to the translations by Ken Knabb,
 Donald Nicholson-Smith, or Fredy Perlman—all of which I referenced extensively
 during the preparation of this book. I’d especially like to point out how
 valuable Ken Knabb’s annotated translation has been as a resource for this
-edition. His work handed me many of these references, and was instrumental in
-pointing me in the right direction for many others. All of these editions can be
-found in the bibliography and are well worth reading.
+edition. His work handed me most of these references, and was instrumental in
+pointing me in the right direction for a few others. If you are looking for new
+insight and academic rigor, I would refer you to Russell, E., 2021 and Bunyard,
+T., 2018. All of these editions can be found in the bibliography and are well
+worth reading.
 
 I’ve arranged the notes along the margins rather than as endnotes because
-they’re meant to be read alongside the main text. If you’re reading this on a
-mobile device, the notes are laid out in-line with the text, and meant to be
-read as such. If you are reading this book for the first time, I would suggest
-reading it in a particular order, as the first few chapters can be discouraging.
-I agree with the preface to Ken Knabb’s 2014 translation, in which he suggests
-starting with chapter 4 and 5 because they provide relevant historical and
-revolutionary background that helps to contextualize the book. From there, read
-chapter 7 which covers the development of cities, urban development and social
-issues. Then move to chapter 8 which covers culture, the arts, and the history
-of artistic movements. Finally, read chapters 1, 2, 3, 6, and 9 which
-establishes his concept of _The Spectacle_ and provides a comprehensive critique
-of contemporary society. Thus, my suggested chapter reading order is: **4, 5, 7,
-8**, _then_ **1, 2, 3, 6, 9**.
+they’re meant to be read alongside the main text. If you are reading this book
+for the first time, I would suggest reading it in a particular order, as the
+first few chapters can be discouraging. I agree with the preface to Ken Knabb’s
+2014 translation, in which he suggests starting with chapter 4 and 5 because
+they provide relevant historical and revolutionary background that helps to
+contextualize the book. From there, read chapter 7 which covers the development
+of cities, urban development and social issues. Then move to chapter 8 which
+covers culture, the arts, and the history of artistic movements. Finally, read
+chapters 1, 2, 3, 6, and 9 which establishes his concept of _The Spectacle_ and
+provides a comprehensive critique of contemporary society. Thus, my suggested
+chapter reading order is: **4, 5, 7, 8**, _then_ **1, 2, 3, 6, 9**.
 
-My hope is to make Debord’s ideas more accessible, and to show how much more
-relevant _The Spectacle_ is today than when it was first written. I am
-optimistic that, together, we _can_ make another world possible.
+My hope is to make Debord’s ideas more accessible to first time readers and to
+show how much more relevant _The Spectacle_ is today than when it was first
+written. I am optimistic that together we _can_ make another world possible.
 
--ra<br />
-March 2021
+-ra<br /> March 2021
 
 ## Citations
 
