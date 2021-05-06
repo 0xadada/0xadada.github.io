@@ -4,7 +4,7 @@ title: Notes
 displayTitle: Notes
 slug: notes
 inNav: true
-navOrder: 1
+navOrder: 20
 ---
 
 Thoughts, ideas, scribbles, inspirations, and writing that hasn't been fully 

@@ -13,7 +13,7 @@ metaOgType: "article"
 image: /static/images/2021-04-01-the-society-of-the-spectacle-cover.png
 metaImage: /static/images/2021-04-01-the-society-of-the-spectacle-card.jpg
 author: "0xADADA"
-tags: [essays, anti-fascism, economics]
+tags: [essays, anti-fascism, economics, books]
 license: cc-by-nc-sa
 ---
 
