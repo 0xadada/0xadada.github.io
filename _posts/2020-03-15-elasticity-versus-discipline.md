@@ -273,3 +273,10 @@ feedback.
     deposits, money market securities, mutual funds, and other time deposits. 
     These assets are less liquid than M1 and not as suitable as exchange mediums,
     but they can be quickly converted into cash or checking deposits.
+
+[^6]:
+    Update: November 18, 2021<br>
+    The chart I added in footnote 5 has been recently discontinued in favor of the
+    M2SL. Perhaps when their metrics show negative monetary policy results, they
+    just change the metrics. I guess if you can't win the game, you just change
+    the rules.
