@@ -71,5 +71,6 @@ If we want to move beyond a society structured by hierarchy and class, we need
 to think outside our own ideology before we speak.
 
 [^1]:
-  Its also a uniquely American question to ask. In Europe you don't head this
-  question asked at parties.
+    Its also a uniquely American question to ask. In Europe you don't hear this
+    question asked at parties, because work doesn't define their lives outside
+    of work. A broad generalization, but a correct one.
