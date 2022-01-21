@@ -7,33 +7,21 @@ metaOgType: "website"
 ---
 
 <ol class="c-Index">
-{% for post in paginator.posts %}
-  <li class="c-Index--Item">
-    <a href="{{ post.url }}" title="{{ post.title }}">
-      {{ post.title }}
-    </a>
-    <br>
-
-    {% if post.metaDescription %}
-      <span>{{ post.metaDescription }}</span>
+{% for post in site.posts %}
+  {% if post.hidden != true %}
+    <li class="c-Index--Item">
+      <a href="{{ post.url }}" title="{{ post.title }}">
+        {{ post.title }}
+      </a>
       <br>
-    {% endif %}
 
-    <time class="published" datetime="{{ post.date | date: "%Y-%m-%d" }}">{{ post.date | date: "%A %B %-d, %Y" }}</time>
-  </li>
+      {% if post.metaDescription %}
+        <span>{{ post.metaDescription }}</span>
+        <br>
+      {% endif %}
+
+      <time class="published" datetime="{{ post.date | date: "%Y-%m-%d" }}">{{ post.date | date: "%A %B %-d, %Y" }}</time>
+    </li>
+  {% endif %}
 {% endfor %}
 </ol>
-
-<nav role="navigation" aria-label="Posts">
-  <p>
-    {% if paginator.previous_page %}
-      <a href="{{ paginator.previous_page_path }}" rel="prev">Previous</a>
-    {% endif %}
-    <span class="page_number ">
-      {{ paginator.page }} of {{ paginator.total_pages }}
-    </span>
-    {% if paginator.next_page %}
-      <a href="{{ paginator.next_page_path }}" rel="next">Next</a>
-    {% endif %}
-  </p>
-</nav>
