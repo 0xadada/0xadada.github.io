@@ -24,7 +24,7 @@ Puritan/[Protestant work-ethic](https://en.wikipedia.org/wiki/The_Protestant_Eth
 _Hard work, frugality, perseverance in the face of hardship (without complaint)
 is the mark of Grace and this will allow you to achieve salvation. You are your
 work, and your value and place in the social hierarchy is defined by your job._
-There is a built-in assumption that ones job defines ones character.
+There is a built-in assumption that ones job defines ones personal identity[^1].
 
 **This ideology sustains the basis for capitalistic inequality**. The work-ethic
 creates two groups of people: those who work hard and are deserving salvation
@@ -69,3 +69,7 @@ exists beyond bullshit corporate jargon and hierarchy.
 
 If we want to move beyond a society structured by hierarchy and class, we need
 to think outside our own ideology before we speak.
+
+[^1]:
+  Its also a uniquely American question to ask. In Europe you don't head this
+  question asked at parties.
