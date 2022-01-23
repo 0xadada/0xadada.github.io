@@ -7,8 +7,9 @@ import styles from './index.module.css'
 
 export async function getStaticProps() {
   const posts = getAllPosts([
+    'date',
+    'metaDescription',
     'title',
-    'date'
   ])
 
   return {

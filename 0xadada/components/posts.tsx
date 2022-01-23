@@ -7,6 +7,8 @@ export default function Posts({ posts }) {
         <li key={post.title}>
           {post.title}
           <br />
+          <span>{post.metaDescription}</span>
+          <br />
           <DisplayDate datetime={post.date} />
         </li>
       ))}
