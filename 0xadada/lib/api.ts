@@ -10,11 +10,21 @@ function getPostFilenames() {
 
 function getPostBySlug(slug, fields = []) {
   const realSlug = slug.replace(/\.md$/, "");
+  const year = realSlug.slice(0, 4);
+  const month = realSlug.slice(5, 7);
+  const day = realSlug.slice(8, 10);
   const fullPath = join(postsDirectory, `${realSlug}.md`);
   const fileContents = fs.readFileSync(fullPath, "utf8");
   const { data, content } = matter(fileContents);
 
-  const items = {};
+  const items = {
+    slug: realSlug.slice(11),
+    slugs: {
+      year,
+      month,
+      day
+    }
+  };
 
   // Ensure only the minimal needed data is exposed
   fields.forEach(field => {
