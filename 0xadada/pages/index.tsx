@@ -11,7 +11,6 @@ export async function getStaticProps() {
     'date'
   ])
 
-  debugger;
   return {
     props: { posts },
   }

@@ -24,16 +24,15 @@ function getPostBySlug(slug, fields = []) {
     if (field === "content") {
       items[field] = content;
     }
-    if (field === "date") {
-      const unix = data[field].getTime();
-      items[field] = unix;
-    }
-
-    if (typeof data[field] !== "undefined" && typeof data[field] !== "object") {
+    if (typeof data[field] !== "undefined") {
+      // coherce all non-undefined values
       items[field] = data[field];
     }
+    if (field === "date") {
+      // coherce date into unix date
+      items[field] = data[field].getTime();
+    }
   });
-
   return items;
 }
 
@@ -43,6 +42,5 @@ export function getAllPosts(fields = []) {
     .map(slug => getPostBySlug(slug, fields))
     // sort posts by date in descending order
     .sort((post1, post2) => (post1.date > post2.date ? -1 : 1));
-  debugger;
   return posts;
 }

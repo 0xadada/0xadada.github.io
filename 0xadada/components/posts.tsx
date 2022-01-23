@@ -1,13 +1,13 @@
-import parseISO from "date-fns/parseISO";
+import DisplayDate from "./display-date.tsx";
 
 export default function Posts({ posts }) {
   return (
     <ol>
       {posts.map(post => (
-        <li key={post.date}>
+        <li key={post.title}>
           {post.title}
           <br />
-          {`${new Date(post.date)}`}
+          <DisplayDate datetime={post.date} />
         </li>
       ))}
     </ol>
