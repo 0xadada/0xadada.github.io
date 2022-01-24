@@ -1,3 +1,4 @@
+import { GetStaticPaths, GetStaticProps, GetStaticPropsResult } from "next";
 import Head from "next/head";
 import { useRouter } from "next/router";
 import Layout from "../../../../components/layout.tsx";
@@ -5,8 +6,8 @@ import { getPostBySlug, getAllPosts } from "../../../../lib/api";
 import markdownToHtml from "../../../../lib/markdown-to-html";
 
 export async function getStaticProps({ params }) {
-  debugger;
-  const post = getPostBySlug(params.slug, [
+  const filename = `${params.year}-${params.month}-${params.day}-${params.slug}`;
+  const post = getPostBySlug(filename, [
     "title",
     "date",
     "author",
@@ -25,23 +26,26 @@ export async function getStaticProps({ params }) {
   };
 }
 
-export async function getStaticPaths() {
+export const getStaticPaths: GetStaticPaths = async () => {
   const posts = getAllPosts(["slug"]);
 
+  const paths = posts.map(post => {
+    return {
+      params: {
+        year: post.slugs.year,
+        month: post.slugs.month,
+        day: post.slugs.day,
+        slug: post.slugs.slug
+      }
+    };
+  });
+  console.log(paths);
+  debugger;
   return {
-    paths: posts.map(post => {
-      return {
-        params: {
-          year: post.slugs.year,
-          month: post.slugs.month,
-          day: post.slugs.day,
-          slug: post.slug
-        }
-      };
-    }),
+    paths,
     fallback: false
   };
-}
+};
 
 export default function Post({ post, morePosts, preview }) {
   const router = useRouter();

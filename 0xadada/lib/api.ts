@@ -8,7 +8,7 @@ function getPostFilenames() {
   return fs.readdirSync(postsDirectory);
 }
 
-function getPostBySlug(slug, fields = []) {
+export function getPostBySlug(slug, fields = []) {
   const realSlug = slug.replace(/\.md$/, "");
   const year = realSlug.slice(0, 4);
   const month = realSlug.slice(5, 7);
@@ -18,11 +18,11 @@ function getPostBySlug(slug, fields = []) {
   const { data, content } = matter(fileContents);
 
   const items = {
-    slug: realSlug.slice(11),
     slugs: {
       year,
       month,
-      day
+      day,
+      slug: realSlug.slice(11)
     }
   };
 

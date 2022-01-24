@@ -5,10 +5,10 @@ export default function Posts({ posts }) {
   return (
     <ol>
       {posts.map(post => {
-        const slug = post.slug;
         const year = post.slugs.year;
         const month = post.slugs.month;
         const day = post.slugs.day;
+        const slug = post.slugs.slug;
         return (
           <li key={post.title}>
             <Link
