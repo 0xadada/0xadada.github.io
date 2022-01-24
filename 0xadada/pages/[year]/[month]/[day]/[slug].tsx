@@ -3,6 +3,7 @@ import Head from "next/head";
 import Layout from "../../../../components/layout";
 import DisplayDate from "../../../../components/display-date";
 import PostContent from "../../../../components/post-content";
+import Byline from "../../../../components/byline";
 import { getPostBySlug, getAllPosts } from "../../../../lib/api";
 import markdownToHtml from "../../../../lib/markdown-to-html";
 import { SITENAME, BASEURL } from "../../../../lib/constants";
@@ -57,12 +58,15 @@ export default function Post({ post }) {
         <meta name="author" content={post.author || SITENAME} />
       </Head>
       <Layout>
-        <h1>{post.title}</h1>
-        <p>
-          <DisplayDate datetime={post.date} />
-        </p>
-        <p>{post.author}</p>
-        <PostContent content={post.content} />
+        <article className="hentry h-entry">
+          <header>
+            <h1 className="entry-title p-name">{post.title}</h1>
+            <DisplayDate datetime={post.date} />
+            <br />
+            <Byline author={{ name: post.author }} />
+          </header>
+          <PostContent content={post.content} />
+        </article>
       </Layout>
     </>
   );

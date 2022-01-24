@@ -1,5 +1,6 @@
 import Link from "next/link";
 import Head from "next/head";
+import Footer from "./footer";
 import styles from "./layout.module.css";
 
 const Layout = ({ children }: { children: React.ReactNode }) => {
@@ -48,10 +49,8 @@ const Layout = ({ children }: { children: React.ReactNode }) => {
           content="7431f135e23a84de547e5b79dab406"
         />
       </Head>
-      <header>
-        <p>header</p>
-      </header>
-      <main>{children}</main>
+      <main className={styles.layout}>{children}</main>
+      <Footer className={styles.layout} />
     </>
   );
 };
