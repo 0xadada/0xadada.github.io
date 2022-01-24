@@ -1,9 +1,11 @@
 import { GetStaticPaths, GetStaticProps, GetStaticPropsResult } from "next";
 import Head from "next/head";
-import { useRouter } from "next/router";
-import Layout from "../../../../components/layout.tsx";
+import Layout from "../../../../components/layout";
+import DisplayDate from "../../../../components/display-date";
+import PostContent from "../../../../components/post-content";
 import { getPostBySlug, getAllPosts } from "../../../../lib/api";
 import markdownToHtml from "../../../../lib/markdown-to-html";
+import { SITENAME, BASEURL } from "../../../../lib/constants";
 
 export async function getStaticProps({ params }) {
   const filename = `${params.year}-${params.month}-${params.day}-${params.slug}`;
@@ -14,6 +16,7 @@ export async function getStaticProps({ params }) {
     "content",
     "slug"
   ]);
+  debugger;
   const content = await markdownToHtml(post.content || "");
 
   return {
@@ -39,29 +42,27 @@ export const getStaticPaths: GetStaticPaths = async () => {
       }
     };
   });
-  console.log(paths);
-  debugger;
   return {
     paths,
     fallback: false
   };
 };
 
-export default function Post({ post, morePosts, preview }) {
-  const router = useRouter();
+export default function Post({ post }) {
   return (
     <>
       <Head>
         <title>{post.title}</title>
-        <link rel="canonical" href="https://0xadada.pub/TODO" />
-        <meta name="author" content={post.author || "0xADADA"} />
+        <link rel="canonical" href={`${BASEURL}TODO`} />
+        <meta name="author" content={post.author || SITENAME} />
       </Head>
       <Layout>
-        <>
-          title {post.title}
-          date {post.date}
-          author {post.author}
-        </>
+        <h1>{post.title}</h1>
+        <p>
+          <DisplayDate datetime={post.date} />
+        </p>
+        <p>{post.author}</p>
+        <PostContent content={post.content} />
       </Layout>
     </>
   );

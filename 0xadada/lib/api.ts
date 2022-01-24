@@ -1,6 +1,7 @@
 import fs from "fs";
 import { join } from "path";
 import matter from "gray-matter";
+import { format } from "date-fns";
 
 const postsDirectory = join(process.cwd(), "_posts");
 

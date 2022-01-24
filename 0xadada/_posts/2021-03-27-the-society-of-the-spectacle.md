@@ -167,14 +167,15 @@ written. I am optimistic that together we _can_ make another world possible.
 ## Citations
 
 <cite class="hanging-indent">
-Hardt, M. & Negri, A. (2000). _Empire_. Cambridge, Mass: Harvard University
-Press. 0674251210.
+  Hardt, M. & Negri, A. (2000). <em>Empire</em>. Cambridge, Mass: Harvard University
+  Press. 0674251210.
+</cite>
 
 <cite class="hanging-indent">
-Debord, G. & Imrie, M. (1998). _Comments on the society of the spectacle_.
-London New York: Verso. 9781844676729.
+  Debord, G. & Imrie, M. (1998). <em>Comments on the society of the spectacle</em>.
+  London New York: Verso. 9781844676729.
+</cite>
 
-## Footnotes
 
 [^1]:
     Quoting Hardt & Negri: "...Debord recognized this spectacle as the destiny of
