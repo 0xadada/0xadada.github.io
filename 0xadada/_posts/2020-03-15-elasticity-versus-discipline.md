@@ -201,8 +201,6 @@ C., and Garrick Y. for reviewing early drafts of this essay and providing
 feedback.
 
 
-## Footnotes
-
 [^1]:
     Specifically, the gutting of the Volcker Rule, the repeal of the 
     affiliation restrictions of the Glass–Steagall Act, and the free-for-all stock

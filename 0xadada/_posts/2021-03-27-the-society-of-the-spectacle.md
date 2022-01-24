@@ -164,26 +164,15 @@ written. I am optimistic that together we _can_ make another world possible.
 
 -ra<br /> March 2021
 
-## Citations
-
-<cite class="hanging-indent">
-  Hardt, M. & Negri, A. (2000). <em>Empire</em>. Cambridge, Mass: Harvard University
-  Press. 0674251210.
-</cite>
-
-<cite class="hanging-indent">
-  Debord, G. & Imrie, M. (1998). <em>Comments on the society of the spectacle</em>.
-  London New York: Verso. 9781844676729.
-</cite>
-
-
 [^1]:
     Quoting Hardt & Negri: "...Debord recognized this spectacle as the destiny of
     triumphant capitalism. Despite their important differences, such authors offer
     us real anticipations of the path of capitalist development." And continuting
     in their notes: "[The Spectacle], which is perhaps the best articulation, in
     its own delirious way, of the contemporary consciousness of the triumph of
-    capital." See Hardt, M. & Negri, A., 2000 (Pp. 188/444).
+    capital."
+    <cite>Hardt, M. & Negri, A. (2000). <em>Empire</em>. Cambridge, Mass: Harvard University
+    Press. 0674251210.</cite> (Pp. 188/444).
 
 [^2]:
     “fifty or sixty people”: In Debord’s _Comments on the Society of the
@@ -197,4 +186,7 @@ written. I am optimistic that together we _can_ make another world possible.
     doing quite the opposite. Having, then, to take account of readers who are
     both attentive and diversely influential, I obviously cannot speak with
     complete freedom. Above all, I must take care not to give too much information
-    to just anybody.” See Debord, G. & Imrie, M, 1998. Pp 1.
+    to just anybody.”
+    <cite> Debord, G. & Imrie, M. (1998). <em>Comments on the society of the spectacle</em>.
+    London New York: Verso. 9781844676729.
+    </cite> (Pp. 1)

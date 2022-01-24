@@ -1568,8 +1568,6 @@ The following articles were very useful in providing some help and inspiration.
   <a class="RefBack" href="#ref:cite:1"></a>
   </cite>
 
-## Footnotes
-
 Any changes to this article will be annotated with a footnote and explained
 here.
 
