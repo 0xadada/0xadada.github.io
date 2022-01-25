@@ -1,6 +1,7 @@
 import { GetStaticPaths, GetStaticProps, GetStaticPropsResult } from "next";
 import Head from "next/head";
 import Layout from "../../../../components/layout";
+import Metatags from "../../../../components/metatags";
 import DisplayDate from "../../../../components/display-date";
 import PostContent from "../../../../components/post-content";
 import Byline from "../../../../components/byline";
@@ -12,12 +13,17 @@ export async function getStaticProps({ params }) {
   const filename = `${params.year}-${params.month}-${params.day}-${params.slug}`;
   const post = getPostBySlug(filename, [
     "title",
+    "displayTitle",
+    "metaDescription",
+    "metaKeywords",
+    "image",
+    "metaImage",
     "date",
     "author",
     "content",
-    "slug"
+    "slug",
+    "slugs"
   ]);
-  debugger;
   const content = await markdownToHtml(post.content || "");
 
   return {
@@ -54,9 +60,8 @@ export default function Post({ post }) {
     <>
       <Head>
         <title>{post.title}</title>
-        <link rel="canonical" href={`${BASEURL}TODO`} />
-        <meta name="author" content={post.author || SITENAME} />
       </Head>
+      <Metatags post={post} />
       <Layout>
         <article className="hentry h-entry" lang="en-US">
           <header>

@@ -13,9 +13,6 @@ export default function Footer() {
       <p>
         &copy; 2003-{year()} 0xADADA (unless otherwise noted.)
         <br />
-        <Link href="/feed.xml" rel="me" title="0xADADA Atom Feed">
-          RSS
-        </Link>{" "}
         <Link href="/" title="0xADADA">
           Home
         </Link>{" "}
@@ -27,16 +24,6 @@ export default function Footer() {
             title="0xADADA"
           >
             Email
-          </Link>{" "}
-          <Link
-            className="c-Meta fn p-name u-url"
-            hidden
-            href="https://0xadada.pub"
-            rel="me"
-            alt="0xADADA"
-            title="0xADADA"
-          >
-            0xADADA
           </Link>{" "}
         </span>
         <Link
