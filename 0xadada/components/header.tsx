@@ -10,22 +10,15 @@ export default function Header() {
       <nav role="navigation">
         <ul className={styles.items}>
           <li className={styles.item}>
-            <a className={styles.link} href="/books/">
+            <a
+              className={styles.link}
+              href="/2021/03/27/the-society-of-the-spectacle/"
+            >
               📕 Book
             </a>
           </li>
           <li className={styles.item}>
-            <a className={styles.link} href="/essays/">
-              Essays
-            </a>
-          </li>
-          <li className={styles.item}>
-            <a className={styles.link} href="/notes/">
-              Notes
-            </a>
-          </li>
-          <li className={styles.item}>
-            <a className={styles.link} href="/about/">
+            <a className={styles.link} href="/1980/06/05/about/">
               About
             </a>
           </li>
