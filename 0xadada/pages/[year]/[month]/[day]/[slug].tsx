@@ -58,7 +58,7 @@ export default function Post({ post }) {
         <meta name="author" content={post.author || SITENAME} />
       </Head>
       <Layout>
-        <article className="hentry h-entry">
+        <article className="hentry h-entry" lang="en-US">
           <header>
             <h1 className="entry-title p-name">{post.title}</h1>
             <DisplayDate datetime={post.date} />
