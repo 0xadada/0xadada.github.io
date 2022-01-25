@@ -11,16 +11,13 @@ export default function Header() {
       <nav role="navigation">
         <ul className={styles.items}>
           <li className={styles.item}>
-            <Link
-              className={styles.link}
-              href="/2021/03/27/the-society-of-the-spectacle/"
-            >
-              📕 Book
+            <Link href="/2021/03/27/the-society-of-the-spectacle/">
+              <a className={styles.link}>📕 Book</a>
             </Link>
           </li>
           <li className={styles.item}>
-            <Link className={styles.link} href="/1980/06/05/about/">
-              About
+            <Link href="/1980/06/05/about/">
+              <a className={styles.link}>About</a>
             </Link>
           </li>
         </ul>
