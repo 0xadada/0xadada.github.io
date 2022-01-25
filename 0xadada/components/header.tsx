@@ -15,11 +15,6 @@ export default function Header() {
             </a>
           </li>
           <li className={styles.item}>
-            <a className={styles.link} href="/tags/">
-              Topics…
-            </a>
-          </li>
-          <li className={styles.item}>
             <a className={styles.link} href="/essays/">
               Essays
             </a>
