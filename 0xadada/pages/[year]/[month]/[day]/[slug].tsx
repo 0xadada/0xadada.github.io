@@ -68,7 +68,7 @@ export default function Post({ post }) {
             <h1 className="entry-title p-name">{post.title}</h1>
             <DisplayDate datetime={post.date} />
             <br />
-            <Byline author={{ name: post.author }} />
+            <Byline author={post.author} />
           </header>
           <PostContent content={post.content} />
         </article>
