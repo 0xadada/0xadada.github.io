@@ -269,43 +269,47 @@ federal politics, I have high hopes for local community action and the arts.
 ## References
 
 <cite class="hanging-indent" id="cite:1">
-Kendzior, Sarah.
-<a href="https://thecorrespondent.com/5696/were-heading-into-dark-times-this-is-how-to-be-your-own-light-in-the-age-of-trump/1611114266432-e23ea1a6">
-  "We're heading into dark times. This is how to be your own light in the Age
-of Trump"</a>.
-<em>The Correspondent</em>.
-The Correspondent,
-18 Nov. 2016.
-Web.
-3 Jan. 2017.
-<a class="RefBack" href="#ref:cite:1"></a>
+  Kendzior, Sarah.
+  <a href="https://thecorrespondent.com/5696/were-heading-into-dark-times-this-is-how-to-be-your-own-light-in-the-age-of-trump/1611114266432-e23ea1a6">
+    "We're heading into dark times. This is how to be your own light in the Age
+  of Trump"</a>.
+  <em>The Correspondent</em>.
+  The Correspondent,
+  18 Nov. 2016.
+  Web.
+  3 Jan. 2017.
+  <a class="RefBack" href="#ref:cite:1"></a>
+</cite>
 
 <cite class="hanging-indent" id="cite:2">
-Debord, Guy.
-<em>The Society of the Spectacle</em>.
-Perlman, Fredy (Translator).
-Detroit: Black & Red,
-Print.
-1983.
-<a class="RefBack" href="#ref:cite:2"></a>
+  Debord, Guy.
+  <em>The Society of the Spectacle</em>.
+  Perlman, Fredy (Translator).
+  Detroit: Black & Red,
+  Print.
+  1983.
+  <a class="RefBack" href="#ref:cite:2"></a>
+</cite>
 
 <cite class="hanging-indent" id="cite:3">
-Siegel, Eric.
-<a href="https://blogs.scientificamerican.com/guest-blog/how-hillary-s-campaign-is-almost-certainly-using-big-data/">
-  How Hillary's Campaign Is (Almost Certainly) Using Big Data</a>.
-<em>Scientific American</em>.
-Scientific American,
-Web.
-2016.
-<a class="RefBack" href="#ref:cite:3"></a>
+  Siegel, Eric.
+  <a href="https://blogs.scientificamerican.com/guest-blog/how-hillary-s-campaign-is-almost-certainly-using-big-data/">
+    How Hillary's Campaign Is (Almost Certainly) Using Big Data</a>.
+  <em>Scientific American</em>.
+  Scientific American,
+  Web.
+  2016.
+  <a class="RefBack" href="#ref:cite:3"></a>
+</cite>
 
 <cite class="hanging-indent" id="cite:4">
-Wagner, John.
-<a href="https://www.washingtonpost.com/news/post-politics/wp/2016/11/09/clintons-data-driven-campaign-relied-heavily-on-an-algorithm-named-ada-what-didnt-she-see/">
-  "Clinton’s data-driven campaign relied heavily on an algorithm named Ada.
-  What didn’t she see?"</a>.
-<em>The Washington Post</em>.
-The Washington Post,
-Web.
-2016.
-<a class="RefBack" href="#ref:cite:4"></a>
+  Wagner, John.
+  <a href="https://www.washingtonpost.com/news/post-politics/wp/2016/11/09/clintons-data-driven-campaign-relied-heavily-on-an-algorithm-named-ada-what-didnt-she-see/">
+    "Clinton’s data-driven campaign relied heavily on an algorithm named Ada.
+    What didn’t she see?"</a>.
+  <em>The Washington Post</em>.
+  The Washington Post,
+  Web.
+  2016.
+  <a class="RefBack" href="#ref:cite:4"></a>
+</cite>

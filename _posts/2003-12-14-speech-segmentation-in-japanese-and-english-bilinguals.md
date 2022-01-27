@@ -520,70 +520,84 @@ such as mora, syllable, or stress-based segmentation.
 ## References
 
 <cite class="hanging-indent">
-Beckman, M. (1982). Segment Duration and the ‘Mora’ in Japanese. _Phonetica_,
+Beckman, M. (1982). Segment Duration and the ‘Mora’ in Japanese. <em>Phonetica</em>,
 39, 113-135.
+</cite>
 
 <cite class="hanging-indent">
 Cutler, A., & Butterfield, S. (1992). Rhythmic cues to speech segmentation:
-Evidence from juncture misperception. _Journal of Memory and Langauge_, 31,
+Evidence from juncture misperception. <em>Journal of Memory and Langauge</em>, 31,
 218-236.
+</cite>
 
 <cite class="hanging-indent">
 Cutler, A., Mehler, J., Norris, D., Segui, J., (1986). The Syllable’s Differing
-Role in the Segmentation of French and English. _Journal of Memory and
-Language_, 25, 385-400.
+Role in the Segmentation of French and English. <em>Journal of Memory and
+Language</em>, 25, 385-400.
+</cite>
 
 <cite class="hanging-indent">
 Cutler, A., & Norris, D. (1988). The role of strong syllables in segmentation
-for lexical access. _Journal of Experimental Psychology: Human Perception and
-Performance_, 14, 113-121.
+for lexical access. <em>Journal of Experimental Psychology: Human Perception and
+Performance</em>, 14, 113-121.
+</cite>
 
 <cite class="hanging-indent">
 Cutler, A., Otake, T. (2002). Rhythmic Categories in Spoken-Word Recognition.
-_Journal of Memory and Language_, 46, 296-322.
+<em>Journal of Memory and Language</em>, 46, 296-322.
+</cite>
 
 <cite class="hanging-indent">
 Cutler, A., Otake, T. (1994). Mora or Phoneme? Further Evidence for
-Langauge-Specific Listening. _Journal of Memory and Language_, 33, 824-844.
+Langauge-Specific Listening. <em>Journal of Memory and Language</em>, 33, 824-844.
+</cite>
 
 <cite class="hanging-indent">
 Goto, H. (1971). Auditory perception by normal Japanese adults of the sounds “L”
-and “R”. _Neuropsychologia_, 9, 317-323.
+and “R”. <em>Neuropsychologia</em>, 9, 317-323.
+</cite>
 
 <cite class="hanging-indent">
 MacKain, K. S., Best, C. T., Strange, W. (1981). Categorical perception of
-English /r/ and /l/ by Japanese bilinguals. _Applied Psycholinguistics_, 2,
+English /r/ and /l/ by Japanese bilinguals. <em>Applied Psycholinguistics</em>, 2,
 369-390.
+</cite>
 
 <cite class="hanging-indent">
 McQueen, M. J., Otake, T., Cutler, A., (2001). Rhythmic Cues and Possible-Word
-Constraints in Japanese Speech Segmentation. _Journal of Memory and Language_,
+Constraints in Japanese Speech Segmentation. <em>Journal of Memory and Language</em>,
 45, 103-132.
+</cite>
 
 <cite class="hanging-indent">
 Miyawaki, K., Strange, W., Verbrugge, R., Liberman, A. M., Jenkins, J. J.,
 Fujimura, O. (1975). An effect of linguistic experience: The discrimination of
-[r] and [l] by native speakers of Japanese and English, _Perception &
-Psychophysics_, 18, 331-340.
+[r] and [l] by native speakers of Japanese and English, <em>Perception &
+Psychophysics</em>, 18, 331-340.
+</cite>
 
 <cite class="hanging-indent">
 Norris, D. G., McQueen, J. M., Cutler, A., & Butterfield, S. (1997). The
-possible-word constraint in the segmentation of continuous speech. _Cognitive
-Psychology_, 34 191-243
+possible-word constraint in the segmentation of continuous speech. <em>Cognitive
+Psychology</em>, 34 191-243
+</cite>
 
 <cite class="hanging-indent">
 Otake, T., Hatano, G., Cutler, A., Mehler, J., (1993) Mora or Syllable? Speech
-Segmentation in Japanese. _Journal of Memory and Language_, 32, 258-278.
+Segmentation in Japanese. <em>Journal of Memory and Language</em>, 32, 258-278.
+</cite>
 
 <cite class="hanging-indent">
 Sanders, L. D., Neville, H. J., Woldorff, M. G., (2002). Speech Segmentation by
 Native and Non-Native Speakers: The Use of Lexical, Syntactic, and
-Stress-Pattern Cues. _Journal of Speech, Language, and Hearing Research_, 45,
+Stress-Pattern Cues. <em>Journal of Speech, Language, and Hearing Research</em>, 45,
 519-530.
+</cite>
 
 <cite class="hanging-indent">
 Strange, W., Dittmann, S., (1984).
 Effects of discrimination training on the
 perception of /r-l/ by Japanese adults learning English.
-_Perception & Psychophysics_,
+<em>Perception & Psychophysics</em>,
 36(2), 131-145.
+</cite>
