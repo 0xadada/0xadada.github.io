@@ -3,7 +3,7 @@ name: GitHub Pages
 on:
   push:
     branches:
-      - nextjs-deploy
+      - master
   pull_request:
 
 jobs:
@@ -37,7 +37,7 @@ jobs:
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
-        if: ${{ github.ref == 'refs/heads/nextjs-deploy' }}
+        if: ${{ github.ref == 'refs/heads/main' }}
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./out
