@@ -1,61 +1,33 @@
-# https://0xadada.pub
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-Website for 0xADADA.pub
+## Getting Started
 
-Site is built with [Jekyll](http://jekyllrb.com) and served with GitHub Pages.
-
-## Requirements
-
-- Ruby 2.0.0+
-- Bundle `gem install bundler --user-install`
-
-## Development
+First, run the development server:
 
 ```bash
-yarn
-bundle install
+npm install
+npm run dev
 ```
 
-After checking out the repo, run `git config core.hooksPath .githooks` to enable
-automatic markdown formatting. Alternatively run `yarn format` to manually
-format the Markdown files.
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-To run in development sever:
+You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
 
-```bash
-yarn serve
-```
+[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
 
-To live preview markdown in a browser:
+The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
 
-```bash
-yarn pen <filename>
-```
+## Learn More
 
-## Layouts
+To learn more about Next.js, take a look at the following resources:
 
-These options are available to any post:
+- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
+- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-```md
-layout: optional, defaults to "default" layout. Others are: longread: full-bleed
-text content. webmention-reply: Specific microformat markup for comment replies.
-webmention-like: Specific microformat markup for likes.
+You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
-header: optional, defaults to "header.html". Can specify `false` to disable the
-header. webmentions: optional: `false` can disable the webmentions form. footer:
-optional, defaults to "footer.html". Can specify `false` to disable the footer.
+## Deploy on Vercel
 
-alternate: an alternate canonical URL, the page automatically redirects to this
-URL with a meta tag.
+The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-title: Required, the title of the post.
-
-date: Required, format: `YYYY-MM-DD hh:mm:ss`
-
-author: An authors name. Providing one should also be entered in
-`_data/authors.yml`.
-```
-
-## License
-
-[MIT](LICENSE)
+Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
