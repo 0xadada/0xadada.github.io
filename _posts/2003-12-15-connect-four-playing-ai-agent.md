@@ -8,6 +8,7 @@ metaDescription:
   Connect Four by Milton-Bradely."
 metaKeywords: ai, artificial intelligence, machine learning, connect four, minimax
 metaOgType: "article"
+author: "0xADADA, Erik Ibsen, Chen Zhang"
 license: cc-by
 tags: [projects]
 style: |
@@ -29,7 +30,6 @@ style: |
 Khoury College of Computer Sciences
 <br>
 Northeastern University Boston, MA
-{: style="text-align:center;" }
 
 ---
 
@@ -40,7 +40,6 @@ consisting of a grid of 6x7 slots. The object is to make a vertical, horizontal
 or diagonal line of four pieces before the opposing player does. The agent
 designed in the current study is able to play against a human opponent or
 against another AI agent.
-{: style="padding:0 8em; font-size:0.7em;" }
 
 ---
 
@@ -120,7 +119,7 @@ described in Table 1.2.
 | Environment         | Game Board, Agent’s pieces, and Opponent’s pieces.                                        |
 | Actuators           | Piece placing function.                                                                   |
 | Sensors             | Direct access to the state of the board.                                                  |
-{: style="font-size:0.625em" }
+
 
 <aside>
   <a id="#table:1.1"></a>
@@ -135,7 +134,7 @@ described in Table 1.2.
 | Static vs. Dynamic                        | This environment is fully static. Time is not a factor in making the decision as to where to place pieces. Once it is the agent’s turn, the state cannot be changed until it makes its move. The agent is also not penalized as a function of decision time.                                                                                                                                                                     |
 | Discrete vs. Continuous                   | Connect Four is a fairly simple game with a finite, albeit large, number of different states. Therefore, the environment is decidedly discrete.                                                                                                                                                                                                                                                                                  |
 | Single agent vs. multi-agent              | In this game, there are two agents at work. From the point of view of the AI agent, there is itself, and another agent. The other agent can either be a human player or another AI agent, which may or may not use the same algorithm. Since both agents (be they human or otherwise) are out to maximize their own performance measure and minimize their opponent’s, the environment is classified as competitive multi-agent. |
-{: style="font-size:0.625em" }
+
 
 <aside>
   <a id="table:1.1"></a>
@@ -392,7 +391,7 @@ Table 5.1 is a brief summary of how the different algorithms interact.
 | Defensive vs. Aggressive                           | Aggressive          | Since Aggressive AI takes into account more of the state than the Defensive, Aggressive will always prevail.                                                                                                                                    |
 | Defensive or Aggressive vs. Minimax                | Minimax             | Since Minimax is able to look ahead four moves, it will usually defeat both Defensive and Aggressive. There are some instances where the game will end in a draw.                                                                               |
 | Minimax vs. Minimax                                | Player 2            | For some coincidental reason, when Minimax is pitted against itself, the second player always wins, and the same game is always played. This may be due to the fact that the entire game tree is not searched, so the algorithm is not perfect. |
-{: style="font-size:0.625em" }
+
 
 <aside>
   Table 5.1 – A summary of the results of AI vs. AI games.
