@@ -33,7 +33,7 @@ or the distortions of propaganda and ideology. I was inspired by Sarah Kendzior:
 > of things you would never do. Because it is possible that in the next year,
 > you will do them. Write a list of things you would never believe. Because it
 > is possible that in the next year, you will either believe them or be forced
-> to say you believe them.
+> to say you believe them.[^1]
 >
 > ‒Sarah Kendzior, <cite>We’re heading into dark times. This is how to be your
 > own light in the Age of
@@ -43,13 +43,12 @@ or the distortions of propaganda and ideology. I was inspired by Sarah Kendzior:
 
 The 2016 election was a farce and a tipping point where politics have finally
 become an extension of what Guy Debord called "The
-Spectacle"<sup class="Ref" id="ref:cite:2">[[2](#cite:2)]</sup>. Both "viable"
-candidates offered the same neoliberal flavor of poison. It was a false choice
-between "Coke vs Pepsi."
+Spectacle"[^2]. Both "viable" candidates offered the same neoliberal flavor of
+poison. It was a false choice between "Coke vs Pepsi."
 
 Clinton campaigned on a platform powered by a misplaced
-faith<sup class="Ref" id="ref:cite:3">[[3](#cite:3)]</sup> in Big
-Data<sup class="Ref" id="ref:cite:4">[[4](#cite:4)]</sup>. She spoke in a
+faith[^3] in Big
+Data[^4]. She spoke in a
 language of clinical rhetoric to nobody except Wall Street. She was a status quo
 candidate that lacked vision, offering nothing except a hedge against the
 fascism of Trump. Her speeches were empty, dispassionate and simply disengaged
@@ -266,50 +265,34 @@ During difficult times, there is a blossoming of arts and culture in response to
 authoritarian oppression. While I have no expectations for positive reform in
 federal politics, I have high hopes for local community action and the arts.
 
-## References
+[^1]:
+    Kendzior, Sarah.
+    [We're heading into dark times. This is how to be your own light in the Age of Trump](https://thecorrespondent.com/5696/were-heading-into-dark-times-this-is-how-to-be-your-own-light-in-the-age-of-trump/1611114266432-e23ea1a6)
+    _The Correspondent_.
+    The Correspondent,
+    18 Nov. 2016.
+    Web.
+    3 Jan. 2017.
+    
+[^2]:
+    Debord, Guy. _The Society of the Spectacle_.
+    Perlman, Fredy (Translator).
+    Detroit: Black & Red,
+    Print.
+    1983.
 
-<cite class="hanging-indent" id="cite:1">
-  Kendzior, Sarah.
-  <a href="https://thecorrespondent.com/5696/were-heading-into-dark-times-this-is-how-to-be-your-own-light-in-the-age-of-trump/1611114266432-e23ea1a6">
-    "We're heading into dark times. This is how to be your own light in the Age
-  of Trump"</a>.
-  <em>The Correspondent</em>.
-  The Correspondent,
-  18 Nov. 2016.
-  Web.
-  3 Jan. 2017.
-  <a class="RefBack" href="#ref:cite:1"></a>
-</cite>
-
-<cite class="hanging-indent" id="cite:2">
-  Debord, Guy.
-  <em>The Society of the Spectacle</em>.
-  Perlman, Fredy (Translator).
-  Detroit: Black & Red,
-  Print.
-  1983.
-  <a class="RefBack" href="#ref:cite:2"></a>
-</cite>
-
-<cite class="hanging-indent" id="cite:3">
-  Siegel, Eric.
-  <a href="https://blogs.scientificamerican.com/guest-blog/how-hillary-s-campaign-is-almost-certainly-using-big-data/">
-    How Hillary's Campaign Is (Almost Certainly) Using Big Data</a>.
-  <em>Scientific American</em>.
-  Scientific American,
-  Web.
-  2016.
-  <a class="RefBack" href="#ref:cite:3"></a>
-</cite>
-
-<cite class="hanging-indent" id="cite:4">
-  Wagner, John.
-  <a href="https://www.washingtonpost.com/news/post-politics/wp/2016/11/09/clintons-data-driven-campaign-relied-heavily-on-an-algorithm-named-ada-what-didnt-she-see/">
-    "Clinton’s data-driven campaign relied heavily on an algorithm named Ada.
-    What didn’t she see?"</a>.
-  <em>The Washington Post</em>.
-  The Washington Post,
-  Web.
-  2016.
-  <a class="RefBack" href="#ref:cite:4"></a>
-</cite>
+[^3]:
+    Siegel, Eric.
+    [How Hillary's Campaign Is (Almost Certainly) Using Big Data](https://blogs.scientificamerican.com/guest-blog/how-hillary-s-campaign-is-almost-certainly-using-big-data/)
+    _Scientific American_.
+    Scientific American,
+    Web.
+    2016.
+  
+[^4]:
+    Wagner, John.
+    [Clinton’s data-driven campaign relied heavily on an algorithm named Ada. What didn’t she see?](https://www.washingtonpost.com/news/post-politics/wp/2016/11/09/clintons-data-driven-campaign-relied-heavily-on-an-algorithm-named-ada-what-didnt-she-see/)
+    _The Washington Post_.
+    The Washington Post,
+    Web.
+    2016.
