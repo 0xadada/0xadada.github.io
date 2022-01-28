@@ -38,7 +38,7 @@ only just very obvious on the net. this is the extent of my homage to Gender On
 The Net.
 
 i suspect that cyberspace exists because it is the purest manifestation of the
-mass (masse) as Jean Beaudrilliard described it. it is a black hole; it absorbs
+mass (masse) as Jean Baudrillard described it. it is a black hole; it absorbs
 energy and personality and then re–presents it as spectacle. people tend to
 express their vision of the mass as a kind of imaginary parade of blue–collar
 workers, their muscle–bound arms raised in defiant salute. sometimes in this
@@ -64,9 +64,9 @@ Least Of Our Problems surrounding freedom of expression.
 western society has a problem with appearance and reality. it keeps wanting to
 split them off from each other, make one more real than the other, invest one
 with more meaning than it does the other. there are two people who have
-something to say about this: Nietzsche and Beaudrilliard. i invoke their names
+something to say about this: Nietzsche and Baudrillard. i invoke their names
 in case somebody thinks i made this up. Nietzsche thinks that the conflict over
-these ideas cannot be resolved. Beaudrilliard thinks that it was resolved and
+these ideas cannot be resolved. Baudrillard thinks that it was resolved and
 that this is how come some people think that communities can be virtual: we
 prefer simulation (simulacra) to reality. image and simulacra exert tremendous
 power upon culture. and it is this tension, that informs all the debates about
@@ -122,7 +122,7 @@ the idea of the social; second, eco–greenness; and lastly, the assumption that
 technology equals progress in a kind of nineteenth century sense. all of these
 ideas break down under analysis into forms of banality.
 
-as beaudrilliard has said, socialization is measured according to the amount of
+as Baudrillard has said, socialization is measured according to the amount of
 exposure to information, specifically, exposure to media. the social itself is a
 dinosaur: people are withdrawing into activities that are more about consumption
 than anything else. even the Evil Newt says that. ( i watched his class.)
@@ -288,7 +288,5 @@ meantime, give my love to the FBI.
     manager/research analyst, essayist, and poet, best known for her 1994 essay 
     "Pandora's Vox: On Community in Cyberspace", a widely cited critical account
     of virtual communities.
-    <br>
-    This article was originally published in 1994.
   </em>
 </aside>

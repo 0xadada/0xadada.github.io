@@ -421,55 +421,62 @@ identity by reference to out-groups that it creates and reinforces.
 
 <cite class="hanging-indent">
 De Vos, George A.
-_Social Cohesions and Alienation: Minorities in the United States
-and Japan_.
+<em>Social Cohesions and Alienation: Minorities in the United States
+and Japan</em>.
 Boulder, Colorado:
 Westview Press, Inc.
 Print.
 1992.
+</cite>
 
 <cite class="hanging-indent">
 Christopher, Robert C.
-_The Japanese Mind_.
+<em>The Japanese Mind</em>.
 New York:
 Fawcett Columbine.
 Print.
 1983.
+</cite>
 
 <cite class="hanging-indent">
 Dower, John.
-_War without mercy: Race and power in the pacific War_.
+<em>War without mercy: Race and power in the pacific War</em>.
 "The Demonic Other"
 New York:
 Pantheon Books.
 Print.
 1986.
+</cite>
 
 <cite class="hanging-indent">
 Smith, Patrick L.
-_Japan: A Reinterpretation_.
+<em>Japan: A Reinterpretation</em>.
 New York:
 Vintage Books.
 Print.
 1998.
+</cite>
 
 <cite class="hanging-indent">
 Murakami, Ryu.
-[_Japan's Lost
-Generation_](http://edition.cnn.com/ASIANOW/time/magazine/2000/0501/japan.essaymurakami.html)
-<sup>[mirror](http://web.archive.org/web/20110219091725/http://www.time.com/time/asia/magazine/2000/0501/japan.essaymurakami.html)</sup>
+<a href="http://edition.cnn.com/ASIANOW/time/magazine/2000/0501/japan.essaymurakami.html">Japan's Lost Generation</a>
+<sup>
+  <a href="http://web.archive.org/web/20110219091725/http://www.time.com/time/asia/magazine/2000/0501/japan.essaymurakami.html">mirror</a>
+</sup>
 New York:
 Time, Inc.
 Web.
 2000.
+</cite>
 
 <cite class="hanging-indent">
 Kerr, Alex.
-_Dogs and Demons: Tales from the Dark Side of Japan_.
+<em>Dogs and Demons: Tales from the Dark Side of Japan</em>.
 New York:
 Hill and Wang.
 Print.
 2001.
+</cite>
 
 <aside>
   <p>Photo of Mt. Isolation by the Author.</p>

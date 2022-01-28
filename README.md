@@ -1,61 +1,22 @@
+
 # https://0xadada.pub
 
 Website for 0xADADA.pub
 
-Site is built with [Jekyll](http://jekyllrb.com) and served with GitHub Pages.
+This is a [Next.js](https://nextjs.org/) project bootstrapped with
+[`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Requirements
+## Getting Started
 
-- Ruby 2.0.0+
-- Bundle `gem install bundler --user-install`
-
-## Development
+First, run the development server:
 
 ```bash
-yarn
-bundle install
+npm install
+npm run dev
 ```
 
-After checking out the repo, run `git config core.hooksPath .githooks` to enable
-automatic markdown formatting. Alternatively run `yarn format` to manually
-format the Markdown files.
+Open [http://localhost:3000](http://localhost:3000) with your browser to see
+the result.
 
-To run in development sever:
-
-```bash
-yarn serve
-```
-
-To live preview markdown in a browser:
-
-```bash
-yarn pen <filename>
-```
-
-## Layouts
-
-These options are available to any post:
-
-```md
-layout: optional, defaults to "default" layout. Others are: longread: full-bleed
-text content. webmention-reply: Specific microformat markup for comment replies.
-webmention-like: Specific microformat markup for likes.
-
-header: optional, defaults to "header.html". Can specify `false` to disable the
-header. webmentions: optional: `false` can disable the webmentions form. footer:
-optional, defaults to "footer.html". Can specify `false` to disable the footer.
-
-alternate: an alternate canonical URL, the page automatically redirects to this
-URL with a meta tag.
-
-title: Required, the title of the post.
-
-date: Required, format: `YYYY-MM-DD hh:mm:ss`
-
-author: An authors name. Providing one should also be entered in
-`_data/authors.yml`.
-```
-
-## License
-
-[MIT](LICENSE)
+You can start editing the page by modifying `pages/index.tsx`. The page 
+auto-updates as you edit the file.

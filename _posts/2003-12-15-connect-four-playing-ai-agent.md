@@ -420,30 +420,34 @@ they will remain one of the best solutions to a computer game-playing problem.
 
 <cite class="hanging-indent" id="cite:4">
 Russell, S., Norvig, P.
-_Artificial Intelligence, A Modern Approach_.
+<em>Artificial Intelligence, A Modern Approach</em>.
 Third Edition
 Pearson Education, Inc.
 Prentice Hall.
 Print.
 2003.
+</cite>
 
 <cite class="hanging-indent" id="cite:1">
 Flanagan, D.
-_Java in a Nutshell_.
+<em>Java in a Nutshell</em>.
 Third Edition.
 O’Reilly & Associates, Inc. 
 Print.
 1999.
+</cite>
 
 <cite class="hanging-indent" id="cite:2">
 Knudsen, J.
-_Java 2D Graphics_.
+<em>Java 2D Graphics</em>.
 O’Reilly & Associates, Inc.
 Print.
 1999.
+</cite>
 
 <cite class="hanging-indent" id="cite:3">
 Milton-Bradley, Inc. Connect Four Game, Hasbro, Inc.
+</cite>
 
 
 <aside>

@@ -374,11 +374,15 @@ forward for the protection of the right to privacy online.
 <cite class="hanging-indent" id="cite:1">
 TMZ.com homepage as of December 2nd, 2017.
 <a class="RefBack" href="#ref:note:1"></a>
+</cite>
 
 <cite class="hanging-indent" id="cite:2">
-[_Online Tracking: A 1-million-site Measurement and Analysis_](http://randomwalker.info/publications/OpenWPM_1_million_site_tracking_measurement.pdf).
+<a href="http://randomwalker.info/publications/OpenWPM_1_million_site_tracking_measurement.pdf">
+  Online Tracking: A 1-million-site Measurement and Analysis
+</a>
 Englehardt, Steven and Narayanan, Arvind.
 Princeton:
 ACM CCS 2016.
 2016.
 <a class="RefBack" href="#ref:note:2"></a>
+</cite>

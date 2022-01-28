@@ -1,0 +1,55 @@
+.header {
+  border-bottom: 1px solid rgba(61, 70, 77, 0.1);
+  margin-bottom: 4.5em;
+}
+
+@media screen and (min-width: 46.25em) {
+  .header {
+    display: flex;
+    justify-content: space-between;
+  }
+}
+
+.avatar {
+  text-decoration: none;
+}
+.avatarLabel {
+  font-weight: 100;
+  font-size: 2rem;
+}
+
+.items {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: inline-block;
+}
+@media screen and (min-width: 46.25rem) {
+  .items {
+    line-height: 3.5rem;
+  }
+}
+
+.item {
+  display: inline;
+}
+
+.item:first-child {
+  padding-left: 0;
+}
+.item::after {
+  content: "\002F";
+  margin: 0 0.25rem;
+}
+.item:last-child::after {
+  content: none;
+}
+
+.link:link {
+  color: #292929;
+  text-decoration: none;
+}
+
+.link:hover {
+  text-decoration: underline;
+}

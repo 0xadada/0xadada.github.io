@@ -151,8 +151,6 @@ Just like Google built the backbone of search advertising, Netflix is building
 the backbone for a future of video storytelling where the **ads and the content
 will be impossible to distinguish because they'll become the same thing**.
 
-## Citations
-
 [^1]:
     Nada Elnahla. (2020). Black Mirror: Bandersnatch and how Netflix manipulates
     us, the new gods, _Consumption Markets & Culture_, 23:5, 506-511,
