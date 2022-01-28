@@ -35,9 +35,7 @@ or the distortions of propaganda and ideology. I was inspired by Sarah Kendzior:
 > is possible that in the next year, you will either believe them or be forced
 > to say you believe them.[^1]
 >
-> ‒Sarah Kendzior, <cite>We’re heading into dark times. This is how to be your
-> own light in the Age of
-> Trump<sup class="Ref" id="ref:cite:1">[[1](#cite:1)]</sup></cite>
+> ‒Sarah Kendzior
 
 ## The Spectacle of 2016
 
@@ -278,21 +276,18 @@ federal politics, I have high hopes for local community action and the arts.
     Debord, Guy. _The Society of the Spectacle_.
     Perlman, Fredy (Translator).
     Detroit: Black & Red,
-    Print.
-    1983.
+    Print. 1983.
 
 [^3]:
     Siegel, Eric.
     [How Hillary's Campaign Is (Almost Certainly) Using Big Data](https://blogs.scientificamerican.com/guest-blog/how-hillary-s-campaign-is-almost-certainly-using-big-data/)
     _Scientific American_.
     Scientific American,
-    Web.
-    2016.
+    Web. 2016.
   
 [^4]:
     Wagner, John.
     [Clinton’s data-driven campaign relied heavily on an algorithm named Ada. What didn’t she see?](https://www.washingtonpost.com/news/post-politics/wp/2016/11/09/clintons-data-driven-campaign-relied-heavily-on-an-algorithm-named-ada-what-didnt-she-see/)
     _The Washington Post_.
     The Washington Post,
-    Web.
-    2016.
+    Web. 2016.
