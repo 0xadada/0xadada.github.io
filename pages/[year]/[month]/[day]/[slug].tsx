@@ -7,8 +7,7 @@ import PostContent from '../../../../components/post-content';
 import Byline from '../../../../components/byline';
 import { getPostBySlug, getAllPosts } from '../../../../lib/api';
 import markdownToHtml from '../../../../lib/markdown-to-html';
-import License from '../../../../components/License';
-import { SITENAME, BASEURL } from '../../../../lib/constants';
+import License from '../../../../components/license';
 
 export async function getStaticProps({ params }) {
   const filename = `${params.year}-${params.month}-${params.day}-${params.slug}`;
