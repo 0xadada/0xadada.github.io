@@ -107,10 +107,7 @@ actualization.
 This process of commodification has turned us all into tastemakers, reviewers,
 likers, retweeters and brand ambassadors. The platform takes our real authentic
 friendships and first commodifies them,
-<a class="Annotation-ref" href="#anno:1">reifies them</a>,
-<span class="Annotation" id="anno:1">Reification happens when something is taken
-away from a thinking subject, displaced into an object, and turned against the
-subject.</span> and then sells them back to us as an “image of friendship”, but
+reifies them, and then sells them back to us as an “image of friendship”, but
 one that is bankrupt of any genuine social value. Over time, these platforms
 transform us all into unpaid advertising agencies. We promote goods, services,
 lifestyles and desires to our friends, weaponizing images to generate feelings
