@@ -48,12 +48,6 @@ during the exploitation of their own labor) into commodities.
 Looting, in other terms, is both a rejection of the commodity and the violence
 used to protect its spectacular status, and a Peoples Bailout by other means.
 
-<aside>
-  <em>This is a translation and excerpt from "Le Déclin et la chute de
-l'économie spectaculaire-marchande" to be included in "The Society of The
-Spectacle" a forthcoming book by 0xADADA which reinterprets the works of Guy
-Debord for the contemporary context.</em>
-</aside>
 
 ## References
 
