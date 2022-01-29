@@ -171,6 +171,7 @@ written. I am optimistic that together we _can_ make another world possible.
     in their notes: "[The Spectacle], which is perhaps the best articulation, in
     its own delirious way, of the contemporary consciousness of the triumph of
     capital."
+    <br />
     <cite>Hardt, M. & Negri, A. (2000). <em>Empire</em>. Cambridge, Mass: Harvard University
     Press. 0674251210.</cite> (Pp. 188/444).
 
