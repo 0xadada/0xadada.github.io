@@ -44,10 +44,8 @@ become an extension of what Guy Debord called "The
 Spectacle"[^2]. Both "viable" candidates offered the same neoliberal flavor of
 poison. It was a false choice between "Coke vs Pepsi."
 
-Clinton campaigned on a platform powered by a misplaced
-faith[^3] in Big
-Data[^4]. She spoke in a
-language of clinical rhetoric to nobody except Wall Street. She was a status quo
+Clinton campaigned on a platform powered by a misplaced faith[^3] in Big
+Data[^4]. She spoke in a language of clinical rhetoric to nobody except Wall Street. She was a status quo
 candidate that lacked vision, offering nothing except a hedge against the
 fascism of Trump. Her speeches were empty, dispassionate and simply disengaged
 from reality. Her campaign and the DNC were corrupt from the start, and they
@@ -174,20 +172,13 @@ good of all.
 
 I refuse to engage in consumerist activism. I wont be buying Che Guevara
 t-shirts to lend my personal brand more progressive looking street-cred.
-<a class="Annotation-ref" href="#note:1">I wont be cheering for corporations
-making donations to political causes when it serves their bottom
-line.</a><span class="Annotation" id="note:1">I've collected a few examples of
-this type of behavior
-<a href="https://twitter.com/i/moments/817897786301710336"> Performative
-Anti-Trump Activism</a> in a Twitter Moment. </span> These types of activism are
-counterproductive as they subjugate real social activism via personal
-relationships into a
+I wont be cheering for corporations making donations to political causes when it
+serves their bottom line[^5]. These types of activism are counterproductive as
+they subjugate real social activism via personal relationships into a
 [relationship mediated by physical goods](<https://en.wikipedia.org/wiki/Reification_(Marxism)>)
 and associations to brands.
 
-I refuse to acknowledge the
-<abbr title="Department of Homeland Security">DHS</abbr>,
-<abbr title="Customs and Border Protection">CBP</abbr> as necessary or helpful
+I refuse to acknowledge the DHS, CBP as necessary or helpful
 to US national security, as defenders of the constitution or more generally as
 upkeepers of the rule of law. At their worst, they're oppressive thugs for a
 racist deep state.
@@ -205,10 +196,9 @@ rumors" causing fractures in social cohesion. I'm worried the Trump
 administration will take a similar path.
 
 I will oppose the reappropriation of language. I will not use terms they
-redefine, nor use <a class="Annotation-ref" href="#note.2">new terms they
-make</a>. <span id="note.2" class="Annotation">Terms like Bigly, Fake News,
-etc.</span> We must preserve the true meaning of words, and reconsider the use
-of language to simplify discourse and bias our perspectives.
+redefine, nor use new terms they make[^6]. We must preserve the true meaning of
+words, and reconsider the use of language to simplify discourse and bias our
+perspectives.
 
 The media, press, bloggers and social media are free to criticize the political
 establishment; it's a national pastime. The Daily Show and Colbert Report are
@@ -291,3 +281,10 @@ federal politics, I have high hopes for local community action and the arts.
     _The Washington Post_.
     The Washington Post,
     Web. 2016.
+
+[^5]:
+    I've collected a few examples of this type of behavior in a Twitter Moment
+    [Performative Anti-Trump Activism](https://twitter.com/i/moments/817897786301710336).
+
+[^6]:
+     For example, terms like 'fake news'.
