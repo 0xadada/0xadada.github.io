@@ -1560,13 +1560,7 @@ The following articles were very useful in providing some help and inspiration.
 - [ArchWiki MacBook](https://wiki.archlinux.org/index.php/MacBook)
 - [ArchWiki MacBookPro11,x](https://wiki.archlinux.org/index.php/MacBookPro11,x)
 - [Arch Linux Running on my MacBook - Phil Plückthun](https://medium.com/@philpl/arch-linux-running-on-my-macbook-2ea525ebefe3#.ai90cnihe)
-- <cite id="cite:1">
-  <a href="https://www.youtube.com/watch?v=Fzmm87oVQ6c">My personal fight
-    against the modern laptop</a>
-  A talk discussing our decreasing ability to change our hardware to suit
-  our needs.
-  <a class="RefBack" href="#ref:cite:1"></a>
-  </cite>
+- [My personal fight against the modern laptop](https://www.youtube.com/watch?v=Fzmm87oVQ6c)
 
 Any changes to this article will be annotated with a footnote and explained
 here.
