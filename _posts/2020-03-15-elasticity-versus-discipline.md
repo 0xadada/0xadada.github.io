@@ -46,10 +46,7 @@ think: _"The Fed is literally buying failed financial instruments to prevent
 banks and financial companies from going out of business"_. Currently, according
 to [Section 14](https://www.federalreserve.gov/aboutthefed/section14.htm) of the
 Federal Reserve Act, the Fed is prevented from buying assets (stocks, index
-funds <a class="Annotation-ref" href="#abbr:1">CDO<span 
-  class="Annotation" id="abbr:1">Collateralized Debt Obligation</span></a>s,
-<a class="Annotation-ref" href="#abbr:2">MBS<span 
-  class="Annotation" id="abbr:2">Mortgage Backed Securities</span></a>s)
+funds CDO, MBS)
 directly on the market. Instead they can only buy government-backed assets,
 mostly bonds and MBSs by institutions like Freddie Mac that _are_ government
 backed. Instead, the Feds first line of defense is lowering interest rates, and
