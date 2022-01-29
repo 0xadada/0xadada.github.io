@@ -92,7 +92,7 @@ The aim of these tools are:
    configuration throughout an applications life
 
 Configuration management tools are wonderful for automated provisioning, but _in
-practice_<sup class="Ref" id="ref:note:1">[[1](#note:1)]</sup> they tend to
+practice_[^1] they tend to
 split management of the stack-app into two parts:
 
 1. the software Stack
@@ -161,7 +161,7 @@ managed separately.
 ## Docker for Configuration Management
 
 One major advantage of Docker is that it does not necessitate running a unique
-VM <sup id="ref:note:2">[[2](#note:2)]</sup> for every project a team works on.
+VM[^2] for every project a team works on.
 If developers work on multiple projects, each with its own customized VM,
 switching between projects becomes a time-consuming context shift for
 developers.
@@ -911,22 +911,15 @@ Happy cloud computing!
   Docker uses the [docker-compose Yaml](https://docs.docker.com/compose/yml/)
   file to do the same thing.
 
-## Footnotes
+[^1]:
+    Configuration management tools can be used to couple both Stack and
+    Application, but experience has has shown that over time, these tools
+    are not strongly opinionated, and therefore Stack-App decoupling occurs
+    organically over the lifetime of a project.
 
-1. <div id="note:1">
-   Configuration management tools can be used to couple both Stack and
-   Application, but experience has has shown that over time, these tools
-   are not strongly opinionated, and therefore Stack-App decoupling occurs
-   organically over the lifetime of a project.
-   <a class="RefBack" href="#ref:note:1"></a>
-   </div>
-
-1. <div id="note:2">
-   Docker runs on  Linux version 3. In the case where the developer is
-   using OS X, Windows or another non-Linux OS, they'll need to run a Linux
-   VM in order to use Docker. However, this single VM will be able to run
-   all Docker containers for all Docker projects they use. Tools like
-   <a href="https://www.docker.com/docker-machine">Docker Machine</a> make
-   working with the Docker VM much simpler.
-   <a class="RefBack" href="#ref:note:2"></a>
-   </div>
+[^2]:
+    Docker runs on  Linux version 3. In the case where the developer is
+    using OS X, Windows or another non-Linux OS, they'll need to run a Linux
+    VM in order to use Docker. However, this single VM will be able to run
+    all Docker containers for all Docker projects they use. Tools like
+    Docker Machine make working with the Docker VM much simpler.
