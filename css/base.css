@@ -180,18 +180,20 @@ article header {
   margin-left: 0.1875rem;
 }
 
+.hanging-indent,
+.footnotes {
+}
+
 .hanging-indent {
   display: block;
   padding-left: 1.5em;
   text-indent: -1.5em;
 }
 
-.footnotes {
-  font-size: 1rem;
-}
 .data-footnote-backref {
   font-family: sans-serif;
 }
+
 .Annotation-ref {
   border-bottom: 0.0625em dotted lightgreen;
   cursor: help;
