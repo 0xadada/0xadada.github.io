@@ -182,6 +182,14 @@ article header {
 
 .hanging-indent,
 .footnotes {
+  font-size: 0.75rem;
+  color: #57606a;
+  border-top: 1px solid #d0d7de;
+}
+
+.footnotes ol {
+  margin: 0;
+  padding: 0;
 }
 
 .hanging-indent {
