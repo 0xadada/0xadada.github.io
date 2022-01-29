@@ -97,7 +97,7 @@ products and services to the user.
 
 Users also pay for the amount of data ads consume on their smartphone data
 plans. For example, on
-TMZ.com<sup class="Ref" id="ref:note:1">[[1](#cite:1)]</sup> there are 47
+TMZ.com[^1] there are 47
 different trackers, 42 different cookies, and a single page request to the
 homepage takes 10.02 megabytes of data across 262 requests. This request
 averages 52 seconds to load. The user-experience is slow, and the homepage
@@ -112,7 +112,7 @@ an average of 25-30 trackers.
 
 Users "pay" for content with their security as well. In 2016 malware being
 served via ad-networks was up
-132%<sup class="Ref" id="ref:note:2">[[2](#cite:2)]</sup>.
+132%[^2].
 
 The problem with current tracking practices is that _users are not empowered to
 make consensual decisions around how their online behavior is collected and
@@ -369,20 +369,11 @@ forward for the protection of the right to privacy online.
   </em>
 </aside>
 
-## References
+[^1]:
+    TMZ.com homepage as of December 2nd, 2017.
 
-<cite class="hanging-indent" id="cite:1">
-TMZ.com homepage as of December 2nd, 2017.
-<a class="RefBack" href="#ref:note:1"></a>
-</cite>
-
-<cite class="hanging-indent" id="cite:2">
-<a href="http://randomwalker.info/publications/OpenWPM_1_million_site_tracking_measurement.pdf">
-  Online Tracking: A 1-million-site Measurement and Analysis
-</a>
-Englehardt, Steven and Narayanan, Arvind.
-Princeton:
-ACM CCS 2016.
-2016.
-<a class="RefBack" href="#ref:note:2"></a>
-</cite>
+[^2]:
+    [Online Tracking: A 1-million-site Measurement and Analysis](https://randomwalker.info/publications/OpenWPM_1_million_site_tracking_measurement.pdf)
+    Englehardt, Steven and Narayanan, Arvind.
+    Princeton:
+    ACM CCS 2016. 2016.
