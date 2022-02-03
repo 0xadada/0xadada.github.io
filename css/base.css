@@ -182,7 +182,16 @@ article header {
 }
 
 .footnotes {
+  margin-top: 2rem;
+}
+.footnotes::before {
+  content: ' ';
+  display: block;
   border-top: 1px solid #d0d7de;
+  width: 8rem;
+}
+#footnote-label {
+  display: none;
 }
 
 .hanging-indent,
