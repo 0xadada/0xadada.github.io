@@ -9,7 +9,7 @@ const Layout = ({ children }: { children: React.ReactNode }) => {
     <>
       <Head>
         <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <link rel="shortcut icon" href={`${BASEURL}favicon.ico`} />
+        <link rel="icon" href={`${BASEURL}favicon.ico`} />
         <link rel="home" href={BASEURL} />
         <link
           rel="manifest"
