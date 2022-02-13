@@ -22,7 +22,7 @@ I review traditional, single-page web applications, I discuss server-side
 rendering by introducing Ember FastBoot. I showcase our architecture and provide
 a quick summary of how we use FastBoot in production.
 
-[Using Ember FastBoot in Weird Ways (slides)](https://0xadada.pub/talk-using-ember-fastboot-in-weird-ways/)
+[Using Ember FastBoot in Weird Ways (slides)](https://0xadada.github.io/talk-using-ember-fastboot-in-weird-ways/)
 
 
 ## Recording
@@ -40,7 +40,7 @@ a quick summary of how we use FastBoot in production.
 
 <div style="transform:scale(0.5); transform-origin: left top;">
   <iframe width="1920" height="1200" 
-    src="https://0xadada.pub/talk-using-ember-fastboot-in-weird-ways/"
+    src="https://0xadada.github.io/talk-using-ember-fastboot-in-weird-ways/"
     style="box-shadow: 0 0 3.5rem rgba(0,0,0,0.5);"
     frameborder="0">
   </iframe>
