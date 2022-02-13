@@ -5,7 +5,7 @@ date: 2021-03-28 02:18:00
 metaDescription:
   "I've been writing a new edition of Debord's 1967 book The Society of the
   Spectacle, one adapted for our present moment. This edition is out now. This
-  is the Foreword to that edition"
+  is the Foreword to that edition."
 metaKeywords:
   books, marxism, capitalism, anti-capitalism, late-capitalism, anarchism,
   social sciences, philosophy
