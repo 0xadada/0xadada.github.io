@@ -11,7 +11,7 @@ tags: [projects, open-source]
 ---
 
 Released a tiny npm package today:
-[@0xadada/random-emoji](https://0xadada.pub/random-emoji/), a javascript random
+[@0xadada/random-emoji](https://0xadada.github.io/random-emoji/), a javascript random
 emoji function with zero dependencies.
 
 ```javascript
