@@ -17,12 +17,22 @@ tags: [essays, anti-fascism, economics, books]
 license: cc-by-nc-sa
 ---
 
-<aside>
+<details>
+  <summary>
+    
+    ## A big title
+    
+  </summary>
+  
   <p>
-    This essay was adapted from the foreword to my new English edition to Guy
-    Debord's 1967 book <em>The Society of the Spectacle</em>.
+    this is my content.
+    
+    this is __em__phasized text.
+    
+    this is **strong**  text
+    
   </p>
-</aside>
+</details>
 
 Readers of my site may have noticed the many references to Guy Debord in my
 writing over the years, and especially since 2016. This is largely because I've
