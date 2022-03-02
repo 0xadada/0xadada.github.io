@@ -170,8 +170,8 @@ Hardt, M. Negri, A.
 
 __Empire__
 
-Cambridge, Mass: Harvard University
-Press. 0674251210.
+Cambridge, Mass: Harvard University Press.
+0674251210.
 </cite>
 
 [^1]:
