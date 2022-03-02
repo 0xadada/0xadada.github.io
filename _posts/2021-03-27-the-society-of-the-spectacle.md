@@ -164,6 +164,16 @@ written. I am optimistic that together we _can_ make another world possible.
 
 -ra<br /> March 2021
 
+<cite>
+Hardt, M. Negri, A.
+2000).
+
+__Empire__
+
+Cambridge, Mass: Harvard University
+Press. 0674251210.
+</cite>
+
 [^1]:
     Quoting Hardt & Negri: "...Debord recognized this spectacle as the destiny of
     triumphant capitalism. Despite their important differences, such authors offer
@@ -173,13 +183,13 @@ written. I am optimistic that together we _can_ make another world possible.
     capital."
     <br />
     <cite>
-      Hardt, M. Negri, A.
-     (2000).
-     
-      __Empire__.
+    Hardt, M. Negri, A.
+    2000).
+    
+    __Empire__.
   
-      Cambridge, Mass: Harvard University
-      Press. 0674251210.
+    Cambridge, Mass: Harvard University
+    Press. 0674251210.
     </cite> (Pp. 188/444).
 
 [^2]:
