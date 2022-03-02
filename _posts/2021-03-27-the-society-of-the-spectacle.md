@@ -172,8 +172,15 @@ written. I am optimistic that together we _can_ make another world possible.
     its own delirious way, of the contemporary consciousness of the triumph of
     capital."
     <br />
-    <cite>Hardt, M. & Negri, A. (2000). <em>Empire</em>. Cambridge, Mass: Harvard University
-    Press. 0674251210.</cite> (Pp. 188/444).
+    <cite>
+      Hardt, M. Negri, A.
+     (2000).
+     
+      __Empire__.
+  
+      Cambridge, Mass: Harvard University
+      Press. 0674251210.
+    </cite> (Pp. 188/444).
 
 [^2]:
     “fifty or sixty people”: In Debord’s _Comments on the Society of the
