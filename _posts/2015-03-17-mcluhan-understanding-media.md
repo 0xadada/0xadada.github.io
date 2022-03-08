@@ -1,6 +1,6 @@
 ---
-title: "Understanding Media, Reversal of the Overheated Media"
-displayTitle: "Understanding Media, Reversal of the Overheated Media"
+title: "Understanding Media, Reversal of the Overheated Medium"
+displayTitle: "Understanding Media, Reversal of the Overheated Medium"
 date: 2015-03-17 15:54:00
 metaDescription: "Understanding Media, even more relevant today."
 metaKeywords:
