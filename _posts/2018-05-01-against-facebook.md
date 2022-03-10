@@ -133,6 +133,12 @@ optimized and charted, then touted by executives in PowerPoint presentations at
 board meetings. Our experiences are mined, packaged, and sold, and we are not
 paid a dime.
 
+> No rest, no meditation, no reflection, no conversation—the senses are continually
+> overloaded with stimuli. Man Doesn't learn to question his world anymore; The
+> screen offers him answers already made.
+> 
+> Joost Meerloo _Rape of the Mind_
+
 Instead of blindly activating our social media habit for that quick dopamine
 fix, consider who actually benefits. Are you performing a microwork task for
 Facebook or Snapchat? If so, then why aren't you being paid?
