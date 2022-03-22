@@ -34,7 +34,7 @@ select {
     "Apple Color Emoji", "Noto Color Emoji", "Symbola", "Segoe UI Emoji",
     "Segoe UI Symbol";
   font-size: 100%;
-  line-height: 1.4;
+  line-height: 1.5;
 }
 
 @media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi) {
@@ -156,7 +156,7 @@ article h1 {
   margin: 0;
 }
 article header {
-  margin-bottom: 4.5em;
+  margin: 6.5em 0;
 }
 
 @media screen and (min-width: 35em) {
