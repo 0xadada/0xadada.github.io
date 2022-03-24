@@ -102,7 +102,6 @@ blockquote {
   text-align: left;
   position: relative;
   padding: 1em 0;
-  border-left: 2rem solid rgba(61, 70, 77, 0.1);
 }
 blockquote::before {
   content: "\201C";
