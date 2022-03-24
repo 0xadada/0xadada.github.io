@@ -1,3 +1,51 @@
+@font-face {
+  font-family: 'Computer Modern Serif';
+  src: url('/static/fonts/cmun-serif/cmunrm.eot');
+  src: url('/static/fonts/cmun-serif/cmunrm.eot?#iefix')
+      format('embedded-opentype'),
+    url('/static/fonts/cmun-serif/cmunrm.woff') format('woff'),
+    url('/static/fonts/cmun-serif/cmunrm.ttf') format('truetype'),
+    url('/static/fonts/cmun-serif/cmunrm.svg#cmunrm') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Computer Modern Serif';
+  src: url('/static/fonts/cmun-serif/cmunbx.eot');
+  src: url('/static/fonts/cmun-serif/cmunbx.eot?#iefix')
+      format('embedded-opentype'),
+    url('/static/fonts/cmun-serif/cmunbx.woff') format('woff'),
+    url('/static/fonts/cmun-serif/cmunbx.ttf') format('truetype'),
+    url('/static/fonts/cmun-serif/cmunbx.svg#cmunbx') format('svg');
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Computer Modern Serif';
+  src: url('/static/fonts/cmun-serif/cmunti.eot');
+  src: url('/static/fonts/cmun-serif/cmunti.eot?#iefix')
+      format('embedded-opentype'),
+    url('/static/fonts/cmun-serif/cmunti.woff') format('woff'),
+    url('/static/fonts/cmun-serif/cmunti.ttf') format('truetype'),
+    url('/static/fonts/cmun-serif/cmunti.svg#cmunti') format('svg');
+  font-weight: normal;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Computer Modern Serif';
+  src: url('/static/fonts/cmun-serif/cmunbi.eot');
+  src: url('/static/fonts/cmun-serif/cmunbi.eot?#iefix')
+      format('embedded-opentype'),
+    url('/static/fonts/cmun-serif/cmunbi.woff') format('woff'),
+    url('/static/fonts/cmun-serif/cmunbi.ttf') format('truetype'),
+    url('/static/fonts/cmun-serif/cmunbi.svg#cmunbi') format('svg');
+  font-weight: bold;
+  font-style: italic;
+}
+
 ::selection {
   background-color: rgba(254, 231, 0, 0.9);
 }
@@ -28,11 +76,15 @@ select {
   text-size-adjust: none;
 
   /* Normalize font stack. */
-  font-family: system-ui, -apple-system, "BlinkMacSystemFont", "HiraginoSans",
-    "Hiragino Sans", "Roboto", "Noto Sans", "Noto Sans CJK JP", "Oxygen-Sans",
-    "Ubuntu", "Cantarell", "Segoe UI", "Meiryo", "Arial", sans-serif,
-    "Apple Color Emoji", "Noto Color Emoji", "Symbola", "Segoe UI Emoji",
-    "Segoe UI Symbol";
+  /*
+  font-family: system-ui, -apple-system, 'BlinkMacSystemFont', 'HiraginoSans',
+    'Hiragino Sans', 'Roboto', 'Noto Sans', 'Noto Sans CJK JP', 'Oxygen-Sans',
+    'Ubuntu', 'Cantarell', 'Segoe UI', 'Meiryo', 'Arial', sans-serif,
+    'Apple Color Emoji', 'Noto Color Emoji', 'Symbola', 'Segoe UI Emoji',
+    'Segoe UI Symbol';
+    */
+  font-family: 'Computer Modern Serif', Times, serif, 'Twitter Color Emoji',
+    'Apple Color Emoji', 'Segoe UI Emoji';
   font-size: 100%;
   line-height: 1.5;
 }
@@ -59,9 +111,9 @@ a {
 a:hover {
   color: #0000cc;
 }
-.e-content a[href^="http"]::after,
-.entry-content a[href^="http"]::after {
-  content: " ⎋";
+.e-content a[href^='http']::after,
+.entry-content a[href^='http']::after {
+  content: ' ⎋';
   font-style: normal;
 }
 
@@ -104,7 +156,7 @@ blockquote {
   padding: 1em 0;
 }
 blockquote::before {
-  content: "\201C";
+  content: '\201C';
   font-family: serif;
   font-size: 15em;
   position: absolute;
@@ -171,9 +223,9 @@ article header {
   }
 }
 
-.entry-content a[rel~="external"]::after,
-.e-content a[rel~="external"]::after {
-  content: "\238B";
+.entry-content a[rel~='external']::after,
+.e-content a[rel~='external']::after {
+  content: '\238B';
   display: inline-block;
   font-style: normal;
   transform: rotate(90deg);
