@@ -3,7 +3,7 @@ title: "I am not a software developer"
 displayTitle: "I am not a software developer"
 date: 2022-04-01 11:48:00
 metaDescription:
-  "Knowledge workers, software developers, and workers generally reproduce themselves"
+  "On how knowledge workers, software developers, and workers more generally produce personal identities coupled to the production of surplus value"
 metaKeywords:
   software development, software-development, labor
 metaOgType: "article"
@@ -35,3 +35,7 @@ I have put all my eggs in one basket.
 Identifying who we are with _what we do_ is a cognitive limit.
 
 I _do_ software development. I am not a software developer.
+
+<aside>
+  Originally a <a href="https://twitter.com/0xADADA/status/1501622372897632257" rel="external">twitter thread</a>.
+</aside>
