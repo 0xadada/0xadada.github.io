@@ -5,10 +5,10 @@
 }
 .yearItem {
   display: flex;
+  font-size: 1.25rem;
 }
 
 .index {
-  font-size: 1.25rem;
   list-style: none;
   margin: 0 0 0 1rem;
   padding: 0;
