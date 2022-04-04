@@ -15,10 +15,7 @@ license: cc-by-nc-sa
 tags: [essays, anti-fascism]
 ---
 
-<figure>
-  <img src="/static/images/2019-09-25-on-fascism-police.webp" alt="ACAB" title="A cop">
-  <figcaption>A cop</figcaption>
-</figure>
+![A cop](/static/images/2019-09-25-on-fascism-police.webp)
 
 Fascism is an expensive to maintain state-of-siege by the capitalist economy
 attempting to defend itself by an irrational means. Fascism rallies to the
