@@ -210,6 +210,12 @@ article header {
 @media screen and (min-width: 35em) {
   article h1 {
     font-size: 3em;
+    font-size: clamp(3rem, 10vw + 16px, 9rem);
+    background-image: url('/static/images/static.gif');
+    image-rendering: optimizequality;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
   }
   article h2 {
     font-size: 2em;
