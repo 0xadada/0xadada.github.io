@@ -80,7 +80,7 @@ distraction, Crary describes it as follows:
 > 2001, pg. 74)</cite>
 
 Over time, these systems continually push our attention and distraction to new
-limits and thresholds. Youtube & Netflix discovers that auto-playing the next
+limits and thresholds. Youtube & Netflix discovered that auto-playing the next
 related video dramatically increases views (Bridle, 2017); Twitter uses the
 "pull-to-refresh" UI gesture that leverages variable rewards to trigger
 addictive behavior as a way to increase user engagement with the timeline;
@@ -97,11 +97,16 @@ This eventually leads to a crisis of attentiveness, where the system must
 maintain an increased level of distraction. In order to continually distract us,
 the visual landscape must constantly change, requiring us to reorient our
 attention until the shift from one thing to another becomes the natural state
-(e.g. the Instagram “Explore” tab). Over time, we begin to value our attention
+(e.g. the Instagram “Explore” tab). These systems are training our brain to glance
+and skim, reading only a few sentences, watching increasingly shortened clips, and
+continually shifting focus to the next snippet in a continual route to novelty
+instead of focus.
+
+Over time, we could begin to value our attention
 while the platforms struggle to get more and more of what they previously got
-for free. This is not sustainable, as newer products need to continually
-revolutionize the means of distraction or else we will realize how distracted we
-really are. With a loss of distraction, we can more easily achieve self
+for free. This may not be sustainable, as newer products need to continually
+revolutionize the means of distraction else we realize how distracted we
+truely are. It is only through a return to focus that we may ever achieve self
 actualization.
 
 This process of commodification has turned us all into tastemakers, reviewers,
@@ -159,10 +164,19 @@ relationships with our community” (e.g. Facebook.)
 
 The reality of the media, however, is driven by a simple business rule: Sell
 what sells best, the supernormal stimuli: whether it’s clickbait, memes, curated
-lifestyles, celebrity gossip, salacious headlines, and freak events. The media
-tends to focus on the rare incidents that have no actual influence on our daily
-lives, and the goal of these platforms is to keep us addicted. Facebook’s 2017
-Annual Report makes it clear:
+lifestyles, celebrity gossip, salacious headlines, and freak events. In the drive
+to maximize profit, these organizations are required to maximize content engagement,
+and the kind of content engages users the most is content that enrages, shocks, content
+that’s absurd, grotesque, weird, or funny, content that exposes the horrible, or content
+with threatening policies. The media tends to focus on the rare incidents
+that have no actual influence on our daily lives, and the goal of these platforms
+is to keep us addicted. This attentiveness to negativity is then reinforced to the
+point of addiction, and addiction to negativity turns to depression and teaches us
+learned helplessness. Quoting media researcher Dobelli "When we tune into the news,
+we are constantly confronted with unresolved problems and the narrative does not
+inspire much hope that they will ever be solved." <cite>(Dobelli, 2020)</cite>
+
+When it comes to engagement, Facebook’s 2017 Annual Report makes it clear:
 
 > The increase in the ads delivered was driven by an increase in users and their
 > engagement and an increase in the number and frequency of ads displayed on
@@ -828,6 +842,7 @@ Dillet, Romain. (October 20, 2017).
 [How I cured my tech fatigue by ditching feeds](https://techcrunch.com/2017/10/28/how-i-cured-my-tech-fatigue-by-ditching-feeds/).
 (Retrieved on April 10, 2018)
 
+Dobelli, Rolf. (2020). _Stop Reading the News: A Manifesto for a Happier, Calmer and Wiser Life_. Hachette UK.
 
 Dormehl, Luke. (2014). _The Formula_. New York: Perigee. Print.
 
