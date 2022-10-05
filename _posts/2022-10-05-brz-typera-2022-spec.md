@@ -15,7 +15,9 @@ license: cc-by-nc-sa
 <figure>
   <img src="/static/images/2022-10-05-brz-typera-2022-spec-00.jpg" alt="2017 Subaru BRZ Type RA">
   <figcaption>
-    2017 Subaru BRZ Type RA
+    2017 Subaru BRZ Type RA at Palmer Motorsports Park.
+    
+    Photo by Robert Badar.
   </figcaption>
 </figure>
 
@@ -67,7 +69,9 @@ COVID-19 caused used-car prices to skyrocket.
 <figure>
   <img src="/static/images/2022-10-05-brz-typera-2022-spec-01.jpg" alt="2017 Subaru BRZ Type RA">
   <figcaption>
-    2017 Subaru BRZ Type RA
+    2017 Subaru BRZ Type RA at Palmer Motorsports Park.
+    
+    Photo by Robert Badar.
   </figcaption>
 </figure>
 
