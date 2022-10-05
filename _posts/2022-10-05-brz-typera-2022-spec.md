@@ -75,6 +75,14 @@ Many, if not most of the performance improvement ideas were taken from my previo
 [RASpec Impreza](/2015/08/15/raspec-impreza/) build, and applied to this car,
 only simpler.
 
+Thus far the car has seen 16 track days between racing & drifting, and has handled
+them beautifully, with only a few minor issues.
+
+The car itself, the physical object—isn't what makes me happy, its the _involvement_ in
+creating my vision with my own hands, it's the _participation_ in motorsports,
+and of course the people and friends I make along the way. That is _my own happiness_.
+What is yours?
+
 ## Engine
 
 Tomei Japan EXPREME Ti equal-length manifold,
@@ -135,10 +143,3 @@ P3 v3 ODB gauge,
 Safety Restore seatbelt webbing,
 OEM JDM Toyota/Subaru interior trim & door handles,
 Amerex & Element fire extinguishers.
-
-Thus far the car has seen 16 track days between racing & drifting, and has handled
-them beautifully, with only a few minor issues.
-
-The car itself, the object, that isn't what makes me happy, its the _involvement_ in
-creating my vision with my own hands, it's the _participation_ in motorsports,
-and of course the people and friends I make along the way. That is _my own happiness_.
