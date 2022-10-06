@@ -6,7 +6,7 @@ metaDescription: 'Progress on my 2017 Subaru BRZ build.'
 metaKeywords: motorsports, automotive, cars
 metaOgType: 'article'
 image: /static/images/2022-10-05-brz-typera-2022-spec-00.jpg
-metaImage: /static/images/2022-10-05-brz-typera-2022-spec-00.jpg
+metaImage: /static/images/2022-10-05-brz-typera-2022-spec-card.png
 author: '0xADADA'
 tags: [notes, motorsports]
 license: cc-by-nc-sa
