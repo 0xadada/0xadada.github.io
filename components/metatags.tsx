@@ -20,6 +20,7 @@ export default function Metatags({ post }) {
       {post.metaDescription && (
         <>
           <meta name="description" content={post.metaDescription} />
+          <meta name="og:description" content={post.metaDescription} />
           <meta name="twitter:description" content={post.metaDescription} />
         </>
       )}
