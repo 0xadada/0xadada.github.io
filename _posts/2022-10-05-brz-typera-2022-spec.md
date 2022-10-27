@@ -86,8 +86,8 @@ What is yours?
 ## Engine
 
 Tomei Japan EXPREME Ti equal-length manifold,
-Fujitsubo Authorize R typeS cat back exhaust,
-ECUTek tune (188hp/145.6tq),
+Fujitsubo Authorize R TypeS cat back exhaust,
+ECUTek tune (188hp/145.6tq) by [R Tuned](https://getrtuned.com) at Kinetic Motorsports,
 HKS oil cooler,
 Odyssey PC1100 battery,
 Beat Rush sound generator delete.
@@ -102,7 +102,7 @@ Cusco braided steel clutch hose,
 Perrin rear shifter bushing,
 MTech shifter springs,
 STI transmission mount,
-PBM rear subframe bushings.
+PBM solid rear subframe bushings.
 
 ## Suspension/Brakes
 
@@ -115,13 +115,17 @@ Cusco master cylinder stopper,
 extended tie rods,
 DBA 5000-series 2-piece front rotors,
 Spiegler braided steel brake lines,
+CounterSpace CSG Spec C1 & C11 pads,
 Ferodo DS2500 brake pads,
 ARP extended wheel studs.
 
 ## Wheels/Tires
 
-ENKEI RPF-1 17x9 +35 with Goodyear Eagle Exhilarate 215/45/R17 for street & drift.
-WedsSports TC-105X 17x9 +35 with Yokohama ADVAN A052 225/45R17 for race.
+Enkei GTC02 in Hyper Silver F 17x7.5+38 R 17x9+43 on Goodyear Eagle Exhilarate F 215/45/R17 R 225/45R17.
+
+WedsSports TC-105X EJ Titan 17x9+35 square on Yokohama ADVAN A052 225/45R17.
+
+ENKEI RPF-1 17x9+35 in Matte Black on Bridgestone POTENZA RE-71RS in 225/45R17.
 
 ## Exterior
 
