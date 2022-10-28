@@ -75,8 +75,11 @@ Many, if not most of the performance improvement ideas were taken from my previo
 [RASpec Impreza](/2015/08/15/raspec-impreza/) build, and applied to this car,
 only simpler.
 
-Thus far the car has seen 16 track days between racing & drifting, and has handled
+Thus far the car has seen 18 track days between racing & drifting, and has handled
 them beautifully, with only a few minor issues.
+It’s not making ridiculous amounts of power for a street car, keeping reliability
+and affordability in check. Most importantly, it’s fulfilling its destiny as a
+driver’s car, customised for its intended use and used well.
 
 The car itself, the physical object—isn't what makes me happy, its the _involvement_ in
 creating my vision with my own hands, it's the _participation_ in motorsports,
@@ -117,7 +120,8 @@ DBA 5000-series 2-piece front rotors,
 Spiegler braided steel brake lines,
 CounterSpace CSG Spec C1 & C11 pads,
 Ferodo DS2500 brake pads,
-ARP extended wheel studs.
+ARP extended wheel studs,
+Muteki SR48 open-ended lug nuts.
 
 ## Wheels/Tires
 
@@ -132,11 +136,12 @@ ENKEI RPF-1 17x9+35 in Matte Black on Bridgestone POTENZA RE-71RS in 225/45R17.
 Subaru STI bumper lip and lip skirt,
 CLEiB carbon fiber side skirts,
 Cusco tow strap,
-Verus Engineering side marker deletes,
+Verus Engineering carbon fiber side markers,
 Aerocatch hood pins,
 Quik-Latch front bumper release,
 Audi Q3 overfenders,
-Perrin license plate bracket.
+Perrin license plate bracket,
+Subaru 'Type RA' badge from the WRX STI.
 
 ## Interior
 
