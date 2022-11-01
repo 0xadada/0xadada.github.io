@@ -50,23 +50,23 @@ imageGalleries:
 
 ## About the Car
 
+The car is a 2002 Subaru WRX "bugeye" chassis purchased in 2011 and fully
+restored from 2013 to 2015. The car was built by DENT Sport Garage and
+[German Performance Service](http://www.germanperformanceservice.com/) in
+Massachusetts.
+
 The goal I established for the RASpec Impreza was a cross-campaign race car
 capable of competing in time attack, time trial, hillclimb and wheel-to-wheel
 racing series up and down the East Coast.
 
 This car was originally purchased in 2004, and gradually transformed from street
 car into full race car. The build was done iteratively informed from performance
-metrics during race events.
+metrics at races.
 
 <figure>
   <img src="/static/images/2015-08-15-raspec-impreza-exterior-front-left-01-far.jpg" alt>
   <figcaption>RASpec Impreza 2.0</figcaption>
 </figure>
-
-The car is a 2002 Subaru WRX "bugeye" chassis purchased in 2011 and fully
-restored from 2013 to 2015. The car was built by DENT Sport Garage and
-[German Performance Service](http://www.germanperformanceservice.com/) in
-Massachusetts.
 
 ## 2019 Update
 
@@ -99,7 +99,7 @@ This car is now owned and campaigned at Global Time Attack and other events by
 
 ## Chassis
 
-The chassis is a 2002 model year, GDA/B code VIN #`JF1GD29642G507991`
+The chassis is a 2002 model year, GDA/B code.
 
 The restoration began with a complete tear-down. Everything not welded to the
 chassis was removed, tagged and inspected. Anything not required for racing such
@@ -113,7 +113,7 @@ the roll cage was built and the car was freshly painted white.
 - CAGE: SCCA multi-point rollcage
 - CHASSIS: The entire chassis has been seam-welded
 
-{% include image-gallery.html images="chassis" caption="Chassis underbody, during restoration, seam-weld and painting after media-blast" %}
+[Speedhunters](http://www.speedhunters.com/2022/10/your-cars-celebrating-the-subaru-impreza-wrx/#:~:text=2004%20subaru%20wrx%20sti%20type%20ra)
 
 ## Engine
 
@@ -146,7 +146,7 @@ intake manifold (no TGVs).
 
 The turbo wastegate is a TiAL MR-R 44mm. The turbo uses the TiAL V-Band Clamp
 and Flange System to allow full 306 degree rotation for optimal turbo
-positioning. **Put simply: "Its dope as fuck"**.
+positioning.
 
 <figure>
   <img src="/static/images/2015-08-15-raspec-impreza-engine-turbo.jpg" alt>
@@ -169,10 +169,10 @@ positioning. **Put simply: "Its dope as fuck"**.
 - TURBO: TiAL GT30 Turbine Housing
 - OIL: Cosworth oil pump
 - OIL: Oil starvation baffler
-- OIL: Mocal oil cooler (custom)
+- OIL: Mocal oil cooler
 - OIL: Crawford Performance Air/Oil Separator
 - RADIATOR: Koyo aluminum
-- INTERCOOLER: Griffin custom front mount intercooler (fmic)
+- INTERCOOLER: Griffin custom front mount intercooler
 - EXHAUST: Stainless custom by DENT Sport Garage
 
 <figure>
@@ -212,7 +212,7 @@ positioning. **Put simply: "Its dope as fuck"**.
 - HARDWARE: 6Gun Racing Ball joint extenders w/ tie rod ends
 - HARDWARE: ARP Long wheel studs
 - HARDWARE: Whiteline control arm anti-lift kit
-- WHEELS: VOLK CE28N Time Attacks (White w/red) 17" x 9" 5x114.3 +30
+- WHEELS: VOLK CE28N Time Attacks 17" x 9" 5x114.3 +30
 - BRAKES: PF Performance Friction 2-piece floating rotors w/ aluminum hats
 - BRAKES: PFC Brake pads (#0460.01.15.44 132mm x 61mm x 16mm)
 - BRAKES: Stainless steel braided brake lines
@@ -256,13 +256,10 @@ lower is the 2006-2007 V-Limited lip.
 - LIP: 2006 Subaru STI V-Limited lower front bumper lip
 - FENDER: Rear wheel fenders are rolled & pulled to accommodate larger
 - BLINKER: STI carbon front blinker covers
-- HEADLIGHTS: Plasti-dipped headlights wheel/tires
 
 ## Interior
 
 The interior is fairly spartan and without adornment. Only the essentials.
-
-{% include image-gallery.html images="interior" caption="Interior photos" %}
 
 - STEETING: MOMO steering wheel
 - SEAT: BRIDE Zeta-3 (Red)
@@ -290,17 +287,6 @@ The car comes with additional spares, hardware and accessories.
 - WING: Origin GT Wing (plane only)
 
 ## History
-
-The first race car I built with the name "RASpec Impreza 1.0" began in
-[2004 when I started a thread on NASIOC](http://forums.nasioc.com/forums/showthread.php?s=&threadid=555979)
-asking for advice about building a race car. I just just recently upgraded from
-a 2001 Impreza 2.5RS to the 2004 "blobeye" WRX. Shortly after
-[I signed up for my first track event with the BMW-CCA](http://forums.nasioc.com/forums/showthread.php?t=649784)
-and was totally addicted to track events. A month later
-[I caged my car](http://forums.nasioc.com/forums/showthread.php?t=661055) and
-began its migration from a humble street car to a battle-tested time attack
-machine. The
-[full history of the build process is available on NASIOC](http://forums.nasioc.com/forums/showthread.php?t=1510583&page=20).
 
 <figure>
   <img src="/static/images/2015-08-15-raspec-impreza-racing.jpg" alt>
@@ -370,8 +356,7 @@ platform.
 - _How many track miles on it?_<br> None. The chassis has 0 track miles on it,
   and the engine has been freshly rebuilt. The only "time" its seen is on the
   dyno while it was being tuned.
-- _How much horsepower does it make?_<br> That depends on which ECU map you run.
-  Currently it's running a conservative base map dialed for 350 wheel horse
+- _Horsepower?_<br> Currently it's running a conservative base map dialed for 350 wheel horse
   power at 20lbs of boost. This tune was done at
   [Synaptic3 Performance](http://www.synaptic3.com/) for a practice day where we
   were focusing on suspension setup and were not racing. The previous tune made
