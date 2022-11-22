@@ -23,6 +23,11 @@ export default function Footer() {
             </a>
           </Link>{' '}
         </span>
+        <Link href="https://freeradical.zone/@0xadada">
+          <a rel="me nofollow external noopener" title="0xADADA on Mastodon">
+            Mastodon
+          </a>
+        </Link>{' '}
         <Link href="https://twitter.com/0xadada">
           <a rel="me nofollow external noopener" title="0xADADA on Twitter">
             Twitter
