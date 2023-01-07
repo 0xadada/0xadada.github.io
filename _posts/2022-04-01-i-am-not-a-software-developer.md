@@ -34,6 +34,12 @@ I have often identified my worth with my current job, wage, and employer.
 I have put all my eggs in one basket.
 Identifying who we are with _what we do_ is a cognitive limit.
 
+This is to say, I refuse to only self-understand muself as invested in my work, my career,
+My achievements. This might have once been okay where we talked about the idea as a career
+as a vocation, but the only horizon of intelligibility available according to the dominant mindset
+is one where we understand
+our selves only in terms of pure utility, or economic productiveness. This I refuse.
+
 I _do_ software development. I am not a software developer.
 
 <aside>
