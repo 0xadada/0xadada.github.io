@@ -35,10 +35,6 @@ const Layout = ({ children }: { children: React.ReactNode }) => {
           href={`${BASEURL}static/images/meta/safari-pinned-tab.svg`}
           color="#5bbad5"
         />
-        <meta
-          name="msapplication-config"
-          content={`${BASEURL}static/images/meta/browserconfig.xml`}
-        />
         <meta name="theme-color" content="#FDF9F0" />
         <meta
           name="pocket-site-verification"
