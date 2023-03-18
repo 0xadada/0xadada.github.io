@@ -16,6 +16,7 @@ export default function Footer() {
         <Link href="/">
           <a title="0xADADA">Home</a>
         </Link>{' '}
+        <Link href="/rss.xml">RSS</Link>{' '}
         <span className="h-card">
           <Link href="mailto:0xadada.pub@protonmail.com">
             <a className="c-Meta u-email" rel="me" title="0xADADA">
