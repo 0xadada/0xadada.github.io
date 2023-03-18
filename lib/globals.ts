@@ -1,4 +1,4 @@
-/* eslint-disable @typescript-eslint/no-namespace */
+/* eslint-disable */
 export namespace globals {
   export const yourName = "0xADADA";
   export const siteName = "0xADADA.pub";
