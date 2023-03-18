@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[0xADADA.pub]]></title><description><![CDATA[Writing of 0xADADA]]></description><link>https://0xadada.pub</link><image><url>https://0xadada.pub/favicon.ico</url><title>0xADADA.pub</title><link>https://0xadada.pub</link></image><generator>RSS for Node</generator><lastBuildDate>Sat, 18 Mar 2023 14:28:09 GMT</lastBuildDate><atom:link href="https://0xadada.pub/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Thu, 05 Jun 1980 04:00:00 GMT</pubDate><copyright><![CDATA[2023 0xADADA]]></copyright><language><![CDATA[en]]></language><managingEditor><![CDATA[ron@0xadada.pub]]></managingEditor><webMaster><![CDATA[ron@0xadada.pub]]></webMaster><ttl>60</ttl><item><title><![CDATA[Oscar the Grouch as contemporary Diogenes the Cynic]]></title><description><![CDATA[<figure>
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[0xADADA.pub]]></title><description><![CDATA[Writing of 0xADADA]]></description><link>https://0xadada.pub</link><image><url>https://0xadada.pub/favicon.ico</url><title>0xADADA.pub</title><link>https://0xadada.pub</link></image><generator>RSS for Node</generator><lastBuildDate>Sat, 18 Mar 2023 14:33:50 GMT</lastBuildDate><atom:link href="https://0xadada.pub/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Thu, 05 Jun 1980 04:00:00 GMT</pubDate><copyright><![CDATA[2023 0xADADA]]></copyright><language><![CDATA[en]]></language><managingEditor><![CDATA[ron@0xadada.pub]]></managingEditor><webMaster><![CDATA[ron@0xadada.pub]]></webMaster><ttl>60</ttl><item><title><![CDATA[Oscar the Grouch as contemporary Diogenes the Cynic]]></title><description><![CDATA[<figure>
   <img src="/static/images/2022-12-07-oscar-the-grouch.png" title="Oscar the Grouch as contemporary Diogenes the Cynic">
   <figcaption>Oscar the Grouch as contemporary Diogenes the Cynic (art co-authored with MidJourney)</figcaption>
 </figure>
@@ -25,7 +25,7 @@ The art for this essay was co-created with MidJourney using the following prompt
 
 > Oscar the grouch as Diogenes the cynic in the style of a white marble statue
 
-</aside>]]></description><link>https://0xadada.pub/2022-12-07-oscar-the-grouch-a-contemporary-diogenes-the-cynic</link><guid isPermaLink="true">https://0xadada.pub/2022-12-07-oscar-the-grouch-a-contemporary-diogenes-the-cynic</guid><category><![CDATA[notes]]></category><dc:creator><![CDATA[0xADADA]]></dc:creator><pubDate>Wed, 07 Dec 2022 09:57:00 GMT</pubDate></item><item><title><![CDATA[Your Own Happiness: BRZ Type RA 2022 Spec]]></title><description><![CDATA[<figure>
+</aside>]]></description><link>https://0xadada.pub/2022/12/07/oscar-the-grouch-a-contemporary-diogenes-the-cynic</link><guid isPermaLink="true">https://0xadada.pub/2022/12/07/oscar-the-grouch-a-contemporary-diogenes-the-cynic</guid><category><![CDATA[notes]]></category><dc:creator><![CDATA[0xADADA]]></dc:creator><pubDate>Wed, 07 Dec 2022 09:57:00 GMT</pubDate></item><item><title><![CDATA[Your Own Happiness: BRZ Type RA 2022 Spec]]></title><description><![CDATA[<figure>
   <img src="/static/images/2022-10-05-brz-typera-2022-spec-00.jpg" alt="2017 Subaru BRZ Type RA">
   <figcaption>
     2017 Subaru BRZ Type RA at Palmer Motorsports Park. Photo by Robert Badar.
@@ -140,7 +140,7 @@ Verus Engineering throttle pedal spacer,
 P3 v3 ODB gauge,
 Safety Restore seatbelt webbing,
 OEM JDM Toyota/Subaru interior trim &amp; door handles,
-Amerex &amp; Element fire extinguishers.</p>]]></description><link>https://0xadada.pub/2022-10-05-brz-typera-2022-spec</link><guid isPermaLink="true">https://0xadada.pub/2022-10-05-brz-typera-2022-spec</guid><category><![CDATA[notes]]></category><category><![CDATA[motorsports]]></category><dc:creator><![CDATA[0xADADA]]></dc:creator><pubDate>Wed, 05 Oct 2022 10:28:00 GMT</pubDate></item><item><title><![CDATA[I am not a software developer]]></title><description><![CDATA[<p>Software development, knowledge work, or most broadly any type of white collar labor is, primarily, the production of our own psychology.
+Amerex &amp; Element fire extinguishers.</p>]]></description><link>https://0xadada.pub/2022/10/05/brz-typera-2022-spec</link><guid isPermaLink="true">https://0xadada.pub/2022/10/05/brz-typera-2022-spec</guid><category><![CDATA[notes]]></category><category><![CDATA[motorsports]]></category><dc:creator><![CDATA[0xADADA]]></dc:creator><pubDate>Wed, 05 Oct 2022 10:28:00 GMT</pubDate></item><item><title><![CDATA[I am not a software developer]]></title><description><![CDATA[<p>Software development, knowledge work, or most broadly any type of white collar labor is, primarily, the production of our own psychology.
 Our mental capacity <em>is</em> our means of production.
 We embody the values of our work.
 Our identity is tightly bound up with our careers, knowledge, skills, methods, company, and our industry—<em>we are our work</em>.</p>
@@ -166,7 +166,7 @@ utility, or economic productiveness. This I refuse.</p>
 <p>I <em>do</em> software development. I am not a software developer.</p>
 <aside>
   Originally a <a href="https://twitter.com/0xADADA/status/1501622372897632257" rel="external">twitter thread</a>.
-</aside>]]></description><link>https://0xadada.pub/2022-04-01-i-am-not-a-software-developer</link><guid isPermaLink="true">https://0xadada.pub/2022-04-01-i-am-not-a-software-developer</guid><category><![CDATA[essays]]></category><category><![CDATA[software development]]></category><category><![CDATA[labor]]></category><dc:creator><![CDATA[0xADADA]]></dc:creator><pubDate>Fri, 01 Apr 2022 11:48:00 GMT</pubDate></item><item><title><![CDATA[The Society of the Spectacle: Foreword]]></title><description><![CDATA[<aside>
+</aside>]]></description><link>https://0xadada.pub/2022/04/01/i-am-not-a-software-developer</link><guid isPermaLink="true">https://0xadada.pub/2022/04/01/i-am-not-a-software-developer</guid><category><![CDATA[essays]]></category><category><![CDATA[software development]]></category><category><![CDATA[labor]]></category><dc:creator><![CDATA[0xADADA]]></dc:creator><pubDate>Fri, 01 Apr 2022 11:48:00 GMT</pubDate></item><item><title><![CDATA[The Society of the Spectacle: Foreword]]></title><description><![CDATA[<aside>
   <p>
     This essay was adapted from the foreword to my new English edition to Guy
     Debord's 1967 book <em>The Society of the Spectacle</em>.
@@ -321,7 +321,7 @@ written. I am optimistic that together we <em>can</em> make another world possib
     to just anybody.”
     <cite> Debord, G. & Imrie, M. (1998). <em>Comments on the society of the spectacle</em>.
     London New York: Verso. 9781844676729.
-    </cite> (Pp. 1)</p>]]></description><link>https://0xadada.pub/2021-03-27-the-society-of-the-spectacle</link><guid isPermaLink="true">https://0xadada.pub/2021-03-27-the-society-of-the-spectacle</guid><category><![CDATA[essays]]></category><category><![CDATA[anti-fascism]]></category><category><![CDATA[economics]]></category><category><![CDATA[books]]></category><dc:creator><![CDATA[0xADADA]]></dc:creator><pubDate>Sun, 28 Mar 2021 02:18:00 GMT</pubDate></item><item><title><![CDATA[Bandersnatch Advertising]]></title><description><![CDATA[<figure>
+    </cite> (Pp. 1)</p>]]></description><link>https://0xadada.pub/2021/03/27/the-society-of-the-spectacle</link><guid isPermaLink="true">https://0xadada.pub/2021/03/27/the-society-of-the-spectacle</guid><category><![CDATA[essays]]></category><category><![CDATA[anti-fascism]]></category><category><![CDATA[economics]]></category><category><![CDATA[books]]></category><dc:creator><![CDATA[0xADADA]]></dc:creator><pubDate>Sun, 28 Mar 2021 02:18:00 GMT</pubDate></item><item><title><![CDATA[Bandersnatch Advertising]]></title><description><![CDATA[<figure>
   <img src="/static/images/2021-01-14-bandersnatch.jpg" alt="Black Mirror: Bandersnatch poster">
   <figcaption>Black Mirror: Bandersnatch poster</figcaption>
 </figure>
@@ -443,7 +443,7 @@ will be impossible to distinguish because they'll become the same thing</strong>
 <p>[^1]:
     Nada Elnahla. (2020). Black Mirror: Bandersnatch and how Netflix manipulates
     us, the new gods, <em>Consumption Markets & Culture</em>, 23:5, 506-511,
-    <a href="https://doi.org/10.1080/10253866.2019.1653288">DOI: 10.1080/10253866.2019.1653288</a></p>]]></description><link>https://0xadada.pub/2021-01-14-bandersnatch-advertising</link><guid isPermaLink="true">https://0xadada.pub/2021-01-14-bandersnatch-advertising</guid><category><![CDATA[notes]]></category><category><![CDATA[privacy]]></category><category><![CDATA[surveillance]]></category><dc:creator><![CDATA[0xADADA]]></dc:creator><pubDate>Thu, 14 Jan 2021 17:11:00 GMT</pubDate></item><item><title><![CDATA[The BRZ Type RA Subaru Can't Build]]></title><description><![CDATA[<figure>
+    <a href="https://doi.org/10.1080/10253866.2019.1653288">DOI: 10.1080/10253866.2019.1653288</a></p>]]></description><link>https://0xadada.pub/2021/01/14/bandersnatch-advertising</link><guid isPermaLink="true">https://0xadada.pub/2021/01/14/bandersnatch-advertising</guid><category><![CDATA[notes]]></category><category><![CDATA[privacy]]></category><category><![CDATA[surveillance]]></category><dc:creator><![CDATA[0xADADA]]></dc:creator><pubDate>Thu, 14 Jan 2021 17:11:00 GMT</pubDate></item><item><title><![CDATA[The BRZ Type RA Subaru Can't Build]]></title><description><![CDATA[<figure>
   <img src="/static/images/2020-10-20-subaru-brz-ra-racing.jpg" alt="2013 Subaru BRZ RA Racing">
   <figcaption>
     2013 Subaru BRZ RA Racing
@@ -520,7 +520,7 @@ Spec-C Type RA, we'll need to build it ourselves… or really, deconstruct the
 cars we have, in order to make one.</p>
 <p>On my car, the RA badge is a reference to that first 2002 WRX STi Spec-C Type
 RA, the purest and most raw form of the WRX. Oh, and I almost forgot, it stands
-for a reference to the driver, me, "Type Ron A." 😏</p>]]></description><link>https://0xadada.pub/2020-10-20-the-type-ra-subaru-cant-build</link><guid isPermaLink="true">https://0xadada.pub/2020-10-20-the-type-ra-subaru-cant-build</guid><category><![CDATA[notes]]></category><category><![CDATA[motorsports]]></category><dc:creator><![CDATA[0xADADA]]></dc:creator><pubDate>Tue, 20 Oct 2020 10:28:00 GMT</pubDate></item><item><title><![CDATA[Right to Repair - 2020 - Vote YES on Question 1]]></title><description><![CDATA[<p>2020 Elections are coming up, and beyond the Trump vs Biden theatrics, in Massachusets we have a <a href="https://www.mass.gov/files/documents/2019/08/07/19-06.pdf">ballot referendum on the Right to Repair</a>. TL;DR: Vote 'Yes' on Question 1.</p>
+for a reference to the driver, me, "Type Ron A." 😏</p>]]></description><link>https://0xadada.pub/2020/10/20/the-type-ra-subaru-cant-build</link><guid isPermaLink="true">https://0xadada.pub/2020/10/20/the-type-ra-subaru-cant-build</guid><category><![CDATA[notes]]></category><category><![CDATA[motorsports]]></category><dc:creator><![CDATA[0xADADA]]></dc:creator><pubDate>Tue, 20 Oct 2020 10:28:00 GMT</pubDate></item><item><title><![CDATA[Right to Repair - 2020 - Vote YES on Question 1]]></title><description><![CDATA[<p>2020 Elections are coming up, and beyond the Trump vs Biden theatrics, in Massachusets we have a <a href="https://www.mass.gov/files/documents/2019/08/07/19-06.pdf">ballot referendum on the Right to Repair</a>. TL;DR: Vote 'Yes' on Question 1.</p>
 <blockquote>
   <p>Currently auto manufacturers must provide independent auto repair shops access to the same diagnostic 
   and repair information about a vehicle as the manufacturers' dealers have, but the current law doesn't 
@@ -535,7 +535,7 @@ for a reference to the driver, me, "Type Ron A." 😏</p>]]></description><link>
 <p>Finally, a big part of this is the misuse of the DMCA. Basically, if someone like me starts selling ECU "tunes" for my Subaru BRZ to other car enthusiasts, Subaru can sue me for "copyright infringement" for modifying the ECU of my own car and helping others modify theirs. This is about the right of the owner to repair, change and use their own vehicles as <em>objects</em> not services owned the the manufacturer. </p>
 <p>The DMCA issue is particularly a problem in the automated tractor &amp; farming industries. Companies like John Deere are now running "automated tractors as a Service" (ATaaS) and the farmers have to pay for it as a subscriptions service, and its hugely expensive. It means little-guy farmers can't really afford it to compete with the big corporate farms. So the little farmers want to write their own software for John Deere tractors that is custom for their farm. The right to repair allows for that.</p>
 <p>This is about people owning their personal property, and their ability to do with it as they see fit. This
-includes repairing, or changing these objects and data.</p>]]></description><link>https://0xadada.pub/2020-10-09-right-to-repair</link><guid isPermaLink="true">https://0xadada.pub/2020-10-09-right-to-repair</guid><category><![CDATA[notes]]></category><category><![CDATA[motorsports]]></category><dc:creator><![CDATA[0xADADA]]></dc:creator><pubDate>Fri, 09 Oct 2020 13:57:00 GMT</pubDate></item><item><title><![CDATA[macOS command line tricks and tips]]></title><description><![CDATA[<p>Set the current user accounts profile photo (displayed on the login UI) using a
+includes repairing, or changing these objects and data.</p>]]></description><link>https://0xadada.pub/2020/10/09/right-to-repair</link><guid isPermaLink="true">https://0xadada.pub/2020/10/09/right-to-repair</guid><category><![CDATA[notes]]></category><category><![CDATA[motorsports]]></category><dc:creator><![CDATA[0xADADA]]></dc:creator><pubDate>Fri, 09 Oct 2020 13:57:00 GMT</pubDate></item><item><title><![CDATA[macOS command line tricks and tips]]></title><description><![CDATA[<p>Set the current user accounts profile photo (displayed on the login UI) using a
 local JPG image.</p>
 <pre><code class="bash language-bash">dscl . delete "${HOME}" JPEGPhoto
 dscl . delete "${HOME}" Picture
@@ -551,7 +551,7 @@ sudo dscl . create "${HOME}" Picture "${PWD}/avatar.jpg"
 <p>Show day of week, date time in 24H time in menu bar e.g. "13 Fri 16:49"</p>
 <pre><code class="bash language-bash">defaults write com.apple.menuextra.clock \
   DateFormat -string "d EEE HH:mm"
-</code></pre>]]></description><link>https://0xadada.pub/2020-09-15-macos-cli-tricks-and-tips</link><guid isPermaLink="true">https://0xadada.pub/2020-09-15-macos-cli-tricks-and-tips</guid><category><![CDATA[notes]]></category><category><![CDATA[software-development]]></category><dc:creator><![CDATA[0xADADA]]></dc:creator><pubDate>Tue, 15 Sep 2020 14:54:00 GMT</pubDate></item><item><title><![CDATA[The U.S. is a Failed Experiment]]></title><description><![CDATA[<figure>
+</code></pre>]]></description><link>https://0xadada.pub/2020/09/15/macos-cli-tricks-and-tips</link><guid isPermaLink="true">https://0xadada.pub/2020/09/15/macos-cli-tricks-and-tips</guid><category><![CDATA[notes]]></category><category><![CDATA[software-development]]></category><dc:creator><![CDATA[0xADADA]]></dc:creator><pubDate>Tue, 15 Sep 2020 14:54:00 GMT</pubDate></item><item><title><![CDATA[The U.S. is a Failed Experiment]]></title><description><![CDATA[<figure>
   <img src="/static/images/2020-09-04-us-corporate-flag.jpg" alt="The Corporate States of America by AdBusters" title="The Corporate States of America by AdBusters">
   <figcaption>
     The Corporate States of America by AdBusters
@@ -615,7 +615,7 @@ corporations before it responds to people.</p>
 <p>It's time to try a new experiment in resource allocation and governance that is
 egalitarian, sustainable, and provides a vision where all inhabitants of this
 planet act in good faith towards a project for multiple worlds, and many
-positive futures. Other <em>worlds</em> are possible.</p>]]></description><link>https://0xadada.pub/2020-09-04-the-us-is-a-failed-experiment</link><guid isPermaLink="true">https://0xadada.pub/2020-09-04-the-us-is-a-failed-experiment</guid><category><![CDATA[essays]]></category><dc:creator><![CDATA[0xADADA]]></dc:creator><pubDate>Fri, 04 Sep 2020 12:36:00 GMT</pubDate></item><item><title><![CDATA[Testimony to Defund the Police in Somerville]]></title><description><![CDATA[<figure>
+positive futures. Other <em>worlds</em> are possible.</p>]]></description><link>https://0xadada.pub/2020/09/04/the-us-is-a-failed-experiment</link><guid isPermaLink="true">https://0xadada.pub/2020/09/04/the-us-is-a-failed-experiment</guid><category><![CDATA[essays]]></category><dc:creator><![CDATA[0xADADA]]></dc:creator><pubDate>Fri, 04 Sep 2020 12:36:00 GMT</pubDate></item><item><title><![CDATA[Testimony to Defund the Police in Somerville]]></title><description><![CDATA[<figure>
   <img src="/static/images/2020-06-24-testimony-on-defunding-the-somerville-police.webp" alt="Police in Valencia Spain by Luther Bottrill" title="Police in Valencia Spain by Luther Bottrill">
   <svg viewBox="0 0 672 672" fill="none" stroke-linecap="square" stroke-miterlimit="10" xmlns="http://www.w3.org/2000/svg" style="margin-top: -65%; width: 70%;">
   <g clip-path="url(#a)">
@@ -676,7 +676,7 @@ applies to <strong>all</strong> members of our community.</p>
 <ul>
 <li><a href="https://www2.ohchr.org/english/bodies/cerd/docs/ngos/usa/USHRN15.pdf">IN THE SHADOWS OF THE WAR ON TERROR: PERSISTENT POLICE BRUTALITY AND ABUSE OF PEOPLE OF COLOR IN THE UNITED STATES: A report prepared for the United Nations Committee on the Elimination of Racial Discrimination</a></li>
 <li><a href="https://dissidentvoice.org/2014/02/coming-home-to-roost/">Coming Home to Roost: American Militarism, War Culture, and Police Brutality</a></li>
-</ul>]]></description><link>https://0xadada.pub/2020-06-24-testimony-on-defunding-the-somerville-police</link><guid isPermaLink="true">https://0xadada.pub/2020-06-24-testimony-on-defunding-the-somerville-police</guid><category><![CDATA[essays]]></category><category><![CDATA[anti-racism]]></category><category><![CDATA[talks]]></category><dc:creator><![CDATA[0xADADA]]></dc:creator><pubDate>Wed, 24 Jun 2020 19:00:00 GMT</pubDate></item><item><title><![CDATA[Testimony on Defunding the Police in Somerville by Paige P.]]></title><description><![CDATA[<aside>
+</ul>]]></description><link>https://0xadada.pub/2020/06/24/testimony-on-defunding-the-somerville-police</link><guid isPermaLink="true">https://0xadada.pub/2020/06/24/testimony-on-defunding-the-somerville-police</guid><category><![CDATA[essays]]></category><category><![CDATA[anti-racism]]></category><category><![CDATA[talks]]></category><dc:creator><![CDATA[0xADADA]]></dc:creator><pubDate>Wed, 24 Jun 2020 19:00:00 GMT</pubDate></item><item><title><![CDATA[Testimony on Defunding the Police in Somerville by Paige P.]]></title><description><![CDATA[<aside>
   <em>This is a guest post by Paige P.</em>
 </aside>
 <p>My name is Paige P., I live in Ward █ in Somerville. I am white. I am a public
@@ -716,7 +716,7 @@ dinner table. Defund the Somerville Police.</p>
 <aside>
   <em>This testimony was prepared and given on June 24th, 2020 at the Somerville
   City Council Finance Committee hearing on the FY-21 Budget.</em>
-</aside>]]></description><link>https://0xadada.pub/2020-06-24-guest-testimony-on-defunding-the-somerville-police</link><guid isPermaLink="true">https://0xadada.pub/2020-06-24-guest-testimony-on-defunding-the-somerville-police</guid><category><![CDATA[guests]]></category><category><![CDATA[anti-racism]]></category><dc:creator><![CDATA[paigep]]></dc:creator><pubDate>Wed, 24 Jun 2020 19:24:00 GMT</pubDate></item><item><title><![CDATA[On Looting]]></title><description><![CDATA[<figure>
+</aside>]]></description><link>https://0xadada.pub/2020/06/24/guest-testimony-on-defunding-the-somerville-police</link><guid isPermaLink="true">https://0xadada.pub/2020/06/24/guest-testimony-on-defunding-the-somerville-police</guid><category><![CDATA[guests]]></category><category><![CDATA[anti-racism]]></category><dc:creator><![CDATA[paigep]]></dc:creator><pubDate>Wed, 24 Jun 2020 19:24:00 GMT</pubDate></item><item><title><![CDATA[On Looting]]></title><description><![CDATA[<figure>
   <img src="/static/images/2020-06-05-on-looting.jpg" alt="Civilian Bailouts" title="Civilian Bailouts">
   <figcaption>
     Looting: A peoples bailout
@@ -748,7 +748,7 @@ used to protect its spectacular status, and a Peoples Bailout by other means.</p
   Debord, G. (1993).
   <em>Le Déclin et la chute de l'économie spectaculaire-marchande</em>.
   Paris: J.J. Pauvert aux Belles Lettres.
-</cite></p>]]></description><link>https://0xadada.pub/2020-06-05-on-looting</link><guid isPermaLink="true">https://0xadada.pub/2020-06-05-on-looting</guid><category><![CDATA[essays]]></category><category><![CDATA[economics]]></category><dc:creator><![CDATA[0xADADA]]></dc:creator><pubDate>Fri, 05 Jun 2020 14:17:00 GMT</pubDate></item><item><title><![CDATA[Ember Templates: Classic vs Angle Bracket Syntaxes]]></title><description><![CDATA[<p>This articles describes the difference between how component invocation differs
+</cite></p>]]></description><link>https://0xadada.pub/2020/06/05/on-looting</link><guid isPermaLink="true">https://0xadada.pub/2020/06/05/on-looting</guid><category><![CDATA[essays]]></category><category><![CDATA[economics]]></category><dc:creator><![CDATA[0xADADA]]></dc:creator><pubDate>Fri, 05 Jun 2020 14:17:00 GMT</pubDate></item><item><title><![CDATA[Ember Templates: Classic vs Angle Bracket Syntaxes]]></title><description><![CDATA[<p>This articles describes the difference between how component invocation differs
 when using curlies <code>{​{...}}</code>, angle brackets <code>&lt;...&gt;</code> or an <code>(...)</code> s-expression
 in Ember templates.</p>
 <p>Ember has three methods for invoking components and helpers in a template,
@@ -892,7 +892,7 @@ regardless of how it's being invoked.</p>
   Thanks to
   <a href="https://twitter.com/jamscdavis" rel="external">James Davis</a>
   for proof reading this article.
-</aside>]]></description><link>https://0xadada.pub/2020-03-20-ember-emplates-classic-vs-angle-bracket-syntaxes</link><guid isPermaLink="true">https://0xadada.pub/2020-03-20-ember-emplates-classic-vs-angle-bracket-syntaxes</guid><category><![CDATA[projects]]></category><category><![CDATA[open-source]]></category><category><![CDATA[software-development]]></category><dc:creator><![CDATA[0xADADA]]></dc:creator><pubDate>Fri, 20 Mar 2020 16:14:00 GMT</pubDate></item><item><title><![CDATA[Elasticity Versus Discipline]]></title><description><![CDATA[<figure>
+</aside>]]></description><link>https://0xadada.pub/2020/03/20/ember-emplates-classic-vs-angle-bracket-syntaxes</link><guid isPermaLink="true">https://0xadada.pub/2020/03/20/ember-emplates-classic-vs-angle-bracket-syntaxes</guid><category><![CDATA[projects]]></category><category><![CDATA[open-source]]></category><category><![CDATA[software-development]]></category><dc:creator><![CDATA[0xADADA]]></dc:creator><pubDate>Fri, 20 Mar 2020 16:14:00 GMT</pubDate></item><item><title><![CDATA[Elasticity Versus Discipline]]></title><description><![CDATA[<figure>
   <img src="/static/images/2020-03-15-elasticity-versus-discipline-luther-bottrill.jpg" alt="Police in Valencia Spain by Luther Bottrill" title="Police in Valencia Spain by Luther Bottrill">
   <figcaption>Police in Valencia Spain by Luther Bottrill</figcaption>
 </figure>
@@ -1124,7 +1124,7 @@ feedback.</p>
     The chart I added in footnote 5 has been recently discontinued in favor of the
     M2SL. Perhaps when their metrics show negative monetary policy results, they
     just change the metrics. I guess if you can't win the game, you just change
-    the rules.</p>]]></description><link>https://0xadada.pub/2020-03-15-elasticity-versus-discipline</link><guid isPermaLink="true">https://0xadada.pub/2020-03-15-elasticity-versus-discipline</guid><category><![CDATA[essays]]></category><category><![CDATA[economics]]></category><dc:creator><![CDATA[0xADADA]]></dc:creator><pubDate>Sun, 15 Mar 2020 11:06:00 GMT</pubDate></item><item><title><![CDATA[Warai Otoko (笑い男) Animated Logo]]></title><description><![CDATA[<p>The Laughing Man <ruby> <ruby> 笑<rp>(</rp><rt>わらい</rt><rp>)</rp> い
+    the rules.</p>]]></description><link>https://0xadada.pub/2020/03/15/elasticity-versus-discipline</link><guid isPermaLink="true">https://0xadada.pub/2020/03/15/elasticity-versus-discipline</guid><category><![CDATA[essays]]></category><category><![CDATA[economics]]></category><dc:creator><![CDATA[0xADADA]]></dc:creator><pubDate>Sun, 15 Mar 2020 11:06:00 GMT</pubDate></item><item><title><![CDATA[Warai Otoko (笑い男) Animated Logo]]></title><description><![CDATA[<p>The Laughing Man <ruby> <ruby> 笑<rp>(</rp><rt>わらい</rt><rp>)</rp> い
 男<rp>(</rp><rt>おとこ</rt><rp>)</rp> </ruby> <rp>(</rp><rt>warai
 otoko</rt><rp>)</rp> </ruby> is a fictional character in the anime series <em>Ghost
 in the Shell: Stand Alone Complex</em>.</p>
@@ -1189,7 +1189,7 @@ We do not forget. Expect us.</q></p>
   <a href="https://twitter.com/0xADADA/status/1242461667662991360?ref_src=twsrc%5Etfw">March 24, 2020</a>
 </blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-<p>Code is up <a href="https://github.com/0xadada/warai-otoko">on github</a></p>]]></description><link>https://0xadada.pub/2020-03-08-warai-otoko</link><guid isPermaLink="true">https://0xadada.pub/2020-03-08-warai-otoko</guid><category><![CDATA[projects]]></category><category><![CDATA[open-source]]></category><dc:creator><![CDATA[0xADADA]]></dc:creator><pubDate>Sun, 08 Mar 2020 16:48:00 GMT</pubDate></item><item><title><![CDATA[random-emoji v1.0.0]]></title><description><![CDATA[<p>Released a tiny npm package today:
+<p>Code is up <a href="https://github.com/0xadada/warai-otoko">on github</a></p>]]></description><link>https://0xadada.pub/2020/03/08/warai-otoko</link><guid isPermaLink="true">https://0xadada.pub/2020/03/08/warai-otoko</guid><category><![CDATA[projects]]></category><category><![CDATA[open-source]]></category><dc:creator><![CDATA[0xADADA]]></dc:creator><pubDate>Sun, 08 Mar 2020 16:48:00 GMT</pubDate></item><item><title><![CDATA[random-emoji v1.0.0]]></title><description><![CDATA[<p>Released a tiny npm package today:
 <a href="https://0xadada.github.io/random-emoji/">@0xadada/random-emoji</a>, a javascript random
 emoji function with zero dependencies.</p>
 <pre><code class="javascript language-javascript">$ yarn add @0xadada/random-emoji
@@ -1205,7 +1205,7 @@ let e = random('expressions');
 console.log(a, b, c, d, e);
 // 😍 🙄 🍗 🐥 🤢
 </code></pre>
-<p>Small, fun.</p>]]></description><link>https://0xadada.pub/2019-10-06-random-emoji</link><guid isPermaLink="true">https://0xadada.pub/2019-10-06-random-emoji</guid><category><![CDATA[projects]]></category><category><![CDATA[open-source]]></category><dc:creator><![CDATA[0xADADA]]></dc:creator><pubDate>Sun, 06 Oct 2019 11:13:00 GMT</pubDate></item><item><title><![CDATA[On Fascism]]></title><description><![CDATA[<p><img src="/static/images/2019-09-25-on-fascism-police.webp" alt="A cop" /></p>
+<p>Small, fun.</p>]]></description><link>https://0xadada.pub/2019/10/06/random-emoji</link><guid isPermaLink="true">https://0xadada.pub/2019/10/06/random-emoji</guid><category><![CDATA[projects]]></category><category><![CDATA[open-source]]></category><dc:creator><![CDATA[0xADADA]]></dc:creator><pubDate>Sun, 06 Oct 2019 11:13:00 GMT</pubDate></item><item><title><![CDATA[On Fascism]]></title><description><![CDATA[<p><img src="/static/images/2019-09-25-on-fascism-police.webp" alt="A cop" /></p>
 <p>Fascism is an expensive to maintain state-of-siege by the capitalist economy
 attempting to defend itself by an irrational means. Fascism rallies to the
 defense of the conservative bourgeois ideology of the family, private property,
@@ -1256,13 +1256,13 @@ Debord, G. & Knabb, K. (2014).
 <em>The Society of the spectacle</em>.
 Berkeley, CA:
 Bureau of Public Secrets.
-</cite></p>]]></description><link>https://0xadada.pub/2019-09-25-on-fascism</link><guid isPermaLink="true">https://0xadada.pub/2019-09-25-on-fascism</guid><category><![CDATA[essays]]></category><category><![CDATA[anti-fascism]]></category><dc:creator><![CDATA[0xADADA]]></dc:creator><pubDate>Wed, 25 Sep 2019 08:10:00 GMT</pubDate></item><item><title><![CDATA[uri-editor.js Bookmarklet]]></title><description><![CDATA[<p>I love bookmarklets, those small and elegant lines of javascript that you can
+</cite></p>]]></description><link>https://0xadada.pub/2019/09/25/on-fascism</link><guid isPermaLink="true">https://0xadada.pub/2019/09/25/on-fascism</guid><category><![CDATA[essays]]></category><category><![CDATA[anti-fascism]]></category><dc:creator><![CDATA[0xADADA]]></dc:creator><pubDate>Wed, 25 Sep 2019 08:10:00 GMT</pubDate></item><item><title><![CDATA[uri-editor.js Bookmarklet]]></title><description><![CDATA[<p>I love bookmarklets, those small and elegant lines of javascript that you can
 bookmark and which do random functions in the browser when clicked.</p>
 <p><code>uri-editor.js</code> is 1-line of HTML that'll run a text editor in your
 browser.</p>
 <p>Drag the link into your bookmarks to save it as a quick browser-based editor
 tool for those moments you need a quick editor nearby.</p>
-<p><a href="data:text/html;base64,PGh0bWw+PHRpdGxlPnVyaS1lZGl0b3IuanM8L3RpdGxlPjxib2R5IGNvbnRlbnRlZGl0YWJsZT10cnVlPjxwIHN0eWxlPSJmb250LXNpemU6NXJlbTttYXJnaW4tdG9wOjQ1dmg7dGV4dC1hbGlnbjpjZW50ZXI7Ij51cmktZWRpdG9yLmpzPC9wPg==" title="#!uri-editor.js bookmarket">#!uri-editor.js</a></p>]]></description><link>https://0xadada.pub/2019-09-16-uri-editor.js</link><guid isPermaLink="true">https://0xadada.pub/2019-09-16-uri-editor.js</guid><category><![CDATA[projects]]></category><category><![CDATA[open-source]]></category><dc:creator><![CDATA[0xADADA]]></dc:creator><pubDate>Mon, 16 Sep 2019 08:30:00 GMT</pubDate></item><item><title><![CDATA[Using Ember FastBoot in Weird Ways]]></title><description><![CDATA[<p>This talk was presented at the Boston Ember.js Community meetup at Salsify, Inc
+<p><a href="data:text/html;base64,PGh0bWw+PHRpdGxlPnVyaS1lZGl0b3IuanM8L3RpdGxlPjxib2R5IGNvbnRlbnRlZGl0YWJsZT10cnVlPjxwIHN0eWxlPSJmb250LXNpemU6NXJlbTttYXJnaW4tdG9wOjQ1dmg7dGV4dC1hbGlnbjpjZW50ZXI7Ij51cmktZWRpdG9yLmpzPC9wPg==" title="#!uri-editor.js bookmarket">#!uri-editor.js</a></p>]]></description><link>https://0xadada.pub/2019/09/16/uri-editor.js</link><guid isPermaLink="true">https://0xadada.pub/2019/09/16/uri-editor.js</guid><category><![CDATA[projects]]></category><category><![CDATA[open-source]]></category><dc:creator><![CDATA[0xADADA]]></dc:creator><pubDate>Mon, 16 Sep 2019 08:30:00 GMT</pubDate></item><item><title><![CDATA[Using Ember FastBoot in Weird Ways]]></title><description><![CDATA[<p>This talk was presented at the Boston Ember.js Community meetup at Salsify, Inc
 about a unique usecase for deploying FastBoot in order to do server-side
 rendering of Ember applications at scale.</p>
 <p>I review traditional, single-page web applications, I discuss server-side
@@ -1286,7 +1286,7 @@ a quick summary of how we use FastBoot in production.</p>
     style="box-shadow: 0 0 3.5rem rgba(0,0,0,0.5);"
     frameborder="0">
   </iframe>
-</div>]]></description><link>https://0xadada.pub/2019-06-18-talk-using-ember-fastboot-in-weird-ways</link><guid isPermaLink="true">https://0xadada.pub/2019-06-18-talk-using-ember-fastboot-in-weird-ways</guid><category><![CDATA[talks]]></category><category><![CDATA[open-source]]></category><dc:creator><![CDATA[0xADADA]]></dc:creator><pubDate>Tue, 18 Jun 2019 18:30:00 GMT</pubDate></item><item><title><![CDATA[Essential Ember Addons: The State of the Ember Addon Ecosystem in 2019]]></title><description><![CDATA[<p>2019 has been a great year for Ember so far, so while my peers are focused on
+</div>]]></description><link>https://0xadada.pub/2019/06/18/talk-using-ember-fastboot-in-weird-ways</link><guid isPermaLink="true">https://0xadada.pub/2019/06/18/talk-using-ember-fastboot-in-weird-ways</guid><category><![CDATA[talks]]></category><category><![CDATA[open-source]]></category><dc:creator><![CDATA[0xADADA]]></dc:creator><pubDate>Tue, 18 Jun 2019 18:30:00 GMT</pubDate></item><item><title><![CDATA[Essential Ember Addons: The State of the Ember Addon Ecosystem in 2019]]></title><description><![CDATA[<p>2019 has been a great year for Ember so far, so while my peers are focused on
 setting direction for the framework for the rest of 2019, I wanted to take stock
 of the existing addons ecosystem.</p>
 <p>In this article I’d like to present a list of Ember addons that I use in most of
@@ -1649,7 +1649,7 @@ directory route displaying all the SVG assets in your app.</p>
 addons with good documentation, test coverage, and that continue to be
 maintained. If you need anything more or want to take a general look at some of
 the addons that have are available I recommend starting with
-<a href="https://emberobserver.com/">emberobserver.com</a>.</p>]]></description><link>https://0xadada.pub/2019-06-17-essential-ember-addons</link><guid isPermaLink="true">https://0xadada.pub/2019-06-17-essential-ember-addons</guid><category><![CDATA[projects]]></category><category><![CDATA[open-source]]></category><dc:creator><![CDATA[0xADADA]]></dc:creator><pubDate>Mon, 17 Jun 2019 22:23:00 GMT</pubDate></item><item><title><![CDATA[The City and The Freezing of Life]]></title><description><![CDATA[<figure>
+<a href="https://emberobserver.com/">emberobserver.com</a>.</p>]]></description><link>https://0xadada.pub/2019/06/17/essential-ember-addons</link><guid isPermaLink="true">https://0xadada.pub/2019/06/17/essential-ember-addons</guid><category><![CDATA[projects]]></category><category><![CDATA[open-source]]></category><dc:creator><![CDATA[0xADADA]]></dc:creator><pubDate>Mon, 17 Jun 2019 22:23:00 GMT</pubDate></item><item><title><![CDATA[The City and The Freezing of Life]]></title><description><![CDATA[<figure>
   <img src="/static/images/2019-04-16-san-francisco-seattle-boston-nyc-and-the-freezing-of-life.jpg" alt="A model city" title="A model city">
   <figcaption>A model city</figcaption>
 </figure>
@@ -1759,7 +1759,7 @@ Oxford, UK: New York, NY: B. Blackwell, Hardcover.
 <aside hidden>
   This was also posted to
   <a href="https://indieweb.xyz/en/socialtheory" class="u-syndication">/en/socialtheory</a>.
-</aside>]]></description><link>https://0xadada.pub/2019-04-16-the-city-and-the-freezing-of-life</link><guid isPermaLink="true">https://0xadada.pub/2019-04-16-the-city-and-the-freezing-of-life</guid><category><![CDATA[essays]]></category><category><![CDATA[economics]]></category><dc:creator><![CDATA[0xADADA]]></dc:creator><pubDate>Tue, 16 Apr 2019 23:52:00 GMT</pubDate></item><item><title><![CDATA[Extending the browser with the lingua franca of the web]]></title><description><![CDATA[<p>A browser extension adds features to a web browser. They're created using
+</aside>]]></description><link>https://0xadada.pub/2019/04/16/the-city-and-the-freezing-of-life</link><guid isPermaLink="true">https://0xadada.pub/2019/04/16/the-city-and-the-freezing-of-life</guid><category><![CDATA[essays]]></category><category><![CDATA[economics]]></category><dc:creator><![CDATA[0xADADA]]></dc:creator><pubDate>Tue, 16 Apr 2019 23:52:00 GMT</pubDate></item><item><title><![CDATA[Extending the browser with the lingua franca of the web]]></title><description><![CDATA[<p>A browser extension adds features to a web browser. They're created using
 standard web technologies— JavaScript, HTML, and CSS. Extensions can run
 JavaScript permanently in the background or can run on any page the user visits.
 Extensions can also specify popup windows and options pages.</p>
@@ -1902,7 +1902,7 @@ hot-reloads extension code for Firefox.</p>
 <li><a href="https://developer.mozilla.org/en-US/Add-ons/WebExtensions">Mozilla WebExtensions API</a></li>
 <li><a href="https://github.com/brave/browser-laptop/wiki/Developer-Notes-on-Installing-or-Updating-Extensions">Brave</a></li>
 <li><a href="https://developer.microsoft.com/en-us/microsoft-edge/platform/documentation/extensions/">Microsoft</a></li>
-</ul>]]></description><link>https://0xadada.pub/2019-03-08-extending-the-browser-with-the-lingua-franca-of-the-web</link><guid isPermaLink="true">https://0xadada.pub/2019-03-08-extending-the-browser-with-the-lingua-franca-of-the-web</guid><category><![CDATA[projects]]></category><category><![CDATA[open-source]]></category><dc:creator><![CDATA[0xADADA]]></dc:creator><pubDate>Fri, 08 Mar 2019 11:23:00 GMT</pubDate></item><item><title><![CDATA[Review - Opus by Satoshi Kon]]></title><description><![CDATA[<p>★★★★★ Review of the manga “Opus” by Satoshi Kon.</p>
+</ul>]]></description><link>https://0xadada.pub/2019/03/08/extending-the-browser-with-the-lingua-franca-of-the-web</link><guid isPermaLink="true">https://0xadada.pub/2019/03/08/extending-the-browser-with-the-lingua-franca-of-the-web</guid><category><![CDATA[projects]]></category><category><![CDATA[open-source]]></category><dc:creator><![CDATA[0xADADA]]></dc:creator><pubDate>Fri, 08 Mar 2019 11:23:00 GMT</pubDate></item><item><title><![CDATA[Review - Opus by Satoshi Kon]]></title><description><![CDATA[<p>★★★★★ Review of the manga “Opus” by Satoshi Kon.</p>
 <figure>
   <img src="/static/images/2018-12-05-opus-cover-satoshi-kon.jpg"
     alt="Opus by Satoshi Kon" title="Opus by Satoshi Kon">
@@ -1915,7 +1915,7 @@ final 3 chapters were never finished. Between 1996 and his death in 2010, he
 sketched out an abridged final chapter that was included in this book.</p>
 <p>The brilliance of this book is how the final chapter serves as a bookend to his
 life, how our individual lives are stories left unfinished, and how our loved
-ones go on to continue those stories. A true gem.</p>]]></description><link>https://0xadada.pub/2018-12-05-opus-satoshi-kon</link><guid isPermaLink="true">https://0xadada.pub/2018-12-05-opus-satoshi-kon</guid><category><![CDATA[notes]]></category><dc:creator><![CDATA[0xADADA]]></dc:creator><pubDate>Wed, 05 Dec 2018 08:51:00 GMT</pubDate></item><item><title><![CDATA[An Interview Question: Write a chainable n-argument sum function]]></title><description><![CDATA[<p>I came across an interesting interview question, along the lines of</p>
+ones go on to continue those stories. A true gem.</p>]]></description><link>https://0xadada.pub/2018/12/05/opus-satoshi-kon</link><guid isPermaLink="true">https://0xadada.pub/2018/12/05/opus-satoshi-kon</guid><category><![CDATA[notes]]></category><dc:creator><![CDATA[0xADADA]]></dc:creator><pubDate>Wed, 05 Dec 2018 08:51:00 GMT</pubDate></item><item><title><![CDATA[An Interview Question: Write a chainable n-argument sum function]]></title><description><![CDATA[<p>I came across an interesting interview question, along the lines of</p>
 <blockquote>
   <p>"How would you make this work?"</p>
 </blockquote>
@@ -1981,7 +1981,7 @@ console.log( `sumChainable(1,2)(3)`, sumChainable(1,2)(3) == 6 ? 'passed' : 'fai
 console.log( `sumChainable(1,2,3)(4)(5)`, sumChainable(1,2,3)(4)(5) == 15 ? 'passed' : 'failed' );
 console.log( `sumChainable(1,2,3)(4,5)(6)`, sumChainable(1,2,3)(4,5)(6) == 21 ? 'passed' : 'failed' );
 </code></pre>
-<p>viola!</p>]]></description><link>https://0xadada.pub/2018-10-18-chainable-n-args-sum-function</link><guid isPermaLink="true">https://0xadada.pub/2018-10-18-chainable-n-args-sum-function</guid><category><![CDATA[projects]]></category><category><![CDATA[open-source]]></category><dc:creator><![CDATA[0xADADA]]></dc:creator><pubDate>Thu, 18 Oct 2018 11:13:00 GMT</pubDate></item><item><title><![CDATA[Against Facebook]]></title><description><![CDATA[<aside>
+<p>viola!</p>]]></description><link>https://0xadada.pub/2018/10/18/chainable-n-args-sum-function</link><guid isPermaLink="true">https://0xadada.pub/2018/10/18/chainable-n-args-sum-function</guid><category><![CDATA[projects]]></category><category><![CDATA[open-source]]></category><dc:creator><![CDATA[0xADADA]]></dc:creator><pubDate>Thu, 18 Oct 2018 11:13:00 GMT</pubDate></item><item><title><![CDATA[Against Facebook]]></title><description><![CDATA[<aside>
   <a href="https://nadarespetable.com/2020/03/25/contra-facebook-parte-1/" rel="external" title="Contra Facebook [Parte 1]">Español: "Contra Facebook" [Parte 1]</a>,
   <a href="https://nadarespetable.com/2020/03/26/contra-facebook-parte-2/" rel="external" title="Contra Facebook [Parte 2]">[Parte 2]</a>
 </aside>
@@ -2848,7 +2848,7 @@ About Health, Wealth, and Happiness</em>. New Haven: Yale University Press. Prin
 <aside hidden>
   This was also posted to
   <a href="https://indieweb.xyz/en/socialmediastrike" class="u-syndication">/en/socialmediastrike</a>.
-</aside>]]></description><link>https://0xadada.pub/2018-05-01-against-facebook</link><guid isPermaLink="true">https://0xadada.pub/2018-05-01-against-facebook</guid><category><![CDATA[essays]]></category><category><![CDATA[privacy]]></category><dc:creator><![CDATA[0xADADA]]></dc:creator><pubDate>Tue, 01 May 2018 08:15:00 GMT</pubDate></item><item><title><![CDATA[Contextual Components and Changesets in Ember]]></title><description><![CDATA[<iframe width="560" height="315" 
+</aside>]]></description><link>https://0xadada.pub/2018/05/01/against-facebook</link><guid isPermaLink="true">https://0xadada.pub/2018/05/01/against-facebook</guid><category><![CDATA[essays]]></category><category><![CDATA[privacy]]></category><dc:creator><![CDATA[0xADADA]]></dc:creator><pubDate>Tue, 01 May 2018 08:15:00 GMT</pubDate></item><item><title><![CDATA[Contextual Components and Changesets in Ember]]></title><description><![CDATA[<iframe width="560" height="315" 
   src="https://www.youtube.com/embed/ekxKhGtUdDg?rel=0"
   frameborder="0"
   allow="autoplay; encrypted-media"
@@ -2862,7 +2862,7 @@ that only valid data will ever be set in a model.</p>
 <p>Contextual components are a set of conventions that allow a developer to build a
 component that can be customized by its consuming application. This means they
 can both yield values to its consumer, and allows a consumer to customize the
-display of the component.</p>]]></description><link>https://0xadada.pub/2018-04-25-talk-ember-contextual-components</link><guid isPermaLink="true">https://0xadada.pub/2018-04-25-talk-ember-contextual-components</guid><category><![CDATA[talks]]></category><dc:creator><![CDATA[0xADADA]]></dc:creator><pubDate>Wed, 25 Apr 2018 19:00:00 GMT</pubDate></item><item><title><![CDATA[Notes on Programming Phoenix for Elixir]]></title><description><![CDATA[<p>A summary of my notes taken while reading
+display of the component.</p>]]></description><link>https://0xadada.pub/2018/04/25/talk-ember-contextual-components</link><guid isPermaLink="true">https://0xadada.pub/2018/04/25/talk-ember-contextual-components</guid><category><![CDATA[talks]]></category><dc:creator><![CDATA[0xADADA]]></dc:creator><pubDate>Wed, 25 Apr 2018 19:00:00 GMT</pubDate></item><item><title><![CDATA[Notes on Programming Phoenix for Elixir]]></title><description><![CDATA[<p>A summary of my notes taken while reading
 <a href="https://pragprog.com/book/phoenix/programming-phoenix">Programming Phoenix</a>.</p>
 <h2 id="ch1">Ch.1</h2>
 <p>The layers of phoenix, the endpoint is where the HTTP connection contacts
@@ -3584,7 +3584,7 @@ concurrently, meaning they can be run in parallel, so the entire suite of tests
 can finish more quickly than their synchronous counterparts.</p>
 <h2 id="references">References</h2>
 <p>McCord, Chris. Tate, Bruce. Valim, José. (2016). <em>Programming Phoenix</em>. The
-Pragmatic Programmers. Print.</p>]]></description><link>https://0xadada.pub/2017-12-22-programming-phoenix</link><guid isPermaLink="true">https://0xadada.pub/2017-12-22-programming-phoenix</guid><category><![CDATA[notes]]></category><category><![CDATA[software-development]]></category><dc:creator><![CDATA[0xADADA]]></dc:creator><pubDate>Fri, 22 Dec 2017 15:54:00 GMT</pubDate></item><item><title><![CDATA[How Do Not Track and The EU GDPR Promise to Disrupt the Future of Web Advertising]]></title><description><![CDATA[<aside>
+Pragmatic Programmers. Print.</p>]]></description><link>https://0xadada.pub/2017/12/22/programming-phoenix</link><guid isPermaLink="true">https://0xadada.pub/2017/12/22/programming-phoenix</guid><category><![CDATA[notes]]></category><category><![CDATA[software-development]]></category><dc:creator><![CDATA[0xADADA]]></dc:creator><pubDate>Fri, 22 Dec 2017 15:54:00 GMT</pubDate></item><item><title><![CDATA[How Do Not Track and The EU GDPR Promise to Disrupt the Future of Web Advertising]]></title><description><![CDATA[<aside>
   <em>It seems fitting that I write this article on #HumanRightsDay</em>
 </aside>
 <p>Privacy is a fundamental human right. It is the right to control to whom and to
@@ -3893,7 +3893,7 @@ forward for the protection of the right to privacy online.</p>
     <a href="https://randomwalker.info/publications/OpenWPM_1_million_site_tracking_measurement.pdf">Online Tracking: A 1-million-site Measurement and Analysis</a>
     Englehardt, Steven and Narayanan, Arvind.
     Princeton:
-    ACM CCS 2016. 2016.</p>]]></description><link>https://0xadada.pub/2017-12-10-how-do-not-track-and-gdpr-promise-to-disrupt-the-future-of-web-advertising</link><guid isPermaLink="true">https://0xadada.pub/2017-12-10-how-do-not-track-and-gdpr-promise-to-disrupt-the-future-of-web-advertising</guid><category><![CDATA[essays]]></category><category><![CDATA[privacy]]></category><dc:creator><![CDATA[0xADADA]]></dc:creator><pubDate>Sun, 10 Dec 2017 09:35:00 GMT</pubDate></item><item><title><![CDATA[system-font-i18n-css]]></title><description><![CDATA[<p><code>system-font-i18n-css</code> provides twelve variations for the Sans-serif family of
+    ACM CCS 2016. 2016.</p>]]></description><link>https://0xadada.pub/2017/12/10/how-do-not-track-and-gdpr-promise-to-disrupt-the-future-of-web-advertising</link><guid isPermaLink="true">https://0xadada.pub/2017/12/10/how-do-not-track-and-gdpr-promise-to-disrupt-the-future-of-web-advertising</guid><category><![CDATA[essays]]></category><category><![CDATA[privacy]]></category><dc:creator><![CDATA[0xADADA]]></dc:creator><pubDate>Sun, 10 Dec 2017 09:35:00 GMT</pubDate></item><item><title><![CDATA[system-font-i18n-css]]></title><description><![CDATA[<p><code>system-font-i18n-css</code> provides twelve variations for the Sans-serif family of
 system font. This font stack provides more consistent character typesetting
 across multiple languages and all modern operating systems.</p>
 <p><code>system-font-i18n-css</code> is optimized to select the best system font on a
@@ -3907,7 +3907,7 @@ per-character basis, based on the unicode range of that character.</p>
 <a href="https://mirai-audio.github.io/system-font-i18n-css/">Docs</a>. Available on NPM as
 <a href="https://www.npmjs.com/package/system-font-i18n-css">system-font-i18n-css</a> and
 on github as
-<a href="https://github.com/mirai-audio/system-font-i18n-css">system-font-i18n-css</a></p>]]></description><link>https://0xadada.pub/2017-11-05-system-font-i18n-css</link><guid isPermaLink="true">https://0xadada.pub/2017-11-05-system-font-i18n-css</guid><category><![CDATA[projects]]></category><category><![CDATA[open-source]]></category><dc:creator><![CDATA[0xADADA]]></dc:creator><pubDate>Sun, 05 Nov 2017 14:12:00 GMT</pubDate></item><item><title><![CDATA[One Year with Ember]]></title><description><![CDATA[<p>In early 2015, I was working at an artificial intelligence startup. My team was
+<a href="https://github.com/mirai-audio/system-font-i18n-css">system-font-i18n-css</a></p>]]></description><link>https://0xadada.pub/2017/11/05/system-font-i18n-css</link><guid isPermaLink="true">https://0xadada.pub/2017/11/05/system-font-i18n-css</guid><category><![CDATA[projects]]></category><category><![CDATA[open-source]]></category><dc:creator><![CDATA[0xADADA]]></dc:creator><pubDate>Sun, 05 Nov 2017 14:12:00 GMT</pubDate></item><item><title><![CDATA[One Year with Ember]]></title><description><![CDATA[<p>In early 2015, I was working at an artificial intelligence startup. My team was
 planning to build a web application to connect to our neural network platform.
 The team as a whole had experience (on the AI–side) with Python, and the web
 team had a lot of experience using Django. We'd implemented a hybrid-app in
@@ -4001,14 +4001,14 @@ easier.</p>
 groups, and talking with folks in Slack, I'm sold. It's a pleasure to work in,
 and the roadmap ahead points to a bright future. Tree-shaking and improvements
 in static analysis are shaping up to help break the app into smaller pieces for
-faster delivery over the wire. I look forward to the next year using Ember.</p>]]></description><link>https://0xadada.pub/2017-10-09-one-year-with-ember</link><guid isPermaLink="true">https://0xadada.pub/2017-10-09-one-year-with-ember</guid><category><![CDATA[essays]]></category><category><![CDATA[open-source]]></category><category><![CDATA[software-development]]></category><dc:creator><![CDATA[0xADADA]]></dc:creator><pubDate>Mon, 09 Oct 2017 20:26:00 GMT</pubDate></item><item><title><![CDATA[ember-i18n-changeset-validations]]></title><description><![CDATA[<p><code>ember-i18n-changeset-validations</code> is an Ember addon providing internationalized
+faster delivery over the wire. I look forward to the next year using Ember.</p>]]></description><link>https://0xadada.pub/2017/10/09/one-year-with-ember</link><guid isPermaLink="true">https://0xadada.pub/2017/10/09/one-year-with-ember</guid><category><![CDATA[essays]]></category><category><![CDATA[open-source]]></category><category><![CDATA[software-development]]></category><dc:creator><![CDATA[0xADADA]]></dc:creator><pubDate>Mon, 09 Oct 2017 20:26:00 GMT</pubDate></item><item><title><![CDATA[ember-i18n-changeset-validations]]></title><description><![CDATA[<p><code>ember-i18n-changeset-validations</code> is an Ember addon providing internationalized
 validation messages to <code>ember-changeset-validations</code>. This addon adds the
 ability to translate <code>ember-changeset-validation</code> messages using the
 <code>ember-i18n</code> addon.</p>
 <p>Available on NPM at
 <a href="https://www.npmjs.com/package/ember-i18n-changeset-validations">ember-i18n-changeset-validations</a>
 and on github at
-<a href="https://github.com/mirai-audio/ember-i18n-changeset-validations">ember-i18n-changeset-validations</a>.</p>]]></description><link>https://0xadada.pub/2017-03-18-ember-i18n-changeset-validations</link><guid isPermaLink="true">https://0xadada.pub/2017-03-18-ember-i18n-changeset-validations</guid><category><![CDATA[projects]]></category><dc:creator><![CDATA[0xADADA]]></dc:creator><pubDate>Sat, 18 Mar 2017 14:12:00 GMT</pubDate></item><item><title><![CDATA[Encouraging individual sovereignty and a healthy commons]]></title><description><![CDATA[<aside>
+<a href="https://github.com/mirai-audio/ember-i18n-changeset-validations">ember-i18n-changeset-validations</a>.</p>]]></description><link>https://0xadada.pub/2017/03/18/ember-i18n-changeset-validations</link><guid isPermaLink="true">https://0xadada.pub/2017/03/18/ember-i18n-changeset-validations</guid><category><![CDATA[projects]]></category><dc:creator><![CDATA[0xADADA]]></dc:creator><pubDate>Sat, 18 Mar 2017 14:12:00 GMT</pubDate></item><item><title><![CDATA[Encouraging individual sovereignty and a healthy commons]]></title><description><![CDATA[<aside>
   <em>This is a guest post by Aral Balkan.</em>
 </aside>
 <p>Mark Zuckerberg has released a manifesto titled
@@ -4206,7 +4206,7 @@ other than because that is the world that I want to live in.</p>
       rel="nofollow">Aral Balkan</a>
     on February 18, 2017.
   </em>
-</aside>]]></description><link>https://0xadada.pub/2017-02-18-encourging-individual-sovereignty-and-a-healthy-commons</link><guid isPermaLink="true">https://0xadada.pub/2017-02-18-encourging-individual-sovereignty-and-a-healthy-commons</guid><category><![CDATA[guests]]></category><category><![CDATA[privacy]]></category><dc:creator><![CDATA[Aral Balkan]]></dc:creator><pubDate>Sat, 18 Feb 2017 11:41:30 GMT</pubDate></item><item><title><![CDATA[Optimism is your weapon!, Inherently Good, and the Public Good]]></title><description><![CDATA[<aside>
+</aside>]]></description><link>https://0xadada.pub/2017/02/18/encourging-individual-sovereignty-and-a-healthy-commons</link><guid isPermaLink="true">https://0xadada.pub/2017/02/18/encourging-individual-sovereignty-and-a-healthy-commons</guid><category><![CDATA[guests]]></category><category><![CDATA[privacy]]></category><dc:creator><![CDATA[Aral Balkan]]></dc:creator><pubDate>Sat, 18 Feb 2017 11:41:30 GMT</pubDate></item><item><title><![CDATA[Optimism is your weapon!, Inherently Good, and the Public Good]]></title><description><![CDATA[<aside>
   <em>This is a guest post by
     <a href="https://twitter.com/b_apothecary" rel="nofollow">
     Stephen Shellenberger</a>. Read more of his work at
@@ -4351,7 +4351,7 @@ prosperity.</p>
       rel="nofollow">Boston Apothecary</a>
     on January 30, 2017.
   </em>
-</aside>]]></description><link>https://0xadada.pub/2017-01-30-optimism-is-your-weapon</link><guid isPermaLink="true">https://0xadada.pub/2017-01-30-optimism-is-your-weapon</guid><category><![CDATA[guests]]></category><dc:creator><![CDATA[Stephen Shellenberger]]></dc:creator><pubDate>Mon, 30 Jan 2017 11:41:30 GMT</pubDate></item><item><title><![CDATA[Before Trump Takes Office]]></title><description><![CDATA[<figure>
+</aside>]]></description><link>https://0xadada.pub/2017/01/30/optimism-is-your-weapon</link><guid isPermaLink="true">https://0xadada.pub/2017/01/30/optimism-is-your-weapon</guid><category><![CDATA[guests]]></category><dc:creator><![CDATA[Stephen Shellenberger]]></dc:creator><pubDate>Mon, 30 Jan 2017 11:41:30 GMT</pubDate></item><item><title><![CDATA[Before Trump Takes Office]]></title><description><![CDATA[<figure>
   <img src="/static/images/2017-01-16-before-trump.jpg"
     alt="Trump" title="Trump">
 </figure>
@@ -4592,7 +4592,7 @@ federal politics, I have high hopes for local community action and the arts.</p>
     I've collected a few examples of this type of behavior in a Twitter Moment
     <a href="https://twitter.com/i/moments/817897786301710336">Performative Anti-Trump Activism</a>.</p>
 <p>[^6]:
-     For example, terms like 'fake news'.</p>]]></description><link>https://0xadada.pub/2017-01-16-before-trump-takes-office</link><guid isPermaLink="true">https://0xadada.pub/2017-01-16-before-trump-takes-office</guid><category><![CDATA[essays]]></category><dc:creator><![CDATA[0xADADA]]></dc:creator><pubDate>Mon, 16 Jan 2017 15:54:00 GMT</pubDate></item><item><title><![CDATA[Animating SVG with CSS]]></title><description><![CDATA[<p>I finally got around to converting my avatar from a raster graphic to a vector
+     For example, terms like 'fake news'.</p>]]></description><link>https://0xadada.pub/2017/01/16/before-trump-takes-office</link><guid isPermaLink="true">https://0xadada.pub/2017/01/16/before-trump-takes-office</guid><category><![CDATA[essays]]></category><dc:creator><![CDATA[0xADADA]]></dc:creator><pubDate>Mon, 16 Jan 2017 15:54:00 GMT</pubDate></item><item><title><![CDATA[Animating SVG with CSS]]></title><description><![CDATA[<p>I finally got around to converting my avatar from a raster graphic to a vector
 format. I wanted to be able to animate the polygons using JavaScript and CSS.
 Another great advantage of a vector format is how the format lends itself to
 generate a PNG or JPG in any size.</p>
@@ -4714,7 +4714,7 @@ loading.</p>
 <h2 id="result">Result</h2>
 <p><object type="image/svg+xml" data="/static/images/meta/avatar-animated.svg"
   height="660" width="660"> </object> <em>(Reload the page to view the animation
-again)</em></p>]]></description><link>https://0xadada.pub/2017-01-08-animating-avatar-svg</link><guid isPermaLink="true">https://0xadada.pub/2017-01-08-animating-avatar-svg</guid><category><![CDATA[projects]]></category><dc:creator><![CDATA[0xADADA]]></dc:creator><pubDate>Sun, 08 Jan 2017 14:12:00 GMT</pubDate></item><item><title><![CDATA[Travel Writing - Redux, Italy & Switzerland Edition]]></title><description><![CDATA[<figure>
+again)</em></p>]]></description><link>https://0xadada.pub/2017/01/08/animating-avatar-svg</link><guid isPermaLink="true">https://0xadada.pub/2017/01/08/animating-avatar-svg</guid><category><![CDATA[projects]]></category><dc:creator><![CDATA[0xADADA]]></dc:creator><pubDate>Sun, 08 Jan 2017 14:12:00 GMT</pubDate></item><item><title><![CDATA[Travel Writing - Redux, Italy & Switzerland Edition]]></title><description><![CDATA[<figure>
   <img src="/static/images/2016-10-24-travel-garbage.jpg"
     alt="Garbage truck in Torino, Italy" title="Garbage truck in Torino, Italy">
   <figcaption>Garbage truck in Torino, Italy</figcaption>
@@ -4872,7 +4872,7 @@ McLuhan, Marshall, and Lewis H. Lapham.
 Cambridge, Mass: MIT Press, 
 Print. 
 1994.
-</cite></p>]]></description><link>https://0xadada.pub/2016-11-06-travel-italy-switzerland</link><guid isPermaLink="true">https://0xadada.pub/2016-11-06-travel-italy-switzerland</guid><category><![CDATA[essays]]></category><dc:creator><![CDATA[0xADADA]]></dc:creator><pubDate>Sun, 06 Nov 2016 22:17:00 GMT</pubDate></item><item><title><![CDATA[A mix for musicForProgramming.net Podcast]]></title><description><![CDATA[<p>This is the first set mixed in nearly 12 years. Working in an open office space
+</cite></p>]]></description><link>https://0xadada.pub/2016/11/06/travel-italy-switzerland</link><guid isPermaLink="true">https://0xadada.pub/2016/11/06/travel-italy-switzerland</guid><category><![CDATA[essays]]></category><dc:creator><![CDATA[0xADADA]]></dc:creator><pubDate>Sun, 06 Nov 2016 22:17:00 GMT</pubDate></item><item><title><![CDATA[A mix for musicForProgramming.net Podcast]]></title><description><![CDATA[<p>This is the first set mixed in nearly 12 years. Working in an open office space
 means many hours of my day are spent listening to music with headphones on,
 cranking away at software code.</p>
 <p>For me, this means listening to music that doesn't distract from the task of
@@ -4903,7 +4903,7 @@ all come to mind.</p>
 <li>Hatred of Music I - Tim Hecker</li>
 <li>Hatred of Music II - Tim Hecker</li>
 <li>Carrying Glass - Ryuichi Sakamoto &amp; Alva Noto</li>
-</ul>]]></description><link>https://0xadada.pub/2016-04-16-music-for-programming-40</link><guid isPermaLink="true">https://0xadada.pub/2016-04-16-music-for-programming-40</guid><category><![CDATA[notes]]></category><category><![CDATA[projects]]></category><dc:creator><![CDATA[0xADADA]]></dc:creator><pubDate>Sat, 16 Apr 2016 19:47:00 GMT</pubDate></item><item><title><![CDATA[Installing (encrypted) Arch Linux on an Apple MacBook Pro]]></title><description><![CDATA[<p>In the style of <a href="https://mchladek.me/post/arch-mbp/">Michael Chladek</a>, I thought
+</ul>]]></description><link>https://0xadada.pub/2016/04/16/music-for-programming-40</link><guid isPermaLink="true">https://0xadada.pub/2016/04/16/music-for-programming-40</guid><category><![CDATA[notes]]></category><category><![CDATA[projects]]></category><dc:creator><![CDATA[0xADADA]]></dc:creator><pubDate>Sat, 16 Apr 2016 19:47:00 GMT</pubDate></item><item><title><![CDATA[Installing (encrypted) Arch Linux on an Apple MacBook Pro]]></title><description><![CDATA[<p>In the style of <a href="https://mchladek.me/post/arch-mbp/">Michael Chladek</a>, I thought
 it would be useful to my future-self and others, if I wrote up a summary of
 installing Arch Linux on Apple MacBook hardware. Of course there are other
 guides out there, but this one is specific to the needs of someone looking for a
@@ -6083,7 +6083,7 @@ here.</p>
     December 2, 2016: Thanks to Joshua Brown for clarifications to writing the bootloader line.</p>
 <p>[^10]:
     February 6, 2017: If anyone has a solution to the loss of Infinality bundle
-    typography, please drop me a line.</p>]]></description><link>https://0xadada.pub/2016-03-05-install-encrypted-arch-linux-on-apple-macbook-pro</link><guid isPermaLink="true">https://0xadada.pub/2016-03-05-install-encrypted-arch-linux-on-apple-macbook-pro</guid><category><![CDATA[projects]]></category><category><![CDATA[open-source]]></category><category><![CDATA[linux]]></category><dc:creator><![CDATA[0xADADA]]></dc:creator><pubDate>Sat, 05 Mar 2016 11:35:00 GMT</pubDate></item><item><title><![CDATA[JavaScript The Good Parts]]></title><description><![CDATA[<p><em>Notes from the book: JavaScript: The Good Parts by Douglas Crockford</em></p>
+    typography, please drop me a line.</p>]]></description><link>https://0xadada.pub/2016/03/05/install-encrypted-arch-linux-on-apple-macbook-pro</link><guid isPermaLink="true">https://0xadada.pub/2016/03/05/install-encrypted-arch-linux-on-apple-macbook-pro</guid><category><![CDATA[projects]]></category><category><![CDATA[open-source]]></category><category><![CDATA[linux]]></category><dc:creator><![CDATA[0xADADA]]></dc:creator><pubDate>Sat, 05 Mar 2016 11:35:00 GMT</pubDate></item><item><title><![CDATA[JavaScript The Good Parts]]></title><description><![CDATA[<p><em>Notes from the book: JavaScript: The Good Parts by Douglas Crockford</em></p>
 <h2 id="index">Index</h2>
 <ul>
 <li><a href="#javascript-the-good-parts">JavaScript: The Good Parts</a></li>
@@ -6850,7 +6850,7 @@ y = {}
 &gt; y[[]] = 1
 &gt; Object.keys(y)
 [ '' ] // HuH?
-</code></pre>]]></description><link>https://0xadada.pub/2015-11-15-javascript-the-good-parts</link><guid isPermaLink="true">https://0xadada.pub/2015-11-15-javascript-the-good-parts</guid><category><![CDATA[notes]]></category><category><![CDATA[software-development]]></category><dc:creator><![CDATA[0xADADA]]></dc:creator><pubDate>Sun, 15 Nov 2015 17:11:00 GMT</pubDate></item><item><title><![CDATA[on logging]]></title><description><![CDATA[<p>Application logs are useful for many reasons. They are the primary source of
+</code></pre>]]></description><link>https://0xadada.pub/2015/11/15/javascript-the-good-parts</link><guid isPermaLink="true">https://0xadada.pub/2015/11/15/javascript-the-good-parts</guid><category><![CDATA[notes]]></category><category><![CDATA[software-development]]></category><dc:creator><![CDATA[0xADADA]]></dc:creator><pubDate>Sun, 15 Nov 2015 17:11:00 GMT</pubDate></item><item><title><![CDATA[on logging]]></title><description><![CDATA[<p>Application logs are useful for many reasons. They are the primary source of
 troubleshooting information. Logs are essential to forensics during any rigorous
 security analysis. Web server logs are often used for analysis in order to gain
 insight into usage, audience, and trends.</p>
@@ -6950,7 +6950,7 @@ Docker logging driver. Docker allows configuration of container log driver:</p>
   ports:
     - 514:1514/udp
   restart: always
-</code></pre>]]></description><link>https://0xadada.pub/2015-11-05-on-logging</link><guid isPermaLink="true">https://0xadada.pub/2015-11-05-on-logging</guid><category><![CDATA[essays]]></category><category><![CDATA[open-source]]></category><category><![CDATA[software-development]]></category><dc:creator><![CDATA[0xADADA]]></dc:creator><pubDate>Thu, 05 Nov 2015 11:13:00 GMT</pubDate></item><item><title><![CDATA[A Retrospective — Responsive Design]]></title><description><![CDATA[<p>Not too long ago, there was a great debate between two sides of the web. The
+</code></pre>]]></description><link>https://0xadada.pub/2015/11/05/on-logging</link><guid isPermaLink="true">https://0xadada.pub/2015/11/05/on-logging</guid><category><![CDATA[essays]]></category><category><![CDATA[open-source]]></category><category><![CDATA[software-development]]></category><dc:creator><![CDATA[0xADADA]]></dc:creator><pubDate>Thu, 05 Nov 2015 11:13:00 GMT</pubDate></item><item><title><![CDATA[A Retrospective — Responsive Design]]></title><description><![CDATA[<p>Not too long ago, there was a great debate between two sides of the web. The
 “Responsive” web vs the “m.” web. One pushing for a single codebase that
 responds to user-context and another pushing for a second, mobile-only approach
 (typically using a subdomain starting with m.) It's clear now,
@@ -7104,7 +7104,7 @@ solve the technology last, once all important decisions have been made.</p>
 to the redesign of the Boston Globe</li>
 <li><a href="https://mattandrews.info/2013/05/responsive-design-at-the-guardian-port-80.html#/">Matt Andrews on the responsive redesign</a>
 at the Guardian UK</li>
-</ul>]]></description><link>https://0xadada.pub/2015-11-05-a-retrospective--responsive-design</link><guid isPermaLink="true">https://0xadada.pub/2015-11-05-a-retrospective--responsive-design</guid><category><![CDATA[essays]]></category><category><![CDATA[software-development]]></category><dc:creator><![CDATA[0xADADA]]></dc:creator><pubDate>Thu, 05 Nov 2015 20:20:00 GMT</pubDate></item><item><title><![CDATA[Development Lifecycle with Docker and Elastic Beanstalk]]></title><description><![CDATA[<p>Docker is getting a lot of hype these days, for good reason. There are plenty of
+</ul>]]></description><link>https://0xadada.pub/2015/11/05/a-retrospective--responsive-design</link><guid isPermaLink="true">https://0xadada.pub/2015/11/05/a-retrospective--responsive-design</guid><category><![CDATA[essays]]></category><category><![CDATA[software-development]]></category><dc:creator><![CDATA[0xADADA]]></dc:creator><pubDate>Thu, 05 Nov 2015 20:20:00 GMT</pubDate></item><item><title><![CDATA[Development Lifecycle with Docker and Elastic Beanstalk]]></title><description><![CDATA[<p>Docker is getting a lot of hype these days, for good reason. There are plenty of
 articles touting the merits of Docker but most are written without context and
 are limited to examining the the benefits of Docker independently of its'
 practical everyday use in a software development project lifecycle.</p>
@@ -7853,7 +7853,7 @@ file to do the same thing.</p></li>
     using OS X, Windows or another non-Linux OS, they'll need to run a Linux
     VM in order to use Docker. However, this single VM will be able to run
     all Docker containers for all Docker projects they use. Tools like
-    Docker Machine make working with the Docker VM much simpler.</p>]]></description><link>https://0xadada.pub/2015-11-03-development-lifecycle-with-docker-and-elastic-beanstalk</link><guid isPermaLink="true">https://0xadada.pub/2015-11-03-development-lifecycle-with-docker-and-elastic-beanstalk</guid><category><![CDATA[essays]]></category><category><![CDATA[software-development]]></category><dc:creator><![CDATA[0xADADA]]></dc:creator><pubDate>Tue, 03 Nov 2015 07:55:00 GMT</pubDate></item><item><title><![CDATA[RASpec Impreza 2.0 - Subaru Impreza WRX STI Race Car - Full specifications]]></title><description><![CDATA[<h2 id="aboutthecar">About the Car</h2>
+    Docker Machine make working with the Docker VM much simpler.</p>]]></description><link>https://0xadada.pub/2015/11/03/development-lifecycle-with-docker-and-elastic-beanstalk</link><guid isPermaLink="true">https://0xadada.pub/2015/11/03/development-lifecycle-with-docker-and-elastic-beanstalk</guid><category><![CDATA[essays]]></category><category><![CDATA[software-development]]></category><dc:creator><![CDATA[0xADADA]]></dc:creator><pubDate>Tue, 03 Nov 2015 07:55:00 GMT</pubDate></item><item><title><![CDATA[RASpec Impreza 2.0 - Subaru Impreza WRX STI Race Car - Full specifications]]></title><description><![CDATA[<h2 id="aboutthecar">About the Car</h2>
 <p>The car is a 2002 Subaru WRX "bugeye" chassis purchased in 2011 and fully
 restored from 2013 to 2015. The car was built by DENT Sport Garage and
 <a href="http://www.germanperformanceservice.com/">German Performance Service</a> in
@@ -8131,7 +8131,7 @@ were focusing on suspension setup and were not racing. The previous tune made
 400whp at 23lbs of boost. On dyno testing its made much more at higher boost,
 but we've dialed it back to increase engine longevity. Using the same engine
 parts, tolerances and turbo, Cusco / Tomei / Voltex made 500whp.</li>
-</ul>]]></description><link>https://0xadada.pub/2015-08-15-raspec-impreza</link><guid isPermaLink="true">https://0xadada.pub/2015-08-15-raspec-impreza</guid><category><![CDATA[projects]]></category><category><![CDATA[motorsports]]></category><dc:creator><![CDATA[0xADADA]]></dc:creator><pubDate>Sat, 15 Aug 2015 12:00:00 GMT</pubDate></item><item><title><![CDATA[When to Use Git Merge vs Git Rebase]]></title><description><![CDATA[<p>I’ve seen many articles and discussions online discussing the merits of merge
+</ul>]]></description><link>https://0xadada.pub/2015/08/15/raspec-impreza</link><guid isPermaLink="true">https://0xadada.pub/2015/08/15/raspec-impreza</guid><category><![CDATA[projects]]></category><category><![CDATA[motorsports]]></category><dc:creator><![CDATA[0xADADA]]></dc:creator><pubDate>Sat, 15 Aug 2015 12:00:00 GMT</pubDate></item><item><title><![CDATA[When to Use Git Merge vs Git Rebase]]></title><description><![CDATA[<p>I’ve seen many articles and discussions online discussing the merits of merge
 and rebase when integrating parallel branches into the main branch. It seems
 there are two camps arguing “which is better” when in reality, both have their
 own use cases.</p>
@@ -8413,7 +8413,7 @@ it.</p>
 </ul>
 <hr />
 <p>This article was originally published on
-<a href="https://medium.com/@0xadada/when-to-use-git-merge-vs-git-rebase-264daeec77bd">Medium.com</a></p>]]></description><link>https://0xadada.pub/2015-08-03-when-to-use-git-merge-vs-git-rebase</link><guid isPermaLink="true">https://0xadada.pub/2015-08-03-when-to-use-git-merge-vs-git-rebase</guid><category><![CDATA[essays]]></category><category><![CDATA[software-development]]></category><dc:creator><![CDATA[0xADADA]]></dc:creator><pubDate>Mon, 03 Aug 2015 07:31:00 GMT</pubDate></item><item><title><![CDATA[“So what do you do?” — How Idle Conversation Escalates Tensions in Class Inequality]]></title><description><![CDATA[<p>When introduced to someone for the first time, I stay away from asking the
+<a href="https://medium.com/@0xadada/when-to-use-git-merge-vs-git-rebase-264daeec77bd">Medium.com</a></p>]]></description><link>https://0xadada.pub/2015/08/03/when-to-use-git-merge-vs-git-rebase</link><guid isPermaLink="true">https://0xadada.pub/2015/08/03/when-to-use-git-merge-vs-git-rebase</guid><category><![CDATA[essays]]></category><category><![CDATA[software-development]]></category><dc:creator><![CDATA[0xADADA]]></dc:creator><pubDate>Mon, 03 Aug 2015 07:31:00 GMT</pubDate></item><item><title><![CDATA[“So what do you do?” — How Idle Conversation Escalates Tensions in Class Inequality]]></title><description><![CDATA[<p>When introduced to someone for the first time, I stay away from asking the
 cliché question “so what do you do?”</p>
 <p>This seemingly benign question is steeped in the cultural heritage of the New
 England colonial
@@ -8463,7 +8463,7 @@ to think outside our own ideology before we speak.</p>
 <p>[^1]:
     Its also a uniquely American question to ask. In Europe you don't hear this
     question asked at parties, because work doesn't define their lives outside
-    of work. A broad generalization, but a correct one.</p>]]></description><link>https://0xadada.pub/2015-08-02-so-what-do-you-do</link><guid isPermaLink="true">https://0xadada.pub/2015-08-02-so-what-do-you-do</guid><category><![CDATA[essays]]></category><dc:creator><![CDATA[0xADADA]]></dc:creator><pubDate>Sun, 02 Aug 2015 16:20:00 GMT</pubDate></item><item><title><![CDATA[Approaches for Pushing Do Not Track to the edges]]></title><description><![CDATA[<p>Lets face it, Do Not Track (DNT) is dying a slow death. Content providers are
+    of work. A broad generalization, but a correct one.</p>]]></description><link>https://0xadada.pub/2015/08/02/so-what-do-you-do</link><guid isPermaLink="true">https://0xadada.pub/2015/08/02/so-what-do-you-do</guid><category><![CDATA[essays]]></category><dc:creator><![CDATA[0xADADA]]></dc:creator><pubDate>Sun, 02 Aug 2015 16:20:00 GMT</pubDate></item><item><title><![CDATA[Approaches for Pushing Do Not Track to the edges]]></title><description><![CDATA[<p>Lets face it, Do Not Track (DNT) is dying a slow death. Content providers are
 either ignoring the setting, or giving lip service to DNT while taking no action
 behind the scenes.</p>
 <p>Worse yet, if users are able to find the browser preference, they don’t
@@ -8586,7 +8586,7 @@ has been closed.</p>
 IE10 comes with DNT enabled by default.</p>
 <hr />
 <p>This article was originally published on
-<a href="https://medium.com/@0xadada/approaches-for-pushing-do-not-track-to-the-edges-70f0edb2b927">Medium.com</a></p>]]></description><link>https://0xadada.pub/2015-03-31-approaches-for-pushing-dnt-to-the-edges</link><guid isPermaLink="true">https://0xadada.pub/2015-03-31-approaches-for-pushing-dnt-to-the-edges</guid><category><![CDATA[essays]]></category><category><![CDATA[privacy]]></category><dc:creator><![CDATA[0xADADA]]></dc:creator><pubDate>Tue, 31 Mar 2015 20:01:00 GMT</pubDate></item><item><title><![CDATA[Understanding Media, Reversal of the Overheated Medium]]></title><description><![CDATA[<p>In Understanding Media, McLuhan describes the shift in western society from an 
+<a href="https://medium.com/@0xadada/approaches-for-pushing-do-not-track-to-the-edges-70f0edb2b927">Medium.com</a></p>]]></description><link>https://0xadada.pub/2015/03/31/approaches-for-pushing-dnt-to-the-edges</link><guid isPermaLink="true">https://0xadada.pub/2015/03/31/approaches-for-pushing-dnt-to-the-edges</guid><category><![CDATA[essays]]></category><category><![CDATA[privacy]]></category><dc:creator><![CDATA[0xADADA]]></dc:creator><pubDate>Tue, 31 Mar 2015 20:01:00 GMT</pubDate></item><item><title><![CDATA[Understanding Media, Reversal of the Overheated Medium]]></title><description><![CDATA[<p>In Understanding Media, McLuhan describes the shift in western society from an 
 agrarian economy to an industrial economy as a template for the next shift from 
 an industrial economy to an information economy.</p>
 <blockquote>
@@ -8627,7 +8627,7 @@ provide useful insights.</p>
 <p>McLuhan, Marshall.
 <em><a href="https://mitpress.mit.edu/books/understanding-media">Understanding Media: The Extensions of Man</a></em>.
 Cambridge: MIT,
-Print. 1994.</p>]]></description><link>https://0xadada.pub/2015-03-17-mcluhan-understanding-media</link><guid isPermaLink="true">https://0xadada.pub/2015-03-17-mcluhan-understanding-media</guid><category><![CDATA[notes]]></category><category><![CDATA[essays]]></category><dc:creator><![CDATA[0xADADA]]></dc:creator><pubDate>Tue, 17 Mar 2015 15:54:00 GMT</pubDate></item><item><title><![CDATA[What is Bitcoin Backed By?]]></title><description><![CDATA[<h3 id="letsstartwithwhattheusdisbackedby">Lets Start With What the USD is backed by</h3>
+Print. 1994.</p>]]></description><link>https://0xadada.pub/2015/03/17/mcluhan-understanding-media</link><guid isPermaLink="true">https://0xadada.pub/2015/03/17/mcluhan-understanding-media</guid><category><![CDATA[notes]]></category><category><![CDATA[essays]]></category><dc:creator><![CDATA[0xADADA]]></dc:creator><pubDate>Tue, 17 Mar 2015 15:54:00 GMT</pubDate></item><item><title><![CDATA[What is Bitcoin Backed By?]]></title><description><![CDATA[<h3 id="letsstartwithwhattheusdisbackedby">Lets Start With What the USD is backed by</h3>
 <p>The USD is no longer backed by gold[^1], but by a promise that the US Government will pay its debt (in the form of  payment the interest on (and sometime redeem) government securities when due). If these payments are not made to the debt holders (Corporations, China, treasury-bond holders) then a default would occur, which would shift international use of the USD into other currencies. This would flood the US economy will low-value dollars, resulting in massive hyper-inflation.</p>
 <p>If you remember the the "Debt Ceiling Crisis" of 2011, the "Fiscal Cliff" of 2013 (and the Government Shutdowns of 2018 and 2019)[^3], then i'm sure you can understand why international faith in the US Gov promise to pay its debt is wearing thin.</p>
 <p>The USD is also backed by simple faith in that the dollar is "Just what everyone uses, so I'll use it". This is fine and good. Many currencies have succeeded since the early 18th century largely on faith. Faith can shift based on perceptions however, so once people begin to see that "The Emperor Has No Clothes", they will begin to store value in other stores-of-value.</p>
@@ -8643,7 +8643,7 @@ Print. 1994.</p>]]></description><link>https://0xadada.pub/2015-03-17-mcluhan-un
     In addition to the first two when I wrote this note, we've aded 
     <a href="https://en.wikipedia.org/wiki/January_2018_United_States_federal_government_shutdown">2018 Federal Government Shutdown</a>
     and the
-    <a href="https://en.wikipedia.org/wiki/2018%E2%80%932019_United_States_federal_government_shutdown">2019 Government Shutdown under Trump</a></p>]]></description><link>https://0xadada.pub/2014-03-06-what-is-bitcoin-backed-by</link><guid isPermaLink="true">https://0xadada.pub/2014-03-06-what-is-bitcoin-backed-by</guid><category><![CDATA[notes]]></category><category><![CDATA[bitcoin]]></category><category><![CDATA[cryptocurrencies]]></category><category><![CDATA[economics]]></category><dc:creator><![CDATA[0xADADA]]></dc:creator><pubDate>Thu, 06 Mar 2014 09:07:00 GMT</pubDate></item><item><title><![CDATA[Best Practices for Writing CSS]]></title><description><![CDATA[<h2 id="generalhighorderprinciples">General High-Order Principles</h2>
+    <a href="https://en.wikipedia.org/wiki/2018%E2%80%932019_United_States_federal_government_shutdown">2019 Government Shutdown under Trump</a></p>]]></description><link>https://0xadada.pub/2014/03/06/what-is-bitcoin-backed-by</link><guid isPermaLink="true">https://0xadada.pub/2014/03/06/what-is-bitcoin-backed-by</guid><category><![CDATA[notes]]></category><category><![CDATA[bitcoin]]></category><category><![CDATA[cryptocurrencies]]></category><category><![CDATA[economics]]></category><dc:creator><![CDATA[0xADADA]]></dc:creator><pubDate>Thu, 06 Mar 2014 09:07:00 GMT</pubDate></item><item><title><![CDATA[Best Practices for Writing CSS]]></title><description><![CDATA[<h2 id="generalhighorderprinciples">General High-Order Principles</h2>
 <ul>
 <li>Simplicity - The most bug-free line of code is the one you don't have to
 write!</li>
@@ -8936,7 +8936,7 @@ Writing efficient CSS selectors</li>
 Mozilla article on fast CSS performance</li>
 <li><a href="https://css-tricks.com/efficiently-rendering-css/">CSS Tricks</a> - Efficient
 CSS Rendering</li>
-</ul>]]></description><link>https://0xadada.pub/2013-03-01-best-practices-writing-css</link><guid isPermaLink="true">https://0xadada.pub/2013-03-01-best-practices-writing-css</guid><category><![CDATA[essays]]></category><category><![CDATA[software-development]]></category><dc:creator><![CDATA[0xADADA]]></dc:creator><pubDate>Fri, 01 Mar 2013 20:01:00 GMT</pubDate></item><item><title><![CDATA[A Study of Adobe Photoshop Scrollbars]]></title><description><![CDATA[<p>Take a moment to count the number of unique scrollbar widget types there are in
+</ul>]]></description><link>https://0xadada.pub/2013/03/01/best-practices-writing-css</link><guid isPermaLink="true">https://0xadada.pub/2013/03/01/best-practices-writing-css</guid><category><![CDATA[essays]]></category><category><![CDATA[software-development]]></category><dc:creator><![CDATA[0xADADA]]></dc:creator><pubDate>Fri, 01 Mar 2013 20:01:00 GMT</pubDate></item><item><title><![CDATA[A Study of Adobe Photoshop Scrollbars]]></title><description><![CDATA[<p>Take a moment to count the number of unique scrollbar widget types there are in
 Adobe Photoshop. You may be surprised.</p>
 <blockquote>
   <p>"You can measure software maturity by the number of UI toolkits it
@@ -8947,7 +8947,7 @@ Adobe Photoshop. You may be surprised.</p>
   <img src="/static/images/2011-12-24-photoshop-scrollbar-study.png"
     alt="Photoshop Scollbars" title="Photoshop Scollbars">
   <figcaption>Photoshop Scollbars</figcaption>
-</figure>]]></description><link>https://0xadada.pub/2011-12-24-software-erosion-in-photoshop</link><guid isPermaLink="true">https://0xadada.pub/2011-12-24-software-erosion-in-photoshop</guid><category><![CDATA[notes]]></category><dc:creator><![CDATA[0xADADA]]></dc:creator><pubDate>Sat, 24 Dec 2011 08:35:00 GMT</pubDate></item><item><title><![CDATA[Travel Writing]]></title><description><![CDATA[<figure>
+</figure>]]></description><link>https://0xadada.pub/2011/12/24/software-erosion-in-photoshop</link><guid isPermaLink="true">https://0xadada.pub/2011/12/24/software-erosion-in-photoshop</guid><category><![CDATA[notes]]></category><dc:creator><![CDATA[0xADADA]]></dc:creator><pubDate>Sat, 24 Dec 2011 08:35:00 GMT</pubDate></item><item><title><![CDATA[Travel Writing]]></title><description><![CDATA[<figure>
   <img src="/static/images/2011-12-01-travel-writing-bologna-italy-alleyway.jpg"
     alt="Alleyway in Bologna, Italy" title="Alleyway in Bologna, Italy">
   <figcaption>Alleyway in Bologna, Italy</figcaption>
@@ -8976,7 +8976,7 @@ roles, events have more (or less) relevance, and places are imbued with life,
 color and motion. Understanding becomes alive.</p>
 <p>Travel seems to make me step outside the world, so that I can look back upon it
 with new eyes. And when I return home, my new eyes are the eyes with which I've
-always viewed the world.</p>]]></description><link>https://0xadada.pub/2011-12-01-travel-writing</link><guid isPermaLink="true">https://0xadada.pub/2011-12-01-travel-writing</guid><category><![CDATA[essays]]></category><dc:creator><![CDATA[0xADADA]]></dc:creator><pubDate>Thu, 01 Dec 2011 22:17:00 GMT</pubDate></item><item><title><![CDATA[Visual Commentary Propaganda Pastiche]]></title><description><![CDATA[<p>From comic book stores to Facebook to message boards, it seems that the "Keep
+always viewed the world.</p>]]></description><link>https://0xadada.pub/2011/12/01/travel-writing</link><guid isPermaLink="true">https://0xadada.pub/2011/12/01/travel-writing</guid><category><![CDATA[essays]]></category><dc:creator><![CDATA[0xADADA]]></dc:creator><pubDate>Thu, 01 Dec 2011 22:17:00 GMT</pubDate></item><item><title><![CDATA[Visual Commentary Propaganda Pastiche]]></title><description><![CDATA[<p>From comic book stores to Facebook to message boards, it seems that the "Keep
 Calm and Carry On" poster is living a new life as pop-culture cool while people
 remix its' message with both quirky or banal messages.</p>
 <p>This attempt tries to speak most directly to its underlying message of
@@ -8984,7 +8984,7 @@ consumerism, amidst the current climate of the Occupy Movement.</p>
 <figure>
   <img src="/static/images/2011-10-12-keep-buying-and-carry-debt.png"
     alt="Keep Buying and Carry Debt" title="Keep Buying and Carry Debt">
-</figure>]]></description><link>https://0xadada.pub/2011-10-12-keep-buying-and-carry-debt</link><guid isPermaLink="true">https://0xadada.pub/2011-10-12-keep-buying-and-carry-debt</guid><category><![CDATA[notes]]></category><dc:creator><![CDATA[0xADADA]]></dc:creator><pubDate>Wed, 12 Oct 2011 07:35:00 GMT</pubDate></item><item><title><![CDATA[VIM Cheatsheet]]></title><description><![CDATA[<p><em>Motion, keyboard commands and shortcuts for VI Improved</em></p>
+</figure>]]></description><link>https://0xadada.pub/2011/10/12/keep-buying-and-carry-debt</link><guid isPermaLink="true">https://0xadada.pub/2011/10/12/keep-buying-and-carry-debt</guid><category><![CDATA[notes]]></category><dc:creator><![CDATA[0xADADA]]></dc:creator><pubDate>Wed, 12 Oct 2011 07:35:00 GMT</pubDate></item><item><title><![CDATA[VIM Cheatsheet]]></title><description><![CDATA[<p><em>Motion, keyboard commands and shortcuts for VI Improved</em></p>
 <ul>
 <li><a href="#legend">Legend</a></li>
 <li><a href="#motion---normal-mode">Motion / Normal mode</a></li>
@@ -9229,7 +9229,7 @@ faster. All searches fill a buffer that is accessible by the
 The <code>g</code> option specifies that all matches for a search will be returned instead of just one per line,
 and the <code>j</code> option specifies that Vim will not jump to the first match automatically.</li>
 <li><kbd>:grep &lt;pattern&gt; &lt;path&gt;</kbd> - Search for regex <code>pattern</code> located in <code>path</code>.</li>
-</ul>]]></description><link>https://0xadada.pub/2011-03-10-vim-cheatsheet</link><guid isPermaLink="true">https://0xadada.pub/2011-03-10-vim-cheatsheet</guid><category><![CDATA[notes]]></category><dc:creator><![CDATA[0xADADA]]></dc:creator><pubDate>Thu, 10 Mar 2011 17:11:00 GMT</pubDate></item><item><title><![CDATA[A Connect Four Playing AI Agent: Algorithm and Creation Process]]></title><description><![CDATA[<p>0xADADA, Erik Ibsen, Chen Zhang
+</ul>]]></description><link>https://0xadada.pub/2011/03/10/vim-cheatsheet</link><guid isPermaLink="true">https://0xadada.pub/2011/03/10/vim-cheatsheet</guid><category><![CDATA[notes]]></category><dc:creator><![CDATA[0xADADA]]></dc:creator><pubDate>Thu, 10 Mar 2011 17:11:00 GMT</pubDate></item><item><title><![CDATA[A Connect Four Playing AI Agent: Algorithm and Creation Process]]></title><description><![CDATA[<p>0xADADA, Erik Ibsen, Chen Zhang
 <br>
 Khoury College of Computer Sciences
 <br>
@@ -9577,7 +9577,7 @@ Milton-Bradley, Inc. Connect Four Game, Hasbro, Inc.
 <aside>
   All source code is available at
   <a href="https://github.com/0xadada/smart-connect-four">GitHub</a>.
-</aside>]]></description><link>https://0xadada.pub/2003-12-15-connect-four-playing-ai-agent</link><guid isPermaLink="true">https://0xadada.pub/2003-12-15-connect-four-playing-ai-agent</guid><category><![CDATA[projects]]></category><dc:creator><![CDATA[0xADADA, Erik Ibsen, Chen Zhang]]></dc:creator><pubDate>Mon, 15 Dec 2003 12:00:00 GMT</pubDate></item><item><title><![CDATA[Speech Segmentation in Japanese and English Bilinguals]]></title><description><![CDATA[<p>Colleges of Computer Sciences and Science (Psychology)
+</aside>]]></description><link>https://0xadada.pub/2003/12/15/connect-four-playing-ai-agent</link><guid isPermaLink="true">https://0xadada.pub/2003/12/15/connect-four-playing-ai-agent</guid><category><![CDATA[projects]]></category><dc:creator><![CDATA[0xADADA, Erik Ibsen, Chen Zhang]]></dc:creator><pubDate>Mon, 15 Dec 2003 12:00:00 GMT</pubDate></item><item><title><![CDATA[Speech Segmentation in Japanese and English Bilinguals]]></title><description><![CDATA[<p>Colleges of Computer Sciences and Science (Psychology)
 <br>
 Northeastern University Boston, MA
 <br>
@@ -10103,7 +10103,7 @@ Effects of discrimination training on the
 perception of /r-l/ by Japanese adults learning English.
 <em>Perception & Psychophysics</em>,
 36(2), 131-145.
-</cite></p>]]></description><link>https://0xadada.pub/2003-12-14-speech-segmentation-in-japanese-and-english-bilinguals</link><guid isPermaLink="true">https://0xadada.pub/2003-12-14-speech-segmentation-in-japanese-and-english-bilinguals</guid><category><![CDATA[essays]]></category><dc:creator><![CDATA[0xADADA]]></dc:creator><pubDate>Sun, 14 Dec 2003 17:45:00 GMT</pubDate></item><item><title><![CDATA[Hikikomori/Otaku Japans Latest Out-Group - Creating Social Outcasts to Construct a National Self-identity]]></title><description><![CDATA[<figure>
+</cite></p>]]></description><link>https://0xadada.pub/2003/12/14/speech-segmentation-in-japanese-and-english-bilinguals</link><guid isPermaLink="true">https://0xadada.pub/2003/12/14/speech-segmentation-in-japanese-and-english-bilinguals</guid><category><![CDATA[essays]]></category><dc:creator><![CDATA[0xADADA]]></dc:creator><pubDate>Sun, 14 Dec 2003 17:45:00 GMT</pubDate></item><item><title><![CDATA[Hikikomori/Otaku Japans Latest Out-Group - Creating Social Outcasts to Construct a National Self-identity]]></title><description><![CDATA[<figure>
   <img src="/static/images/2003-01-01-hikikomori-mt-isolation.jpg"
     alt="Mt. Isolation NH, USA" title="Mt. Isolation NH, USA">
   <figcaption>Mt. Isolation NH, USA.</figcaption>
@@ -10510,7 +10510,7 @@ Print.
 </cite></p>
 <aside>
   <p>Photo of Mt. Isolation by the Author.</p>
-</aside>]]></description><link>https://0xadada.pub/2003-01-01-hikikomori-otaku-japans-latest-outcasts</link><guid isPermaLink="true">https://0xadada.pub/2003-01-01-hikikomori-otaku-japans-latest-outcasts</guid><category><![CDATA[essays]]></category><dc:creator><![CDATA[0xADADA]]></dc:creator><pubDate>Wed, 01 Jan 2003 12:00:00 GMT</pubDate></item><item><title><![CDATA[About 0xADADA]]></title><description><![CDATA[<figure>
+</aside>]]></description><link>https://0xadada.pub/2003/01/01/hikikomori-otaku-japans-latest-outcasts</link><guid isPermaLink="true">https://0xadada.pub/2003/01/01/hikikomori-otaku-japans-latest-outcasts</guid><category><![CDATA[essays]]></category><dc:creator><![CDATA[0xADADA]]></dc:creator><pubDate>Wed, 01 Jan 2003 12:00:00 GMT</pubDate></item><item><title><![CDATA[About 0xADADA]]></title><description><![CDATA[<figure>
   <img src="/static/images/meta/avatar.svg" alt="0xADADA">
   <figcaption>0xADADA</figcaption>
 </figure>
@@ -10542,4 +10542,4 @@ with degrees in Computer Science and Cognitive Psychology.</p>
 <li><em>When did you start web development?</em><br> In 1996, shortly after I got on the
 internet. I started a mock web consulting agency, and companies started
 actually hiring me to build their websites.</li>
-</ul>]]></description><link>https://0xadada.pub/1980-06-05-about</link><guid isPermaLink="true">https://0xadada.pub/1980-06-05-about</guid><dc:creator><![CDATA[0xADADA]]></dc:creator><pubDate>Thu, 05 Jun 1980 06:00:01 GMT</pubDate></item></channel></rss>
+</ul>]]></description><link>https://0xadada.pub/1980/06/05/about</link><guid isPermaLink="true">https://0xadada.pub/1980/06/05/about</guid><dc:creator><![CDATA[0xADADA]]></dc:creator><pubDate>Thu, 05 Jun 1980 06:00:01 GMT</pubDate></item></channel></rss>

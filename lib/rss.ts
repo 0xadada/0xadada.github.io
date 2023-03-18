@@ -38,7 +38,9 @@ export const generateRSS = async (posts: PostData[]) => {
       );
       console.warn("Not generating rss.xml.");
     }
-    const postPath = post.path;
+    let postPath = post.path.replace('-', '/');
+    postPath = postPath.replace('-', '/');
+    postPath = postPath.replace('-', '/');
     feed.item({
       title: post.title,
       description: html,
