@@ -167,6 +167,11 @@ cite {
   font-style: normal;
 }
 
+ins,
+del {
+  text-decoration: none;
+}
+
 figure {
   text-align: center;
 }
