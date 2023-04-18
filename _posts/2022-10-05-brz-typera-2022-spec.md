@@ -57,7 +57,7 @@ I've given myself a few principals to guide the build:
 - Drive it to the track & back
 - Make power with 93 Octane
 
-After a six-month search for a gently used Crystal White Pearl Kouki (2017-2020)
+After a six-month search for a used Crystal White Pearl Kouki (2017-2020)
 BRZ or 86, I found one on the Subaru Certified Pre-Owned web portal in Annapolis
 Subaru. I called them and immediately put down a deposit. I rented a car and
 drove 11 hours on a Friday night, starting at 10pm, arriving at 9am Saturday
@@ -100,22 +100,24 @@ Beat Rush sound generator delete.
 Cusco engine mounts,
 Cusco steering rack bushings,
 Cusco shift lever bushings,
-Cusco rear differential bushings,
 Cusco braided steel clutch hose,
 Perrin rear shifter bushing,
 MTech shifter springs,
 STI transmission mount,
-PBM solid rear subframe bushings.
+Cusco rear differential bushings,
+<ins datetime="2023-03">Cusco 1.5-way LSD</ins>,
+<ins datetime="2023-03">Cusco differential cover</ins>,
+<ins datetime="2023-03">PBM solid differential mount bushings</ins>,
+<ins datetime="2023-03">PBM solid rear subframe bushings</ins>.
 
 ## Suspension/Brakes
 
 Öhlins Road & Track coilovers,
-modified OEM knuckles,
+OEM knuckles modified for more steering angle,
+SKP (extended) tie rods,
 Hotchkiss front endlinks,
 H&R 15mm spacers,
-Cusco front strut bar,
-Cusco master cylinder stopper,
-extended tie rods,
+Cusco front strut bar w/master cylinder stopper,
 DBA 5000-series 2-piece front rotors,
 Spiegler braided steel brake lines,
 CounterSpace CSG Spec C1 & C11 pads,
@@ -138,17 +140,20 @@ CLEiB carbon fiber side skirts,
 Cusco tow strap,
 Verus Engineering carbon fiber side markers,
 Aerocatch hood pins,
+<ins datetime="2023-04">Vermont Sportscar Carbon Fiber hood vents & gurney flaps</ins>,
 Quik-Latch front bumper release,
 Audi Q3 overfenders,
 Perrin license plate bracket,
-Subaru 'Type RA' badge from the WRX STI.
+Subaru 'Type RA' badge (from WRX STI).
 
 ## Interior
 
 Bride Zeta IV seat,
-MOMO Type 78 steering wheel on Works Bell quick release with steering controls switch kit,
+MOMO Type 78 steering wheel on Works Bell quick release with steering controls relocation switch kit,
 Verus Engineering throttle pedal spacer,
 P3 v3 ODB gauge,
 Safety Restore seatbelt webbing,
-OEM JDM Toyota/Subaru interior trim & door handles,
+JDM Toyota/Subaru OEM interior trim & door handles,
 Amerex & Element fire extinguishers.
+
+<aside>Article updated to reflect changes for the 2023 season.</aside>
