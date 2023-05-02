@@ -325,20 +325,18 @@ platform.
 ## Significant Results
 
 * 2006
-  * [COMSCC July - NHIS](https://www.comscc.org/events/results/view/?id=2006-07-04)
-    * 2nd Place - Street Touring 1 (of 5)
+  * [COMSCC July - NHMS](https://tt.comscc.org/ResultsModels/Event?EventID=63&ClassID=8)
+    * 2nd Place - ST1 Street Touring 1 (of 5)
 * 2007
   * [COMSCC Season Standings](https://www.comscc.org/events/results/view/?id=2007-final)
-    * 3rd place - Street Touring 2 (of 10)
+    * 3rd place - ST2 Street Touring 2 (of 10)
   * COMSCC June Mosport international Raceway
-    * 2nd Place - Street Touring 2 (of 3)
-  * [COMSCC July - NHIS](https://www.comscc.org/events/results/view/?id=2007-07-08)
-    * 1st Place - Street Touring 2 (of 5)
+    * 2nd Place - ST2 Street Touring 2 (of 3)
+  * [COMSCC July - NHMS](https://tt.comscc.org/ResultsModels/Event?EventID=72&ClassID=9)
+    * 1st Place - ST2 Street Touring 2 (of 5)
 * 2009
-  * [COMSCC Season Standings](https://www.comscc.org/events/results/view/?id=2009-final)
-    * 4th Place - Street Prepared B (of 22)
-  * COMSCC July New Hampshire Motor Speedway
-    * 2nd Place - Street Prepared B (of 5)
+  * [COMSCC July NHMS](https://tt.comscc.org/ResultsModels/Event?EventID=87&ClassID=6)
+    * 2nd Place - SPB Street Prepared B (of 5)
 * 2010
   * Duryea Hillclimb - August
     * 1st Place / 4th overall - Improved Touring E (of 103)
