@@ -100,15 +100,17 @@ Beat Rush sound generator delete.
 Cusco engine mounts,
 Cusco steering rack bushings,
 Cusco shift lever bushings,
-Cusco braided steel clutch hose,
 Perrin rear shifter bushing,
 MTech shifter springs,
 STI transmission mount,
+Cusco transmission mount collar,
+Cusco braided steel clutch hose,
+Verus Engineering forged clutch fork & pivot,
+BattleGarage RS throwout bearing,
+PBM rear subframe bushings,
 Cusco rear differential bushings,
-<ins datetime="2023-03">Cusco 1.5-way LSD</ins>,
-<ins datetime="2023-03">Cusco differential cover</ins>,
-<ins datetime="2023-03">PBM solid differential mount bushings</ins>,
-<ins datetime="2023-03">PBM solid rear subframe bushings</ins>.
+Cusco 1.5-way LSD,
+Cusco differential cover.
 
 ## Suspension/Brakes
 
