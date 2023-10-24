@@ -24,6 +24,11 @@ export default function Footer() {
             </a>
           </Link>{' '}
         </span>
+        <Link href="https://0xadada.github.io/resume/">
+          <a rel="me" title="Ron Adams Resume">
+            Resume
+          </a>
+        </Link>{' '}
         <Link href="https://freeradical.zone/@0xadada">
           <a rel="me nofollow external noopener" title="0xADADA on Mastodon">
             Mastodon
