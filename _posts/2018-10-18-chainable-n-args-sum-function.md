@@ -16,9 +16,9 @@ I came across an interesting interview question, along the lines of
 > "How would you make this work?"
 
 ```javascript
-add(2, 5);
+add(2, 5); // multiple arguments style
 > 7
-add(2)(5);
+add(2)(5); // chained invocation style
 > 7
 ```
 
@@ -27,7 +27,7 @@ play with it.
 
 Heres what I got:
 
-A solution to the invocation one isn't tough, theres just the bit to
+A solution to the multiple argument style is straightforward, theres just the bit to
 change `arguments` into an Array, and to handle the case when nothing is
 passed in.
 
@@ -38,11 +38,10 @@ let sum = function() {
 };
 ```
 
-Now, to get chained invocation to work, I used `bind` to generate a new function
+Now, to get chained invocation style to work, I used `bind` to generate a new function
 that would be returned to the caller, allowing for chained invocation. The
 tricky bit is to set the `valueOf` function to return the sum, so when checked
-for a value, the function returns a number. I also changed the way i convert
-arguments into an array by using the spread `...` operator.
+for a value, the function returns a number.
 
 Thus:
 
@@ -61,7 +60,7 @@ let sumChainable = function() {
  * making `sumChainable()` possible.
  *
  * (b)
- * Generate a nested function that will be returned, and pass
+ * Generate a nested arrow function that will be returned, and pass
  * the sum to it. This allows the return value of the function
  * to be invoked in a chain, each changed invocation passing
  * the sum of its caller. Thus `sumChainable()()` is possible.
