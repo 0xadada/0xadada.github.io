@@ -27,13 +27,13 @@ play with it.
 
 Heres what I got:
 
-A solution to the invocation one isn't tough, theres just the tricky bit to
-coerce the `arguments` into an Array, and to handle the case when nothing is
+A solution to the invocation one isn't tough, theres just the bit to
+change `arguments` into an Array, and to handle the case when nothing is
 passed in.
 
 ```javascript
 let sum = function() {
-  let args = Array.prototype.slice.call(arguments.length ? arguments : [0]);
+  let args = arguments.length ? Array.from(arguments) : [0];
   return args.reduce((acc, i) => (acc += i));
 };
 ```
@@ -48,7 +48,8 @@ Thus:
 
 ```javascript
 let sumChainable = function() {
-  let sum = [0, ...arguments].reduce((acc, i) => (acc += i)); // see (a)
+  let args = arguments.length ? Array.from(arguments) : [0]; // see (a)
+  let sum = args.reduce((acc, i) => (acc += i)); 
   let f = sumChainable.bind(null, sum); // see (b)
   f.valueOf = () => sum; // see (c)
   return f;
@@ -92,3 +93,11 @@ console.log( `sumChainable(1,2,3)(4,5)(6)`, sumChainable(1,2,3)(4,5)(6) == 21 ? 
 ```
 
 viola!
+
+Future improvements would be to get strict equality `===` operator to recognize the result as type `number` rather than type `function`. 
+
+tests to get working:
+
+```javascript
+console.log( `typeof sumChainable(1) === 'number'`, typeof sumChainable(1) === `number` ? 'passed' : 'failed' );
+```
