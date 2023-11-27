@@ -105,7 +105,7 @@ framework features. With an all-in-one architecture, everything is well tested,
 and works together as versions move ahead. Addon authors can use packages like
 `ember-try` to test against various versions. Finally, the Ember team takes a
 responsible approach as it moves along the roadmap
-([it has a roadmap!](https://emberjs.com/statusboard)). The project has a
+([it has a roadmap!](https://github.com/orgs/emberjs/projects/3)). The project has a
 long-term vision, and the core libraries align their roadmaps on a 6-week
 release cycle. The release team flags deprecated features and wrapping new ones
 in feature flags. This allows developers to safely test out new APIs and
