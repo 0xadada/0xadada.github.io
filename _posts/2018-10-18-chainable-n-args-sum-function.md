@@ -20,6 +20,8 @@ add(2, 5); // multiple arguments style
 > 7
 add(2)(5); // chained invocation style
 > 7
+add(1,2)(3,4) // both
+> 10
 ```
 
 I thought this was a very interesting question, so took some time last night to
@@ -33,7 +35,7 @@ passed in.
 
 ```javascript
 let sum = function() {
-  let args = arguments.length ? Array.from(arguments) : [0];
+  let args = arguments.length ? Array.from(arguments) : [0]; // convert arguments to array for .reduce
   return args.reduce((acc, i) => (acc += i));
 };
 ```
@@ -68,9 +70,20 @@ let sumChainable = function() {
  * (c)
  * Setting the `valueOf()` function on the returned function to
  * return the sum allows the comparison operator `==` to check
- * the value of the function against a number. Thus making
- * `sumChainable() == 0` possible.
+ * the value of the function against a number. Thus making operations
+ * like `sumChainable() == 0` and `sumChainable(1, 1) + 2 == 4` possible.
  */
+```
+
+We can modernize this code a bit by using the `...` rest parameters.
+
+```javascript
+function sumChainable(...args) {
+  const value = args.reduce((acc, a) => acc + a, 0);
+  const f = sum.bind(null, value);
+  f.valueOf = () => value;
+  return f;
+}
 ```
 
 added some sanity tests:
@@ -93,9 +106,18 @@ console.log( `sumChainable(1,2,3)(4,5)(6)`, sumChainable(1,2,3)(4,5)(6) == 21 ? 
 
 viola!
 
-Future improvements would be to get strict equality `===` operator to recognize the result as type `number` rather than type `function`. 
+Future improvements would be to get strict equality `===` operator to recognize the result
+as type `number` rather than type `function`, but Javascript doesn't have a way to override operations.
+We can also change the API slightly by
+invoking `.valueOf()` at the end of the invocation chain to yield a `number` primative value.
 
-tests to get working:
+```javascript
+// test for strict equality using .valueOf()
+console.log( `sumChainable(1,2,3)(4,5)(6).valueOf()`, sumChainable(1,2,3)(4,5)(6).valueOf() === 21 ? 'passed' : 'failed' );
+```
+
+
+future would would be to get working:
 
 ```javascript
 console.log( `typeof sumChainable(1) === 'number'`, typeof sumChainable(1) === `number` ? 'passed' : 'failed' );
