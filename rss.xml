@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[0xADADA.pub]]></title><description><![CDATA[Writing of 0xADADA]]></description><link>https://0xadada.pub</link><image><url>https://0xadada.pub/favicon.ico</url><title>0xADADA.pub</title><link>https://0xadada.pub</link></image><generator>RSS for Node</generator><lastBuildDate>Wed, 29 Nov 2023 15:14:37 GMT</lastBuildDate><atom:link href="https://0xadada.pub/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Thu, 05 Jun 1980 04:00:00 GMT</pubDate><copyright><![CDATA[2023 0xADADA]]></copyright><language><![CDATA[en]]></language><managingEditor><![CDATA[ron@0xadada.pub]]></managingEditor><webMaster><![CDATA[ron@0xadada.pub]]></webMaster><ttl>60</ttl><item><title><![CDATA[Denis Villeneuve: The Parallax Panning Shot]]></title><description><![CDATA[<p>Denis Villeneuve, expert of visual storytelling, frequently employs the panning shot with an extensive use of the
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[0xADADA.pub]]></title><description><![CDATA[Writing of 0xADADA]]></description><link>https://0xadada.pub</link><image><url>https://0xadada.pub/favicon.ico</url><title>0xADADA.pub</title><link>https://0xadada.pub</link></image><generator>RSS for Node</generator><lastBuildDate>Wed, 29 Nov 2023 17:52:43 GMT</lastBuildDate><atom:link href="https://0xadada.pub/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Thu, 05 Jun 1980 04:00:00 GMT</pubDate><copyright><![CDATA[2023 0xADADA]]></copyright><language><![CDATA[en]]></language><managingEditor><![CDATA[ron@0xadada.pub]]></managingEditor><webMaster><![CDATA[ron@0xadada.pub]]></webMaster><ttl>60</ttl><item><title><![CDATA[Denis Villeneuve: The Parallax Panning Shot]]></title><description><![CDATA[<p>Denis Villeneuve, expert of visual storytelling, frequently employs the panning shot with an extensive use of the
 parallax effect to immerse viewers in his films, allowing them to experience a sense of place, scale, and depth like
 never before. He uses these teqniques most visibly in "Blade Runner 2049" (2017), "Enemy" (2013), and "Dune" (2021),
 highlighting how his use of the panning shot and parallax effect enhances the audience's immersion.</p>
@@ -1958,13 +1958,13 @@ ones go on to continue those stories. A true gem.</p>]]></description><link>http
 </blockquote>
 <pre><code class="javascript language-javascript">add(2, 5); // multiple arguments style
 &gt; 7
-add(2)(5); // chained invocation style
+add(2)(5); // currying, a chained invocation style
 &gt; 7
 add(1,2)(3,4) // both
 &gt; 10
 </code></pre>
-<p>I thought this was a very interesting question, so took some time last night to
-play with it.</p>
+<p>I thought this was a very interesting question, so took some time to
+implement a multi-argument / curried function.</p>
 <p>Heres what I got:</p>
 <p>A solution to the multiple argument style is straightforward, theres just the bit to
 change <code>arguments</code> into an Array, and to handle the case when nothing is
@@ -1979,10 +1979,10 @@ that would be returned to the caller, allowing for chained invocation. The
 tricky bit is to set the <code>valueOf</code> function to return the sum, so when checked
 for a value, the function returns a number.</p>
 <p>Thus:</p>
-<pre><code class="javascript language-javascript">let sumChainable = function() {
+<pre><code class="javascript language-javascript">let sum = function() {
   let args = arguments.length ? Array.from(arguments) : [0]; // see (a)
   let sum = args.reduce((acc, i) =&gt; (acc += i)); 
-  let f = sumChainable.bind(null, sum); // see (b)
+  let f = sum.bind(null, sum); // see (b)
   f.valueOf = () =&gt; sum; // see (c)
   return f;
 };
@@ -2005,28 +2005,41 @@ for a value, the function returns a number.</p>
  * like `sumChainable() == 0` and `sumChainable(1, 1) + 2 == 4` possible.
  */
 </code></pre>
-<p>We can modernize this code a bit by using the <code>...</code> rest parameters.</p>
-<pre><code class="javascript language-javascript">function sumChainable(...args) {
+<p>We can clean up this code by using the <code>...</code> rest parameters.</p>
+<pre><code class="javascript language-javascript">function sum(...args) {
   const value = args.reduce((acc, a) =&gt; acc + a, 0);
   const f = sum.bind(null, value);
   f.valueOf = () =&gt; value;
   return f;
 }
 </code></pre>
-<p>added some sanity tests:</p>
-<pre><code class="javascript language-javascript">/* some tests: */
-console.log( `typeof sumChainable(1) == 'function'`, typeof sumChainable(1) == `function` ? 'passed' : 'failed' );
-console.log( `sumChainable() == 0`, sumChainable() == 0 ? 'passed' : 'failed' );
-console.log( `sumChainable(1) == 1`, sumChainable(1) == 1 ? 'passed' : 'failed' );
-console.log( `sumChainable(1) !== 1`, sumChainable(1) !== 1 ? 'passed' : 'failed' );
-console.log( `x = sumChainable(1), x.valueOf() === 1`, (x = sumChainable(1), x.valueOf() === 1) ? 'passed' : 'failed' );
-console.log( `sumChainable(1,2) == 3`, sumChainable(1,2) == 3 ? 'passed' : 'failed' );
-console.log( `sumChainable(1,2,3) == 6`, sumChainable(1,2,3) == 6 ? 'passed' : 'failed' );
-console.log( `sumChainable()() == 0`, sumChainable()() == 0 ? 'passed' : 'failed' );
-console.log( `sumChainable(0)(1)`, sumChainable(0)(1) == 1 ? 'passed' : 'failed' );
-console.log( `sumChainable(1,2)(3)`, sumChainable(1,2)(3) == 6 ? 'passed' : 'failed' );
-console.log( `sumChainable(1,2,3)(4)(5)`, sumChainable(1,2,3)(4)(5) == 15 ? 'passed' : 'failed' );
-console.log( `sumChainable(1,2,3)(4,5)(6)`, sumChainable(1,2,3)(4,5)(6) == 21 ? 'passed' : 'failed' );
+<p>added a function to run test conditions, and defined some tests:</p>
+<pre><code class="javascript language-javascript">function test(conditions) {
+  conditions.forEach(([msg, cFn], i) =&gt; {
+    const result = cFn();
+    console.log(`${i} ${result ? '✅' : '🚫'} ${msg}`);
+    console.assert(cFn(), msg);
+  });
+  console.log(`${conditions.length} tests completed`);
+}
+
+let conditions = [
+  ['sum() returns 0', () =&gt; sum() == 0],
+  ['sum()() returns 0', () =&gt; sum()() == 0],
+  ['typeof sum() returns "function"', () =&gt; typeof sum() == 'function'],
+  ['typeof sum().valueOf() returns "number"', () =&gt; typeof sum().valueOf() == 'number'],
+  ['sum(0) returns 0', () =&gt; sum(0) == 0],
+  ['sum(0)(0) returns 0', () =&gt; sum(0)(0) == 0],
+  ['sum()(1) returns 1', () =&gt; sum()(1) == 1],
+  ['sum(1,2) returns 3', () =&gt; sum(1,2) == 3],
+  ['sum(1,2,3) returns 6', () =&gt; sum(1,2,3) == 6],
+  ['sum(1,2,3)() returns 6', () =&gt; sum(1,2,3)() == 6],
+  ['sum(1,2,3)(1) returns 7', () =&gt; sum(1,2,3)(1) == 7],
+  ['sum(1,2,3)(1) returns 7', () =&gt; sum(1,2,3)(1) == 7],
+  ['sum(1,2,3)(1,2) returns 9', () =&gt; sum(1,2,3)(1,2) == 9],
+];
+
+test(conditions); // run the tests
 </code></pre>
 <p>viola!</p>
 <p>Future improvements would be to get strict equality <code>===</code> operator to recognize the result
@@ -2034,7 +2047,7 @@ as type <code>number</code> rather than type <code>function</code>, but Javascri
 We can also change the API slightly by
 invoking <code>.valueOf()</code> at the end of the invocation chain to yield a <code>number</code> primative value.</p>
 <pre><code class="javascript language-javascript">// test for strict equality using .valueOf()
-console.log( `sumChainable(1,2,3)(4,5)(6).valueOf()`, sumChainable(1,2,3)(4,5)(6).valueOf() === 21 ? 'passed' : 'failed' );
+console.log( `sum(1,2,3)(4,5)(6).valueOf()`, sum(1,2,3)(4,5)(6).valueOf() === 21 ? 'passed' : 'failed' );
 </code></pre>
 <p>future would would be to get working:</p>
 <pre><code class="javascript language-javascript">console.log( `typeof sumChainable(1) === 'number'`, typeof sumChainable(1) === `number` ? 'passed' : 'failed' );
