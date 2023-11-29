@@ -18,14 +18,14 @@ I came across an interesting interview question, along the lines of
 ```javascript
 add(2, 5); // multiple arguments style
 > 7
-add(2)(5); // chained invocation style
+add(2)(5); // currying, a chained invocation style
 > 7
 add(1,2)(3,4) // both
 > 10
 ```
 
-I thought this was a very interesting question, so took some time last night to
-play with it.
+I thought this was a very interesting question, so took some time to
+implement a multi-argument / curried function.
 
 Heres what I got:
 
@@ -48,10 +48,10 @@ for a value, the function returns a number.
 Thus:
 
 ```javascript
-let sumChainable = function() {
+let sum = function() {
   let args = arguments.length ? Array.from(arguments) : [0]; // see (a)
   let sum = args.reduce((acc, i) => (acc += i)); 
-  let f = sumChainable.bind(null, sum); // see (b)
+  let f = sum.bind(null, sum); // see (b)
   f.valueOf = () => sum; // see (c)
   return f;
 };
@@ -75,10 +75,10 @@ let sumChainable = function() {
  */
 ```
 
-We can modernize this code a bit by using the `...` rest parameters.
+We can clean up this code by using the `...` rest parameters.
 
 ```javascript
-function sumChainable(...args) {
+function sum(...args) {
   const value = args.reduce((acc, a) => acc + a, 0);
   const f = sum.bind(null, value);
   f.valueOf = () => value;
@@ -86,22 +86,35 @@ function sumChainable(...args) {
 }
 ```
 
-added some sanity tests:
+added a function to run test conditions, and defined some tests:
 
 ```javascript
-/* some tests: */
-console.log( `typeof sumChainable(1) == 'function'`, typeof sumChainable(1) == `function` ? 'passed' : 'failed' );
-console.log( `sumChainable() == 0`, sumChainable() == 0 ? 'passed' : 'failed' );
-console.log( `sumChainable(1) == 1`, sumChainable(1) == 1 ? 'passed' : 'failed' );
-console.log( `sumChainable(1) !== 1`, sumChainable(1) !== 1 ? 'passed' : 'failed' );
-console.log( `x = sumChainable(1), x.valueOf() === 1`, (x = sumChainable(1), x.valueOf() === 1) ? 'passed' : 'failed' );
-console.log( `sumChainable(1,2) == 3`, sumChainable(1,2) == 3 ? 'passed' : 'failed' );
-console.log( `sumChainable(1,2,3) == 6`, sumChainable(1,2,3) == 6 ? 'passed' : 'failed' );
-console.log( `sumChainable()() == 0`, sumChainable()() == 0 ? 'passed' : 'failed' );
-console.log( `sumChainable(0)(1)`, sumChainable(0)(1) == 1 ? 'passed' : 'failed' );
-console.log( `sumChainable(1,2)(3)`, sumChainable(1,2)(3) == 6 ? 'passed' : 'failed' );
-console.log( `sumChainable(1,2,3)(4)(5)`, sumChainable(1,2,3)(4)(5) == 15 ? 'passed' : 'failed' );
-console.log( `sumChainable(1,2,3)(4,5)(6)`, sumChainable(1,2,3)(4,5)(6) == 21 ? 'passed' : 'failed' );
+function test(conditions) {
+  conditions.forEach(([msg, cFn], i) => {
+    const result = cFn();
+    console.log(`${i} ${result ? '✅' : '🚫'} ${msg}`);
+    console.assert(cFn(), msg);
+  });
+  console.log(`${conditions.length} tests completed`);
+}
+
+let conditions = [
+  ['sum() returns 0', () => sum() == 0],
+  ['sum()() returns 0', () => sum()() == 0],
+  ['typeof sum() returns "function"', () => typeof sum() == 'function'],
+  ['typeof sum().valueOf() returns "number"', () => typeof sum().valueOf() == 'number'],
+  ['sum(0) returns 0', () => sum(0) == 0],
+  ['sum(0)(0) returns 0', () => sum(0)(0) == 0],
+  ['sum()(1) returns 1', () => sum()(1) == 1],
+  ['sum(1,2) returns 3', () => sum(1,2) == 3],
+  ['sum(1,2,3) returns 6', () => sum(1,2,3) == 6],
+  ['sum(1,2,3)() returns 6', () => sum(1,2,3)() == 6],
+  ['sum(1,2,3)(1) returns 7', () => sum(1,2,3)(1) == 7],
+  ['sum(1,2,3)(1) returns 7', () => sum(1,2,3)(1) == 7],
+  ['sum(1,2,3)(1,2) returns 9', () => sum(1,2,3)(1,2) == 9],
+];
+
+test(conditions); // run the tests
 ```
 
 viola!
@@ -113,7 +126,7 @@ invoking `.valueOf()` at the end of the invocation chain to yield a `number` pri
 
 ```javascript
 // test for strict equality using .valueOf()
-console.log( `sumChainable(1,2,3)(4,5)(6).valueOf()`, sumChainable(1,2,3)(4,5)(6).valueOf() === 21 ? 'passed' : 'failed' );
+console.log( `sum(1,2,3)(4,5)(6).valueOf()`, sum(1,2,3)(4,5)(6).valueOf() === 21 ? 'passed' : 'failed' );
 ```
 
 
