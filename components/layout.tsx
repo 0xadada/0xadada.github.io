@@ -1,7 +1,7 @@
 import Head from 'next/head';
 import Footer from './footer';
 import styles from './layout.module.css';
-import { BASEURL, POCKET_SITE_VERIFICATION } from '../lib/constants';
+import { BASEURL, POCKET_SITE_VERIFICATION, SITENAME } from '../lib/constants';
 
 const Layout = ({ children }: { children: React.ReactNode }) => {
   return (
