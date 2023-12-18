@@ -10,6 +10,7 @@ const Layout = ({ children }: { children: React.ReactNode }) => {
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href={`${BASEURL}favicon.ico`} />
         <link rel="home" href={BASEURL} />
+        <link rel="alternate" type="application/rss+xml" href={BASEURL + '/rss.xml'} title={SITENAME} />
         <link
           rel="manifest"
           href={`${BASEURL}static/images/meta/0xadada.webmanifest`}
