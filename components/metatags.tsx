@@ -9,7 +9,6 @@ export default function Metatags({ post }) {
       <meta property="og:title" content={post.title} />
       <meta name="twitter:title" content={post.title} />
       <link rel="canonical" href={url} />
-      <link rel="alternate" type="application/rss+xml" href={BASEURL + '/rss.xml'} title={SITENAME} />
       <meta property="og:url" content={url} />
       <meta name="twitter:url" content={url} />
       <meta name="twitter:card" content="summary" />
