@@ -267,3 +267,10 @@ article header {
 .data-footnote-backref {
   font-family: sans-serif;
 }
+
+table tr:nth-child(odd) td {
+  background-color: #eee;
+}
+td {
+  vertical-align: top;
+}
