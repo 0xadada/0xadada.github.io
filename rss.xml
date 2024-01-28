@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[0xADADA.pub]]></title><description><![CDATA[Writing of 0xADADA]]></description><link>https://0xadada.pub</link><image><url>https://0xadada.pub/favicon.ico</url><title>0xADADA.pub</title><link>https://0xadada.pub</link></image><generator>RSS for Node</generator><lastBuildDate>Wed, 20 Dec 2023 21:53:53 GMT</lastBuildDate><atom:link href="https://0xadada.pub/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Thu, 05 Jun 1980 04:00:00 GMT</pubDate><copyright><![CDATA[2023 0xADADA]]></copyright><language><![CDATA[en]]></language><managingEditor><![CDATA[ron@0xadada.pub]]></managingEditor><webMaster><![CDATA[ron@0xadada.pub]]></webMaster><ttl>60</ttl><item><title><![CDATA[One (more) Year with Ember: Thoughts on Ember vs React, Eight Years Later]]></title><description><![CDATA[<p>Six years ago, I <a href="https://0xadada.pub/2017/10/09/one-year-with-ember/">wrote a summary of my experience working with Ember for a year</a>.
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[0xADADA.pub]]></title><description><![CDATA[Writing of 0xADADA]]></description><link>https://0xadada.pub</link><image><url>https://0xadada.pub/favicon.ico</url><title>0xADADA.pub</title><link>https://0xadada.pub</link></image><generator>RSS for Node</generator><lastBuildDate>Sun, 28 Jan 2024 19:06:33 GMT</lastBuildDate><atom:link href="https://0xadada.pub/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Thu, 05 Jun 1980 04:00:00 GMT</pubDate><copyright><![CDATA[2024 0xADADA]]></copyright><language><![CDATA[en]]></language><managingEditor><![CDATA[ron@0xadada.pub]]></managingEditor><webMaster><![CDATA[ron@0xadada.pub]]></webMaster><ttl>60</ttl><item><title><![CDATA[One (more) Year with Ember: Thoughts on Ember vs React, Eight Years Later]]></title><description><![CDATA[<p>Six years ago, I <a href="https://0xadada.pub/2017/10/09/one-year-with-ember/">wrote a summary of my experience working with Ember for a year</a>.
 I had been with Cinch Financial for a year, building their web &amp; mobile apps with
 Ember and Elixir/Phoenix. After Cinch I joined Salsify, a leader in the Ember
 ecosystem, and shipped some great products built with Ember during my
@@ -68,7 +68,7 @@ use this chart to map concepts in one to the other:</p>
 | <strong>Template lexical scope</strong> | Double curly <code>{{this.value}}</code> which requires <code>this</code> to reference lexically scoped variables available in the class. | Single curly interpolation <code>value={value}</code> which is directly bound to the functions lexical scope. |
 | <strong>Template interpolation</strong> | Sigils <code>@value={{this.value}}</code> to distinguish component arguments from standard HTML attributes. Ember requires using <code>...attributes</code> to spread HTML attributes to HTML tags. Use <code>{{yield}}</code> to render child components. | No difference between component props and HTML attributes. | React spreads <strong>all</strong> props down to HTML children. Use <code>{children}</code> to render child components. |
 | <strong>Template Control Logic</strong> | handlebars/HTMLbars<br />iteration<br /><code>{{#each @list as item}}&lt;Item /&gt;{{/each}}</code><br />conditionals<br /><code>{{#if true}}its true{{else}}not true{{/if}}</code> | pure javascript<br />iteration<br /><code>lilst.map(item =&gt; &lt;Item /&gt;)</code><br />conditionals<br /><code>{item.isTrue ? &lt;TrueItem /&gt; : &lt;FalseItem /&gt;}</code> |
-| <strong>Global State Management</strong> | Ember Services | React Context API |
+| <strong>Global State Management</strong> | Ember Services | React Context API, React Query |
 | <strong>Application Routing</strong> | Ember Router | React-Router (not built-in) |</p>
 <h2 id="eightyearson">Eight Years On</h2>
 <p>Revisiting <a href="https://0xadada.pub/2017/10/09/one-year-with-ember/">my original post</a>,
@@ -108,7 +108,8 @@ is a great resource, but its there because people aren’t confidant. Tools like
 conventions.</p>
 <h2 id="concluding">Concluding</h2>
 <p>Ember and React are both great. There are tradeoffs on both sides. The answer
-is always <em>it depends</em>. Ember is an amazing upleveler for bigger teams with
+is always <em>it depends</em>. React with class Components is very similar to Ember
+Classic. Ember is an amazing upleveler for bigger teams with
 novice and expert developers working across multiple codebases building
 ambitious applications. React is elegant in its simplicity, can be pure and
 precise. React has an amazing ecosystem, and is used to create enterprise
