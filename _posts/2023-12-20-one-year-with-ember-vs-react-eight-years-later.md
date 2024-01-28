@@ -91,7 +91,7 @@ use this chart to map concepts in one to the other:
 | **Template lexical scope** | Double curly `{{this.value}}` which requires `this` to reference lexically scoped variables available in the class. | Single curly interpolation `value={value}` which is directly bound to the functions lexical scope. |
 | **Template interpolation** | Sigils `@value={{this.value}}` to distinguish component arguments from standard HTML attributes. Ember requires using `...attributes` to spread HTML attributes to HTML tags. Use `{{yield}}` to render child components. | No difference between component props and HTML attributes. | React spreads __all__ props down to HTML children. Use `{children}` to render child components. |
 | **Template Control Logic** | handlebars/HTMLbars<br />iteration<br />`{{#each @list as item}}<Item />{{/each}}`<br />conditionals<br />`{{#if true}}its true{{else}}not true{{/if}}` | pure javascript<br />iteration<br />`lilst.map(item => <Item />)`<br />conditionals<br />`{item.isTrue ? <TrueItem /> : <FalseItem />}` |
-| **Global State Management** | Ember Services | React Context API |
+| **Global State Management** | Ember Services | React Context API, React Query |
 | **Application Routing** | Ember Router | React-Router (not built-in) |
 
 
@@ -136,7 +136,8 @@ conventions.
 ## Concluding
 
 Ember and React are both great. There are tradeoffs on both sides. The answer
-is always _it depends_. Ember is an amazing upleveler for bigger teams with
+is always _it depends_. React with class Components is very similar to Ember
+Classic. Ember is an amazing upleveler for bigger teams with
 novice and expert developers working across multiple codebases building
 ambitious applications. React is elegant in its simplicity, can be pure and
 precise. React has an amazing ecosystem, and is used to create enterprise
