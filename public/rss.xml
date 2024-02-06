@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[0xADADA.pub]]></title><description><![CDATA[Writing of 0xADADA]]></description><link>https://0xadada.pub</link><image><url>https://0xadada.pub/favicon.ico</url><title>0xADADA.pub</title><link>https://0xadada.pub</link></image><generator>RSS for Node</generator><lastBuildDate>Wed, 20 Dec 2023 21:52:16 GMT</lastBuildDate><atom:link href="https://0xadada.pub/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Thu, 05 Jun 1980 04:00:00 GMT</pubDate><copyright><![CDATA[2023 0xADADA]]></copyright><language><![CDATA[en]]></language><managingEditor><![CDATA[ron@0xadada.pub]]></managingEditor><webMaster><![CDATA[ron@0xadada.pub]]></webMaster><ttl>60</ttl><item><title><![CDATA[One (more) Year with Ember: Thoughts on Ember vs React, Eight Years Later]]></title><description><![CDATA[<p>Six years ago, I <a href="https://0xadada.pub/2017/10/09/one-year-with-ember/">wrote a summary of my experience working with Ember for a year</a>.
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[0xADADA.pub]]></title><description><![CDATA[Writing of 0xADADA]]></description><link>https://0xadada.pub</link><image><url>https://0xadada.pub/favicon.ico</url><title>0xADADA.pub</title><link>https://0xadada.pub</link></image><generator>RSS for Node</generator><lastBuildDate>Tue, 06 Feb 2024 20:17:39 GMT</lastBuildDate><atom:link href="https://0xadada.pub/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Thu, 05 Jun 1980 04:00:00 GMT</pubDate><copyright><![CDATA[2024 0xADADA]]></copyright><language><![CDATA[en]]></language><managingEditor><![CDATA[ron@0xadada.pub]]></managingEditor><webMaster><![CDATA[ron@0xadada.pub]]></webMaster><ttl>60</ttl><item><title><![CDATA[One (more) Year with Ember: Thoughts on Ember vs React, Eight Years Later]]></title><description><![CDATA[<p>Six years ago, I <a href="https://0xadada.pub/2017/10/09/one-year-with-ember/">wrote a summary of my experience working with Ember for a year</a>.
 I had been with Cinch Financial for a year, building their web &amp; mobile apps with
 Ember and Elixir/Phoenix. After Cinch I joined Salsify, a leader in the Ember
 ecosystem, and shipped some great products built with Ember during my
@@ -57,19 +57,23 @@ losing them to the shifting sands of time.</p>
 <h3 id="directcomparison">Direct Comparison</h3>
 <p>When speaking to Ember devs about React, or React devs about Ember, I frequently
 use this chart to map concepts in one to the other:</p>
-<p>| <strong>Concept</strong> | <strong>Ember</strong> | <strong>React</strong> |
+<div style="overflow-x: auto">
+
+| **Concept** | **Ember** | **React** |
 |:--|:--|:--|
-| <strong>File structure</strong> | Convention<br /><code>app/components/component.js</code>, <code>app/components/template.hbs</code> | Configuration<br />use <code>import</code> to bring files from wherever, file may contain both logic and template. |
-| <strong>Component primative</strong> | JavaScript classes | JavaScript functions |
-| <strong>Rendering</strong> | Glimmer VM | React DOM |
-| <strong>State transition detection</strong> | <code>@tracked</code> decorator with autotracking provided by the framework | <code>React.useState()</code> function with dependency keys and memoization |
-| <strong>Component lifecycle</strong> | Use the classes <code>constructor()</code> to initialize the component for first-render and reuses that instance for the life of the component. | Components are pure functions, relies on memoization or <code>useEffect</code> to run code conditionally after initial render. |
-| <strong>Event handling</strong> | <code>@action</code> decorator to bind context to event callback functions that respond to user inputs, event handler must be referred to in templates using Ember modifiers e.g. <code>{{on 'click' (fn this.handleEvent value)}}</code> and use the <code>fn()</code> helper to bind arguments to the callback. | Pure function callbacks that are lexically in-scope and bound using standard closure <code>onClick={() =&gt; handleEvent(value)}</code> style invocations. |
-| <strong>Template lexical scope</strong> | Double curly <code>{{this.value}}</code> which requires <code>this</code> to reference lexically scoped variables available in the class. | Single curly interpolation <code>value={value}</code> which is directly bound to the functions lexical scope. |
-| <strong>Template interpolation</strong> | Sigils <code>@value={{this.value}}</code> to distinguish component arguments from standard HTML attributes. Ember requires using <code>...attributes</code> to spread HTML attributes to HTML tags. Use <code>{{yield}}</code> to render child components. | No difference between component props and HTML attributes. | React spreads <strong>all</strong> props down to HTML children. Use <code>{children}</code> to render child components. |
-| <strong>Template Control Logic</strong> | handlebars/HTMLbars<br />iteration<br /><code>{{#each @list as item}}&lt;Item /&gt;{{/each}}</code><br />conditionals<br /><code>{{#if true}}its true{{else}}not true{{/if}}</code> | pure javascript<br />iteration<br /><code>lilst.map(item =&gt; &lt;Item /&gt;)</code><br />conditionals<br /><code>{item.isTrue ? &lt;TrueItem /&gt; : &lt;FalseItem /&gt;}</code> |
-| <strong>Global State Management</strong> | Ember Services | React Context API |
-| <strong>Application Routing</strong> | Ember Router | React-Router (not built-in) |</p>
+| **File structure** | Convention<br />`app/components/component.js`, `app/components/template.hbs` | Configuration<br />use `import` to bring files from wherever, file may contain both logic and template. |
+| **Component primative** | JavaScript classes | JavaScript functions |
+| **Rendering** | Glimmer VM | React DOM |
+| **State transition detection** | `@tracked` decorator with autotracking provided by the framework | `React.useState()` function with dependency keys and memoization |
+| **Component lifecycle** | Use the classes `constructor()` to initialize the component for first-render and reuses that instance for the life of the component. | Components are pure functions, relies on memoization or `useEffect` to run code conditionally after initial render. |
+| **Event handling** | `@action` decorator to bind context to event callback functions that respond to user inputs, event handler must be referred to in templates using Ember modifiers e.g. `{{on 'click' (fn this.handleEvent value)}}` and use the `fn()` helper to bind arguments to the callback. | Pure function callbacks that are lexically in-scope and bound using standard closure `onClick={() => handleEvent(value)}` style invocations. |
+| **Template lexical scope** | Double curly `{{this.value}}` which requires `this` to reference lexically scoped variables available in the class. | Single curly interpolation `value={value}` which is directly bound to the functions lexical scope. |
+| **Template interpolation** | Sigils `@value={{this.value}}` to distinguish component arguments from standard HTML attributes. Ember requires using `...attributes` to spread HTML attributes to HTML tags. Use `{{yield}}` to render child components. | No difference between component props and HTML attributes. | React spreads __all__ props down to HTML children. Use `{children}` to render child components. |
+| **Template Control Logic** | handlebars/HTMLbars<br />iteration<br />`{{#each @list as item}}<Item />{{/each}}`<br />conditionals<br />`{{#if true}}its true{{else}}not true{{/if}}` | pure javascript<br />iteration<br />`lilst.map(item => <Item />)`<br />conditionals<br />`{item.isTrue ? <TrueItem /> : <FalseItem />}` |
+| **Global State Management** | Ember Services | React Context API, React Query |
+| **Application Routing** | Ember Router | React-Router (not built-in) |
+
+</div>
 <h2 id="eightyearson">Eight Years On</h2>
 <p>Revisiting <a href="https://0xadada.pub/2017/10/09/one-year-with-ember/">my original post</a>,
 I'd like to provide some updates to that thinking:</p>
@@ -108,7 +112,8 @@ is a great resource, but its there because people aren’t confidant. Tools like
 conventions.</p>
 <h2 id="concluding">Concluding</h2>
 <p>Ember and React are both great. There are tradeoffs on both sides. The answer
-is always <em>it depends</em>. Ember is an amazing upleveler for bigger teams with
+is always <em>it depends</em>. React with class Components is very similar to Ember
+Classic. Ember is an amazing upleveler for bigger teams with
 novice and expert developers working across multiple codebases building
 ambitious applications. React is elegant in its simplicity, can be pure and
 precise. React has an amazing ecosystem, and is used to create enterprise
