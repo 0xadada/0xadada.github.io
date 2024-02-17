@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[0xADADA.pub]]></title><description><![CDATA[Writing of 0xADADA]]></description><link>https://0xadada.pub</link><image><url>https://0xadada.pub/favicon.ico</url><title>0xADADA.pub</title><link>https://0xadada.pub</link></image><generator>RSS for Node</generator><lastBuildDate>Tue, 06 Feb 2024 20:18:47 GMT</lastBuildDate><atom:link href="https://0xadada.pub/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Thu, 05 Jun 1980 04:00:00 GMT</pubDate><copyright><![CDATA[2024 0xADADA]]></copyright><language><![CDATA[en]]></language><managingEditor><![CDATA[ron@0xadada.pub]]></managingEditor><webMaster><![CDATA[ron@0xadada.pub]]></webMaster><ttl>60</ttl><item><title><![CDATA[One (more) Year with Ember: Thoughts on Ember vs React, Eight Years Later]]></title><description><![CDATA[<p>Six years ago, I <a href="https://0xadada.pub/2017/10/09/one-year-with-ember/">wrote a summary of my experience working with Ember for a year</a>.
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[0xADADA.pub]]></title><description><![CDATA[Writing of 0xADADA]]></description><link>https://0xadada.pub</link><image><url>https://0xadada.pub/favicon.ico</url><title>0xADADA.pub</title><link>https://0xadada.pub</link></image><generator>RSS for Node</generator><lastBuildDate>Sat, 17 Feb 2024 02:36:10 GMT</lastBuildDate><atom:link href="https://0xadada.pub/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Thu, 05 Jun 1980 04:00:00 GMT</pubDate><copyright><![CDATA[2024 0xADADA]]></copyright><language><![CDATA[en]]></language><managingEditor><![CDATA[ron@0xadada.pub]]></managingEditor><webMaster><![CDATA[ron@0xadada.pub]]></webMaster><ttl>60</ttl><item><title><![CDATA[One (more) Year with Ember: Thoughts on Ember vs React, Eight Years Later]]></title><description><![CDATA[<p>Six years ago, I <a href="https://0xadada.pub/2017/10/09/one-year-with-ember/">wrote a summary of my experience working with Ember for a year</a>.
 I had been with Cinch Financial for a year, building their web &amp; mobile apps with
 Ember and Elixir/Phoenix. After Cinch I joined Salsify, a leader in the Ember
 ecosystem, and shipped some great products built with Ember during my
@@ -10675,14 +10675,12 @@ Print.
 <aside>
   <p>Photo of Mt. Isolation by the Author.</p>
 </aside>]]></description><link>https://0xadada.pub/2003/01/01/hikikomori-otaku-japans-latest-outcasts</link><guid isPermaLink="true">https://0xadada.pub/2003/01/01/hikikomori-otaku-japans-latest-outcasts</guid><category><![CDATA[essays]]></category><dc:creator><![CDATA[0xADADA]]></dc:creator><pubDate>Wed, 01 Jan 2003 12:00:00 GMT</pubDate></item><item><title><![CDATA[About 0xADADA]]></title><description><![CDATA[<figure>
-  <img src="/static/images/meta/avatar.svg" alt="0xADADA">
-  <figcaption>0xADADA</figcaption>
+  <img src="/static/images/meta/avatar.svg" alt="0xADADA" style="border-radius: 50%; border: 1rem solid #222;">
+  <figcaption>0xADADA is a software engineer & open web enthusiast. Researcher exploring the impact of the attention economy on idleness, time, and lived experience. 🧑‍💻🔧🚗✍️🔒</figcaption>
 </figure>
-<p>Software engineer, open web enthusiast, essayist, privacy and encryption
-advocate.</p>
 <p>0xADADA is working on open source and web related companies in the Boston
 area; graduated from Northeastern University
-with degrees in Computer Science and Cognitive Psychology.</p>
+with degrees in Computer Science and Cognitive Psychology focusing on Artificial Intelligence &amp; Human-Centered Computing.</p>
 <h2 id="references">References</h2>
 <blockquote>
   <p>"@0xADADA is the hat expert."</p>
