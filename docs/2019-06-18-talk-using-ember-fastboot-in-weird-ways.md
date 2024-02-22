@@ -33,16 +33,16 @@ a quick summary of how we use FastBoot in production.
     src="https://www.youtube.com/embed/gh9_5lMKtAY?start=286" 
     frameborder="0" 
     allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-    style="margin-bottom:3rem; box-shadow: 0 0 3.5rem rgba(0,0,0,0.5);"
+    style={{marginBottom: '3rem', boxShadow: '0 0 3.5rem rgba(0,0,0,0.5)'}}
     allowfullscreen></iframe>
 </center>
 
 ## Presentation Slides
 
-<div style="transform:scale(0.5); transform-origin: left top;">
+<div style={{transform: 'scale(0.5)', transformOrigin: 'left top'}}>
   <iframe width="1920" height="1200" 
     src="https://0xadada.github.io/talk-using-ember-fastboot-in-weird-ways/"
-    style="box-shadow: 0 0 3.5rem rgba(0,0,0,0.5);"
+    style={{boxShadow: '0 0 3.5rem rgba(0,0,0,0.5)'}}
     frameborder="0">
   </iframe>
 </div>

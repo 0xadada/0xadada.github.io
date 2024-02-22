@@ -3,7 +3,11 @@ import styles from "./display-date.module.css";
 
 const TOKEN = "EEEE LLLL d, yyyy";
 
-export default function DateFormatter({ datetime }) {
+interface DateFormatterProps {
+  datetime: Date;
+}
+
+export default function DateFormatter({ datetime }: DateFormatterProps) {
   const date = new Date(datetime);
   const displayDate = format(date, TOKEN);
   const dateTime = date.toISOString();

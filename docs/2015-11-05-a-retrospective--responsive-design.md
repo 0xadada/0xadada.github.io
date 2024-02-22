@@ -39,7 +39,7 @@ when our user puts our tools down. In the end, we want our users to be engaged
 with the people and world around them, not fumbling with a tool. The tools are a
 means, not an end._
 
-## s/Techn/Method/{ology}
+## s/Techn/Method/ology
 
 Server-side web frameworks like Django, Ruby on Rails, Express all have
 excellent technologies to define explicit dependencies (e.g., pip with

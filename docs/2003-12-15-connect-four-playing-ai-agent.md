@@ -18,11 +18,9 @@ style: |
   }
 ---
 
-0xADADA, Erik Ibsen, Chen Zhang
-<br />
-Khoury College of Computer Sciences
-<br />
-Northeastern University Boston, MA
+<center>
+0xADADA, Erik Ibsen, Chen Zhang <br /> Khoury College of Computer Sciences <br /> Northeastern University Boston, MA
+</center>
 
 ---
 
@@ -151,7 +149,7 @@ It is also easy to use the names of the squares to show where the winning group
 was created. In diagram 1.1 the winning group was on squares c1, d1, e1 and f1.
 Since the squares must lie on a straight line, it is enough to specify the two
 endpoints of the group. In this case the group can be identified with c1-f1. In
-general the notation <xmp><square1 /><square2 /></xmp> will be used to identify all squares on
+general the notation `square1` `square2` will be used to identify all squares on
 the line with sqaure1 and square2 as endpoints.
 
 ## Complexity Analysis
@@ -407,7 +405,7 @@ they will remain one of the best solutions to a computer game-playing problem.
 
 ## References
 
-<cite class="hanging-indent" id="cite:4">
+<cite className="hanging-indent" id="cite:4">
 Russell, S., Norvig, P.
 <em>Artificial Intelligence, A Modern Approach</em>.
 Third Edition
@@ -417,7 +415,7 @@ Print.
 2003.
 </cite>
 
-<cite class="hanging-indent" id="cite:1">
+<cite className="hanging-indent" id="cite:1">
 Flanagan, D.
 <em>Java in a Nutshell</em>.
 Third Edition.
@@ -426,7 +424,7 @@ Print.
 1999.
 </cite>
 
-<cite class="hanging-indent" id="cite:2">
+<cite className="hanging-indent" id="cite:2">
 Knudsen, J.
 <em>Java 2D Graphics</em>.
 O’Reilly & Associates, Inc.
@@ -434,7 +432,7 @@ Print.
 1999.
 </cite>
 
-<cite class="hanging-indent" id="cite:3">
+<cite className="hanging-indent" id="cite:3">
 Milton-Bradley, Inc. Connect Four Game, Hasbro, Inc.
 </cite>
 

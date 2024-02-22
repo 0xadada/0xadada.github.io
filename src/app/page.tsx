@@ -8,7 +8,7 @@ import Header from "./components/header";
 import styles from "./page.module.css";
 
 export const metadata: Metadata = {
-  title: "0xADADA",
+  title: "0xADADA, Software Engineer / Writer / Motorsports Driver",
   description: "Writing by 0xADADA",
   alternates: {
     canonical: "/",
