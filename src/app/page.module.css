@@ -1,0 +1,25 @@
+.years {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.year {
+  display: flex;
+  font-size: 1.25rem;
+}
+
+.posts {
+  list-style: none;
+  margin: 0 0 0 1rem;
+  padding: 0;
+}
+@media (min-width: 48rem) {
+  .posts {
+    margin: 0 0 0 6rem;
+  }
+}
+
+.post {
+  margin-bottom: 2em;
+}
