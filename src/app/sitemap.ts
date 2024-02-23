@@ -3,10 +3,6 @@ import fs from "fs";
 import { join } from "path";
 import { parseFilename } from "../lib/parse-filename";
 
-export function generateStaticParams() {
-  return [{ ["/sitemap.xml"]: "/sitemap.xml" }];
-}
-
 export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   const docsDir = join(process.cwd(), "docs");
   const filenames = fs.readdirSync(docsDir);
@@ -31,7 +27,7 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   ];
   posts.map((post) =>
     sitemap.push({
-      url: post.url,
+      url: `https://0xadada.pub/${post.url}/`,
       lastModified: new Date(),
       changeFrequency: "monthly",
       priority: 0.8,
