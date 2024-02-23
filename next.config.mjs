@@ -11,6 +11,7 @@ const withMDX = createMDX({
 /** @type {import('next').NextConfig} */
 const nextConfig = withMDX({
   output: "export",
+  images: { unoptimized: true },
   // Configure `pageExtensions` to include MDX files
   pageExtensions: ["mdx", "md", "js", "jsx", "ts", "tsx"],
   trailingSlash: true,

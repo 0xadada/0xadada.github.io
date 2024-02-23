@@ -296,6 +296,10 @@ article header {
   font-family: sans-serif;
 }
 
+.scroller {
+  overflow-x: auto;
+}
+
 table tr:nth-child(odd) td {
   background-color: #eee;
 }

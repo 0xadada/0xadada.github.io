@@ -6,6 +6,7 @@ import DisplayDate from "../../../../components/display-date";
 import License from "../../../../components/license";
 import styles from "./page.module.css";
 import type { Metadata } from "next";
+import { useMDXComponents } from "../../../../../mdx-components";
 
 interface PageMetadata {
   title: string;
@@ -100,6 +101,7 @@ export default async function Page({
   const markdown = fs.readFileSync(filePath, "utf8");
   const { content, frontmatter } = await compileMDX<PageMetadata>({
     source: markdown,
+    components: useMDXComponents({}),
     options: {
       parseFrontmatter: true,
       mdxOptions: {

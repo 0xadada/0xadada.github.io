@@ -6,12 +6,8 @@ tags: [essays, economics, activism]
 ---
 
 <figure>
-  <img src="/static/images/2020-06-05-on-looting.jpg" alt="Civilian Bailouts" title="Civilian Bailouts" />
-  <figcaption>
-    Looting: A peoples bailout
-    <br />
-    Photo by <a href="https://unsplash.com/@gaberce">Gabe Pierce</a>
-  </figcaption>
+  <img src="/static/images/2020-06-05-on-looting.jpg" alt="Civilian Bailouts" />
+  <figcaption>Civilian Bailouts</figcaption>
 </figure>
 
 Looting is an _obvious_ response to the glorification of consumer products—

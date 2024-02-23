@@ -2,7 +2,6 @@
 title: "Denis Villeneuve: The Parallax Panning Shot"
 description: "Denis Villeneuve masterfully wields the panning shot with parallax in films like Blade Runner 2049, Enemy, and Dune, immersing viewers in rich, multi-dimensional worlds."
 image: /static/images/2023-08-08-denis-villeneuve-the-parallax-panning-shot.jpg
-metaImage: /static/images/2023-08-08-denis-villeneuve-the-parallax-panning-shot.jpg
 tags: [notes, film, art]
 ---
 
