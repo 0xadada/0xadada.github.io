@@ -1,0 +1,688 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[0xADADA]]></title>
+        <description><![CDATA[0xADADA]]></description>
+        <link>https://0xadada.pub</link>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Fri, 23 Feb 2024 16:42:41 GMT</lastBuildDate>
+        <atom:link href="https://0xadada.pub/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[One (more) Year with Ember: Thoughts on Ember vs React, Eight Years Later]]></title>
+            <description><![CDATA[An examination of the similarities of Ember & React, some thoughts, and a conclusion.]]></description>
+            <link>https://0xadada.pub/2023/12/20/one-year-with-ember-vs-react-eight-years-later/</link>
+            <guid isPermaLink="true">https://0xadada.pub/2023/12/20/one-year-with-ember-vs-react-eight-years-later/</guid>
+            <category><![CDATA[essays]]></category>
+            <category><![CDATA[open-source]]></category>
+            <category><![CDATA[software-engineering]]></category>
+            <category><![CDATA[Ember.js]]></category>
+            <category><![CDATA[React]]></category>
+            <category><![CDATA[web-development]]></category>
+            <category><![CDATA[javascript]]></category>
+            <category><![CDATA[frameworks]]></category>
+            <dc:creator><![CDATA[0xADADA]]></dc:creator>
+            <pubDate>Wed, 20 Dec 2023 05:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Denis Villeneuve: The Parallax Panning Shot]]></title>
+            <description><![CDATA[Denis Villeneuve masterfully wields the panning shot with parallax in films like Blade Runner 2049, Enemy, and Dune, immersing viewers in rich, multi-dimensional worlds.]]></description>
+            <link>https://0xadada.pub/2023/08/08/denis-villeneuve-the-parallax-panning-shot/</link>
+            <guid isPermaLink="true">https://0xadada.pub/2023/08/08/denis-villeneuve-the-parallax-panning-shot/</guid>
+            <category><![CDATA[notes]]></category>
+            <category><![CDATA[film]]></category>
+            <category><![CDATA[art]]></category>
+            <dc:creator><![CDATA[0xADADA]]></dc:creator>
+            <pubDate>Tue, 08 Aug 2023 04:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Oscar the Grouch as contemporary Diogenes the Cynic]]></title>
+            <description><![CDATA[Oscar the Grouch can be seen as a modern-day Diogenes, rejecting mainstream society and living on the fringes as a critic of capitalism and consumerism.]]></description>
+            <link>https://0xadada.pub/2022/12/07/oscar-the-grouch-a-contemporary-diogenes-the-cynic/</link>
+            <guid isPermaLink="true">https://0xadada.pub/2022/12/07/oscar-the-grouch-a-contemporary-diogenes-the-cynic/</guid>
+            <category><![CDATA[notes]]></category>
+            <dc:creator><![CDATA[0xADADA]]></dc:creator>
+            <pubDate>Wed, 07 Dec 2022 05:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Your Own Happiness: BRZ Type RA 2022 Spec]]></title>
+            <description><![CDATA[Progress on my 2017 Subaru BRZ track build.]]></description>
+            <link>https://0xadada.pub/2022/10/05/brz-typera-2022-spec/</link>
+            <guid isPermaLink="true">https://0xadada.pub/2022/10/05/brz-typera-2022-spec/</guid>
+            <category><![CDATA[notes]]></category>
+            <category><![CDATA[motorsports]]></category>
+            <category><![CDATA[subaru]]></category>
+            <dc:creator><![CDATA[0xADADA]]></dc:creator>
+            <pubDate>Wed, 05 Oct 2022 04:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[I am not a software engineer]]></title>
+            <description><![CDATA[On how knowledge workers, software engineers, and workers more generally produce personal identities coupled to the production of surplus value]]></description>
+            <link>https://0xadada.pub/2022/04/01/i-am-not-a-software-developer/</link>
+            <guid isPermaLink="true">https://0xadada.pub/2022/04/01/i-am-not-a-software-developer/</guid>
+            <category><![CDATA[essays]]></category>
+            <category><![CDATA[software-engineering]]></category>
+            <category><![CDATA[labor]]></category>
+            <dc:creator><![CDATA[0xADADA]]></dc:creator>
+            <pubDate>Fri, 01 Apr 2022 04:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Society of the Spectacle: Foreword]]></title>
+            <description><![CDATA[I've been writing a new edition of Debord's 1967 book The Society of the Spectacle, one adapted for our present moment. This edition is out now. This is the Foreword to that edition.]]></description>
+            <link>https://0xadada.pub/2021/03/27/the-society-of-the-spectacle/</link>
+            <guid isPermaLink="true">https://0xadada.pub/2021/03/27/the-society-of-the-spectacle/</guid>
+            <category><![CDATA[essays]]></category>
+            <category><![CDATA[anti-fascism]]></category>
+            <category><![CDATA[economics]]></category>
+            <category><![CDATA[books]]></category>
+            <dc:creator><![CDATA[0xADADA]]></dc:creator>
+            <pubDate>Sat, 27 Mar 2021 04:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bandersnatch Advertising]]></title>
+            <description><![CDATA[Black Mirror Bandersnatch is the first example of a future of personalized content marketing based on user behavior— where ads and content are impossible to distinguish because they've become the same thing.]]></description>
+            <link>https://0xadada.pub/2021/01/14/bandersnatch-advertising/</link>
+            <guid isPermaLink="true">https://0xadada.pub/2021/01/14/bandersnatch-advertising/</guid>
+            <category><![CDATA[notes]]></category>
+            <category><![CDATA[privacy]]></category>
+            <category><![CDATA[surveillance]]></category>
+            <dc:creator><![CDATA[0xADADA]]></dc:creator>
+            <pubDate>Thu, 14 Jan 2021 05:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The BRZ Type RA Subaru Can't Build]]></title>
+            <description><![CDATA[The Type RA badge on a Subaru is about what the car can never be.]]></description>
+            <link>https://0xadada.pub/2020/10/20/the-type-ra-subaru-cant-build/</link>
+            <guid isPermaLink="true">https://0xadada.pub/2020/10/20/the-type-ra-subaru-cant-build/</guid>
+            <category><![CDATA[notes]]></category>
+            <category><![CDATA[motorsports]]></category>
+            <dc:creator><![CDATA[0xADADA]]></dc:creator>
+            <pubDate>Tue, 20 Oct 2020 04:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Right to Repair - 2020 - Vote YES on Question 1]]></title>
+            <description><![CDATA[Right to Repair isnʼt about consumers safety, it's about personal property.]]></description>
+            <link>https://0xadada.pub/2020/10/09/right-to-repair/</link>
+            <guid isPermaLink="true">https://0xadada.pub/2020/10/09/right-to-repair/</guid>
+            <category><![CDATA[notes]]></category>
+            <category><![CDATA[motorsports]]></category>
+            <category><![CDATA[right-to-repair]]></category>
+            <category><![CDATA[law]]></category>
+            <category><![CDATA[legislation]]></category>
+            <category><![CDATA[activism]]></category>
+            <dc:creator><![CDATA[0xADADA]]></dc:creator>
+            <pubDate>Fri, 09 Oct 2020 04:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[macOS command line tricks and tips]]></title>
+            <description><![CDATA[Set current user profile image, display 24H time in the menubar and more.]]></description>
+            <link>https://0xadada.pub/2020/09/15/macos-cli-tricks-and-tips/</link>
+            <guid isPermaLink="true">https://0xadada.pub/2020/09/15/macos-cli-tricks-and-tips/</guid>
+            <dc:creator><![CDATA[0xADADA]]></dc:creator>
+            <pubDate>Tue, 15 Sep 2020 04:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The U.S. is a Failed Experiment]]></title>
+            <description><![CDATA[What started as an Enlightenment experiment in democratic capitalism had the wrong assumptions of the human spirit from the beginning.]]></description>
+            <link>https://0xadada.pub/2020/09/04/the-us-is-a-failed-experiment/</link>
+            <guid isPermaLink="true">https://0xadada.pub/2020/09/04/the-us-is-a-failed-experiment/</guid>
+            <category><![CDATA[essays]]></category>
+            <dc:creator><![CDATA[0xADADA]]></dc:creator>
+            <pubDate>Fri, 04 Sep 2020 04:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Testimony to Defund the Police in Somerville]]></title>
+            <description><![CDATA[A more just society that applies to all members of our community is one without police.]]></description>
+            <link>https://0xadada.pub/2020/06/24/testimony-on-defunding-the-somerville-police/</link>
+            <guid isPermaLink="true">https://0xadada.pub/2020/06/24/testimony-on-defunding-the-somerville-police/</guid>
+            <category><![CDATA[essays]]></category>
+            <category><![CDATA[anti-racism]]></category>
+            <category><![CDATA[talks]]></category>
+            <category><![CDATA[police]]></category>
+            <category><![CDATA[anti-police]]></category>
+            <category><![CDATA[anti-fascism]]></category>
+            <category><![CDATA[militarization]]></category>
+            <category><![CDATA[imperialism]]></category>
+            <category><![CDATA[colonialism]]></category>
+            <dc:creator><![CDATA[0xADADA]]></dc:creator>
+            <pubDate>Wed, 24 Jun 2020 04:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[On Looting]]></title>
+            <description><![CDATA[Looting is an obvious response to the glorification of consumer products.]]></description>
+            <link>https://0xadada.pub/2020/06/05/on-looting/</link>
+            <guid isPermaLink="true">https://0xadada.pub/2020/06/05/on-looting/</guid>
+            <category><![CDATA[essays]]></category>
+            <category><![CDATA[economics]]></category>
+            <category><![CDATA[activism]]></category>
+            <dc:creator><![CDATA[0xADADA]]></dc:creator>
+            <pubDate>Fri, 05 Jun 2020 04:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ember Templates: Classic vs Angle Bracket Syntaxes]]></title>
+            <description><![CDATA[Diving into the difference between Ember component invocation when using curlies, angle brackets, and s-expression in Ember templates.]]></description>
+            <link>https://0xadada.pub/2020/03/20/ember-emplates-classic-vs-angle-bracket-syntaxes/</link>
+            <guid isPermaLink="true">https://0xadada.pub/2020/03/20/ember-emplates-classic-vs-angle-bracket-syntaxes/</guid>
+            <category><![CDATA[projects]]></category>
+            <category><![CDATA[open-source]]></category>
+            <category><![CDATA[software-development]]></category>
+            <category><![CDATA[Ember.js]]></category>
+            <category><![CDATA[web development]]></category>
+            <dc:creator><![CDATA[0xADADA]]></dc:creator>
+            <pubDate>Fri, 20 Mar 2020 04:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Elasticity Versus Discipline]]></title>
+            <description><![CDATA[A central issue of contestation is elasticity versus discipline, elasticity for me and discipline for you, alchemy of banking and money funding for me, austerity and debt for you.]]></description>
+            <link>https://0xadada.pub/2020/03/15/elasticity-versus-discipline/</link>
+            <guid isPermaLink="true">https://0xadada.pub/2020/03/15/elasticity-versus-discipline/</guid>
+            <category><![CDATA[essays]]></category>
+            <category><![CDATA[economics]]></category>
+            <dc:creator><![CDATA[0xADADA]]></dc:creator>
+            <pubDate>Sun, 15 Mar 2020 04:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Warai Otoko (笑い男) Animated Logo]]></title>
+            <description><![CDATA[Animated SVG logo of an asset from Ghost in the Shell using CSS transforms]]></description>
+            <link>https://0xadada.pub/2020/03/08/warai-otoko/</link>
+            <guid isPermaLink="true">https://0xadada.pub/2020/03/08/warai-otoko/</guid>
+            <category><![CDATA[projects]]></category>
+            <category><![CDATA[open-source]]></category>
+            <category><![CDATA[graphics]]></category>
+            <category><![CDATA[design]]></category>
+            <dc:creator><![CDATA[0xADADA]]></dc:creator>
+            <pubDate>Sun, 08 Mar 2020 05:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[@0xadada/random-emoji v1.0.0]]></title>
+            <description><![CDATA[A random emoji function with zero dependencies.]]></description>
+            <link>https://0xadada.pub/2019/10/06/random-emoji/</link>
+            <guid isPermaLink="true">https://0xadada.pub/2019/10/06/random-emoji/</guid>
+            <category><![CDATA[projects]]></category>
+            <category><![CDATA[open-source]]></category>
+            <category><![CDATA[javascript]]></category>
+            <category><![CDATA[web development]]></category>
+            <category><![CDATA[npm]]></category>
+            <dc:creator><![CDATA[0xADADA]]></dc:creator>
+            <pubDate>Sun, 06 Oct 2019 04:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[On Fascism]]></title>
+            <description><![CDATA[Fascism is a cult of the archaic fitted out by modern technology.]]></description>
+            <link>https://0xadada.pub/2019/09/25/on-fascism/</link>
+            <guid isPermaLink="true">https://0xadada.pub/2019/09/25/on-fascism/</guid>
+            <category><![CDATA[essays]]></category>
+            <category><![CDATA[fascism]]></category>
+            <category><![CDATA[anti-fascism]]></category>
+            <category><![CDATA[capitalism]]></category>
+            <category><![CDATA[society of the spectacle]]></category>
+            <category><![CDATA[late capitalism]]></category>
+            <dc:creator><![CDATA[0xADADA]]></dc:creator>
+            <pubDate>Wed, 25 Sep 2019 04:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[uri-editor.js Bookmarklet]]></title>
+            <description><![CDATA[uri-editor.js: A HTML WYSIWYG text editor written in one line of HTML, deployed with a URL.]]></description>
+            <link>https://0xadada.pub/2019/09/16/uri-editor.js/</link>
+            <guid isPermaLink="true">https://0xadada.pub/2019/09/16/uri-editor.js/</guid>
+            <category><![CDATA[projects]]></category>
+            <category><![CDATA[open-source]]></category>
+            <category><![CDATA[javascript]]></category>
+            <category><![CDATA[web-development]]></category>
+            <dc:creator><![CDATA[0xADADA]]></dc:creator>
+            <pubDate>Mon, 16 Sep 2019 04:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Using Ember FastBoot in Weird Ways]]></title>
+            <description><![CDATA[This talk was presented at Salsify, Inc about our usecase for deploying FastBoot to do server-side rendering of Ember applications at large scale.]]></description>
+            <link>https://0xadada.pub/2019/06/18/talk-using-ember-fastboot-in-weird-ways/</link>
+            <guid isPermaLink="true">https://0xadada.pub/2019/06/18/talk-using-ember-fastboot-in-weird-ways/</guid>
+            <category><![CDATA[talks]]></category>
+            <category><![CDATA[open-source]]></category>
+            <category><![CDATA[javascript]]></category>
+            <category><![CDATA[web development]]></category>
+            <category><![CDATA[Ember]]></category>
+            <category><![CDATA[ember.js]]></category>
+            <category><![CDATA[fastboot]]></category>
+            <category><![CDATA[server side rendering]]></category>
+            <dc:creator><![CDATA[0xADADA]]></dc:creator>
+            <pubDate>Tue, 18 Jun 2019 04:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Essential Ember Addons: The State of the Ember Addon Ecosystem in 2019]]></title>
+            <description><![CDATA[A list of Ember addons that I use in most of my projects.]]></description>
+            <link>https://0xadada.pub/2019/06/17/essential-ember-addons/</link>
+            <guid isPermaLink="true">https://0xadada.pub/2019/06/17/essential-ember-addons/</guid>
+            <category><![CDATA[Ember.js]]></category>
+            <category><![CDATA[projects]]></category>
+            <category><![CDATA[open-source]]></category>
+            <dc:creator><![CDATA[0xADADA]]></dc:creator>
+            <pubDate>Mon, 17 Jun 2019 04:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The City and The Freezing of Life]]></title>
+            <description><![CDATA[The drive to urbanization is an imperative of capitalism, this drive results in 'a freezing of life'— a static world devoid of spontaneity, the result of land development and bureaucratic zoning laws optimized for rent seeking and increased land valuations, devoid of nature and where its residents have no ability to change their surroundings to suit their daily ways of living.]]></description>
+            <link>https://0xadada.pub/2019/04/16/the-city-and-the-freezing-of-life/</link>
+            <guid isPermaLink="true">https://0xadada.pub/2019/04/16/the-city-and-the-freezing-of-life/</guid>
+            <category><![CDATA[essays]]></category>
+            <category><![CDATA[economics]]></category>
+            <dc:creator><![CDATA[0xADADA]]></dc:creator>
+            <pubDate>Tue, 16 Apr 2019 04:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Extending the browser with the lingua franca of the web]]></title>
+            <description><![CDATA[Understanding WebExtensions; how to create browser extensions  using standard web technologies— JavaScript, HTML, and CSS.]]></description>
+            <link>https://0xadada.pub/2019/03/08/extending-the-browser-with-the-lingua-franca-of-the-web/</link>
+            <guid isPermaLink="true">https://0xadada.pub/2019/03/08/extending-the-browser-with-the-lingua-franca-of-the-web/</guid>
+            <category><![CDATA[projects]]></category>
+            <category><![CDATA[open-source]]></category>
+            <category><![CDATA[webextensions]]></category>
+            <category><![CDATA[web extensions]]></category>
+            <category><![CDATA[browser extensions]]></category>
+            <category><![CDATA[browser plugins]]></category>
+            <category><![CDATA[javascript]]></category>
+            <category><![CDATA[web development]]></category>
+            <category><![CDATA[software development]]></category>
+            <category><![CDATA[progressive web apps]]></category>
+            <dc:creator><![CDATA[0xADADA]]></dc:creator>
+            <pubDate>Fri, 08 Mar 2019 05:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Review - Opus by Satoshi Kon]]></title>
+            <description><![CDATA[A brilliant postmodernist introspection of the challenges of writing.]]></description>
+            <link>https://0xadada.pub/2018/12/05/opus-satoshi-kon/</link>
+            <guid isPermaLink="true">https://0xadada.pub/2018/12/05/opus-satoshi-kon/</guid>
+            <category><![CDATA[notes]]></category>
+            <category><![CDATA[reviews]]></category>
+            <dc:creator><![CDATA[0xADADA]]></dc:creator>
+            <pubDate>Wed, 05 Dec 2018 05:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[An Interview Question: Write a chainable n-argument sum function]]></title>
+            <description><![CDATA[Writing a javascript function to sum multiple inputs with chainable invocation.]]></description>
+            <link>https://0xadada.pub/2018/10/18/chainable-n-args-sum-function/</link>
+            <guid isPermaLink="true">https://0xadada.pub/2018/10/18/chainable-n-args-sum-function/</guid>
+            <category><![CDATA[projects]]></category>
+            <category><![CDATA[open-source]]></category>
+            <category><![CDATA[javascript]]></category>
+            <dc:creator><![CDATA[0xADADA]]></dc:creator>
+            <pubDate>Thu, 18 Oct 2018 04:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Against Facebook]]></title>
+            <description><![CDATA[On the commodification of attention, the abuses of unpaid microwork and strategies of resistance.]]></description>
+            <link>https://0xadada.pub/2018/05/01/against-facebook/</link>
+            <guid isPermaLink="true">https://0xadada.pub/2018/05/01/against-facebook/</guid>
+            <category><![CDATA[essays]]></category>
+            <category><![CDATA[privacy]]></category>
+            <category><![CDATA[Facebook]]></category>
+            <dc:creator><![CDATA[0xADADA]]></dc:creator>
+            <pubDate>Tue, 01 May 2018 04:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Contextual Components and Changesets in Ember]]></title>
+            <description><![CDATA[This talk is a code walkthrough, implementing a date picker to showcase the power of ember-changeset and contextual components. Given at the Ember Boston Community meetup.]]></description>
+            <link>https://0xadada.pub/2018/04/25/talk-ember-contextual-components/</link>
+            <guid isPermaLink="true">https://0xadada.pub/2018/04/25/talk-ember-contextual-components/</guid>
+            <category><![CDATA[talks]]></category>
+            <category><![CDATA[javascript]]></category>
+            <category><![CDATA[web development]]></category>
+            <category><![CDATA[Ember.js]]></category>
+            <category><![CDATA[contextual components]]></category>
+            <dc:creator><![CDATA[0xADADA]]></dc:creator>
+            <pubDate>Wed, 25 Apr 2018 04:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Notes on Programming Phoenix for Elixir]]></title>
+            <description><![CDATA[Notes and observations on the Phoenix web framework for Elixir.]]></description>
+            <link>https://0xadada.pub/2017/12/22/programming-phoenix/</link>
+            <guid isPermaLink="true">https://0xadada.pub/2017/12/22/programming-phoenix/</guid>
+            <category><![CDATA[notes]]></category>
+            <category><![CDATA[software-development]]></category>
+            <category><![CDATA[Elixir]]></category>
+            <dc:creator><![CDATA[0xADADA]]></dc:creator>
+            <pubDate>Fri, 22 Dec 2017 05:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How Do Not Track and The EU GDPR Promise to Disrupt the Future of Web Advertising]]></title>
+            <description><![CDATA[Since the advent of the first banner ads, web tracking has gradually developed practices that are intrinsically based on a disrespect for peoples privacy, DNT and the EU GDPR will disrupt those practices.]]></description>
+            <link>https://0xadada.pub/2017/12/10/how-do-not-track-and-gdpr-promise-to-disrupt-the-future-of-web-advertising/</link>
+            <guid isPermaLink="true">https://0xadada.pub/2017/12/10/how-do-not-track-and-gdpr-promise-to-disrupt-the-future-of-web-advertising/</guid>
+            <category><![CDATA[essays]]></category>
+            <category><![CDATA[privacy]]></category>
+            <category><![CDATA[do-not-track]]></category>
+            <category><![CDATA[GDPR]]></category>
+            <category><![CDATA[privacy]]></category>
+            <category><![CDATA[performance]]></category>
+            <category><![CDATA[tracking]]></category>
+            <category><![CDATA[analytics]]></category>
+            <category><![CDATA[malvertising]]></category>
+            <category><![CDATA[advertising]]></category>
+            <dc:creator><![CDATA[0xADADA]]></dc:creator>
+            <pubDate>Sun, 10 Dec 2017 05:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[system-font-i18n-css]]></title>
+            <description><![CDATA[A modern native system font stack for consistent multi-lingual typesetting, optimized by unicode ranges.]]></description>
+            <link>https://0xadada.pub/2017/11/05/system-font-i18n-css/</link>
+            <guid isPermaLink="true">https://0xadada.pub/2017/11/05/system-font-i18n-css/</guid>
+            <category><![CDATA[projects]]></category>
+            <category><![CDATA[open-source]]></category>
+            <category><![CDATA[typography]]></category>
+            <category><![CDATA[css]]></category>
+            <category><![CDATA[web-development]]></category>
+            <dc:creator><![CDATA[0xADADA]]></dc:creator>
+            <pubDate>Sun, 05 Nov 2017 04:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[One Year with Ember]]></title>
+            <description><![CDATA[Thoughts on Ember after a year of use.]]></description>
+            <link>https://0xadada.pub/2017/10/09/one-year-with-ember/</link>
+            <guid isPermaLink="true">https://0xadada.pub/2017/10/09/one-year-with-ember/</guid>
+            <category><![CDATA[essays]]></category>
+            <category><![CDATA[open-source]]></category>
+            <category><![CDATA[software-development]]></category>
+            <category><![CDATA[javascript]]></category>
+            <category><![CDATA[frameworks]]></category>
+            <category><![CDATA[web development]]></category>
+            <category><![CDATA[software development]]></category>
+            <category><![CDATA[progressive web apps]]></category>
+            <category><![CDATA[Ember.js]]></category>
+            <dc:creator><![CDATA[0xADADA]]></dc:creator>
+            <pubDate>Mon, 09 Oct 2017 04:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ember-i18n-changeset-validations]]></title>
+            <description><![CDATA[An Ember addon that provides internationalized validation messages to ember-changeset-validations.]]></description>
+            <link>https://0xadada.pub/2017/03/18/ember-i18n-changeset-validations/</link>
+            <guid isPermaLink="true">https://0xadada.pub/2017/03/18/ember-i18n-changeset-validations/</guid>
+            <category><![CDATA[projects]]></category>
+            <category><![CDATA[open-source]]></category>
+            <category><![CDATA[Ember.js]]></category>
+            <category><![CDATA[web-development]]></category>
+            <category><![CDATA[npm]]></category>
+            <dc:creator><![CDATA[0xADADA]]></dc:creator>
+            <pubDate>Sat, 18 Mar 2017 04:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Before Trump Takes Office]]></title>
+            <description><![CDATA[A description of the high-water mark before Trump takes office.]]></description>
+            <link>https://0xadada.pub/2017/01/16/before-trump-takes-office/</link>
+            <guid isPermaLink="true">https://0xadada.pub/2017/01/16/before-trump-takes-office/</guid>
+            <category><![CDATA[essays]]></category>
+            <dc:creator><![CDATA[0xADADA]]></dc:creator>
+            <pubDate>Mon, 16 Jan 2017 05:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Animating SVG with CSS]]></title>
+            <description><![CDATA[How to use SVG and CSS to create dynamic imagery.]]></description>
+            <link>https://0xadada.pub/2017/01/08/animating-avatar-svg/</link>
+            <guid isPermaLink="true">https://0xadada.pub/2017/01/08/animating-avatar-svg/</guid>
+            <category><![CDATA[projects]]></category>
+            <category><![CDATA[graphics]]></category>
+            <category><![CDATA[vector]]></category>
+            <category><![CDATA[animation]]></category>
+            <category><![CDATA[css]]></category>
+            <dc:creator><![CDATA[0xADADA]]></dc:creator>
+            <pubDate>Sun, 08 Jan 2017 05:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Travel Writing - Redux, Italy & Switzerland Edition]]></title>
+            <description><![CDATA[How travel does not provide new perspectives or meaning.]]></description>
+            <link>https://0xadada.pub/2016/11/06/travel-italy-switzerland/</link>
+            <guid isPermaLink="true">https://0xadada.pub/2016/11/06/travel-italy-switzerland/</guid>
+            <category><![CDATA[essays]]></category>
+            <category><![CDATA[travel]]></category>
+            <category><![CDATA[writing]]></category>
+            <dc:creator><![CDATA[0xADADA]]></dc:creator>
+            <pubDate>Sun, 06 Nov 2016 04:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A mix for musicForProgramming.net Podcast]]></title>
+            <description><![CDATA[a DJ set of ambient, drone and EDM intended to help concentration.]]></description>
+            <link>https://0xadada.pub/2016/04/16/music-for-programming-40/</link>
+            <guid isPermaLink="true">https://0xadada.pub/2016/04/16/music-for-programming-40/</guid>
+            <category><![CDATA[notes]]></category>
+            <category><![CDATA[projects]]></category>
+            <category><![CDATA[music]]></category>
+            <category><![CDATA[programming]]></category>
+            <category><![CDATA[ambient]]></category>
+            <category><![CDATA[drone]]></category>
+            <category><![CDATA[sci-fi]]></category>
+            <category><![CDATA[DJ-set]]></category>
+            <category><![CDATA[mix]]></category>
+            <dc:creator><![CDATA[0xADADA]]></dc:creator>
+            <pubDate>Sat, 16 Apr 2016 04:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Installing (encrypted) Arch Linux on an Apple MacBook Pro]]></title>
+            <description><![CDATA[A howto guide for installing encrypted Arch Linux on an Apple MacBook Pro with battery optimization and the Awesome window manager.]]></description>
+            <link>https://0xadada.pub/2016/03/05/install-encrypted-arch-linux-on-apple-macbook-pro/</link>
+            <guid isPermaLink="true">https://0xadada.pub/2016/03/05/install-encrypted-arch-linux-on-apple-macbook-pro/</guid>
+            <category><![CDATA[projects]]></category>
+            <category><![CDATA[open-source]]></category>
+            <category><![CDATA[linux]]></category>
+            <dc:creator><![CDATA[0xADADA]]></dc:creator>
+            <pubDate>Sat, 05 Mar 2016 05:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[JavaScript The Good Parts]]></title>
+            <description><![CDATA[Javascript The Good Parts notes.]]></description>
+            <link>https://0xadada.pub/2015/11/15/javascript-the-good-parts/</link>
+            <guid isPermaLink="true">https://0xadada.pub/2015/11/15/javascript-the-good-parts/</guid>
+            <category><![CDATA[notes]]></category>
+            <category><![CDATA[software-engineering]]></category>
+            <category><![CDATA[JavaScript]]></category>
+            <dc:creator><![CDATA[0xADADA]]></dc:creator>
+            <pubDate>Sun, 15 Nov 2015 05:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[on logging]]></title>
+            <description><![CDATA[Thoughts and best practices on application logging.]]></description>
+            <link>https://0xadada.pub/2015/11/05/on-logging/</link>
+            <guid isPermaLink="true">https://0xadada.pub/2015/11/05/on-logging/</guid>
+            <category><![CDATA[essays]]></category>
+            <category><![CDATA[open-source]]></category>
+            <category><![CDATA[software-engineering]]></category>
+            <dc:creator><![CDATA[0xADADA]]></dc:creator>
+            <pubDate>Thu, 05 Nov 2015 05:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A Retrospective — Responsive Design]]></title>
+            <description><![CDATA[Not too long ago, there was a great debate between two sides of the web. The 'Responsive' web vs the 'm.'' web. One pushing for a single codebase that responds to user-context and another pushing for a second, mobile-only approach (typically using a subdomain starting with m.) Its clear now, the responsive web has won.]]></description>
+            <link>https://0xadada.pub/2015/11/05/a-retrospective--responsive-design/</link>
+            <guid isPermaLink="true">https://0xadada.pub/2015/11/05/a-retrospective--responsive-design/</guid>
+            <category><![CDATA[essays]]></category>
+            <category><![CDATA[software-engineering]]></category>
+            <category><![CDATA[web-development]]></category>
+            <dc:creator><![CDATA[0xADADA]]></dc:creator>
+            <pubDate>Thu, 05 Nov 2015 05:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Development Lifecycle with Docker and Elastic Beanstalk]]></title>
+            <description><![CDATA[This article explains the advantages of using Docker over automated configuration management tools, and describes a workflow from development through QA and into production deployment using Amazons' Elastic Beanstalk.]]></description>
+            <link>https://0xadada.pub/2015/11/03/development-lifecycle-with-docker-and-elastic-beanstalk/</link>
+            <guid isPermaLink="true">https://0xadada.pub/2015/11/03/development-lifecycle-with-docker-and-elastic-beanstalk/</guid>
+            <category><![CDATA[essays]]></category>
+            <category><![CDATA[software-engineering]]></category>
+            <dc:creator><![CDATA[0xADADA]]></dc:creator>
+            <pubDate>Tue, 03 Nov 2015 05:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[RASpec Impreza 2.0 - Subaru Impreza WRX STI Race Car - Full specifications]]></title>
+            <description><![CDATA[Build specifications for a Subaru WRX STI time attack race car.]]></description>
+            <link>https://0xadada.pub/2015/08/15/raspec-impreza/</link>
+            <guid isPermaLink="true">https://0xadada.pub/2015/08/15/raspec-impreza/</guid>
+            <category><![CDATA[projects]]></category>
+            <category><![CDATA[motorsports]]></category>
+            <category><![CDATA[Subaru]]></category>
+            <category><![CDATA[Impreza]]></category>
+            <category><![CDATA[WRX]]></category>
+            <category><![CDATA[WRX-STI]]></category>
+            <category><![CDATA[race-car]]></category>
+            <dc:creator><![CDATA[0xADADA]]></dc:creator>
+            <pubDate>Sat, 15 Aug 2015 04:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[When to Use Git Merge vs Git Rebase]]></title>
+            <description><![CDATA[This article will attempt to provide an overview to the different workflows, and explain when merge and rebase are the more appropriate workflow to use.]]></description>
+            <link>https://0xadada.pub/2015/08/03/when-to-use-git-merge-vs-git-rebase/</link>
+            <guid isPermaLink="true">https://0xadada.pub/2015/08/03/when-to-use-git-merge-vs-git-rebase/</guid>
+            <category><![CDATA[essays]]></category>
+            <category><![CDATA[software-development]]></category>
+            <category><![CDATA[version-control]]></category>
+            <dc:creator><![CDATA[0xADADA]]></dc:creator>
+            <pubDate>Mon, 03 Aug 2015 04:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[“So what do you do?” — How Idle Conversation Escalates Tensions in Class Inequality]]></title>
+            <description><![CDATA[Performativity in idle conversation is annoying and harmful.]]></description>
+            <link>https://0xadada.pub/2015/08/02/so-what-do-you-do/</link>
+            <guid isPermaLink="true">https://0xadada.pub/2015/08/02/so-what-do-you-do/</guid>
+            <category><![CDATA[essays]]></category>
+            <category><![CDATA[language]]></category>
+            <category><![CDATA[performativity]]></category>
+            <category><![CDATA[society]]></category>
+            <category><![CDATA[class]]></category>
+            <dc:creator><![CDATA[0xADADA]]></dc:creator>
+            <pubDate>Sun, 02 Aug 2015 04:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Approaches for Pushing Do Not Track to the edges]]></title>
+            <description><![CDATA[Do Not Track (DNT) is dying a slow death, but we can take some simple steps to encourage its wider adoption.]]></description>
+            <link>https://0xadada.pub/2015/03/31/approaches-for-pushing-dnt-to-the-edges/</link>
+            <guid isPermaLink="true">https://0xadada.pub/2015/03/31/approaches-for-pushing-dnt-to-the-edges/</guid>
+            <category><![CDATA[essays]]></category>
+            <category><![CDATA[privacy]]></category>
+            <category><![CDATA[do-not-track]]></category>
+            <dc:creator><![CDATA[0xADADA]]></dc:creator>
+            <pubDate>Tue, 31 Mar 2015 04:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Understanding Media, Reversal of the Overheated Medium]]></title>
+            <description><![CDATA[Understanding Media, even more relevant today.]]></description>
+            <link>https://0xadada.pub/2015/03/17/mcluhan-understanding-media/</link>
+            <guid isPermaLink="true">https://0xadada.pub/2015/03/17/mcluhan-understanding-media/</guid>
+            <category><![CDATA[notes]]></category>
+            <category><![CDATA[essays]]></category>
+            <category><![CDATA[politics]]></category>
+            <category><![CDATA[mass media]]></category>
+            <category><![CDATA[media]]></category>
+            <category><![CDATA[media studies]]></category>
+            <category><![CDATA[television]]></category>
+            <category><![CDATA[Marshall McLuhan]]></category>
+            <dc:creator><![CDATA[0xADADA]]></dc:creator>
+            <pubDate>Tue, 17 Mar 2015 04:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What is Bitcoin Backed By?]]></title>
+            <description><![CDATA[When friends ask 'but what is bitcoin backed by?' this is what I say.]]></description>
+            <link>https://0xadada.pub/2014/03/06/what-is-bitcoin-backed-by/</link>
+            <guid isPermaLink="true">https://0xadada.pub/2014/03/06/what-is-bitcoin-backed-by/</guid>
+            <category><![CDATA[notes]]></category>
+            <category><![CDATA[bitcoin]]></category>
+            <category><![CDATA[cryptocurrencies]]></category>
+            <category><![CDATA[economics]]></category>
+            <dc:creator><![CDATA[0xADADA]]></dc:creator>
+            <pubDate>Thu, 06 Mar 2014 05:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Best Practices for Writing CSS]]></title>
+            <description><![CDATA[Conventions to help writing performant, maintainable stylesheets.]]></description>
+            <link>https://0xadada.pub/2013/03/01/best-practices-writing-css/</link>
+            <guid isPermaLink="true">https://0xadada.pub/2013/03/01/best-practices-writing-css/</guid>
+            <category><![CDATA[essays]]></category>
+            <category><![CDATA[software-development]]></category>
+            <category><![CDATA[css]]></category>
+            <category><![CDATA[web-development]]></category>
+            <dc:creator><![CDATA[0xADADA]]></dc:creator>
+            <pubDate>Fri, 01 Mar 2013 05:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A Study of Adobe Photoshop Scrollbars]]></title>
+            <description><![CDATA[Evaluating software quality on visual polish.]]></description>
+            <link>https://0xadada.pub/2011/12/24/software-erosion-in-photoshop/</link>
+            <guid isPermaLink="true">https://0xadada.pub/2011/12/24/software-erosion-in-photoshop/</guid>
+            <category><![CDATA[notes]]></category>
+            <dc:creator><![CDATA[0xADADA]]></dc:creator>
+            <pubDate>Sat, 24 Dec 2011 05:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Travel Writing]]></title>
+            <description><![CDATA[How travel provides new perspectives and meaning.]]></description>
+            <link>https://0xadada.pub/2011/12/01/travel-writing/</link>
+            <guid isPermaLink="true">https://0xadada.pub/2011/12/01/travel-writing/</guid>
+            <category><![CDATA[essays]]></category>
+            <dc:creator><![CDATA[0xADADA]]></dc:creator>
+            <pubDate>Thu, 01 Dec 2011 05:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Visual Commentary Propaganda Pastiche]]></title>
+            <description><![CDATA[A visual commentary on the Keep Calm and Carry On poster.]]></description>
+            <link>https://0xadada.pub/2011/10/12/keep-buying-and-carry-debt/</link>
+            <guid isPermaLink="true">https://0xadada.pub/2011/10/12/keep-buying-and-carry-debt/</guid>
+            <category><![CDATA[notes]]></category>
+            <dc:creator><![CDATA[0xADADA]]></dc:creator>
+            <pubDate>Wed, 12 Oct 2011 04:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[VIM Cheatsheet]]></title>
+            <description><![CDATA[Motion, keyboard commands and shortcuts for VIM/VI Improved/NeoVim.]]></description>
+            <link>https://0xadada.pub/2011/03/10/vim-cheatsheet/</link>
+            <guid isPermaLink="true">https://0xadada.pub/2011/03/10/vim-cheatsheet/</guid>
+            <category><![CDATA[notes]]></category>
+            <category><![CDATA[vim]]></category>
+            <category><![CDATA[neovim]]></category>
+            <dc:creator><![CDATA[0xADADA]]></dc:creator>
+            <pubDate>Thu, 10 Mar 2011 05:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A Connect Four Playing AI Agent: Algorithm and Creation Process]]></title>
+            <description><![CDATA[This paper documents the creation and testing of a game playing artificial intelligence (AI) agent program.  The agent is designed to play a game of Connect Four by Milton-Bradely.]]></description>
+            <link>https://0xadada.pub/2003/12/15/connect-four-playing-ai-agent/</link>
+            <guid isPermaLink="true">https://0xadada.pub/2003/12/15/connect-four-playing-ai-agent/</guid>
+            <category><![CDATA[projects]]></category>
+            <category><![CDATA[artificial intelligence]]></category>
+            <category><![CDATA[software engineering]]></category>
+            <dc:creator><![CDATA[0xADADA]]></dc:creator>
+            <pubDate>Mon, 15 Dec 2003 05:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Speech Segmentation in Japanese and English Bilinguals]]></title>
+            <description><![CDATA[The purpose of this paper is to provide an overview of the existing literature concerning speech segmentation, categorical perception, and some other issues concerning bilinguals of English and Japanese]]></description>
+            <link>https://0xadada.pub/2003/12/14/speech-segmentation-in-japanese-and-english-bilinguals/</link>
+            <guid isPermaLink="true">https://0xadada.pub/2003/12/14/speech-segmentation-in-japanese-and-english-bilinguals/</guid>
+            <category><![CDATA[essays]]></category>
+            <category><![CDATA[Japanese]]></category>
+            <dc:creator><![CDATA[0xADADA]]></dc:creator>
+            <pubDate>Sun, 14 Dec 2003 05:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hikikomori/Otaku Japans Latest Out-Group - Creating Social Outcasts to Construct a National Self-identity]]></title>
+            <description><![CDATA[This article will describe an overview, differentiation from otaku, potential social causes, victimization, and the social impact of acute social-withdrawl or hikikomori in Japanese society.]]></description>
+            <link>https://0xadada.pub/2003/01/01/hikikomori-otaku-japans-latest-outcasts/</link>
+            <guid isPermaLink="true">https://0xadada.pub/2003/01/01/hikikomori-otaku-japans-latest-outcasts/</guid>
+            <category><![CDATA[essays]]></category>
+            <category><![CDATA[hikikomori]]></category>
+            <category><![CDATA[引きこもり]]></category>
+            <category><![CDATA[otaku]]></category>
+            <category><![CDATA[おたく]]></category>
+            <category><![CDATA[Burakumin]]></category>
+            <category><![CDATA[部落民]]></category>
+            <category><![CDATA[sociology]]></category>
+            <category><![CDATA[The Other]]></category>
+            <category><![CDATA[hinin]]></category>
+            <category><![CDATA[非人]]></category>
+            <category><![CDATA[futoko]]></category>
+            <category><![CDATA[不登校]]></category>
+            <dc:creator><![CDATA[0xADADA]]></dc:creator>
+            <pubDate>Wed, 01 Jan 2003 05:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[About 0xADADA]]></title>
+            <description><![CDATA[About this site, about me.]]></description>
+            <link>https://0xadada.pub/1980/06/05/about/</link>
+            <guid isPermaLink="true">https://0xadada.pub/1980/06/05/about/</guid>
+            <dc:creator><![CDATA[0xADADA]]></dc:creator>
+            <pubDate>Thu, 05 Jun 1980 04:00:00 GMT</pubDate>
+        </item>
+    </channel>
+</rss>

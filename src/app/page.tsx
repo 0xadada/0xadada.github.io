@@ -3,6 +3,7 @@ import Link from "next/link";
 import fs from "fs";
 import { join } from "path";
 import { compileMDX } from "next-mdx-remote/rsc";
+import { parseFilename } from "../lib/parse-filename";
 import DisplayDate from "./components/display-date";
 import Header from "./components/header";
 import styles from "./page.module.css";
@@ -32,24 +33,6 @@ interface Post {
   url: string;
 }
 
-function getURLParamsFromFilename(filename: string) {
-  const name = filename.replace(/\.md$/, "");
-  const year = name.slice(0, 4);
-  const month = name.slice(5, 7);
-  const day = name.slice(8, 10);
-  const date = new Date(parseInt(year), parseInt(month) - 1, parseInt(day));
-  const slug = name.slice(11);
-  const url = `${year}/${month}/${day}/${slug}`;
-  return {
-    year,
-    month,
-    day,
-    date,
-    slug,
-    url,
-  };
-}
-
 export default async function Home() {
   const docsDir = join(process.cwd(), "docs");
   const filenames = fs.readdirSync(docsDir);
@@ -64,7 +47,7 @@ export default async function Home() {
         source: markdown,
         options: { parseFrontmatter: true },
       });
-      const { year, month, day, date, slug, url } = getURLParamsFromFilename(
+      const { year, month, day, date, slug, url } = parseFilename(
         file.filename,
       );
       const post: Post = {
