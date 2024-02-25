@@ -94,6 +94,10 @@ body {
   padding: 1.5em;
 }
 
+abbr {
+  cursor: help;
+}
+
 a {
   color: #292929;
 }
