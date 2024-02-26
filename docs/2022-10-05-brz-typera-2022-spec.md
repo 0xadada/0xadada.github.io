@@ -128,6 +128,8 @@ WedsSports TC-105X EJ Titan 17x9+35 square on Yokohama ADVAN A052 225/45R17.
 
 ENKEI RPF-1 17x9+35 in Matte Black on Bridgestone POTENZA RE-71RS in 225/45R17.
 
+Rays Engineering VOLK Racing TE-37 Saga SL 17x9.5+45 on Michelin Pilot Sport 4S in 245/40/R17.
+
 ## Exterior
 
 Subaru STI bumper lip and lip skirt,

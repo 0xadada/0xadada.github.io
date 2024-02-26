@@ -52,6 +52,7 @@
 
 *:target {
   background: lightgreen;
+  color: black;
   outline: 1px dotted;
 }
 
@@ -92,6 +93,10 @@ body {
   color: #292929;
   margin: 0;
   padding: 1.5em;
+}
+
+abbr {
+  cursor: help;
 }
 
 a {
