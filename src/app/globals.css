@@ -52,6 +52,7 @@
 
 *:target {
   background: lightgreen;
+  color: black;
   outline: 1px dotted;
 }
 

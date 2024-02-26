@@ -186,7 +186,7 @@ Hatch asked him, “How do you sustain a business model in which people don’t 
 for your service?” his response was as straightforward as it could’ve been:
 “Senator, we run ads.” (NBC News, 2018).
 
-<figure><iframe width="560" height="315" src="https://www.youtube.com/embed/n2H8wx1aBiQ?rel=0&amp;controls=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style={{maxWidth: '100%'}}></iframe>
+<figure><iframe width="560" height="315" src="https://www.youtube.com/embed/n2H8wx1aBiQ?rel=0&amp;controls=0" frameBorder="0" allow="autoplay; encrypted-media" allowFullScreen style={{maxWidth: '100%'}}></iframe>
  <figcaption>Senator, we run ads.</figcaption>
 </figure>
 
@@ -717,6 +717,8 @@ I thank the following friends for their feedback:
 
 ## References
 
+<div className="hanging-indent">
+
 Angwin, Julia. Mattu, Surya. Parris Jr, Terry. (December 27, 2016). [Facebook Doesn't Tell Users Everything It Really Knows About Them](https://www.propublica.org/article/facebook-doesnt-tell-users-everything-it-really-knows-about-them) (Retrieved April 21, 2018).
 
 Ahmed, Nafeez. (December 29, 2017).
@@ -1084,7 +1086,4 @@ Zuboff, Shoshana. (May 3, 2016)
 [The Secrets of Surveillance Capitalism](http://www.faz.net/aktuell/feuilleton/debatten/the-digital-debate/shoshana-zuboff-secrets-of-surveillance-capitalism-14103616.html).
 (Retrieved on January 3, 2017).
 
-<aside hidden>
-  This was also posted to
-  <a href="https://indieweb.xyz/en/socialmediastrike" class="u-syndication">/en/socialmediastrike</a>.
-</aside>
+</div>
