@@ -289,12 +289,12 @@ platform.
 ## Video
 
 <figure>
-  <iframe height="315" src="https://www.youtube.com/embed/mciBcQ6PEAg" frameBorder="0" allowFullScreen></iframe>
+  <iframe height="315" width="100%" src="https://www.youtube.com/embed/mciBcQ6PEAg" frameBorder="0" allowFullScreen></iframe>
   <figcaption>RASpec Impreza 1.0 at Carolina Motorsports Park, SC. Redline Time Attack. Video captures engine sound at wide open throttle.</figcaption>
 </figure>
 
 <figure>
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/Xl4FgxjwrZg" frameBorder="0" allowFullScreen></iframe>
+  <iframe width="100%" height="315" src="https://www.youtube.com/embed/Xl4FgxjwrZg" frameBorder="0" allowFullScreen></iframe>
   <figcaption>James Elterman and the Takata Impreza in chase of the RASpec Impreza 1.0 during Sunday morning practice at Redline Time Attack at Englishtown Raceway. Video by James Elterman.</figcaption>
 </figure>
 
