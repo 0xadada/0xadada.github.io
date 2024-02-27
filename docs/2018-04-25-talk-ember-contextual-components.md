@@ -9,9 +9,9 @@ tags: [talks, javascript, web development, Ember.js, contextual components]
 
 <iframe width="560" height="315" 
   src="https://www.youtube.com/embed/ekxKhGtUdDg?rel=0"
-  frameborder="0"
+  frameBorder="0"
   allow="autoplay; encrypted-media"
-  allowfullscreen>
+  allowFullScreen>
 </iframe>
 
 This talk is a code walkthrough, implementing a date picker to showcase the

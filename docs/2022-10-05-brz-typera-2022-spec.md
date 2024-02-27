@@ -5,12 +5,7 @@ image: /static/images/2022-10-05-brz-typera-2022-spec-00.jpg
 tags: [notes, motorsports, subaru]
 ---
 
-<figure>
-  <img src="/static/images/2022-10-05-brz-typera-2022-spec-00.jpg" alt="2017 Subaru BRZ Type RA" />
-  <figcaption>
-    2017 Subaru BRZ Type RA at Palmer Motorsports Park. Photo by Robert Badar.
-  </figcaption>
-</figure>
+![2017 Subaru BRZ Type RA at Palmer Motorsports Park. Photo by Robert Badar.](/static/images/2022-10-05-brz-typera-2022-spec-00.jpg)
 
 In 2020 [I wrote about the potential of the Subaru
 BRZ](/2020/10/20/the-type-ra-subaru-cant-build/) but its lack of a
@@ -22,12 +17,7 @@ track-oriented trim level:
 
 … so I built one myself.
 
-<figure>
-  <img src="/static/images/2022-10-05-brz-typera-2022-spec-02.jpg" alt="Your Own Happiness" />
-  <figcaption>
-    Your Own Happiness
-  </figcaption>
-</figure>
+![Your Own Happiness](/static/images/2022-10-05-brz-typera-2022-spec-02.jpg)
 
 It had been five years since I had owned a track car, it was the early months of
 the COVID-19 pandemic, I was languishing, and my wife said "You need to do
@@ -57,12 +47,7 @@ drove 11 hours on a Friday night, starting at 10pm, arriving at 9am Saturday
 morning. The car was in great condition, and lucky for me, this was _just_ before
 COVID-19 caused used-car prices to skyrocket.
 
-<figure>
-  <img src="/static/images/2022-10-05-brz-typera-2022-spec-01.jpg" alt="2017 Subaru BRZ Type RA" />
-  <figcaption>
-    2017 Subaru BRZ Type RA at Palmer Motorsports Park. Photo by Robert Badar.
-  </figcaption>
-</figure>
+![2017 Subaru BRZ Type RA at Palmer Motorsports Park. Photo by Robert Badar.](/static/images/2022-10-05-brz-typera-2022-spec-01.jpg)
 
 Many, if not most of the performance improvement ideas were taken from my previous
 [RASpec Impreza](/2015/08/15/raspec-impreza/) build, and applied to this car,
@@ -137,7 +122,7 @@ CLEiB carbon fiber side skirts,
 Cusco tow strap,
 Verus Engineering carbon fiber side markers,
 Aerocatch hood pins,
-<ins datetime="2023-04">Vermont Sportscar Carbon Fiber hood vents & gurney flaps</ins>,
+<ins dateTime="2023-04">Vermont Sportscar Carbon Fiber hood vents & gurney flaps</ins>,
 Quik-Latch front bumper release,
 Audi Q3 overfenders,
 Perrin license plate bracket,

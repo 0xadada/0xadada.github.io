@@ -14,23 +14,53 @@ pnpm dev
 bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Markdown examples
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Metadata fields
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+- title
+- description
+- image
+- tags
 
-## Learn More
+Image gallery
 
-To learn more about Next.js, take a look at the following resources:
+```markdown
+- ![Engine intake](/static/images/2015-08-15-raspec-impreza-engine-intake.jpg)
+- ![Engine intercooler](/static/images/2015-08-15-raspec-impreza-engine-intercooler.jpg)
+```
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Quote
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+```markdown
+> The air traveller only travels after he has landed.
+>
+> <figcaption>—Marshall McLuhan[^1]</figcaption>
 
-## Deploy on Vercel
+[^1]:
+    McLuhan, Marshall, and Lewis H. Lapham.
+    _Understanding Media: the Extensions of Man_.
+    Cambridge, Mass: MIT Press,
+    Print. 1994.
+```
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Bibliography
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+```
+<div className="hanging-indent">
+
+<cite>book 1 </cite>
+<cite>book 2 </cite>
+
+</div>
+```
+
+Footnote
+
+```
+Lorem ipsum[^1] dolor.
+
+[^1]:
+    Notes can be
+    multiline.
+```

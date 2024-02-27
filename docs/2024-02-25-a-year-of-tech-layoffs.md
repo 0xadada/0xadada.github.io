@@ -1,6 +1,7 @@
 ---
 title: "A Year of Tech Layoffs"
 description: "Surviving the brutal tech job market rollercoaster of Q4 2022 to Q1 2024: The End of ZIRP, tax code Section 174, globalization, growth-subsidized AI and the #TechJobHunt."
+image: /static/images/2024-02-25-jigsaw-puzzle-software-interview-process.png
 tags: [essays, labor, economy, economics, startups, software-engineering]
 ---
 

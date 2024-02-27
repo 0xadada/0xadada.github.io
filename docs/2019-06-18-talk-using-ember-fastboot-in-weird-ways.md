@@ -34,7 +34,7 @@ a quick summary of how we use FastBoot in production.
     frameborder="0" 
     allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
     style={{marginBottom: '3rem', boxShadow: '0 0 3.5rem rgba(0,0,0,0.5)'}}
-    allowfullscreen></iframe>
+    allowFullScreen></iframe>
 </center>
 
 ## Presentation Slides

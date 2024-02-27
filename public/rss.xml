@@ -4,8 +4,22 @@
         <description><![CDATA[0xADADA]]></description>
         <link>https://0xadada.pub</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 23 Feb 2024 19:50:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Feb 2024 18:49:29 GMT</lastBuildDate>
         <atom:link href="https://0xadada.pub/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[A Year of Tech Layoffs]]></title>
+            <description><![CDATA[Surviving the brutal tech job market rollercoaster of Q4 2022 to Q1 2024: The End of ZIRP, tax code Section 174, globalization, growth-subsidized AI and the #TechJobHunt.]]></description>
+            <link>https://0xadada.pub/2024/02/25/a-year-of-tech-layoffs/</link>
+            <guid isPermaLink="true">https://0xadada.pub/2024/02/25/a-year-of-tech-layoffs/</guid>
+            <category><![CDATA[essays]]></category>
+            <category><![CDATA[labor]]></category>
+            <category><![CDATA[economy]]></category>
+            <category><![CDATA[economics]]></category>
+            <category><![CDATA[startups]]></category>
+            <category><![CDATA[software-engineering]]></category>
+            <dc:creator><![CDATA[0xADADA]]></dc:creator>
+            <pubDate>Sun, 25 Feb 2024 05:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[One (more) Year with Ember: Thoughts on Ember vs React, Eight Years Later]]></title>
             <description><![CDATA[An examination of the similarities of Ember & React, some thoughts, and a conclusion.]]></description>

@@ -10,7 +10,7 @@ parallax effect to immerse viewers in his films, allowing them to experience a s
 never before. He uses these teqniques most visibly in "Blade Runner 2049" (2017), "Enemy" (2013), and "Dune" (2021),
 highlighting how his use of the panning shot and parallax effect enhances the audience's immersion.
 
-<iframe width="100%" height="315" src="https://www.youtube-nocookie.com/embed/jJovZFm6fzI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube-nocookie.com/embed/jJovZFm6fzI" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowFullScreen></iframe>
 
 The panning shot is a technique where the camera rotates horizontally to capture a wider scene, is a tool that
 Villeneuve wields masterfully. However, it is his marriage of this technique with the parallax effect that truly
@@ -18,10 +18,7 @@ elevates his storytelling. The parallax effect, achieved by creating the illusio
 of foreground and background elements, draws the audience's gaze and involvement into the frame. Villeneuve's
 application of this combination immerses viewers in a tangible sense of space.
 
-<figure>
-  <img src="/static/images/2023-08-08-denis-villeneuve-the-parallax-panning-shot.jpg" alt="Blade Runner 2049" />
-  <figcaption>Blade Runner 2049</figcaption>
-</figure>
+![Blade Runner 2049](/static/images/2023-08-08-denis-villeneuve-the-parallax-panning-shot.jpg)
 
 In "Blade Runner 2049", Villeneuve employs this technique to stunning effect. The sprawling cityscape of a futuristic
 Los Angeles is captured through sweeping panning shots that showcase expansive slums, towering skyscrapers, and soaring

@@ -335,3 +335,12 @@ table tr:nth-child(odd) td {
 td {
   vertical-align: top;
 }
+
+gallery ul {
+  display: flex;
+  gap: 0.5rem;
+  justify-content: space-between;
+  list-style: none;
+  padding: 0;
+  margin: 0 -1.5rem;
+}

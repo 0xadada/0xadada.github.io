@@ -10,10 +10,7 @@ image: /static/images/2019-04-16-san-francisco-seattle-boston-nyc-and-the-freezi
 tags: [essays, economics]
 ---
 
-<figure>
-  <img src="/static/images/2019-04-16-san-francisco-seattle-boston-nyc-and-the-freezing-of-life.jpg" alt="A model city" title="A model city" />
-  <figcaption>A model city</figcaption>
-</figure>
+![A model city](/static/images/2019-04-16-san-francisco-seattle-boston-nyc-and-the-freezing-of-life.jpg)
 
 Gibsons
 ["San Francisco’s Slow-Motion Suicide"](https://www.nationalreview.com/2019/04/san-francisco-decline-failed-government-policies/)
@@ -37,13 +34,8 @@ Gibsons most powerful argument was wonderful:
 > left their mark on the world. The true creative class can’t afford to
 > rent expensive new studios.”
 >
-> <figcaption>
->   &mdash;
->   Michael Gibson,
->   <cite>
->     <a href="https://www.nationalreview.com/2019/04/san-francisco-decline-failed-government-policies/" rel="external">San Francisco’s Slow-Motion Suicide</a>
->   </cite>
-> </figcaption>
+> —Michael Gibson,
+> <cite> > <a href="https://www.nationalreview.com/2019/04/san-francisco-decline-failed-government-policies/" rel="external">San Francisco’s Slow-Motion Suicide</a> > </cite>
 
 Gibson alludes to the conservative zoning laws and wealthy property owners
 exacerbating the plight of San Francisco and similar cities: Owners want
@@ -63,21 +55,7 @@ workspaces are abundantly available, and where the barrier to start new
 businesses and develop existing vacant lots for new uses are minimal or
 non-existent.
 
-<figure>
-  <img src="/static/images/2019-04-16-gentrification.jpg" alt="Gentrified Architecture" title="Gentrified Architecture" />
-  <figcaption>
-    An example of "Gentrified Architecture" 
-    <br />
-    Photo by <a href="https://commons.wikimedia.org/wiki/File:Gentrified_architecture_in_Shaw_Neighborhood,_Washington,_DC_USA.jpg">Ted Eytan</a> 
-    <br />
-    It is as obliterating as it is banal because
-    it does not modify or build from an existing architectural tradition of an area,
-    but rather changes it completely. It subtly shifts collective perceptions of
-    formerly "working class" areas to abide by the homogenizing effects of global
-    capitalism and disconnects the area from the social histories in which it
-    exists.
-  </figcaption>
-</figure>
+![An example of "Gentrified Architecture". Photo by Ted Eytan](/static/images/2019-04-16-gentrification.jpg)
 
 The drive to urbanization is an imperative of capitalism, this drive results in
 <q>a freezing of life</q>— a static world devoid of spontaneity, the result of land
@@ -99,32 +77,17 @@ seasons and with time. The philosopher Hegel explored this concept saying:
 > In the spatial world the question is not succession but of coexistence... As a
 > restless Becoming [Time] is not an element of the synthetic whole.”
 >
-> <figcaption>
->   &mdash;
->   G.W.F. Hegel,
->   <cite>The Philosophical Propadeutic</cite>
-> </figcaption>
+> &mdash;G.W.F. Hegel, <cite>The Philosophical Propadeutic[^1]</cite>
 
 This is to say: the privileging of objects in space fetishizes the object and
 therefore sacrifices changes in time. This creates an
 [alienated and static space of purely fetishized structures](https://en.wikipedia.org/wiki/Gentrified_architecture),
 devoid of life.
 
-_This was an excerpt from "The Society of The Spectacle" a
+_This was an excerpt from "The Society of The Spectacle"[^2] a
 forthcoming translation of Guy Debord, translated by 0xADADA._
 
-## References
 
-<cite class="hanging-indent">
-Debord, Guy. (1983).
-<em>The Society of the Spectacle</em>.
-Trans. Fredy Perlman.
-Detroit: Black & Red, Print.
-</cite>
+[^1]: <cite>Hegel, G.W.F. (1986). <em>The Philosophical Propadeutic</em>. Trans. A.V. Miller. Oxford, UK: New York, NY: B. Blackwell, Hardcover.</cite>
 
-<cite class="hanging-indent">
-Hegel, G.W.F. (1986). 
-<em>The Philosophical Propadeutic</em>.
-Trans. A.V. Miller.
-Oxford, UK: New York, NY: B. Blackwell, Hardcover.
-</cite>
+[^2]: <cite>Debord, Guy. (1983). <em>The Society of the Spectacle</em>. Trans. Fredy Perlman. Detroit: Black & Red, Print.</cite>

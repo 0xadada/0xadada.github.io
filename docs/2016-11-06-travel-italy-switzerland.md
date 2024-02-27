@@ -1,15 +1,11 @@
 ---
 title: "Travel Writing - Redux, Italy & Switzerland Edition"
 description: "How travel does not provide new perspectives or meaning."
-metaImage: /static/images/2016-10-27-travel-val-ferret.jpg
+image: /static/images/2016-10-27-travel-val-ferret.jpg
 tags: [essays, travel, writing]
 ---
 
-<figure>
-  <img src="/static/images/2016-10-24-travel-garbage.jpg"
-    alt="Garbage truck in Torino, Italy" title="Garbage truck in Torino, Italy" />
-  <figcaption>Garbage truck in Torino, Italy</figcaption>
-</figure>
+![Garbage truck in Torino, Italy](/static/images/2016-10-24-travel-garbage.jpg)
 
 [In 2011 I wrote](/2011/12/01/travel-writing/):
 
@@ -30,13 +26,7 @@ really "travel".
 
 > “The air traveller only travels after he has landed.”
 >
-> <figcaption>
->   &mdash;
->   Marshall McLuhan,
->   <cite>
->     Understanding Media: The Extensions of Man
->   </cite>
-> </figcaption>
+> <figcaption>&mdash;Marshall McLuhan[^1]</figcaption>
 
 After travelling through Croatia in 2014, I wrote:
 
@@ -68,26 +58,14 @@ computers, the internet, and people. I need time to myself, time to have
 unstructured thought, time to get outside my own skull. I've got a little more
 than two weeks of unscheduled time to tramp around from Italy into Switzerland.
 
-<figure>
-  <img src="/static/images/2016-10-27-travel-val-ferret.jpg"
-      alt="Looking northeast up the Italian side of the Val Ferret, to Switzerland"
-      title="Looking northeast up the Italian side of the Val Ferret, to Switzerland" />
-  <figcaption>
-    Looking northeast up the Italian side of the Val Ferret, to Switzerland
-  </figcaption>
-</figure>
+![Looking northeast up the Italian side of the Val Ferret, to Switzerland](/static/images/2016-10-27-travel-val-ferret.jpg)
 
 This trip was about actually travelling between places on my own feet.
 Navigating terra incognita by push my own limits- setting a goal on the horizon
 and getting there by any means. My goal was to hike across the border from italy
 into Switzerland via the Italian/Swiss Alps.
 
-<figure>
-  <img src="/static/images/2016-10-28-travel-val-ferret-pano.jpg"
-    alt="Looking southwest from the Col Val Ferret into Italy"
-    title="Looking southwest from the Col Val Ferret into Italy" />
-  <figcaption>Looking southwest from the Col Val Ferret into Italy</figcaption>
-</figure>
+![Looking southwest from the Col Val Ferret into Italy](/static/images/2016-10-28-travel-val-ferret-pano.jpg)
 
 Importantly, this trip wasn't about setting off on a 'Hero's Journey', to return
 home a changed man, but to spend time alone to better understand myself. It was
@@ -99,13 +77,7 @@ days went by without talking to anyone.
 > more clearly; to come down off this feather-bed of civilization, and find
 > the globe granite underfoot and strewn with cutting flints.”
 >
-> <figcaption>
->   &mdash;
->   Robert Louis Stevenson,
->   <cite>
->     Travels with a Donkey in the Cévennes
->   </cite>
-> </figcaption>
+> <figcaption>&mdash;Robert Louis Stevenson[^2]</figcaption>
 
 I learned to be kind & gentle with myself, to calm my own anxieties when
 stressed, to assess reality with facts and realize only my actions will have any
@@ -116,12 +88,7 @@ farther, or hiking higher, but by allocating time and opening oneself to finding
 them. One has to both open the door, but then be willing to walk through the
 doorway.
 
-<figure>
-  <img src="/static/images/2016-10-30-travel-augstmatthorn.jpg"
-    alt="The ridge of the Augstmatthorn, Interlaken Switzerland"
-    title="The ridge of the Augstmatthorn, Interlaken Switzerland" />
-  <figcaption>The ridge of the Augstmatthorn, Interlaken Switzerland</figcaption>
-</figure>
+![The ridge of the Augstmatthorn, Interlaken Switzerland](/static/images/2016-10-30-travel-augstmatthorn.jpg)
 
 Travel is just a big distraction of novelty and the remarkable. It's easy to
 forget everything and be immersed in the distraction. In a world where we all
@@ -135,21 +102,13 @@ experience people remember, the marker we live by when our lives become banal.
 > going to see what has become banal. The economic organization of visits to
 > different places is already in itself the guarantee of their equivalence.”
 >
-> <figcaption>
->   —Guy Debord,
->   <cite>The Society of the Spectacle</cite>
-> </figcaption>
+> <figcaption>—Guy Debord[^3]</figcaption>
 
 So if you are looking for something inwards, be prepared to focus on whats
 inside, not whats outside. Travel can be an escape from oneself or ones
 responsibilities, an escape more powerful than other forms of escape.
 
-<figure>
-  <img src="/static/images/2016-10-31-travel-eiger.jpg"
-    alt="The north face of the Eiger"
-    title="The north face of the Eiger" />
-  <figcaption>The north face of the Eiger</figcaption>
-</figure>
+![The north face of the Eiger](/static/images/2016-10-31-travel-eiger.jpg)
 
 In the end, travel for self-improvement is snake-oil just as any other form of
 organized, packaged, advertised and productized self-improvement (e.g. self-help
@@ -158,28 +117,18 @@ potions and boner pills). The real work can't be bought, it must be practiced-
 and you don't need to leave the house to do it. Travel doesn't change personal
 growth any more than puzzels improve intellectual growth.
 
-<figure>
-  <img src="/static/images/2016-11-06-travel-home.jpg"
-    alt="Home, the journey inwards"
-    title="Home, the journey inwards" />
-  <figcaption>Home, the journey inwards</figcaption>
-</figure>
+![Home, the journey inwards](/static/images/2016-11-06-travel-home.jpg)
 
-## References
+[^1]:
+    McLuhan, Marshall, and Lewis H. Lapham.
+    _Understanding Media: the Extensions of Man_.
+    Cambridge, Mass: MIT Press,
+    Print. 1994.
 
-<cite class="hanging-indent" id="cite:1">
-Debord, Guy.
-<em>The Society of the Spectacle</em>.
-Trans. Fredy Perlman.
-Detroit: Black & Red,
-Print.
-1983.
-</cite>
-
-<cite class="hanging-indent">
-McLuhan, Marshall, and Lewis H. Lapham.
-<em>Understanding Media: the Extensions of Man</em>.
-Cambridge, Mass: MIT Press, 
-Print. 
-1994.
-</cite>
+[^2]: Stevenson, Robert Louis _Travels with a Donkey in the Cévennes_.
+[^3]:
+    Debord, Guy.
+    _The Society of the Spectacle_
+    Trans. Fredy Perlman.
+    Detroit: Black & Red,
+    Print. 1983.
