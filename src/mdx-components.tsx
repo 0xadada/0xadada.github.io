@@ -1,18 +1,23 @@
-// @ts-nocheck
-import React from "react";
+import React, { DetailedHTMLProps, ImgHTMLAttributes } from "react";
 import type { MDXComponents } from "mdx/types";
+
+interface ImgProps
+  extends DetailedHTMLProps<
+    ImgHTMLAttributes<HTMLImageElement>,
+    HTMLImageElement
+  > {}
 
 export function useMDXComponents(components: MDXComponents): MDXComponents {
   return {
-    gallery: ({ children, ...props }) => {
+    gallery: ({ children }) => {
       const kids = React.Children.toArray(children);
       return (
         <ul>
-          {kids.map((kid) => {
-            if (kid?.props && kid?.type && kid?.type === "img") {
+          {kids.map((kid, index) => {
+            if (React.isValidElement<ImgProps>(kid) && kid?.type === "img") {
               return (
                 <li key={index}>
-                  <img {...kid.props} />
+                  <img alt={kid.props.alt} {...kid.props} />
                 </li>
               );
             }

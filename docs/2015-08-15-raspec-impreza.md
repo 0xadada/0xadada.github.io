@@ -43,7 +43,7 @@ the roll cage was built and the car was freshly painted white.
 
 - WEIGHT: 2762 lbs
 - CAGE: SCCA multi-point rollcage
-- CHASSIS: The entire chassis has been seam-welded
+- Seam-welded chassis
 
 [Speedhunters](http://www.speedhunters.com/2022/10/your-cars-celebrating-the-subaru-impreza-wrx/#:~:text=2004%20subaru%20wrx%20sti%20type%20ra)
 
@@ -77,59 +77,59 @@ positioning.
 
 ![Garett GT3076r and TiAL turbine housing with v-band clamp. TiAL wastegate.](/static/images/2015-08-15-raspec-impreza-engine-turbo.jpg)
 
-- ENGINE: JDM WRX STI EJ207 block
-- ENGINE: JDM WRX STI Spec-C heads (Ported & polished)
-- ENGINE: JDM s202 Spec-C valve covers (wrinkle red)
-- ENGINE: Tomei forged pistons 92.5x79mm (2.2l stroker kit)
-- ENGINE: Tomei forged rots (2.2l stroker kit)
-- ENGINE: Tomei balanced crankshaft (2.2l stroker kit)
-- ENGINE: Tomei bearings
-- ENGINE: ARP head studs
-- ENGINE: Cosworth 275 degree cam shafts
-- ENGINE: Spark plugs NGK BKR7E (stock #4644)
-- TURBO: Garrett GT3076R (A/R 0.82)
-- TURBO: Tial MV-R 44mm external wastegate
-- TURBO: TiAL GT30 Turbine Housing
-- OIL: Cosworth oil pump
-- OIL: Oil starvation baffler
-- OIL: Mocal oil cooler
-- OIL: Crawford Performance Air/Oil Separator
-- RADIATOR: Koyo aluminum
-- INTERCOOLER: Griffin custom front mount intercooler
-- EXHAUST: Stainless custom by DENT Sport Garage
+- JDM WRX STI EJ207 block
+- JDM WRX STI Spec-C heads (Ported & polished)
+- JDM s202 Spec-C valve covers (wrinkle red)
+- Tomei forged pistons 92.5x79mm (2.2l stroker kit)
+- Tomei forged rots (2.2l stroker kit)
+- Tomei balanced crankshaft (2.2l stroker kit)
+- Tomei bearings
+- ARP head studs
+- Cosworth 275 degree cam shafts
+- Spark plugs NGK BKR7E (stock #4644)
+- Garrett GT3076R (A/R 0.82)
+- Tial MV-R 44mm external wastegate
+- TiAL GT30 Turbine Housing
+- Cosworth oil pump
+- Oil starvation baffler
+- Mocal oil cooler
+- Crawford Performance Air/Oil Separator
+- Koyo aluminum radiator
+- Griffin front mount intercooler
+- Stainless custom exhaust by DENT Sport Garage
 
 ![Mocal oil cooler setup (left), mounted in the front of the car. Front mounted intercooler and radiator also visible (right)](/static/images/2015-08-15-raspec-impreza-oil-cooler.jpg)
 
 ## Transmission
 
-- TRANSMISSION: 2006 Subaru WRX STI 6MT
-- CLUTCH: ACT 6-puck
-- FLYWHEEL: ACT ProLite
-- AXLES: STI
-- HARDWARE: Cusco transmission mount brackets
-- HARDWARE: Cusco transmission hard mount bushings
-- CONTROLLER: DCCDPro Delux DCCD controller
-- LSD: OEM
-- LSD: Rear Cusro RS (1.5-way rear)
-- LSD: Center STI
-- LINKAGE: Kartboy short shifter linkage kit
+- 2006 Subaru WRX STI 6MT
+- ACT 6-puck clutch
+- ACT ProLite flywheel
+- STI axles
+- Cusco transmission mount brackets
+- Cusco transmission hard mount bushings
+- Center diff controller DCCDPro Delux DCCD controller
+- Front LSD: STI
+- Center LSD: STI
+- Rear LSD: Cusco RS 1.5-way
+- Kartboy short shifter linkage kit
 
 ## Suspension
 
 ![Stance GR+ adjustable coilovers with external resovoirs.](/static/images/2015-08-15-raspec-impreza-coilovers.jpg)
 
-- COILOVERS: Stance GR+ 3-day adjustable coilovers
-- LINKS: Cusco 3-way adjustable rear sway bar
-- LINKS: Pillowball swaybar end links
-- LINKS: Whiteline adjustable rear lateral links
-- LINKS: STI Front control arms
-- HARDWARE: 6Gun Racing Ball joint extenders w/ tie rod ends
-- HARDWARE: ARP Long wheel studs
-- HARDWARE: Whiteline control arm anti-lift kit
-- WHEELS: VOLK CE28N Time Attacks 17" x 9" 5x114.3 +30
-- BRAKES: PF Performance Friction 2-piece floating rotors w/ aluminum hats
-- BRAKES: PFC Brake pads (#0460.01.15.44 132mm x 61mm x 16mm)
-- BRAKES: Stainless steel braided brake lines
+- Stance GR+ 3-day adjustable coilovers
+- Cusco 3-way adjustable rear sway bar
+- Pillowball swaybar end links
+- Whiteline adjustable rear lateral links
+- STI Front control arms
+- 6Gun Racing Ball joint extenders w/ tie rod ends
+- ARP Long wheel studs
+- Whiteline control arm anti-lift kit
+- VOLK CE28N Time Attacks 17" x 9" 5x114.3 +30
+- PF Performance Friction 2-piece floating rotors w/ aluminum hats
+- PFC Brake pads (#0460.01.15.44 132mm x 61mm x 16mm)
+- Stainless steel braided brake lines
 
 <gallery>
 * ![Rear suspension](/static/images/2015-08-15-raspec-impreza-suspension-rear.jpg)
@@ -138,16 +138,15 @@ positioning.
 
 ## Fuel
 
-- FUEL: SARD Fuel surge tank (trunk mounted)
-- ENGINE: RC Engineering 1000cc injectors
+- SARD Fuel surge tank (trunk mounted)
+- RC Engineering 1000cc injectors
 
 ![SARD fuel surge tank located in the trunk.](/static/images/2015-08-15-raspec-impreza-interior-trunk-sard-surgetank.jpg)
 
 ## Electronics
 
 - Vi-PEC ECU
-- ELECTRONICS: Ballenger Motorsports AFR500 Wideband O2 Air Fuel Ratio monitor
-  kit
+- Ballenger Motorsports AFR500 Wideband O2 Air Fuel Ratio monitor kit
 
 ## Exterior
 
@@ -179,12 +178,12 @@ the "Double Lip Combo" setup. The upper is the 2002 Prodrive V2 lip and the
 lower is the 2006-2007 V-Limited lip.
 
 - COLOR: "Audi R8 White"
-- HOOD: Scoote carbon fiber 2002 WRX hood
-- HOOD: Aerocatch hood pins
-- LIP: Prodrive "V2" 2002 WRX lower front bumper lip
-- LIP: 2006 Subaru STI V-Limited lower front bumper lip
-- FENDER: Rear wheel fenders are rolled & pulled to accommodate larger
-- BLINKER: STI carbon front blinker covers
+- Scoote carbon fiber 2002 WRX hood
+- Aerocatch hood pins
+- Prodrive "V2" 2002 WRX lower front bumper lip
+- 2006 Subaru STI V-Limited lower front bumper lip
+- Rear wheel fenders are rolled & pulled to accommodate larger
+- STI carbon front blinker covers
 
 ## Interior
 
@@ -207,14 +206,14 @@ lower is the 2006-2007 V-Limited lip.
 
 The interior is fairly spartan and without adornment. Only the essentials.
 
-- STEETING: MOMO steering wheel
-- SEAT: BRIDE Zeta-3 (Red)
-- GAUGES: Defi BF-series Oil pressure, Boost pressure & Water temperature
-- GAUGES: Digital A/F Meter
-- SAFETY: Emergency battery/ignition cut-off switch
-- SAFETY: G-Force 6 point Cam-lock Harness
-- SAFETY: NASCAR Window Net (Drivers side)
-- SAFETY: Beat Rush trunk bulkhead panel
+- MOMO steering wheel
+- BRIDE Zeta-3 (Red)
+- Defi BF-series Oil pressure, Boost pressure & Water temperature
+- Digital A/F Meter
+- Emergency battery/ignition cut-off switch
+- G-Force 6 point Cam-lock Harness
+- NASCAR Window Net (Drivers side)
+- Beat Rush trunk bulkhead panel
 
 ## Spare Package
 
@@ -225,10 +224,10 @@ The car comes with additional spares, hardware and accessories.
 * ![Spare hardware. Spare (new) Performance Friction rotors.](/static/images/2015-08-15-raspec-impreza-spare-rotors.jpg)
 </gallery>
 
-- BRAKES: PF Performance Friction rotors (New)
-- SUSPENSION: OEM STI Rear Lateral Links (New)
-- FUEL: 15 gal VP 109 octane race gas
-- WING: Origin GT Wing (plane only)
+- PF Performance Friction rotors (New)
+- OEM STI Rear Lateral Links (New)
+- 15 gal VP 109 octane race gas
+- Origin GT Wing (plane only)
 
 ## History
 
