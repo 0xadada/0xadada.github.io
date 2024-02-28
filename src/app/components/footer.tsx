@@ -34,6 +34,20 @@ export default function Footer({ className = "" }) {
             Farcaster
           </Link>{" "}
           <Link
+            href="https://mastodon.cloud/@0xADADA"
+            rel="me nofollow external noopener"
+            title="0xADADA on Mastodon"
+          >
+            Mastodon
+          </Link>{" "}
+          <Link
+            href="https://bsky.app/profile/0xadada.bsky.social"
+            rel="me nofollow external noopener"
+            title="0xADADA on Bluesky"
+          >
+            Bluesky
+          </Link>{" "}
+          <Link
             href="https://twitter.com/0xadada"
             rel="me nofollow external noopener"
             title="0xADADA on Twitter"
@@ -55,6 +69,12 @@ export default function Footer({ className = "" }) {
             Goodreads
           </Link>{" "}
           <Link href="/rss.xml">RSS</Link>{" "}
+          <img
+            src="/static/images/meta/avatar.svg"
+            alt="0xADADA icon"
+            width="20"
+            style={{ marginBottom: "-0.125rem" }}
+          />
         </p>
       </nav>
     </footer>
