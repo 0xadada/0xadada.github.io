@@ -1,4 +1,5 @@
 import Link from "next/link";
+import Image from "next/image";
 import styles from "./footer.module.css";
 
 function year() {
@@ -69,7 +70,7 @@ export default function Footer({ className = "" }) {
             Goodreads
           </Link>{" "}
           <Link href="/rss.xml">RSS</Link>{" "}
-          <img
+          <Image
             src="/static/images/meta/avatar.svg"
             alt="0xADADA icon"
             width="20"
