@@ -13,6 +13,9 @@ export const metadata: Metadata = {
   description: "Writing by 0xADADA",
   alternates: {
     canonical: "/",
+    types: {
+      "application/rss+xml": "https://0xadada.pub/rss.xml",
+    },
   },
 };
 

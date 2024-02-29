@@ -74,6 +74,7 @@ export default function Footer({ className = "" }) {
             src="/static/images/meta/avatar.svg"
             alt="0xADADA icon"
             width="20"
+            height="20"
             style={{ marginBottom: "-0.125rem" }}
           />
         </p>
