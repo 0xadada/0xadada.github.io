@@ -344,3 +344,7 @@ gallery ul {
   padding: 0;
   margin: 0 -1.5rem;
 }
+gallery img {
+  object-fit: cover;
+  aspect-ratio: 16/9;
+}
