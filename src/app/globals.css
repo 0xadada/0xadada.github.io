@@ -46,6 +46,14 @@
   font-style: italic;
 }
 
+:root {
+  --sans-serif: system-ui, -apple-system, "BlinkMacSystemFont", "HiraginoSans",
+    "Hiragino Sans", "Roboto", "Noto Sans", "Noto Sans CJK JP", "Oxygen-Sans",
+    "Ubuntu", "Cantarell", "Segoe UI", "Meiryo", "Arial", sans-serif,
+    "Apple Color Emoji", "Noto Color Emoji", "Symbola", "Segoe UI Emoji",
+    "Segoe UI Symbol";
+}
+
 ::selection {
   background-color: rgba(254, 231, 0, 0.9);
 }
@@ -214,27 +222,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family:
-    system-ui,
-    -apple-system,
-    "BlinkMacSystemFont",
-    "HiraginoSans",
-    "Hiragino Sans",
-    "Roboto",
-    "Noto Sans",
-    "Noto Sans CJK JP",
-    "Oxygen-Sans",
-    "Ubuntu",
-    "Cantarell",
-    "Segoe UI",
-    "Meiryo",
-    "Arial",
-    sans-serif,
-    "Apple Color Emoji",
-    "Noto Color Emoji",
-    "Symbola",
-    "Segoe UI Emoji",
-    "Segoe UI Symbol";
+  font-family: var(--sans-serif);
 }
 
 article h1 {
@@ -298,7 +286,7 @@ article header {
 }
 
 .data-footnote-backref {
-  font-family: sans-serif;
+  font-family: var(--sans-serif);
 }
 
 .scroller {
@@ -313,7 +301,7 @@ td {
 }
 
 .data-footnote-backref {
-  font-family: sans-serif;
+  font-family: var(--sans-serif);
 }
 
 table tr:nth-child(odd) td {
@@ -325,7 +313,7 @@ td {
 }
 
 .data-footnote-backref {
-  font-family: sans-serif;
+  font-family: var(--sans-serif);
 }
 
 table tr:nth-child(odd) td {
@@ -336,7 +324,7 @@ td {
   vertical-align: top;
 }
 
-gallery ul {
+.rehype-figure-container {
   display: flex;
   gap: 0.5rem;
   justify-content: space-between;
@@ -344,7 +332,24 @@ gallery ul {
   padding: 0;
   margin: 0 -1.5rem;
 }
-gallery img {
+.rehype-figure-container .rehype-figure {
+  position: relative;
+  margin: 0;
+}
+.rehype-figure-container img {
   object-fit: cover;
   aspect-ratio: 16/9;
+}
+.rehype-figure-container figcaption {
+  position: absolute;
+  bottom: 1rem;
+  left: 0;
+  right: 0;
+  text-shadow: 1px 1px 3px black;
+  color: white;
+  font-family: var(--sans-serif);
+  font-style: normal;
+  margin: 0;
+  text-align: left;
+  padding: 0 1rem;
 }

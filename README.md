@@ -26,8 +26,8 @@ Metadata fields
 Image gallery
 
 ```markdown
-- ![Engine intake](/static/images/2015-08-15-raspec-impreza-engine-intake.jpg)
-- ![Engine intercooler](/static/images/2015-08-15-raspec-impreza-engine-intercooler.jpg)
+![Engine intake](/static/images/2015-08-15-raspec-impreza-engine-intake.jpg)
+![Engine intercooler](/static/images/2015-08-15-raspec-impreza-engine-intercooler.jpg)
 ```
 
 Quote

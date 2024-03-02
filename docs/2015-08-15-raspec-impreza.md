@@ -22,15 +22,11 @@ metrics at races.
 
 ## Chassis
 
-<gallery>
-* ![Chassis underbody, seam welded](/static/images/2015-08-15-raspec-impreza-chassis-underbody.jpg)
-</gallery>
+![Chassis underbody, seam welded](/static/images/2015-08-15-raspec-impreza-chassis-underbody.jpg)
 
-<gallery>
-* ![On the rotisserie](/static/images/2015-08-15-raspec-impreza-chassis-rotis.jpg)
-* ![On the rotisserie angle, 2](/static/images/2015-08-15-raspec-impreza-chassis-rotis-2.jpg)
-</gallery>
- 
+![On the rotisserie](/static/images/2015-08-15-raspec-impreza-chassis-rotis.jpg)
+![On the rotisserie angle, 2](/static/images/2015-08-15-raspec-impreza-chassis-rotis-2.jpg)
+
 The chassis is a 2002 model year, GDA/B code.
 
 The restoration began with a complete tear-down. Everything not welded to the
@@ -49,11 +45,9 @@ the roll cage was built and the car was freshly painted white.
 
 ## Engine
 
-<gallery>
-- ![Engine bay](/static/images/2015-08-15-raspec-impreza-engine-all.jpg)
-- ![Engine intake](/static/images/2015-08-15-raspec-impreza-engine-intake.jpg)
-- ![Engine intercooler](/static/images/2015-08-15-raspec-impreza-engine-intercooler.jpg)
-</gallery>
+![Engine bay](/static/images/2015-08-15-raspec-impreza-engine-all.jpg)
+![Engine intake](/static/images/2015-08-15-raspec-impreza-engine-intake.jpg)
+![Engine intercooler](/static/images/2015-08-15-raspec-impreza-engine-intercooler.jpg)
 
 The RASpec Impreza engine is a JDM EJ207 WRX STI 2-liter engine running the
 [Tomei 2.2l stroker kit](http://www.tomeiusa.com/_2003web-catalogue/efr_set-from_top-menu/efr_index-com-genesis.html).
@@ -131,10 +125,8 @@ positioning.
 - PFC Brake pads (#0460.01.15.44 132mm x 61mm x 16mm)
 - Stainless steel braided brake lines
 
-<gallery>
-* ![Rear suspension](/static/images/2015-08-15-raspec-impreza-suspension-rear.jpg)
-* ![Cusco 3-way adjustable rear sway bar on anodized Pillowball endlinks. All hardware and mounts are new. Wheel studs are the long-type.](/static/images/2015-08-15-raspec-impreza-susp-studs.jpg)
-</gallery>
+![Rear suspension](/static/images/2015-08-15-raspec-impreza-suspension-rear.jpg)
+![Cusco 3-way adjustable rear sway bar on anodized Pillowball endlinks. All hardware and mounts are new. Wheel studs are the long-type.](/static/images/2015-08-15-raspec-impreza-susp-studs.jpg)
 
 ## Fuel
 
@@ -150,28 +142,20 @@ positioning.
 
 ## Exterior
 
-<gallery>
-* ![exterior](/static/images/2015-08-15-raspec-impreza-exterior-front-left-01-near.jpg)
-* ![exterior](/static/images/2015-08-15-raspec-impreza-exterior-front-left-02.jpg)
-</gallery>
+![exterior](/static/images/2015-08-15-raspec-impreza-exterior-front-left-01-near.jpg)
+![exterior](/static/images/2015-08-15-raspec-impreza-exterior-front-left-02.jpg)
 
-<gallery>
-* ![exterior](/static/images/2015-08-15-raspec-impreza-exterior-front-left-03.jpg)
-* ![exterior](/static/images/2015-08-15-raspec-impreza-exterior-front-left-04.jpg)
-</gallery>
+![exterior](/static/images/2015-08-15-raspec-impreza-exterior-front-left-03.jpg)
+![exterior](/static/images/2015-08-15-raspec-impreza-exterior-front-left-04.jpg)
 
-<gallery>
-* ![exterior](/static/images/2015-08-15-raspec-impreza-exterior-front-left-bumper.jpg)
-* ![exterior](/static/images/2015-08-15-raspec-impreza-exterior-front-left-engine.jpg)
-* ![exterior](/static/images/2015-08-15-raspec-impreza-exterior-rear-01.jpg)
-* ![exterior](/static/images/2015-08-15-raspec-impreza-exterior-rear-02.jpg)
-</gallery>
+![exterior](/static/images/2015-08-15-raspec-impreza-exterior-front-left-bumper.jpg)
+![exterior](/static/images/2015-08-15-raspec-impreza-exterior-front-left-engine.jpg)
+![exterior](/static/images/2015-08-15-raspec-impreza-exterior-rear-01.jpg)
+![exterior](/static/images/2015-08-15-raspec-impreza-exterior-rear-02.jpg)
 
-<gallery>
-* ![exterior](/static/images/2015-08-15-raspec-impreza-exterior-rear-03.jpg)
-* ![exterior](/static/images/2015-08-15-raspec-impreza-exterior-rear-04.jpg)
-* ![exterior](/static/images/2015-08-15-raspec-impreza-exterior-front-right-hood.jpg)
-</gallery>
+![exterior](/static/images/2015-08-15-raspec-impreza-exterior-rear-03.jpg)
+![exterior](/static/images/2015-08-15-raspec-impreza-exterior-rear-04.jpg)
+![exterior](/static/images/2015-08-15-raspec-impreza-exterior-front-right-hood.jpg)
 
 The exterior is stock, with a few OEM components. The front bumper is running
 the "Double Lip Combo" setup. The upper is the 2002 Prodrive V2 lip and the
@@ -187,22 +171,16 @@ lower is the 2006-2007 V-Limited lip.
 
 ## Interior
 
-<gallery>
-* ![Driver side interior view](/static/images/2015-08-15-raspec-impreza-interior-all.jpg)
-* ![rollcage](/static/images/2015-08-15-raspec-impreza-interior-rollcage.jpg)
-* ![Passenger-side x-brace rollcage. Window safety net on driver side](/static/images/2015-08-15-raspec-impreza-interior-safety-net.jpg)
-</gallery>
+![Driver side interior view](/static/images/2015-08-15-raspec-impreza-interior-all.jpg)
+![rollcage](/static/images/2015-08-15-raspec-impreza-interior-rollcage.jpg)
+![Passenger-side x-brace rollcage. Window safety net on driver side](/static/images/2015-08-15-raspec-impreza-interior-safety-net.jpg)
 
-<gallery>
-* ![shifter](/static/images/2015-08-15-raspec-impreza-interior-shifter.jpg)
-* ![controls](/static/images/2015-08-15-raspec-impreza-interior-controls.jpg)
-* ![gauges](/static/images/2015-08-15-raspec-impreza-interior-gaugepods.jpg)
-</gallery>
+![shifter](/static/images/2015-08-15-raspec-impreza-interior-shifter.jpg)
+![controls](/static/images/2015-08-15-raspec-impreza-interior-controls.jpg)
+![gauges](/static/images/2015-08-15-raspec-impreza-interior-gaugepods.jpg)
 
-<gallery>
-* ![Shifter linkage. Dash controls. Defi gauge pod. Battery and emergency switch](/static/images/2015-08-15-raspec-impreza-interior-battery-switch.jpg)
-* ![Beat Rush trunk bulkhead panel](/static/images/2015-08-15-raspec-impreza-interior-trunk-bulkhead.jpg)
-</gallery>
+![Shifter linkage. Dash controls. Defi gauge pod. Battery and emergency switch](/static/images/2015-08-15-raspec-impreza-interior-battery-switch.jpg)
+![Beat Rush trunk bulkhead panel](/static/images/2015-08-15-raspec-impreza-interior-trunk-bulkhead.jpg)
 
 The interior is fairly spartan and without adornment. Only the essentials.
 
@@ -219,10 +197,8 @@ The interior is fairly spartan and without adornment. Only the essentials.
 
 The car comes with additional spares, hardware and accessories.
 
-<gallery>
-* ![Spares](/static/images/2015-08-15-raspec-impreza-other-hardware.jpg)
-* ![Spare hardware. Spare (new) Performance Friction rotors.](/static/images/2015-08-15-raspec-impreza-spare-rotors.jpg)
-</gallery>
+![Spares](/static/images/2015-08-15-raspec-impreza-other-hardware.jpg)
+![Spare hardware. Spare (new) Performance Friction rotors.](/static/images/2015-08-15-raspec-impreza-spare-rotors.jpg)
 
 - PF Performance Friction rotors (New)
 - OEM STI Rear Lateral Links (New)

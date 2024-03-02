@@ -2,6 +2,8 @@ import fs from "fs";
 import { join } from "path";
 import { compileMDX } from "next-mdx-remote/rsc";
 import remarkGfm from "remark-gfm";
+// @ts-ignore
+import rehypeFigure from "rehype-figure";
 import DisplayDate from "../../../../components/display-date";
 import License from "../../../../components/license";
 import styles from "./page.module.css";
@@ -106,7 +108,7 @@ export default async function Page({
       parseFrontmatter: true,
       mdxOptions: {
         remarkPlugins: [remarkGfm],
-        rehypePlugins: [],
+        rehypePlugins: [rehypeFigure],
       },
     },
   });
