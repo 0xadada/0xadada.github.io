@@ -1,5 +1,3 @@
-.byline,
-.byline .author,
-.published {
+.byline {
   color: darkgrey;
 }

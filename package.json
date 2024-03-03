@@ -22,6 +22,7 @@
     "react-dom": "^18",
     "rehype-figure": "^1.0.1",
     "remark-gfm": "^3.0.1",
+    "remark-smartypants": "^2.1.0",
     "rss": "^1.2.2"
   },
   "devDependencies": {

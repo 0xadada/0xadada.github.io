@@ -106,17 +106,25 @@ body {
 abbr {
   cursor: help;
 }
+@media (min-width: 96rem) {
+  abbr::after {
+    /* shows abbr title as sidenotes */
+    content: attr(title);
+    width: 16rem;
+    float: right;
+    margin-right: -18rem;
+    font-size: 0.75em;
+    margin-left: 0;
+    margin-top: 0.375rem;
+    text-align: left;
+  }
+}
 
 a {
   color: #292929;
 }
 a:hover {
   color: #0000cc;
-}
-.e-content a[href^="http"]::after,
-.entry-content a[href^="http"]::after {
-  content: " ⎋";
-  font-style: normal;
 }
 
 hr {
@@ -245,7 +253,11 @@ article header {
     text-wrap: pretty;
   }
 }
-
+.e-content a[href^="http"]::after,
+.entry-content a[href^="http"]::after {
+  content: " ⎋";
+  font-style: normal;
+}
 .entry-content a[rel~="external"]::after,
 .e-content a[rel~="external"]::after {
   content: "\238B";
@@ -267,6 +279,12 @@ article header {
 #footnote-label {
   display: none;
 }
+.data-footnote-backref {
+  font-family: var(--sans-serif);
+}
+.data-footnote-backref {
+  font-family: var(--sans-serif);
+}
 
 .hanging-indent,
 .footnotes {
@@ -285,41 +303,12 @@ article header {
   text-indent: -1.5em;
 }
 
-.data-footnote-backref {
-  font-family: var(--sans-serif);
-}
-
 .scroller {
   overflow-x: auto;
 }
-
 table tr:nth-child(odd) td {
   background-color: #eee;
 }
-td {
-  vertical-align: top;
-}
-
-.data-footnote-backref {
-  font-family: var(--sans-serif);
-}
-
-table tr:nth-child(odd) td {
-  background-color: #eee;
-}
-
-td {
-  vertical-align: top;
-}
-
-.data-footnote-backref {
-  font-family: var(--sans-serif);
-}
-
-table tr:nth-child(odd) td {
-  background-color: #eee;
-}
-
 td {
   vertical-align: top;
 }

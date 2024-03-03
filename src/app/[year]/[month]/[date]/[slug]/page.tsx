@@ -2,6 +2,7 @@ import fs from "fs";
 import { join } from "path";
 import { compileMDX } from "next-mdx-remote/rsc";
 import remarkGfm from "remark-gfm";
+import remarkSmartypants from "remark-smartypants";
 // @ts-ignore
 import rehypeFigure from "rehype-figure";
 import DisplayDate from "../../../../components/display-date";
@@ -107,7 +108,8 @@ export default async function Page({
     options: {
       parseFrontmatter: true,
       mdxOptions: {
-        remarkPlugins: [remarkGfm],
+        // @ts-expect-error
+        remarkPlugins: [remarkGfm, remarkSmartypants],
         rehypePlugins: [rehypeFigure],
       },
     },
@@ -119,10 +121,9 @@ export default async function Page({
       <header>
         <h1 className="entry-title p-name">{frontmatter.title}</h1>
         <DisplayDate datetime={postDate} />
-        <br />
         <span className={`h-card ${styles.byline}`}>
-          by:{" "}
-          <span className={`${styles.author} fn p-author p-name`}>0xADADA</span>
+          {" by "}
+          <span className="fn p-author p-name">0xADADA</span>
         </span>
       </header>
       <div className="entry-content e-content">{content}</div>
