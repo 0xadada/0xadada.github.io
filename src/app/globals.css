@@ -332,6 +332,9 @@ td {
   list-style: none;
   padding: 0;
   margin: 0 -1.5rem;
+  margin-right: calc(
+    0rem - var(--bodyPadding) + calc(0rem - var(--sideNoteWidth))
+  );
 }
 .rehype-figure-container .rehype-figure {
   position: relative;
