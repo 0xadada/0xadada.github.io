@@ -1,4 +1,11 @@
 .layout {
-  max-width: 57em;
+  max-width: 75rem;
   margin: 0 auto;
+}
+
+@media (min-width: 60rem) {
+  .layout {
+    padding-right: 15rem;
+    padding-right: var(--sideNoteWidth);
+  }
 }

@@ -52,6 +52,8 @@
     "Ubuntu", "Cantarell", "Segoe UI", "Meiryo", "Arial", sans-serif,
     "Apple Color Emoji", "Noto Color Emoji", "Symbola", "Segoe UI Emoji",
     "Segoe UI Symbol";
+  --bodyPadding: 1.5rem;
+  --sideNoteWidth: 15rem;
 }
 
 ::selection {
@@ -106,13 +108,13 @@ body {
 abbr {
   cursor: help;
 }
-@media (min-width: 96rem) {
+@media (min-width: 60rem) {
   abbr::after {
     /* shows abbr title as sidenotes */
     content: attr(title);
-    width: 16rem;
+    width: calc(var(--sideNoteWidth) - 2rem);
     float: right;
-    margin-right: -18rem;
+    margin-right: calc(0rem - var(--sideNoteWidth));
     font-size: 0.75em;
     margin-left: 0;
     margin-top: 0.375rem;
@@ -205,6 +207,16 @@ figure {
 figure,
 blockquote {
   margin: 0 -1.5rem;
+}
+
+@media (min-width: 60rem) {
+  figure,
+  blockquote {
+    margin: 0 -16.5rem 0 -1.5rem;
+    margin-right: calc(
+      0rem - var(--bodyPadding) + calc(0rem - var(--sideNoteWidth))
+    );
+  }
 }
 
 figure figcaption,
