@@ -8,10 +8,7 @@ image: /static/images/2021-01-14-cereal.png
 tags: [notes, privacy, surveillance]
 ---
 
-<figure>
-  <img src="/static/images/2021-01-14-bandersnatch.jpg" alt="Black Mirror: Bandersnatch poster" />
-  <figcaption>Black Mirror: Bandersnatch poster</figcaption>
-</figure>
+![Black Mirror: Bandersnatch poster](/static/images/2021-01-14-bandersnatch.jpg)
 
 _Black Mirror: Bandersnatch_ (2018) is an interactive film in which viewers are
 periodically asked to make decisions for the main character Stefan Butler, the
@@ -25,20 +22,14 @@ mechanic. The first example asks the viewer to make a seemingly trivial choice
 of which breakfast cereal the main character Stefan eats for breakfast: Kellogs
 Frosted Flakes™, or Quaker Sugar Puffs™.
 
-> “by giving the viewer the power to change the course of the storyline, the
+> by giving the viewer the power to change the course of the storyline, the
 > viewer’s role changes from one of voyeurism to one of active surveillance.
 > Nevertheless, and in reality, the viewer’s new power only increases the
 > tracking and profiling of his/her choices. We, the viewers, might control
 > Stefan, but Netflix (the producer of this commodity) panoptically monitors and
-> surveys us[^1].”
+> surveys us[^1].
 >
-> <figcaption>
->   —Nada Elnahla
->   <cite>
->     <a href="https://twitter.com/Nada_Elnahla" title="">Black Mirror: 
->     Bandersnatch and how Netflix manipulates us, the new gods</a>
->   </cite>
-> </figcaption>
+> <figcaption>Nada Elnahla <cite>Black Mirror: Bandersnatch and how Netflix manipulates us, the new gods</cite></figcaption>
 
 The choice mechanic not only shows the viewer how choices are presented during
 the film, but demonstrates how the choice is stored and recalled by the film
@@ -48,10 +39,7 @@ background:
 This simple mechanic has wide reaching implications for a future of personalized
 _content marketing_.
 
-<figure>
-  <img src="/static/images/2021-01-14-cereal.png" alt="You decide: Sugar Puffs or Frosties" />
-  <figcaption>You decide: Sugar Puffs or Frosties</figcaption>
-</figure>
+![You decide: Sugar Puffs or Frosties](/static/images/2021-01-14-cereal.png)
 
 This mechanic can be infinitely scaled, it would be easy to replace the cereal
 box with a simple green screen, and inject the ad in post-production. In fact,
@@ -103,19 +91,13 @@ experience gently nudges the viewer, more subversively, and more efficiently.
 The success of this approach lies in subtlety, the product placement must not be
 frequent nor blatant.
 
-> “Even the role we, the interactive viewers, play has now changed. Instead of
+> Even the role we, the interactive viewers, play has now changed. Instead of
 > being passive viewers/consumers, Netflix has given us the opportunity to
 > become the new gods, an omniscient presence that controls the Black Mirror
 > world. A closer look, however, shatters this reality, for the more control we
-> are given, the more we are manipulated.”
+> are given, the more we are manipulated.
 >
-> <figcaption>
->   —Nada Elnahla
->   <cite>
->     <a href="https://twitter.com/Nada_Elnahla" title="">Black Mirror: 
->     Bandersnatch and how Netflix manipulates us, the new gods</a>
->   </cite>
-> </figcaption>
+> <figcaption>Nada Elnahla <cite>Black Mirror: Bandersnatch and how Netflix manipulates us, the new gods</cite></figcaption>
 
 Superficially, this approach solves a problem for Netflix: How do you make money
 advertising to a userbase who've become accustomed to paying for an entirely
@@ -135,10 +117,7 @@ generated unique to each individual—leaving them unable to relate to one anoth
 with respect to their media experiences, shared culture, and ultimately we lose
 some of our shared perspective on the world around us.
 
-<figure>
-  <img src="/static/images/2021-01-14-ads.jpg" alt="Google ads, the paid search results have, over time, become so hard to identify that they've become indistinguishable from organic search results." />
-  <figcaption>Google ads, the paid search results have, over time, become so hard to identify that they've become indistinguishable from organic search results.</figcaption>
-</figure>
+![Google ads, the paid search results have, over time, become so hard to identify that they've become indistinguishable from organic search results.](/static/images/2021-01-14-ads.jpg)
 
 Just like Google built the backbone of search advertising, Netflix is building
 the backbone for a future of video storytelling where the **ads and the content

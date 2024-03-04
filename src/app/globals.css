@@ -158,11 +158,6 @@ pre {
 
 q,
 blockquote p {
-  font-family:
-    Georgia,
-    Times,
-    Times New Roman,
-    serif;
   font-style: italic;
 }
 
@@ -187,12 +182,15 @@ blockquote p {
   margin: 1.25rem 2.5rem;
 }
 
-p {
-  hyphens: auto;
+blockquote figcaption {
+  font-style: normal;
+}
+blockquote figcaption::before {
+  content: "\2014";
 }
 
-cite {
-  font-style: normal;
+p {
+  hyphens: auto;
 }
 
 ins,
@@ -224,6 +222,8 @@ blockquote figcaption {
   color: darkgray;
   margin: 0 3rem;
   font-size: 0.7em;
+}
+figure figcaption {
   font-style: italic;
 }
 

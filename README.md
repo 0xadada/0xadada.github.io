@@ -35,13 +35,7 @@ Quote
 ```markdown
 > The air traveller only travels after he has landed.
 >
-> <figcaption>—Marshall McLuhan[^1]</figcaption>
-
-[^1]:
-    McLuhan, Marshall, and Lewis H. Lapham.
-    _Understanding Media: the Extensions of Man_.
-    Cambridge, Mass: MIT Press,
-    Print. 1994.
+> <figcaption>Marshall McLuhan <cite>Understanding Media</cite></figcaption>
 ```
 
 Bibliography

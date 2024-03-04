@@ -1,7 +1,15 @@
-import { readdir, readFile, writeFile } from "node:fs/promises";
+import { readdir, writeFile } from "node:fs/promises";
 import { join } from "path";
 import RSS from "rss";
-import matter from "gray-matter";
+import { read } from "to-vfile";
+import { matter } from "vfile-matter";
+import { unified } from "unified";
+import remarkParse from "remark-parse";
+import remarkGfm from "remark-gfm";
+import remarkSlug from "remark-slug";
+import remarkSmartypants from "remark-smartypants";
+import remarkRehype from "remark-rehype";
+import rehypeStringify from "rehype-stringify";
 import { parseFilename } from "./lib/parse-filename.js";
 
 async function generate() {
@@ -20,15 +28,25 @@ async function generate() {
 
   const unsortedPosts = await Promise.all(
     files.map(async (file) => {
-      const markdown = await readFile(file.filepath, "utf8");
-      const frontmatter = matter(markdown);
+      const markdown = await read(file.filepath);
+      matter(markdown, { strip: true });
+      const {
+        data: { matter: frontmatter },
+      } = markdown;
+      const content = await unified()
+        .use(remarkParse)
+        .use(remarkGfm)
+        .use(remarkSlug)
+        .use(remarkSmartypants)
+        .use(remarkRehype)
+        .use(rehypeStringify)
+        .process(markdown);
+
       const { date, url } = parseFilename(file.filename);
       return {
-        title: frontmatter.data.title,
-        description: frontmatter.data.description,
-        categories: Array.isArray(frontmatter.data.tags)
-          ? frontmatter.data.tags
-          : [],
+        title: frontmatter.title,
+        description: content,
+        categories: Array.isArray(frontmatter.tags) ? frontmatter.tags : [],
         author: "0xADADA",
         url: `https://0xadada.pub/${url}/`,
         date,

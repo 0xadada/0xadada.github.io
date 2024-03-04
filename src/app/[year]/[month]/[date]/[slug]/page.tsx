@@ -1,8 +1,13 @@
 import fs from "fs";
 import { join } from "path";
 import { compileMDX } from "next-mdx-remote/rsc";
+import { read } from "to-vfile";
+import { matter } from "vfile-matter";
+import { unified } from "unified";
+import remarkParse from "remark-parse";
 import remarkGfm from "remark-gfm";
 import remarkSmartypants from "remark-smartypants";
+import remarkSlug from "remark-slug";
 // @ts-ignore
 import rehypeFigure from "rehype-figure";
 import DisplayDate from "../../../../components/display-date";
@@ -45,13 +50,9 @@ export async function generateMetadata({
   const docsDir = join(process.cwd(), "docs");
   const filename = `${[year, month, date, slug].join("-")}.md`;
   const filePath = join(docsDir, filename);
-  const markdown = fs.readFileSync(filePath, "utf8");
-  const { frontmatter } = await compileMDX<PageMetadata>({
-    source: markdown,
-    options: {
-      parseFrontmatter: true,
-    },
-  });
+  const markdown = await read(filePath);
+  matter(markdown, { strip: true });
+  const frontmatter = markdown.data.matter as PageMetadata;
   const images = frontmatter.image
     ? {
         images: [
@@ -109,7 +110,7 @@ export default async function Page({
       parseFrontmatter: true,
       mdxOptions: {
         // @ts-expect-error
-        remarkPlugins: [remarkGfm, remarkSmartypants],
+        remarkPlugins: [remarkGfm, remarkSlug, remarkSmartypants],
         rehypePlugins: [rehypeFigure],
       },
     },
