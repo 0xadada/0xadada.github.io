@@ -2,7 +2,8 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import fs from "fs";
 import { join } from "path";
-import { compileMDX } from "next-mdx-remote/rsc";
+import { read } from "to-vfile";
+import { matter } from "vfile-matter";
 import { parseFilename } from "../lib/parse-filename";
 import DisplayDate from "./components/display-date";
 import Header from "./components/header";
@@ -45,11 +46,9 @@ export default async function Home() {
   }));
   const unsortedPosts = await Promise.all(
     files.map(async (file) => {
-      const markdown = fs.readFileSync(file.filepath, "utf8");
-      const { frontmatter } = await compileMDX<PageMetadata>({
-        source: markdown,
-        options: { parseFrontmatter: true },
-      });
+      const markdown = await read(file.filepath);
+      matter(markdown, { strip: true });
+      const frontmatter = markdown.data.matter as PageMetadata;
       const { year, month, day, date, slug, url } = parseFilename(
         file.filename,
       );

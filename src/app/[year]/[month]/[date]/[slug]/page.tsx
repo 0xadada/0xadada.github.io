@@ -3,8 +3,6 @@ import { join } from "path";
 import { compileMDX } from "next-mdx-remote/rsc";
 import { read } from "to-vfile";
 import { matter } from "vfile-matter";
-import { unified } from "unified";
-import remarkParse from "remark-parse";
 import remarkGfm from "remark-gfm";
 import remarkSmartypants from "remark-smartypants";
 import remarkSlug from "remark-slug";
@@ -14,7 +12,6 @@ import DisplayDate from "../../../../components/display-date";
 import License from "../../../../components/license";
 import styles from "./page.module.css";
 import type { Metadata } from "next";
-import { useMDXComponents } from "../../../../../mdx-components";
 
 interface PageMetadata {
   title: string;
@@ -105,7 +102,6 @@ export default async function Page({
   const markdown = fs.readFileSync(filePath, "utf8");
   const { content, frontmatter } = await compileMDX<PageMetadata>({
     source: markdown,
-    components: useMDXComponents({}),
     options: {
       parseFrontmatter: true,
       mdxOptions: {

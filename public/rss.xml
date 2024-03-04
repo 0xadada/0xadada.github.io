@@ -4,7 +4,7 @@
         <description><![CDATA[0xADADA]]></description>
         <link>https://0xadada.pub</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 04 Mar 2024 17:36:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Mar 2024 19:31:40 GMT</lastBuildDate>
         <atom:link href="https://0xadada.pub/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[A Year of Tech Layoffs]]></title>
@@ -5221,33 +5221,33 @@ note of earlier, and <code>ARCHLINUX</code> with the name of the image file you 
 <p>Now we’re ready to get that ISO onto a USB drive so we can boot the computer
 from it. Before inserting the thumb drive, run <code>diskutil list</code> and take note of
 the drives listed. You should see output similar to this:</p>
-<pre><code>/dev/disk0
-   #:                       TYPE NAME          SIZE       IDENTIFIER
-   0:      GUID_partition_scheme               500.1 GB   disk0
-   1:                        EFI               209.7 MB   disk0s1
-   2:          Apple_CoreStorage               399.5 GB   disk0s2
-   3:                 Apple_Boot Recovery HD   650.0 MB   disk0s3
-   5:                 Apple_Boot Boot OS X     134.2 MB   disk0s5
-/dev/disk1
-   #:                       TYPE NAME          SIZE       IDENTIFIER
-   0:                  Apple_HFS MacOSX        399.2 GB   disk1
+<pre><code>    /dev/disk0
+       #:                       TYPE NAME          SIZE       IDENTIFIER
+       0:      GUID_partition_scheme               500.1 GB   disk0
+       1:                        EFI               209.7 MB   disk0s1
+       2:          Apple_CoreStorage               399.5 GB   disk0s2
+       3:                 Apple_Boot Recovery HD   650.0 MB   disk0s3
+       5:                 Apple_Boot Boot OS X     134.2 MB   disk0s5
+    /dev/disk1
+       #:                       TYPE NAME          SIZE       IDENTIFIER
+       0:                  Apple_HFS MacOSX        399.2 GB   disk1
 </code></pre>
 <p>Insert the drive and run <code>diskutil list</code> again. Take note of the new letter in
 the <code>sdX</code> list of drives.</p>
-<pre><code>/dev/disk0
-   #:                       TYPE NAME          SIZE       IDENTIFIER
-   0:      GUID_partition_scheme               500.1 GB   disk0
-   1:                        EFI               209.7 MB   disk0s1
-   2:          Apple_CoreStorage               399.5 GB   disk0s2
-   3:                 Apple_Boot Recovery HD   650.0 MB   disk0s3
-   5:                 Apple_Boot Boot OS X     134.2 MB   disk0s5
-/dev/disk1
-   #:                       TYPE NAME          SIZE       IDENTIFIER
-   0:                  Apple_HFS MacOSX        399.2 GB   disk1
-/dev/diskX
-   #:                       TYPE NAME          SIZE       IDENTIFIER
-   0:      GUID_partition_scheme               2.0 GB     disk2
-   1:       Microsoft Basic Data UNTITLED 1    2.0 GB     disk2s1
+<pre><code>    /dev/disk0
+       #:                       TYPE NAME          SIZE       IDENTIFIER
+       0:      GUID_partition_scheme               500.1 GB   disk0
+       1:                        EFI               209.7 MB   disk0s1
+       2:          Apple_CoreStorage               399.5 GB   disk0s2
+       3:                 Apple_Boot Recovery HD   650.0 MB   disk0s3
+       5:                 Apple_Boot Boot OS X     134.2 MB   disk0s5
+    /dev/disk1
+       #:                       TYPE NAME          SIZE       IDENTIFIER
+       0:                  Apple_HFS MacOSX        399.2 GB   disk1
+    /dev/diskX
+       #:                       TYPE NAME          SIZE       IDENTIFIER
+       0:      GUID_partition_scheme               2.0 GB     disk2
+       1:       Microsoft Basic Data UNTITLED 1    2.0 GB     disk2s1
 </code></pre>
 <p>Note <code>/dev/diskX</code> has appeared (‘X’ will be a number on your system), this new
 disk is the USB thumb drive. <strong>Important</strong> <em>take note of the number of this
@@ -5276,10 +5276,10 @@ until the drive screen appears.</p>
 <p>The USB drive should be one of the options. Pick it along with the first option
 the following boot screen lists. Now you should be at the Arch live install
 prompt and it’ll look like this:</p>
-<pre><code>Arch Linux 3.17.6-1-ARCH (tty1)
+<pre><code>    Arch Linux 3.17.6-1-ARCH (tty1)
 
-archiso login: root (automatic login)
-root@archiso ~ #
+    archiso login: root (automatic login)
+    root@archiso ~ #
 </code></pre>
 <p>You are now running a “Live” session of Arch Linux from the USB stick.</p>
 <p>If you’re on a HiDPI / “Retina” display MacBook, the prompt is really small.
@@ -5343,13 +5343,13 @@ partition, and it’ll set the starting sector at a point 128M away from the
 ending sector of the partition before it.</p>
 <p>You’ll want to use Linux LVM (<code>8e00</code>) as the partition type id. The final
 partition table will look something like this:</p>
-<pre><code>Part. #     Size        Partition Type            Partition Name
-----------------------------------------------------------------
-3.0 KiB      free space
-1        200.0 MiB      EFI System                EFI System Partition
-2         74.5 GiB      Apple HFS/HFS+            Macintosh HD
-128.0 MiB      free space
-3        391.1 GiB      Linux LVM                 ArchLinux
+<pre><code>    Part. #     Size        Partition Type            Partition Name
+    ----------------------------------------------------------------
+    3.0 KiB      free space
+    1        200.0 MiB      EFI System                EFI System Partition
+    2         74.5 GiB      Apple HFS/HFS+            Macintosh HD
+    128.0 MiB      free space
+    3        391.1 GiB      Linux LVM                 ArchLinux
 </code></pre>
 <p>Then use the utility to select Write and then confirm that you want to overwrite
 the disk. Once the display returns you can Quit.</p>
@@ -5745,10 +5745,10 @@ Windows-like or OS X-like configuration. I highly recommend
 <a href="http://bohoomil.com/doc/">reading the documentation</a> if you’d like to know more
 about typography rendering on GNU/Linux.</p>
 <p>First add the following package repositories to <code>/etc/pacman.conf</code>.</p>
-<pre><code>[infinality-bundle]
-Server = http://bohoomil.com/repo/$arch
-[infinality-bundle-fonts]
-Server = http://bohoomil.com/repo/fonts
+<pre><code>    [infinality-bundle]
+    Server = http://bohoomil.com/repo/$arch
+    [infinality-bundle-fonts]
+    Server = http://bohoomil.com/repo/fonts
 </code></pre>
 <p>Next we’ll add the
 <a href="https://bbs.archlinux.org/viewtopic.php?id=162098">package maintainers PGP key</a>
@@ -5927,9 +5927,10 @@ ExecStart=/usr/bin/powertop --auto-tune
 
 [Install]
 WantedBy=multi-user.target
+
+And enable it to automatically start at boot time, then start it for your
+current boot session.
 </code></pre>
-<p>And enable it to automatically start at boot time, then start it for your
-current boot session.</p>
 <pre><code class="language-bash"># systemctl enable powertop.service
 # systemctl start powertop.service
 </code></pre>
@@ -6019,10 +6020,8 @@ the journal. So I changed the service under
 <p>To get the <code>fn</code> keys working in X, we will install <code>xbindkeys</code> which helps bind
 keyboard keys to commands. We will bind keys for volume, keyboard and display
 brightness.</p>
-<pre><code>```bash
-# pacman -S xbindkeys
+<pre><code class="language-bash"># pacman -S xbindkeys
 yaourt -S xorg-xbacklight kbdlight
-```
 </code></pre>
 <p>Create your configuration file for xbindkeys: <code>.xbindkeysrc</code></p>
 <pre><code># Increase volume 5% with Apple volume up

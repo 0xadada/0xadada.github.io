@@ -83,6 +83,8 @@ losing them to the shifting sands of time.
 When speaking to Ember devs about React, or React devs about Ember, I frequently
 use this chart to map concepts in one to the other:
 
+<div className="scroller">
+
 | **Concept** | **Ember** | **React** |
 |:--|:--|:--|
 | **File structure** | Convention<br />`app/components/component.js`, `app/components/template.hbs` | Configuration<br />use `import` to bring files from wherever, file may contain both logic and template. |
@@ -96,6 +98,8 @@ use this chart to map concepts in one to the other:
 | **Template Control Logic** | handlebars/HTMLbars<br />iteration<br />`{{#each @list as item}}<Item />{{/each}}`<br />conditionals<br />`{{#if true}}its true{{else}}not true{{/if}}` | pure javascript<br />iteration<br />`lilst.map(item => <Item />)`<br />conditionals<br />`{item.isTrue ? <TrueItem /> : <FalseItem />}` |
 | **Global State Management** | Ember Services | React Context API, React Query |
 | **Application Routing** | Ember Router | React-Router (not built-in) |
+
+</div>
 
 ## Eight Years On
 

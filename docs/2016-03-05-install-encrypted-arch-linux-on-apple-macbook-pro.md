@@ -314,6 +314,7 @@ Now we’re ready to get that ISO onto a USB drive so we can boot the computer
 from it. Before inserting the thumb drive, run `diskutil list` and take note of
 the drives listed. You should see output similar to this:
 
+```
     /dev/disk0
        #:                       TYPE NAME          SIZE       IDENTIFIER
        0:      GUID_partition_scheme               500.1 GB   disk0
@@ -324,10 +325,12 @@ the drives listed. You should see output similar to this:
     /dev/disk1
        #:                       TYPE NAME          SIZE       IDENTIFIER
        0:                  Apple_HFS MacOSX        399.2 GB   disk1
+```
 
 Insert the drive and run `diskutil list` again. Take note of the new letter in
 the `sdX` list of drives.
 
+```
     /dev/disk0
        #:                       TYPE NAME          SIZE       IDENTIFIER
        0:      GUID_partition_scheme               500.1 GB   disk0
@@ -342,6 +345,7 @@ the `sdX` list of drives.
        #:                       TYPE NAME          SIZE       IDENTIFIER
        0:      GUID_partition_scheme               2.0 GB     disk2
        1:       Microsoft Basic Data UNTITLED 1    2.0 GB     disk2s1
+```
 
 Note `/dev/diskX` has appeared ('X' will be a number on your system), this new
 disk is the USB thumb drive. **Important** _take note of the number of this
@@ -381,10 +385,12 @@ The USB drive should be one of the options. Pick it along with the first option
 the following boot screen lists. Now you should be at the Arch live install
 prompt and it'll look like this:
 
+```
     Arch Linux 3.17.6-1-ARCH (tty1)
 
     archiso login: root (automatic login)
     root@archiso ~ #
+```
 
 You are now running a "Live" session of Arch Linux from the USB stick.
 
@@ -478,6 +484,7 @@ ending sector of the partition before it.
 You’ll want to use Linux LVM (`8e00`) as the partition type id. The final
 partition table will look something like this:
 
+```
     Part. #     Size        Partition Type            Partition Name
     ----------------------------------------------------------------
     3.0 KiB      free space
@@ -485,6 +492,7 @@ partition table will look something like this:
     2         74.5 GiB      Apple HFS/HFS+            Macintosh HD
     128.0 MiB      free space
     3        391.1 GiB      Linux LVM                 ArchLinux
+```
 
 Then use the utility to select Write and then confirm that you want to overwrite
 the disk. Once the display returns you can Quit.
@@ -1083,10 +1091,12 @@ about typography rendering on GNU/Linux.
 
 First add the following package repositories to `/etc/pacman.conf`.
 
+```
     [infinality-bundle]
     Server = http://bohoomil.com/repo/$arch
     [infinality-bundle-fonts]
     Server = http://bohoomil.com/repo/fonts
+```
 
 Next we'll add the
 [package maintainers PGP key](https://bbs.archlinux.org/viewtopic.php?id=162098)
@@ -1130,7 +1140,9 @@ To install:
 Added this[^5] to run `awesome`
 when x starts:
 
-    echo exec awesome > .xinitrc
+```
+echo exec awesome > .xinitrc
+```
 
 ### Touchpad Support
 
@@ -1146,26 +1158,28 @@ for me, it uses the same "Natural Motion" that OS X does. Copy that file to the
 following location `/etc/X11/xorg.conf.d/70-synaptics.conf` and add the options
 between the `START` and `END` comments.
 
-    Section "InputClass"
-        MatchIsTouchpad "on"
-        Identifier      "touchpad catchall"
-        Driver          "synaptics"
+```
+Section "InputClass"
+    MatchIsTouchpad "on"
+    Identifier      "touchpad catchall"
+    Driver          "synaptics"
 
-        # START: Add these options
-        # 1 = left, 2 = right, 3 = middle
-        Option          "TapButton1" "1"
-        Option          "TapButton2" "3"
-        Option          "TapButton3" "2"
-        # Palm detection
-        Option          "PalmDetect" "1"
-        # Horizontal scrolling
-        Option "HorizTwoFingerScroll" "1"
-        Option "VertTwoFingerScroll" "on"
-        # Natural Scrolling (and speed)
-        Option "VertScrollDelta" "-450"
-        Option "HorizScrollDelta" "-450"
-        # END
-    EndSection
+    # START: Add these options
+    # 1 = left, 2 = right, 3 = middle
+    Option          "TapButton1" "1"
+    Option          "TapButton2" "3"
+    Option          "TapButton3" "2"
+    # Palm detection
+    Option          "PalmDetect" "1"
+    # Horizontal scrolling
+    Option "HorizTwoFingerScroll" "1"
+    Option "VertTwoFingerScroll" "on"
+    # Natural Scrolling (and speed)
+    Option "VertScrollDelta" "-450"
+    Option "HorizScrollDelta" "-450"
+    # END
+EndSection
+```
 
 ### Configuring Wireless
 
@@ -1215,8 +1229,10 @@ Finally, if you find your wireless is dropping connections, you may find turning
 off Wi-Fi power management. Simply create this as an executable ( chmod +x
 `/etc/pm/wireless` and add the following contents:
 
-    #!/bin/sh
-    iwconfig wlp2s0 power off
+```
+#!/bin/sh
+iwconfig wlp2s0 power off
+```
 
 ### Done!
 
@@ -1323,20 +1339,22 @@ takes a few minutes then your screen will come back on.
 You can create a systemd service that will launch powertop's autotune settings
 on startup.
 
-    # /etc/systemd/system/powertop.service
+```
+# /etc/systemd/system/powertop.service
 
-    [Unit]
-    Description=Powertop tunings
+[Unit]
+Description=Powertop tunings
 
-    [Service]
-    Type=oneshot
-    ExecStart=/usr/bin/powertop --auto-tune
+[Service]
+Type=oneshot
+ExecStart=/usr/bin/powertop --auto-tune
 
-    [Install]
-    WantedBy=multi-user.target
+[Install]
+WantedBy=multi-user.target
 
 And enable it to automatically start at boot time, then start it for your
 current boot session.
+```
 
 ```bash
 # systemctl enable powertop.service
@@ -1359,25 +1377,31 @@ $ yaourt -S laptop-mode-tools
 If you want to enable laptop mode even on AC power, because you run the laptop
 attached to an external keyboard and monitor, edit:
 
-    # /etc/laptop-mode/laptop-mode.conf`:
-    ...
-    ENABLE_LAPTOP_MODE_ON_AC=1
-    ...
-    ENABLE_LAPTOP_MODE_WHEN_LID_CLOSED=1
+```
+# /etc/laptop-mode/laptop-mode.conf`:
+...
+ENABLE_LAPTOP_MODE_ON_AC=1
+...
+ENABLE_LAPTOP_MODE_WHEN_LID_CLOSED=1
+```
 
 We're going to disable LMT from handling CPU frequency scaling since we've setup
 `cpupower` to handle that:
 
-    # /etc/laptop-mode/conf.d/cpufreq.conf
-    ...
-    # CONTROL_CPU_FREQUENCY="AUTO"
-    CONTROL_CPU_FREQUENCY=0
+```
+# /etc/laptop-mode/conf.d/cpufreq.conf
+...
+# CONTROL_CPU_FREQUENCY="AUTO"
+CONTROL_CPU_FREQUENCY=0
+```
 
 and disable Intel pstate handling as well:
 
-    # /etc/laptop-mode/conf.d/intel_pstate.conf
-    # CONTROL_INTEL_PSTATE="auto"
-    CONTROL_INTEL_PSTATE=0
+```
+# /etc/laptop-mode/conf.d/intel_pstate.conf
+# CONTROL_INTEL_PSTATE="auto"
+CONTROL_INTEL_PSTATE=0
+```
 
 Finally, enable and start the systemd service:
 
@@ -1420,7 +1444,9 @@ I use cpupower to modulate the CPU’s speeds. This keeps CPU in check from maxi
 out at all times. My cpupower config file at `/etc/default/cpupower` has the
 following line changed:
 
-    governor='powersave'
+```
+governor='powersave'
+```
 
 You should adjust this setting to your own needs.
 
@@ -1455,7 +1481,9 @@ mode on, it logs its wakeup every few seconds. That means a lot of writing to
 the journal. So I changed the service under
 `/usr/lib/systemd/system/mbpfan.service` so the following line reads like so:
 
-    ExecStart=/usr/sbin/mbpfan -f
+```
+ExecStart=/usr/sbin/mbpfan -f
+```
 
 ### Apple Keyboard
 
@@ -1463,56 +1491,58 @@ To get the `fn` keys working in X, we will install `xbindkeys` which helps bind
 keyboard keys to commands. We will bind keys for volume, keyboard and display
 brightness.
 
-    ```bash
-    # pacman -S xbindkeys
-    yaourt -S xorg-xbacklight kbdlight
-    ```
+```bash
+# pacman -S xbindkeys
+yaourt -S xorg-xbacklight kbdlight
+```
 
 Create your configuration file for xbindkeys: `.xbindkeysrc`
 
-    # Increase volume 5% with Apple volume up
-    "amixer set Master playback 5%+"
-        m:0x0 + c:123
-        XF86AudioRaiseVolume
-    # Increase volume 5% with F12
-    "amixer set Master playback 5%+"
-        m:0x0 + c:96
+```
+# Increase volume 5% with Apple volume up
+"amixer set Master playback 5%+"
+    m:0x0 + c:123
+    XF86AudioRaiseVolume
+# Increase volume 5% with F12
+"amixer set Master playback 5%+"
+    m:0x0 + c:96
 
 
-    # Decrease volume 5% with Apple volume down
-    "amixer set Master playback 5%-"
-        m:0x0 + c:122
-        XF86AudioLowerVolume
-    # Decrease volume 5% with F11
-    "amixer set Master playback 5%-"
-        m:0x0 + c:95
+# Decrease volume 5% with Apple volume down
+"amixer set Master playback 5%-"
+    m:0x0 + c:122
+    XF86AudioLowerVolume
+# Decrease volume 5% with F11
+"amixer set Master playback 5%-"
+    m:0x0 + c:95
 
 
-    # Mute with Apple mute
-    "amixer set Master toggle"
-        m:0x0 + c:121
-        XF86AudioMute
-    # Mute with F10
-    "amixer set Master toggle"
-        m:0x0 + c:76
+# Mute with Apple mute
+"amixer set Master toggle"
+    m:0x0 + c:121
+    XF86AudioMute
+# Mute with F10
+"amixer set Master toggle"
+    m:0x0 + c:76
 
 
-    # Suspend system
-    "systemctl suspend"
-        m:0x0 + Mod4 + c:107
-        Mod4 + XF86Eject
+# Suspend system
+"systemctl suspend"
+    m:0x0 + Mod4 + c:107
+    Mod4 + XF86Eject
 
 
-    # Dim keyboard
-    "kbdlight down"
-        m:0x0 + c:237
-        XF86KbdBrightnessUp
+# Dim keyboard
+"kbdlight down"
+    m:0x0 + c:237
+    XF86KbdBrightnessUp
 
 
-    # Brighten keyboard
-    "kbdlight up"
-        m:0x0 + c:238
-        XF86KbdBrightnessDown
+# Brighten keyboard
+"kbdlight up"
+    m:0x0 + c:238
+    XF86KbdBrightnessDown
+```
 
 Next we'll auto-start xbindkeys when X starts, add this to your `.xinitrc` file:
 
@@ -1541,20 +1571,24 @@ utility to scan-for, discover, pair and connect to the Trackpad. (If your
 Trackpad is already paired with another device, make sure to turn it off, then
 long-hold the power button until the LED flashes.)
 
-    $ bluetoothctl
-    > power on
-    > scan on
-    > agent on
-    > devices    # You should see the MAC address of your Trackpad appear if its in discoverable mode
-    > pair mac 28:37:37:2B:42:7A
-    > connect 28:37:37:2B:42:7A
+```
+$ bluetoothctl
+> power on
+> scan on
+> agent on
+> devices    # You should see the MAC address of your Trackpad appear if its in discoverable mode
+> pair mac 28:37:37:2B:42:7A
+> connect 28:37:37:2B:42:7A
+```
 
 Then we'll setup some `udev` rules so USB Bluetooth is activated and loade when
 the system boots up.
 
-    # /etc/udev/rules.d/10-local.rules
-    # Set bluetooth power up
-    ACTION=="add", KERNEL=="hci0", RUN+="/usr/bin/hciconfig hci0 up"
+```
+# /etc/udev/rules.d/10-local.rules
+# Set bluetooth power up
+ACTION=="add", KERNEL=="hci0", RUN+="/usr/bin/hciconfig hci0 up"
+```
 
 ## Conclusion
 
