@@ -11,6 +11,8 @@ tags: [essays, travel, writing]
 
 > Travel opens my mind to new perspectives and allows me to recontextualize
 > existing systems of thought.
+>
+> <figcaption>0xADADA</figcaption>
 
 While true for me at that time, for that trip; there is nothing magical about
 travel itself that opens the mind to new perspectives nor helps to
@@ -24,9 +26,9 @@ the distances are percieved that really matters. If ones perception of 2,400
 miles is two mediocre movies and a few bad in-flight meals, perhaps it’s not
 really "travel".
 
-> “The air traveller only travels after he has landed.”
+> The air traveller only travels after he has landed.
 >
-> <figcaption>&mdash;Marshall McLuhan[^1]</figcaption>
+> <figcaption>Marshall McLuhan[^1]</figcaption>
 
 After travelling through Croatia in 2014, I wrote:
 
@@ -77,7 +79,7 @@ days went by without talking to anyone.
 > more clearly; to come down off this feather-bed of civilization, and find
 > the globe granite underfoot and strewn with cutting flints.”
 >
-> <figcaption>&mdash;Robert Louis Stevenson[^2]</figcaption>
+> <figcaption>Robert Louis Stevenson[^2]</figcaption>
 
 I learned to be kind & gentle with myself, to calm my own anxieties when
 stressed, to assess reality with facts and realize only my actions will have any
@@ -102,7 +104,7 @@ experience people remember, the marker we live by when our lives become banal.
 > going to see what has become banal. The economic organization of visits to
 > different places is already in itself the guarantee of their equivalence.”
 >
-> <figcaption>—Guy Debord[^3]</figcaption>
+> <figcaption>Guy Debord[^3]</figcaption>
 
 So if you are looking for something inwards, be prepared to focus on whats
 inside, not whats outside. Travel can be an escape from oneself or ones

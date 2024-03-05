@@ -5,10 +5,7 @@ image: /static/images/2017-01-16-before-trump.jpg
 tags: [essays]
 ---
 
-<figure>
-  <img src="/static/images/2017-01-16-before-trump.jpg"
-    alt="Trump" title="Trump" />
-</figure>
+![Trump](/static/images/2017-01-16-before-trump.jpg)
 
 Before Trump takes office, I want to create a picture of the high-water mark,
 something I can point to and say "That was how it was" without the fog of time,
@@ -26,7 +23,7 @@ or the distortions of propaganda and ideology. I was inspired by Sarah Kendzior:
 > is possible that in the next year, you will either believe them or be forced
 > to say you believe them.[^1]
 >
-> ‒Sarah Kendzior
+> <figcaption>Sarah Kendzior <cite>[We're heading into dark times. This is how to be your own light in the Age of Trump](https://thecorrespondent.com/5696/were-heading-into-dark-times-this-is-how-to-be-your-own-light-in-the-age-of-trump/1611114266432-e23ea1a6)</cite></figcaption>
 
 ## The Spectacle of 2016
 
@@ -187,9 +184,9 @@ rumors" causing fractures in social cohesion. I'm worried the Trump
 administration will take a similar path.
 
 I will oppose the reappropriation of language. I will not use terms they
-redefine, nor use new terms they make[^6]. We must preserve the true meaning of
-words, and reconsider the use of language to simplify discourse and bias our
-perspectives.
+redefine, nor use <abbr title="E.g. 'fake news'">new terms they make</abbr>.
+We must preserve the true meaning of words, and reconsider the use of language to
+simplify discourse and bias our perspectives.
 
 The media, press, bloggers and social media are free to criticize the political
 establishment; it's a national pastime. The Daily Show and Colbert Report are
@@ -246,7 +243,6 @@ federal politics, I have high hopes for local community action and the arts.
 
 [^1]:
     Kendzior, Sarah.
-    [We're heading into dark times. This is how to be your own light in the Age of Trump](https://thecorrespondent.com/5696/were-heading-into-dark-times-this-is-how-to-be-your-own-light-in-the-age-of-trump/1611114266432-e23ea1a6)
     _The Correspondent_.
     The Correspondent,
     18 Nov. 2016.
@@ -276,5 +272,3 @@ federal politics, I have high hopes for local community action and the arts.
 [^5]:
     I've collected a few examples of this type of behavior in a Twitter Moment
     [Performative Anti-Trump Activism](https://twitter.com/i/moments/817897786301710336).
-
-[^6]: For example, terms like 'fake news'.

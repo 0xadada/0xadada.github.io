@@ -2,8 +2,68 @@
 title: "Best Practices for Writing CSS"
 description: "Conventions to help writing performant, maintainable stylesheets."
 license: cc-by-sa
-tags: [essays, software-development, css, web-development]
+tags: [essays, software-engineering, css, web-development]
 ---
+
+Every selector you write is additional complexity that will need to be
+maintained. Can you generalize or abstract that selector so other components can
+use it?
+
+- Write your CSS selectors to be as concise as possible
+- Write your CSS selectors to be as performant as possible, efficient as
+  possible and even more efficient
+- Don't overqualify your CSS selectors
+- Use the lessons learned in ["Object-Oriented" CSS](http://oocss.org/)
+
+Make use of the child selector to limit how deep your css goes. `.nav-list > li`
+can do a lot to prevent the cascade from going too deep.
+
+Think of the class attribute in HTML as a mounting-point for CSS classes,
+fixtures upon which styling is attached to markup. This is opposed to using the
+markup as a skeleton on which you drape your style.
+
+When asked to change existing code, rather than simply adding complexity with
+new classes or additional selectors, can you refactor or abstract existing
+selectors or classes to produce the desired behavior? Look at change requests as
+an opportunity to refactor.
+
+Code reuse is your friend. The first "C" in CSS stands for Cascade. Use the
+cascade to maximum advantage. Inheritance is extremely powerful. When adding a
+css property, ask yourself if you can add it higher in the cascade, and inherit
+it from a higher abstraction.
+
+Write obvious code. CSS is fragile, write code as if a novice coder would be
+maintaining your code in the future.
+
+"Extent your CSS objects with class" - not with selector specificity. Increasing
+selector specificity makes overrides more difficult and fragile to maintain.
+Class names can always be more semantic than the generic tag names at your
+disposal.
+
+Browsers actually have a very similar set of core default-styles. Rather than
+obliterating the core-styles with a hard-reset css, think about the value of css
+normalization. Using a normalized approach, the focus is to normalize the
+differences across browsers rather than eliminating all styles together. This
+means you spend less time re-creating the core styles that are very useful in
+practice.
+
+Create a UI Pattern and Component Library -
+[MailChimp has a good one](http://mailchimp.com/__bananabin/components.html).
+
+Elements that are effected by javascript behaviors should have css modified by
+adding or removing classes. Keep your css in the css-file, don't pollute the
+javascript with css properties when you could abstract those properties to the
+css file. Elements that have multiple states should have corresponding class
+names that describe those states when added to the element. The default state of
+the element is when it has no additional descriptors in the class attribute -
+the default state. For an anchor tag button, some additional states class names
+could be:
+
+```
+is-active
+is-disabled
+is-hover
+```
 
 ## General High-Order Principles
 
@@ -76,7 +136,9 @@ used for attaching functionality.
 
 **Markup**
 
-    <a href="/action" title="Submit" class="c-button js-action-submit">Submit</a>
+```
+<a href="/action" title="Submit" class="c-button js-action-submit">Submit</a>
+```
 
 **CSS**
 
@@ -157,12 +219,12 @@ the child elements css class names with two – hyphens, for example:
 **Markup**
 
 ```html
-<ul class=" c-navmenu ">
+<ul class="c-navmenu">
   <li>
-    <a class=" c-nav-menu–-item ">an item</a>
+    <a class="c-nav-menu–-item">an item</a>
   </li>
   <li>
-    <a class=" c-nav-menu–-item ">an item</a>
+    <a class="c-nav-menu–-item">an item</a>
   </li>
 </ul>
 ```
@@ -201,7 +263,7 @@ duplicate the class name, but add a modifier class separated by three — hyphen
 
 ```html
 <li>
-  <a class=" c-navmenu–item c-navmenu-item---light ">an item</a>
+  <a class="c-navmenu–item c-navmenu-item---light">an item</a>
 </li>
 ```
 
@@ -224,68 +286,6 @@ Avoid:
   time, and requirements change, components move
 - Using javascript to modify css properties - don't pollute your javascript with
   css
-
-## Techniques
-
-- Write your CSS selectors to be as concise as possible
-- Write your CSS selectors to be as performant as possible, efficient as
-  possible and even more efficient
-- Don't overqualify your CSS selectors
-- Use the lessons learned in ["Object-Oriented" CSS](http://oocss.org/)
-
-Every selector you write is additional complexity that will need to be
-maintained. Can you generalize or abstract that selector so other components can
-use it?
-
-Make use of the child selector to limit how deep your css goes. `.nav-list > li`
-can do a lot to prevent the cascade from going too deep.
-
-Think of the class attribute in HTML as a mounting-point for CSS classes,
-fixtures upon which styling is attached to markup. This is opposed to using the
-markup as a skeleton on which you drape your style.
-
-When asked to change existing code, rather than simply adding complexity with
-new classes or additional selectors, can you refactor or abstract existing
-selectors or classes to produce the desired behavior? Look at change requests as
-an opportunity to refactor.
-
-Code reuse is your friend. The first "C" in CSS stands for Cascade. Use the
-cascade to maximum advantage. Inheritance is extremely powerful. When adding a
-css property, ask yourself if you can add it higher in the cascade, and inherit
-it from a higher abstraction.
-
-Write obvious code. CSS is fragile, write code as if a novice coder would be
-maintaining your code in the future.
-
-"Extent your CSS objects with class" - not with selector specificity. Increasing
-selector specificity makes overrides more difficult and fragile to maintain.
-Class names can always be more semantic than the generic tag names at your
-disposal.
-
-Browsers actually have a very similar set of core default-styles. Rather than
-obliterating the core-styles with a hard-reset css, think about the value of css
-normalization. Using a normalized approach, the focus is to normalize the
-differences across browsers rather than eliminating all styles together. This
-means you spend less time re-creating the core styles that are very useful in
-practice.
-
-Create a UI Pattern and Component Library -
-[MailChimp has a good one](http://mailchimp.com/__bananabin/components.html).
-
-Elements that are effected by javascript behaviors should have css modified by
-adding or removing classes. Keep your css in the css-file, don't pollute the
-javascript with css properties when you could abstract those properties to the
-css file. Elements that have multiple states should have corresponding class
-names that describe those states when added to the element. The default state of
-the element is when it has no additional descriptors in the class attribute -
-the default state. For an anchor tag button, some additional states class names
-could be:
-
-```
-is-active
-is-disabled
-is-hover
-```
 
 ## Adding Behavior
 

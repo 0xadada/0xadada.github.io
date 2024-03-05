@@ -151,14 +151,16 @@ this mindset towards privacy by building pro-privacy features and services.
 > will be a terrific way to gain market share at the expense of the competition
 > -- or to lose much of your market share, if you find yourself on the wrong end
 > of a privacy campaign
-> —[Nick Szabo](http://www.fon.hum.uva.nl/rob/Courses/InformationInSpeech/CDROM/Literature/LOTwinterschool2006/szabo.best.vwh.net/privacy_marketing.html)
+>
+> <figcaption>Nick Szabo <cite>[Privacy marketing](http://www.fon.hum.uva.nl/rob/Courses/InformationInSpeech/CDROM/Literature/LOTwinterschool2006/szabo.best.vwh.net/privacy_marketing.html)</cite></figcaption>
 
 Organizations that respect and offer a straightforward choice around tracking to
 their customers will earn their trust and loyalty.
 
 > “great experiences don’t have to come at the expense of your privacy and
 > security. Instead, they can support them.”
-> —[Apple](https://www.apple.com/privacy/)
+>
+> <figcaption>Apple <cite>[Privacy Policy](https://www.apple.com/privacy/)</cite></figcaption>
 
 Apple seems to have wised-up to selling privacy as a component of a luxury
 product. They have marketed features like TouchID, ApplePay, encryption and

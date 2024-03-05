@@ -4,26 +4,10 @@ description:
   "The purpose of this paper is to provide an overview of the existing
   literature concerning speech segmentation, categorical perception, and some
   other issues concerning bilinguals of English and Japanese"
-tags: [essays, Japanese]
-style: |
-  .hentry {
-    font-family: Computer Modern Serif;
-  }
-  .hentry .c-Header { text-align: center; }
-  .hentry h1,
-  .hentry h2,
-  .hentry h3,
-  .hentry h4 {
-    text-align: center;
-    text-transform: uppercase;
-  }
+tags: [essays, Japanese, sociology]
 ---
 
-Colleges of Computer Sciences and Science (Psychology)
-<br />
-Northeastern University Boston, MA
-<br />
-Topics Concerning Japanese and English Bilinguals
+<center>Colleges of Computer Sciences and Science (Psychology)<br /> Northeastern University Boston, MA<br /> Topics Concerning Japanese and English Bilinguals </center>
 
 ### A Literature Review
 
@@ -504,87 +488,91 @@ of multiple segmentation cues, such as lexico-semantic, and prosody, and how
 these can be used interchangeably along with more native segmentation processes
 such as mora, syllable, or stress-based segmentation.
 
-## References
+## Bibliography
 
-<cite class="hanging-indent">
+<div className="hanging-indent">
+
+<cite>
 Beckman, M. (1982). Segment Duration and the ‘Mora’ in Japanese. <em>Phonetica</em>,
 39, 113-135.
 </cite>
 
-<cite class="hanging-indent">
+<cite>
 Cutler, A., & Butterfield, S. (1992). Rhythmic cues to speech segmentation:
 Evidence from juncture misperception. <em>Journal of Memory and Langauge</em>, 31,
 218-236.
 </cite>
 
-<cite class="hanging-indent">
+<cite>
 Cutler, A., Mehler, J., Norris, D., Segui, J., (1986). The Syllable’s Differing
 Role in the Segmentation of French and English. <em>Journal of Memory and
 Language</em>, 25, 385-400.
 </cite>
 
-<cite class="hanging-indent">
+<cite>
 Cutler, A., & Norris, D. (1988). The role of strong syllables in segmentation
 for lexical access. <em>Journal of Experimental Psychology: Human Perception and
 Performance</em>, 14, 113-121.
 </cite>
 
-<cite class="hanging-indent">
+<cite>
 Cutler, A., Otake, T. (2002). Rhythmic Categories in Spoken-Word Recognition.
 <em>Journal of Memory and Language</em>, 46, 296-322.
 </cite>
 
-<cite class="hanging-indent">
+<cite>
 Cutler, A., Otake, T. (1994). Mora or Phoneme? Further Evidence for
 Langauge-Specific Listening. <em>Journal of Memory and Language</em>, 33, 824-844.
 </cite>
 
-<cite class="hanging-indent">
+<cite>
 Goto, H. (1971). Auditory perception by normal Japanese adults of the sounds “L”
 and “R”. <em>Neuropsychologia</em>, 9, 317-323.
 </cite>
 
-<cite class="hanging-indent">
+<cite>
 MacKain, K. S., Best, C. T., Strange, W. (1981). Categorical perception of
 English /r/ and /l/ by Japanese bilinguals. <em>Applied Psycholinguistics</em>, 2,
 369-390.
 </cite>
 
-<cite class="hanging-indent">
+<cite>
 McQueen, M. J., Otake, T., Cutler, A., (2001). Rhythmic Cues and Possible-Word
 Constraints in Japanese Speech Segmentation. <em>Journal of Memory and Language</em>,
 45, 103-132.
 </cite>
 
-<cite class="hanging-indent">
+<cite>
 Miyawaki, K., Strange, W., Verbrugge, R., Liberman, A. M., Jenkins, J. J.,
 Fujimura, O. (1975). An effect of linguistic experience: The discrimination of
 [r] and [l] by native speakers of Japanese and English, <em>Perception &
 Psychophysics</em>, 18, 331-340.
 </cite>
 
-<cite class="hanging-indent">
+<cite>
 Norris, D. G., McQueen, J. M., Cutler, A., & Butterfield, S. (1997). The
 possible-word constraint in the segmentation of continuous speech. <em>Cognitive
 Psychology</em>, 34 191-243
 </cite>
 
-<cite class="hanging-indent">
+<cite>
 Otake, T., Hatano, G., Cutler, A., Mehler, J., (1993) Mora or Syllable? Speech
 Segmentation in Japanese. <em>Journal of Memory and Language</em>, 32, 258-278.
 </cite>
 
-<cite class="hanging-indent">
+<cite>
 Sanders, L. D., Neville, H. J., Woldorff, M. G., (2002). Speech Segmentation by
 Native and Non-Native Speakers: The Use of Lexical, Syntactic, and
 Stress-Pattern Cues. <em>Journal of Speech, Language, and Hearing Research</em>, 45,
 519-530.
 </cite>
 
-<cite class="hanging-indent">
+<cite>
 Strange, W., Dittmann, S., (1984).
 Effects of discrimination training on the
 perception of /r-l/ by Japanese adults learning English.
 <em>Perception & Psychophysics</em>,
 36(2), 131-145.
 </cite>
+
+</div>

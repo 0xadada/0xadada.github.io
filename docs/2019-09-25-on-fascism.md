@@ -8,12 +8,12 @@ tags:
     fascism,
     anti-fascism,
     capitalism,
-    society of the spectacle,
-    late capitalism,
+    society-of-the-spectacle,
+    late-capitalism,
   ]
 ---
 
-![A cop](/static/images/2019-09-25-on-fascism-police.webp)
+![Cop photo by Alec Favale](/static/images/2019-09-25-on-fascism-police.webp)
 
 Fascism is an expensive to maintain state-of-siege by the capitalist economy
 attempting to defend itself by an irrational means. Fascism rallies to the
@@ -41,37 +41,29 @@ long-term, and must be pushed aside by a more efficient and rational form of
 power; neoconservative or neoliberal representational democracy being typical
 contemporary examples.
 
-_This was an excerpt from "The Society of The Spectacle" a forthcoming new book
-by 0xADADA which reinterprets the original by Guy Debord._
-
 <aside>
-  Photo by <a href="https://unsplash.com/@alecfavale">Alec Favale</a> on 
-  <a href="https://unsplash.com/s/photos/police">Unsplash</a>
+  _This was an excerpt from "The Society of The Spectacle" a forthcoming new book
+  by 0xADADA which reinterprets the original by Guy Debord._
 </aside>
 
-<aside hidden>
-  This was also posted to
-  <a href="https://indieweb.xyz/en/socialtheory" class="u-syndication">/en/socialtheory</a>.
-</aside>
+<div className="hanging-indent">
+  <cite>
+    Debord, G. (1983).
+    <em>The society of the spectacle</em>.
+    Trans. Fredy Perlman.
+    Detroit: Black & Red, Print.
+  </cite>
 
-## References
+  <cite>
+    Debord, G. (1994).
+    <em>The society of the spectacle</em>.
+    New York: Zone Books.
+  </cite>
 
-<cite class="hanging-indent">
-Debord, G. (1983).
-<em>The society of the spectacle</em>.
-Trans. Fredy Perlman.
-Detroit: Black & Red, Print.
-</cite>
-
-<cite class="hanging-indent">
-Debord, G. (1994).
-<em>The society of the spectacle</em>.
-New York: Zone Books.
-</cite>
-
-<cite class="hanging-indent">
-Debord, G. & Knabb, K. (2014). 
-<em>The Society of the spectacle</em>.
-Berkeley, CA:
-Bureau of Public Secrets.
-</cite>
+  <cite>
+    Debord, G. & Knabb, K. (2014). 
+    <em>The Society of the spectacle</em>.
+    Berkeley, CA:
+    Bureau of Public Secrets.
+  </cite>
+</div>

@@ -9,6 +9,8 @@ tags: [projects, open-source, javascript]
 I came across an interesting interview question, along the lines of
 
 > "How would you make this work?"
+>
+> <figcaption>[Simon Højberg](https://hojberg.xyz/)</figcaption>
 
 ```javascript
 add(2, 5); // multiple arguments style

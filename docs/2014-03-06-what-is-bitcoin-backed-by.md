@@ -20,8 +20,6 @@ _Mathematics_ Bitcoins are created and transacted by a mathematical proof-of-wor
 
 _Economy_ Bitcoin is “backed” by its usefulness. Just as is the US dollar. As long as you can do things with it, then it has value. The more people can do with BTC, the more value it will have. In time, the technology and economic rules might make BTC more appealing than the USD.
 
-## Footnotes
-
 [^1]:
     Nixon finally moved the US off the Gold Standard on [August 15, 1971](https://en.wikipedia.org/wiki/Nixon_Shock), many years after [Executive Order 6102](https://en.wikipedia.org/wiki/Executive_Order_6102) which was arguably the theft of
     all gold from US residents.

@@ -109,7 +109,7 @@ abbr {
   cursor: help;
 }
 @media (min-width: 60rem) {
-  abbr::after {
+  abbr::before {
     /* shows abbr title as sidenotes */
     content: attr(title);
     width: calc(var(--sideNoteWidth) - 2rem);
@@ -146,14 +146,6 @@ h6 {
   font-weight: 700;
   letter-spacing: -0.025em;
   line-height: 1;
-}
-
-code,
-pre {
-  background-color: #f8f8f8;
-  font-family: monospace;
-  white-space: pre;
-  overflow: scroll;
 }
 
 q,
@@ -202,14 +194,27 @@ figure {
   text-align: center;
 }
 
+code,
+pre {
+  background-color: #f8f8f8;
+  font-family: monospace;
+  white-space: pre;
+  overflow: scroll;
+}
+pre {
+  padding: 1rem;
+}
+
 figure,
-blockquote {
+blockquote,
+pre {
   margin: 0 -1.5rem;
 }
 
 @media (min-width: 60rem) {
   figure,
-  blockquote {
+  blockquote,
+  pre {
     margin: 0 -16.5rem 0 -1.5rem;
     margin-right: calc(
       0rem - var(--bodyPadding) + calc(0rem - var(--sideNoteWidth))
@@ -261,6 +266,8 @@ article header {
   }
   article .entry-content {
     font-size: 1.25em;
+  }
+  article .entry-content p {
     text-align: justify;
     text-wrap: pretty;
   }

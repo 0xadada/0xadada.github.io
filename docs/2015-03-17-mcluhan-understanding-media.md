@@ -8,9 +8,9 @@ tags:
     politics,
     mass media,
     media,
-    media studies,
+    media-studies,
     television,
-    Marshall McLuhan,
+    marshall-mcluhan,
   ]
 ---
 
@@ -18,20 +18,13 @@ In Understanding Media, McLuhan describes the shift in western society from an
 agrarian economy to an industrial economy as a template for the next shift from
 an industrial economy to an information economy.
 
-> “Another characteristic reversal after passing a road break boundary is that
+> Another characteristic reversal after passing a road break boundary is that
 > the country ceases to be the center of all work, and the city ceases to be the
 > center of leisure. In fact, improved roads and transport have reversed the
 > ancient pattern and made cities the centers of work and the country the place
-> of leisure and of recreation.”
+> of leisure and of recreation.[^mc]
 >
-> <figcaption>
->   <cite>
->     <a href="https://books.google.com/books?id=UUMoGmujREwC&pg=PA173&lpg=PA173&dq=%22Another+characteristic+reversal%22&source=bl&ots=2E5XNz0d_S&sig=s669uSFDmRDh9TE3ZdZr-WtuAR0&hl=en&sa=X&ved=0ahUKEwiPgdnridfRAhVi54MKHZ3BBn4Q6AEIEzAA#v=onepage&q=%22Another%20characteristic%20reversal%22&f=false)">Understanding
-> Media</a>
->   </cite>
->   &mdash;
->   Marshall McLuhan
-> </figcaption>
+> <figcaption>Marshall McLuhan <cite>[Understanding Media](https://books.google.com/books?id=UUMoGmujREwC&pg=PA173&lpg=PA173&dq=%22Another+characteristic+reversal%22&source=bl&ots=2E5XNz0d_S&sig=s669uSFDmRDh9TE3ZdZr-WtuAR0&hl=en&sa=X&ved=0ahUKEwiPgdnridfRAhVi54MKHZ3BBn4Q6AEIEzAA#v=onepage&q=%22Another%20characteristic%20reversal%22&f=false)</cite></figcaption>
 
 He goes on to describe how farmers lived and worked on the land in the
 countryside. The rise of industrialization lead to a shift in the focus of labor
@@ -56,9 +49,4 @@ of seeing deep into societal shifts before they happened, and providing guidance
 as they unfolded. Perhaps his works should be revisited, as they continue to
 provide useful insights.
 
-## References
-
-McLuhan, Marshall.
-_[Understanding Media: The Extensions of Man](https://mitpress.mit.edu/books/understanding-media)_.
-Cambridge: MIT,
-Print. 1994.
+[^mc]: <cite>McLuhan, Marshall. _[Understanding Media: The Extensions of Man](https://mitpress.mit.edu/books/understanding-media)_. Cambridge: MIT, Print. 1994.</cite>

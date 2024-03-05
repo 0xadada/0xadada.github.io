@@ -4,21 +4,18 @@ description:
   "On the commodification of attention, the abuses of unpaid microwork and
   strategies of resistance."
 image: /static/images/2018-04-24-against-facebook-preview.jpg
-tags: [essays, privacy, Facebook]
+tags: [essays, privacy, facebook]
 ---
 
-<aside>
-  <a href="https://nadarespetable.com/2020/03/25/contra-facebook-parte-1/" rel="external" title="Contra Facebook [Parte 1]">Español: "Contra Facebook" [Parte 1]</a>,
-  <a href="https://nadarespetable.com/2020/03/26/contra-facebook-parte-2/" rel="external" title="Contra Facebook [Parte 2]">[Parte 2]</a>
+<aside className="fn">
+  [Contra Facebook, Parte 1](https://nadarespetable.com/2020/03/25/contra-facebook-parte-1/),
+  [Contra Facebook, Parte 2](https://nadarespetable.com/2020/03/26/contra-facebook-parte-2/)
 </aside>
 
 On the commodification of attention, the abuses of unpaid microwork and
 strategies of resistance.
 
-<figure>
-  <img src="/static/images/2018-05-01-against-facebook-title.jpg"
-    alt="Against Facebook" title="Against Facebook" />
-</figure>
+![Against Facebook](/static/images/2018-05-01-against-facebook-title.jpg)
 
 _Alarm goes off, time to wake up. Snooze alarm, and then repeat: check email,
 check Facebook, check Twitter, check Snapchat, rinse; repeat again; no new
@@ -58,17 +55,20 @@ retweeting, and generally dedicating our time, attention, and emotions to these
 platforms—each tiny action its own form of labor, given over freely to the
 advertisers.
 
-> “The new media of surveillance capitalism solicit social behaviors, monitor
+> The new media of surveillance capitalism solicit social behaviors, monitor
 > those behaviors, map social interactions, and resell what they learn to
-> advertisers and others.” <cite>(Turner, 2017)</cite>
+> advertisers and others.
+>
+> <figcaption><cite>(Turner, 2017)</cite></figcaption>
 
 Platforms like Facebook are attempting to create systems for the generation of
 distraction, Crary describes it as follows:
 
-> “conditions that individuate, immobilize, and separate subjects, even within a
+> conditions that individuate, immobilize, and separate subjects, even within a
 > world in which mobility and circulation are ubiquitous. In this way attention
-> becomes key to the operation of noncoercive forms of power” <cite>(Crary,
-> 2001, pg. 74)</cite>
+> becomes key to the operation of noncoercive forms of power.
+>
+> <figcaption><cite>(Crary, 2001, pg. 74)</cite></figcaption>
 
 Over time, these systems continually push our attention and distraction to new
 limits and thresholds. Youtube & Netflix discovered that auto-playing the next
@@ -116,11 +116,7 @@ mediated by the features and “images of friendship” within it through Liked 
 Retweeted posts, Snapchat streaks, Follow requests, posted text, images or even
 how we reduce our emotions into a series of emoji (Smith, 2016).
 
-<figure>
-  <img src="/static/images/2018-05-01-facebook-spectacle-graph.svg"
-    alt="The process of commodification" title="The process of commodification" />
-  <figcaption>The process of commodification</figcaption>
-</figure>
+![The process of commodification](/static/images/2018-05-01-facebook-spectacle-graph.svg)
 
 In this way, the platform is able to monetize our friendships, tastes, opinions,
 and even our emotions. Our internal thoughts and experiences become
@@ -133,7 +129,7 @@ paid a dime.
 > overloaded with stimuli. Man Doesn't learn to question his world anymore; The
 > screen offers him answers already made.
 >
-> Joost Meerloo _Rape of the Mind_
+> <figcaption>Joost Meerloo <cite>Rape of the Mind</cite></figcaption>
 
 Instead of blindly activating our social media habit for that quick dopamine
 fix, consider who actually benefits. Are you performing a microwork task for
@@ -141,11 +137,7 @@ Facebook or Snapchat? If so, then why aren't you being paid?
 
 ## What They Say vs What They Do
 
-<figure>
-  <img src="/static/images/2018-05-01-facebook-spectacle.jpg"
-    alt="The Society of the Facebook" title="The Society of the Facebook" />
-  <figcaption>The Society of the Facebook</figcaption>
-</figure>
+![The Society of the Facebook](/static/images/2018-05-01-facebook-spectacle.jpg)
 
 Newspapers, cable news, and social media platforms are trying to turn us all
 into media addicts. These businesses rely on persuading us to consume more and
@@ -172,7 +164,9 @@ When it comes to engagement, Facebook’s 2017 Annual Report makes it clear:
 > The increase in the ads delivered was driven by an increase in users and their
 > engagement and an increase in the number and frequency of ads displayed on
 > News Feed, partially offset by increasing user engagement with video content
-> and other product changes. <cite>(Facebook, 2017)</cite>
+> and other product changes.
+>
+> <figcaption><cite>(Facebook, 2017)</cite></figcaption>
 
 We think we’re immune to the persuasiveness of advertising, but remember,
 advertising is a \$600 billion dollar industry that is the financial basis of
@@ -186,7 +180,8 @@ Hatch asked him, “How do you sustain a business model in which people don’t 
 for your service?” his response was as straightforward as it could’ve been:
 “Senator, we run ads.” (NBC News, 2018).
 
-<figure><iframe width="560" height="315" src="https://www.youtube.com/embed/n2H8wx1aBiQ?rel=0&amp;controls=0" frameBorder="0" allow="autoplay; encrypted-media" allowFullScreen style={{maxWidth: '100%'}}></iframe>
+<figure>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/n2H8wx1aBiQ?rel=0&amp;controls=0" frameBorder="0" allow="autoplay; encrypted-media" allowFullScreen style={{maxWidth: '100%'}}></iframe>
  <figcaption>Senator, we run ads.</figcaption>
 </figure>
 
@@ -204,8 +199,10 @@ process of "exchanging time for image, provides the counterflow to the moving
 image and as advertising revenues would indicate, is itself productive of
 value." (Beller 2006, p.79)
 
-> "Facebook’s nearly one billion users have become the largest unpaid workforce
-> in history" <cite>(Laney, 2012)</cite>
+> Facebook’s nearly one billion users have become the largest unpaid workforce
+> in history.
+>
+> <figcaption><cite>(Laney, 2012)</cite></figcaption>
 
 The intended effect the media wishes to create is media-driven neuroticism—a
 love of change for its own sake, or neomania, a love of new things. Ultimately,
@@ -222,15 +219,7 @@ _image of how they want to appear, not of how they actually are._
 
 ## Practical Defense Against Unpaid Microwork
 
-<figure>
-  <img src="/static/images/2018-04-24-against-facebook.jpg"
-    alt="News Feed, by Beeple" title="News Feed, by Beeple" />
-  <figcaption>
-    <a href="https://www.artstation.com/artwork/6VW95" title="News Feed">"News
-      Feed"</a>,
-    by Beeple.
-  </figcaption>
-</figure>
+![News Feed, by Beeple](/static/images/2018-04-24-against-facebook.jpg)
 
 Today it's popular to hear about the media detox or a social media diet. The
 concept is often framed as a metaphor for eating and weight loss. We can extend
@@ -253,7 +242,9 @@ both misdirect and distract, and has negative effects on our mood.
 
 > Distraction could be described as a phenomenon in which you connect,
 > inadvertently or absentmindedly, to more things than you intended. The noise
-> drowns out the signal. <cite>(Solnit, 2018)</cite>
+> drowns out the signal.
+>
+> <figcaption><cite>(Solnit, 2018)</cite></figcaption>
 
 A practical approach for a healthy relationship with the media we consume is to
 create distance between ourselves and the media that surrounds us on a daily
@@ -281,12 +272,14 @@ effective ways to reclaim clarity of thought, and autonomy of attention.
 The task is to change the very way we attend the world around us. Henry David
 Thoreau described a similar mental recalibration in _Life Without Principle_:
 
-> If we have thus desecrated ourselves, — as who has not? — the remedy will be
+> If we have thus desecrated ourselves, -- as who has not? -- the remedy will be
 > by wariness and devotion to reconsecrate ourselves, and make once more a fane
 > of the mind. _We should treat our minds, that is, ourselves, as innocent and
 > ingenuous children, whose guardians we are, and be careful what objects and
 > what subjects we thrust on their attention._ Read not the Times. Read the
-> Eternities. <cite>(Thoreau, 1863)</cite>
+> Eternities.
+>
+> <figcaption><cite>(Thoreau, 1863)</cite></figcaption>
 
 This essay proposes the _survivorship_ bias as the criteria to determine which
 media to ignore as mundane, cheap, and ephemeral. Survivorship sets the focus on
@@ -295,14 +288,17 @@ following recommendation in _Antifragile_:
 
 > “[read] as little as feasible from the last twenty years, except history books
 > that are not about the last fifty years. [...what most people do] is read
-> timely material that becomes instantly obsolete. (Taleb, 2012)
+> timely material that becomes instantly obsolete.
+>
+> <figcaption>Nicholas Nassim Taleb <cite>(Taleb, 2012)</cite></figcaption>
 
 Aaron Swartz had similar sentiments:
 
 > Its obsession with the criminal and the deviant makes us less trusting people.
 > Its obsession with the hurry of the day-to-day makes us less reflective
 > thinkers. Its obsession with surfaces makes us shallow.
-> <cite>(Swartz, 2006)</cite>
+>
+> <figcaption>Aaron Swartz <cite>(Swartz, 2006)</cite></figcaption>
 
 Survivorship is a simple heuristic with which to judge media, be it books, news,
 social media, television, academic journal articles or even video games. A
@@ -335,7 +331,9 @@ take action!
 > example of the ways that the spectacle takes advantage of its subordination of
 > the masses. It is a process to which they have no control other than to
 > renounce image culture completely which in a hyperreal world is almost
-> inconceivable. <cite>(Berthelot, 2013)</cite>
+> inconceivable.
+>
+> <figcaption><cite>(Berthelot, 2013)</cite></figcaption>
 
 Any efforts to reform the practices that produce the addictive symptoms of the
 attention economy will fail to address the underlying structures of late
@@ -665,7 +663,9 @@ promotions and deals. (Dormehl, 2014).
 > "The problem with the web and its associated technologies is that it has made
 > it so easy to share information about ourselves that doing so begins to feel
 > like an obligation, a sentence, a sisyphean curse; another day, another photo
-> of lunch to post." <cite>(Beato, G.)</cite>
+> of lunch to post."
+>
+> <figcaption><cite>(Beato, G.)</cite></figcaption>
 
 Facebook manipulates our emotions with experiments on the News Feed. (Booth,
 2014).
@@ -714,8 +714,6 @@ I thank the following friends for their feedback:
 [Suzi Dao](https://twitter.com/suzidao),
 [Stephen](https://twitter.com/b_apothecary) &
 [qtychr](https://twitter.com/qtychr).
-
-## References
 
 <div className="hanging-indent">
 
