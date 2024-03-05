@@ -61,7 +61,7 @@ nationally, spanning a long history from the Watts Rebellion to Rodney King, the
 Kneel Movement and most recently with #BlackLivesMatter. This is yet another
 example of the cycle of racist imperialism coming home.
 
-Dr. Casey Delehanty and colleagues at Gardner-Webb University found<sup>1</sup>
+Dr. Casey Delehanty and colleagues at Gardner-Webb University found[^1]
 that districts that received the maximum 1033 transfers are twice as likely to
 have police killings compared to districts that receive none.
 
@@ -73,7 +73,7 @@ We're also seeing the effects of imperialism on our soldiers coming home and
 finding the most relevant jobs in the police force, and yet their mandates are
 diametrically opposed. Many of these soldiers carry the mental scars of war, are
 being streamlined from the streets of Fallujah to the city blocks of the US with
-little mental heathcare or transitional training.
+little mental heathcare or transitional training[^2].
 
 It is therefore in the best interests of our community to demilitarize and
 defund the police, and in doing so, we work towards a more **just** society that
@@ -84,7 +84,5 @@ applies to **all** members of our community.
   City Council Finance Committee hearing on the FY-21 Budget.</em>
 </aside>
 
-## References
-
-- [IN THE SHADOWS OF THE WAR ON TERROR: PERSISTENT POLICE BRUTALITY AND ABUSE OF PEOPLE OF COLOR IN THE UNITED STATES: A report prepared for the United Nations Committee on the Elimination of Racial Discrimination](https://www2.ohchr.org/english/bodies/cerd/docs/ngos/usa/USHRN15.pdf)
-- [Coming Home to Roost: American Militarism, War Culture, and Police Brutality](https://dissidentvoice.org/2014/02/coming-home-to-roost/)
+[^1]: [IN THE SHADOWS OF THE WAR ON TERROR: PERSISTENT POLICE BRUTALITY AND ABUSE OF PEOPLE OF COLOR IN THE UNITED STATES: A report prepared for the United Nations Committee on the Elimination of Racial Discrimination](https://www2.ohchr.org/english/bodies/cerd/docs/ngos/usa/USHRN15.pdf)
+[^2]: [Coming Home to Roost: American Militarism, War Culture, and Police Brutality](https://dissidentvoice.org/2014/02/coming-home-to-roost/)

@@ -8,21 +8,13 @@ image: /static/images/2020-03-15-elasticity-versus-discipline-luther-bottrill.jp
 tags: [essays, economics]
 ---
 
-<figure>
-  <img src="/static/images/2020-03-15-elasticity-versus-discipline-luther-bottrill.jpg" alt="Police in Valencia Spain by Luther Bottrill" title="Police in Valencia Spain by Luther Bottrill" />
-  <figcaption>Police in Valencia Spain by Luther Bottrill</figcaption>
-</figure>
+![Police in Valencia Spain by Luther Bottrill](/static/images/2020-03-15-elasticity-versus-discipline-luther-bottrill.jpg)
 
-> “A central issue of contestation is <strong>elasticity versus discipline</strong>, elasticity
+> A central issue of contestation is _elasticity versus discipline_, elasticity
 > for me and discipline for you, alchemy of banking and money funding for me,
-> austerity and borrowing/payment for you.”
+> austerity and borrowing/payment for you.
 >
-> <figcaption>
->   &mdash;Perry Mehrling,
->   <cite>
->     <a href="https://www.perrymehrling.com/2019/03/liquidity-changes-everything/" rel="external">Liquidity Changes Everything</a>
->   </cite>
-> </figcaption>
+> <figcaption>Perry Mehrling, <cite>[Liquidity Changes Everything](https://www.perrymehrling.com/2019/03/liquidity-changes-everything/)</cite></figcaption>
 
 Like 2009,
 [the (coming/arriving) financial collapse of 2020](https://twitter.com/i/events/1238487524856803331)
@@ -35,7 +27,9 @@ think: _"The Fed is literally buying failed financial instruments to prevent
 banks and financial companies from going out of business"_. Currently, according
 to [Section 14](https://www.federalreserve.gov/aboutthefed/section14.htm) of the
 Federal Reserve Act, the Fed is prevented from buying assets (stocks, index
-funds <ruby>CDO<rp>(</rp><rt>Collateralized Debt Obligation</rt><rp>)</rp></ruby>, <ruby>MBS<rp>(</rp><rt>Mortgage Backed Security</rt><rp>)</rp></ruby>)
+funds
+<abbr title="CDO: Collateralized Debt Obligation">CDO</abbr>,
+mortgage backed security
 directly on the market. Instead they can only buy government-backed assets,
 mostly bonds and MBSs by institutions like Freddie Mac that _are_ government
 backed. Instead, the Feds first line of defense is lowering interest rates, and
@@ -53,13 +47,13 @@ backed securities: potentially any failing public stocks, private CDOs and
 MBSs[^4]. What this means is
 the Fed can buy the most dangerous, volatile, and toxic assets that nobody else
 is buying, the ones that are the first to fail in a bursting bubble. This is a
-Fed that has institutionalized &amp; _encouraged_ systemic moral hazard&mdash;
-saying, in effect: <q>If you (the finance sector) create risky assets and they
+Fed that has institutionalized & _encouraged_ systemic moral hazard--saying,
+in effect: <q>If you (the finance sector) create risky assets and they
 fail, we'll allow you to profit during the good times and we'll save you by
 buying them back during the bad times</q>.
 
-Remember the Microsoft Zune mp3 player? Probably not, because it failed
-horribly. Now imagine Microsoft had put so much investment into its Zune, that
+Remember the <abbr title="Nobody remembers the Zune, it failed horribly">Microsoft Zune</abbr> mp3 player?
+Now imagine Microsoft had put so much investment into its Zune, that
 when nobody bought it, and the product failed, the company would've gone
 bankrupt. Now, if this were the financial sector, this is where the Fed becomes
 the Dealer of Last Resort, steps in and buys all the Zune mp3 players, saving
@@ -71,28 +65,20 @@ last 10 years, those very same assets the industry has made huge profits from;
 but now that the profits have stopped, the Fed bails them out by buying them
 when no one else will.
 
-(Update: Jan 2021[^5], Nov 2021[^6]) nearly 10 months since this essay was published, we're
+(Update: Jan 2021[^5]) Nearly 10 months since this essay was published, we're
 already seeing strong indicators that consumer purchasing power
 will be severely hurt by inflation. So while government stipends may help in the
 near short term, long term people will be hurt by less value for every dollar
 they earn.
 
-<figure>
-  <img src="/static/images/2020-03-15-M2-money-stock.png" alt="FRED: M2 Money Stock" />
-  <figcaption>
-    Chart from the St. Louis Federal Reserve Bank. FRED M2 Money Stock.
-    <br />
-    The US Fed has printed more money in 2020 alone than the prior 6 years 
-    combined.
-  </figcaption>
-</figure>
+![Chart from the St. Louis Federal Reserve Bank. FRED M2 Money Stock. The US Fed has printed more money in 2020 alone than the prior 6 years combined. This chart has been recently discontinued in favor of the M2SL. Perhaps when their metrics show negative monetary policy results, they just change the metrics. I guess if you can't win the game, you just change the rules.](/static/images/2020-03-15-M2-money-stock.png)
 
 When the Fed goes to congress to ask for changes to Section 14, they will use
 the Shock Doctrine playbook: <q>the banks will fail</q>, <q>retirement funds
 will tank</q>, <q>companies will go out of business</q>, <q>we're in desperate
 times, so we need to take desparate measures</q>. These predictions are all
 true, and these outcomes will happen: but the solution they offer only addresses
-the symptoms, but not the root cause&mdash; the
+the symptoms, but not the root cause--the
 **deregulation[^1]** of the
 financial sector. Neoliberal deregulation of the financial sector over the last
 40 years has encouraged banks to put money into risky bubbles that keep popping,
@@ -130,11 +116,11 @@ hazard. The financial industry literally cannot lose because the Fed will always
 save them.
 
 In effect, this is <q>Socialism for the rich, rugged individualism for the
-poor</q> &mdash;
+poor</q> --
 [Martin Luther King, Jr.](https://books.google.com/books?hl=de&id=B8k6btUYR68C&q=%22socialism+for+the+rich%22#v=snippet&q=%22socialism%20for%20the%20rich%22&f=false)
 (pp 346).
 
-> [Lemon socialism](https://en.wikipedia.org/wiki/Lemon_socialism) is a
+> Lemon socialism is a
 > pejorative term for a form of government intervention in which government
 > subsidies go to weak or failing firms (lemons; see Lemon law), with the
 > effective result that the government (and thus the taxpayer) absorbs part or
@@ -142,6 +128,8 @@ poor</q> &mdash;
 > socialism the government may nationalize a company's profits while leaving the
 > company to pay its own losses, while in lemon socialism the company is allowed
 > to keep its profits but its losses are shifted to the taxpayer.
+>
+> <figcaption><cite>[Lemon socialism](https://en.wikipedia.org/wiki/Lemon_socialism)</cite></figcaption>
 
 So the imbalance: Why does the Fed continually save the financial industry every
 10 years, but not any other industry? Why does the
@@ -164,13 +152,7 @@ puts it: <q>the cruelty is the point</q>:
 > powerful have ever kept the powerless divided and in their place, and enriched
 > themselves in the process.
 >
-> <figcaption>
->   &mdash;
->   Adam Serwer,
->   <cite>
->     <a href="https://www.theatlantic.com/ideas/archive/2018/10/the-cruelty-is-the-point/572104/" rel="external" title="The Cruelty is the Point">The Cruelty is the Point</a>
->   </cite>
-> </figcaption>
+> <figcaption>Adam Serwer, <cite>[The Cruelty is the Point](https://www.theatlantic.com/ideas/archive/2018/10/the-cruelty-is-the-point/572104/)</cite></figcaption>
 
 We, as a society are starting to understand that the financial sector is rotten
 to the core, and this rot is going to seep into public sentiment: _"If they
@@ -189,13 +171,11 @@ feedback.
     affiliation restrictions of the Glass–Steagall Act, and the free-for-all stock
     buybacks in the financial sector since 2010:
 
-    <figure>
-       <img src="/static/images/2020-03-15-buybacks.jpg" alt="Stock buybacks since 2010" />
-       <figcaption>Financial stock buybacks since 2010.</figcaption>
-    </figure>
-    Furthermore, The only ways to mitigate risk-loading is strict limitations 
+    ![Financial stock buybacks since 2010](/static/images/2020-03-15-buybacks.jpg)
+
+    Furthermore, The only ways to mitigate risk-loading is strict limitations
     on executive compensation, employee bonuses, and no mergers or acquisitions
-    for at least 10 years. These banks should be nationalized, its execs fired and all 
+    for at least 10 years. These banks should be nationalized, its execs fired and all
     contracts voided. New leadershp will be brought in as reasonably paid public servants.
 
 [^2]:
@@ -210,32 +190,29 @@ feedback.
     their execs and CEOs. Since 2010 the major airlines have invested $45B in
     buybacks, and now asks for $50B in bailouts.
 
-    <figure>
-       <img src="/static/images/2020-03-15-airline-buybacks.png" alt="Airline buybacks since 2010" />
-       <figcaption>Airline stock buybacks since 2010.</figcaption>
-    </figure>
+    ![Airline stock buybacks since 2010](/static/images/2020-03-15-airline-buybacks.png)
+
     This means that they spent $45B
     of their own money betting that their stocks would go up in value, paying out
     any profits to their execs and CEOs as their valuations rose, and when
-    the market burst, they asked for their money back <strong>and an additional
-    $5B on top</strong>. To put this simply, this is a massive con-job and
+    the market burst, they asked for their money back _and an additional
+    $5B on top_. To put this simply, this is a massive con-job and
     outright theft. Nationalizing the airline industry is a win-win: it will
     create good paying american jobs, make flying more affordable, mitigate cost
-    cutting at the expense of flight safety (see 'Boeing 737 Max'), and mitigate 
+    cutting at the expense of flight safety (see 'Boeing 737 Max'), and mitigate
     market risk.
 
 [^3]:
     Update: March 25th<br />
     After reviewing early drafts of the
-    <q><a href="https://www.majorityleader.gov/sites/democraticwhip.house.gov/files/COVIDSUPP3_xml.pdf" rel="external">Take
-    Responsibility for Workers and Families Act</a></q>,
+    [Take Responsibility for Workers and Families Act](https://www.majorityleader.gov/sites/democraticwhip.house.gov/files/COVIDSUPP3_xml.pdf),
     as proposed, Wall Street, will suddenly have $4-6T of
     government guaranteed low cost credit to go shopping for businesses in
     trouble. We would see the mother of all roll-ups, as small and medium sized
     businesses desperately try to get whatever they can from deep-pocketed
     private equity investors and monopolists. If that happens, the America we
     know, of heterogeneous small businesses would look very different
-    after this pandemic is over&mdash;a homogeneous space optimized for
+    after this pandemic is over--a homogeneous space optimized for
     massive corporations and destroying local autonomy and diversity.
 
 [^4]:
@@ -243,7 +220,7 @@ feedback.
     As predicted, the Fed is starting to take consumer credit debt
     and commercial MBSes onto its balance sheet.
     <q>The Fed will now accept triple-A rated tranches of existing commercial mortgage-backed securities and newly issued collateralized loan obligations. Under TALF, the Fed lends money to investors to buy securities backed by credit-card loans and other consumer debt. The Fed has made $100 billion available for that program and didn’t increase the amount Thursday.</q>
-    <a href="https://www.wsj.com/articles/fed-announces-new-facilities-to-support-2-3-trillion-in-lending-11586435450?emailToken=541e2dedd6bede9b4d6ae9d44a2a062c7HuWo9MeoBNqhzmd09hf0IEjJVhb1HTeGJkTRwnEgr2wW1szbCZ9iSqB5eAUfJ5MrTaa7qUHJRxPktf+vdJ7dWh4tMok+E1cIneDsYK4DiTVjOvzKtS2+Vbq7iqpfucG">Fed Expands Corporate-Debt Backstops, Unveils New Programs to Aid States, Cities and Small Businesses</a>
+    [Fed Expands Corporate-Debt Backstops, Unveils New Programs to Aid States, Cities and Small Businesses](https://www.wsj.com/articles/fed-announces-new-facilities-to-support-2-3-trillion-in-lending-11586435450?emailToken=541e2dedd6bede9b4d6ae9d44a2a062c7HuWo9MeoBNqhzmd09hf0IEjJVhb1HTeGJkTRwnEgr2wW1szbCZ9iSqB5eAUfJ5MrTaa7qUHJRxPktf+vdJ7dWh4tMok+E1cIneDsYK4DiTVjOvzKtS2+Vbq7iqpfucG)
 
 [^5]:
     Update: January 25, 2021<br />
@@ -256,10 +233,3 @@ feedback.
     deposits, money market securities, mutual funds, and other time deposits.
     These assets are less liquid than M1 and not as suitable as exchange mediums,
     but they can be quickly converted into cash or checking deposits.
-
-[^6]:
-    Update: November 18, 2021<br />
-    The chart I added in footnote 5 has been recently discontinued in favor of the
-    M2SL. Perhaps when their metrics show negative monetary policy results, they
-    just change the metrics. I guess if you can't win the game, you just change
-    the rules.
