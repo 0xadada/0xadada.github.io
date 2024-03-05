@@ -4,7 +4,7 @@
         <description><![CDATA[0xADADA]]></description>
         <link>https://0xadada.pub</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 04 Mar 2024 20:07:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Mar 2024 02:23:04 GMT</lastBuildDate>
         <atom:link href="https://0xadada.pub/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[A Year of Tech Layoffs]]></title>
@@ -916,22 +916,23 @@ sudo dscl . create "${HOME}" Picture "${PWD}/avatar.jpg"
         </item>
         <item>
             <title><![CDATA[The U.S. is a Failed Experiment]]></title>
-            <description><![CDATA[<p>The United States was started as a rational experiment in democratic capitalism
+            <description><![CDATA[<p><img src="/static/images/2020-09-04-us-corporate-flag.jpg" alt="The Corporate States of America by AdBusters"></p>
+<p>The United States was started as a rational experiment in democratic capitalism
 based on ideas that inspired its forefathers. They were influenced by ideas
 coming out of the Enlightenment, specifically Adam Smith, Locke, Rousseau, and
 the conception of humans resorting to “the state of nature” and acting in
 bad-faith with one another.</p>
 <blockquote>
-<p>“fuck the monarchy, let’s experiment with a rational government based on
-contract law and this new capitalism stuff.”</p>
+<p>fuck the monarchy, let’s experiment with a rational government based on
+contract law and this new capitalism stuff.</p>
 </blockquote>
 <p>The problem with this type of Hobbesian thinking is “man will resort to kill or
 be killed in the ‘state of nature’” and therefore the State must enforce
 contacts to ensure civility and protect the rights of property.</p>
 <p>My thinking is more aligned with Zeynep Tufecki:</p>
 <blockquote>
-<p>“We think of society as this Hobbesian thing, as opposed to the reality where
-most people are very friendly, most people are prone to solidarity.”</p>
+<p>We think of society as this Hobbesian thing, as opposed to the reality where
+most people are very friendly, most people are prone to solidarity.</p>
 </blockquote>
 <p>In disasters and daily life, people want to help each other, and feel as part of
 something greater than themselves. The atomization of the individual, a result
@@ -993,7 +994,7 @@ forces. This militarization has lead to the increase of police violence
 nationally, spanning a long history from the Watts Rebellion to Rodney King, the
 Kneel Movement and most recently with #BlackLivesMatter. This is yet another
 example of the cycle of racist imperialism coming home.</p>
-<p>Dr. Casey Delehanty and colleagues at Gardner-Webb University found1
+<p>Dr. Casey Delehanty and colleagues at Gardner-Webb University found<sup><a href="#user-content-fn-1" id="user-content-fnref-1" data-footnote-ref aria-describedby="footnote-label">1</a></sup>
 that districts that received the maximum 1033 transfers are twice as likely to
 have police killings compared to districts that receive none.</p>
 <p>There is little evidence that such militarization reduces crime, and
@@ -1003,15 +1004,20 @@ violence against their own population.</p>
 finding the most relevant jobs in the police force, and yet their mandates are
 diametrically opposed. Many of these soldiers carry the mental scars of war, are
 being streamlined from the streets of Fallujah to the city blocks of the US with
-little mental heathcare or transitional training.</p>
+little mental heathcare or transitional training<sup><a href="#user-content-fn-2" id="user-content-fnref-2" data-footnote-ref aria-describedby="footnote-label">2</a></sup>.</p>
 <p>It is therefore in the best interests of our community to demilitarize and
 defund the police, and in doing so, we work towards a more <strong>just</strong> society that
 applies to <strong>all</strong> members of our community.</p>
-<h2 id="references">References</h2>
-<ul>
-<li><a href="https://www2.ohchr.org/english/bodies/cerd/docs/ngos/usa/USHRN15.pdf">IN THE SHADOWS OF THE WAR ON TERROR: PERSISTENT POLICE BRUTALITY AND ABUSE OF PEOPLE OF COLOR IN THE UNITED STATES: A report prepared for the United Nations Committee on the Elimination of Racial Discrimination</a></li>
-<li><a href="https://dissidentvoice.org/2014/02/coming-home-to-roost/">Coming Home to Roost: American Militarism, War Culture, and Police Brutality</a></li>
-</ul>]]></description>
+<section data-footnotes class="footnotes"><h2 class="sr-only" id="footnote-label">Footnotes</h2>
+<ol>
+<li id="user-content-fn-1">
+<p><a href="https://www2.ohchr.org/english/bodies/cerd/docs/ngos/usa/USHRN15.pdf">IN THE SHADOWS OF THE WAR ON TERROR: PERSISTENT POLICE BRUTALITY AND ABUSE OF PEOPLE OF COLOR IN THE UNITED STATES: A report prepared for the United Nations Committee on the Elimination of Racial Discrimination</a> <a href="#user-content-fnref-1" data-footnote-backref="" aria-label="Back to reference 1" class="data-footnote-backref">↩</a></p>
+</li>
+<li id="user-content-fn-2">
+<p><a href="https://dissidentvoice.org/2014/02/coming-home-to-roost/">Coming Home to Roost: American Militarism, War Culture, and Police Brutality</a> <a href="#user-content-fnref-2" data-footnote-backref="" aria-label="Back to reference 2" class="data-footnote-backref">↩</a></p>
+</li>
+</ol>
+</section>]]></description>
             <link>https://0xadada.pub/2020/06/24/testimony-on-defunding-the-somerville-police/</link>
             <guid isPermaLink="true">https://0xadada.pub/2020/06/24/testimony-on-defunding-the-somerville-police/</guid>
             <category><![CDATA[essays]]></category>
@@ -1210,10 +1216,11 @@ regardless of how it’s being invoked.</p>]]></description>
         </item>
         <item>
             <title><![CDATA[Elasticity Versus Discipline]]></title>
-            <description><![CDATA[<blockquote>
-<p>“A central issue of contestation is elasticity versus discipline, elasticity
+            <description><![CDATA[<p><img src="/static/images/2020-03-15-elasticity-versus-discipline-luther-bottrill.jpg" alt="Police in Valencia Spain by Luther Bottrill"></p>
+<blockquote>
+<p>A central issue of contestation is <em>elasticity versus discipline</em>, elasticity
 for me and discipline for you, alchemy of banking and money funding for me,
-austerity and borrowing/payment for you.”</p>
+austerity and borrowing/payment for you.</p>
 </blockquote>
 <p>Like 2009,
 <a href="https://twitter.com/i/events/1238487524856803331">the (coming/arriving) financial collapse of 2020</a>
@@ -1225,7 +1232,9 @@ think: <em>“The Fed is literally buying failed financial instruments to preven
 banks and financial companies from going out of business”</em>. Currently, according
 to <a href="https://www.federalreserve.gov/aboutthefed/section14.htm">Section 14</a> of the
 Federal Reserve Act, the Fed is prevented from buying assets (stocks, index
-funds CDO(Collateralized Debt Obligation), MBS(Mortgage Backed Security))
+funds
+CDO,
+mortgage backed security
 directly on the market. Instead they can only buy government-backed assets,
 mostly bonds and MBSs by institutions like Freddie Mac that <em>are</em> government
 backed. Instead, the Feds first line of defense is lowering interest rates, and
@@ -1241,12 +1250,12 @@ backed securities: potentially any failing public stocks, private CDOs and
 MBSs<sup><a href="#user-content-fn-4" id="user-content-fnref-4" data-footnote-ref aria-describedby="footnote-label">1</a></sup>. What this means is
 the Fed can buy the most dangerous, volatile, and toxic assets that nobody else
 is buying, the ones that are the first to fail in a bursting bubble. This is a
-Fed that has institutionalized &#x26; <em>encouraged</em> systemic moral hazard—
-saying, in effect: If you (the finance sector) create risky assets and they
+Fed that has institutionalized &#x26; <em>encouraged</em> systemic moral hazard—saying,
+in effect: If you (the finance sector) create risky assets and they
 fail, we’ll allow you to profit during the good times and we’ll save you by
 buying them back during the bad times.</p>
-<p>Remember the Microsoft Zune mp3 player? Probably not, because it failed
-horribly. Now imagine Microsoft had put so much investment into its Zune, that
+<p>Remember the Microsoft Zune mp3 player?
+Now imagine Microsoft had put so much investment into its Zune, that
 when nobody bought it, and the product failed, the company would’ve gone
 bankrupt. Now, if this were the financial sector, this is where the Fed becomes
 the Dealer of Last Resort, steps in and buys all the Zune mp3 players, saving
@@ -1256,18 +1265,19 @@ sheet”—its buying the failed assets the financial industry has created over 
 last 10 years, those very same assets the industry has made huge profits from;
 but now that the profits have stopped, the Fed bails them out by buying them
 when no one else will.</p>
-<p>(Update: Jan 2021<sup><a href="#user-content-fn-5" id="user-content-fnref-5" data-footnote-ref aria-describedby="footnote-label">2</a></sup>, Nov 2021<sup><a href="#user-content-fn-6" id="user-content-fnref-6" data-footnote-ref aria-describedby="footnote-label">3</a></sup>) nearly 10 months since this essay was published, we’re
+<p>(Update: Jan 2021<sup><a href="#user-content-fn-5" id="user-content-fnref-5" data-footnote-ref aria-describedby="footnote-label">2</a></sup>) Nearly 10 months since this essay was published, we’re
 already seeing strong indicators that consumer purchasing power
 will be severely hurt by inflation. So while government stipends may help in the
 near short term, long term people will be hurt by less value for every dollar
 they earn.</p>
+<p><img src="/static/images/2020-03-15-M2-money-stock.png" alt="Chart from the St. Louis Federal Reserve Bank. FRED M2 Money Stock. The US Fed has printed more money in 2020 alone than the prior 6 years combined. This chart has been recently discontinued in favor of the M2SL. Perhaps when their metrics show negative monetary policy results, they just change the metrics. I guess if you can&#x27;t win the game, you just change the rules."></p>
 <p>When the Fed goes to congress to ask for changes to Section 14, they will use
 the Shock Doctrine playbook: the banks will fail, retirement funds
 will tank, companies will go out of business, we’re in desperate
 times, so we need to take desparate measures. These predictions are all
 true, and these outcomes will happen: but the solution they offer only addresses
-the symptoms, but not the root cause— the
-<strong>deregulation<sup><a href="#user-content-fn-1" id="user-content-fnref-1" data-footnote-ref aria-describedby="footnote-label">4</a></sup></strong> of the
+the symptoms, but not the root cause—the
+<strong>deregulation<sup><a href="#user-content-fn-1" id="user-content-fnref-1" data-footnote-ref aria-describedby="footnote-label">3</a></sup></strong> of the
 financial sector. Neoliberal deregulation of the financial sector over the last
 40 years has encouraged banks to put money into risky bubbles that keep popping,
 retirement funds of regular people are directly tied into that system, even
@@ -1283,7 +1293,7 @@ fungible rules around banking, investing, taxation, and bailouts when things go
 bad. For the rest of the economy, and individuals, we get <strong>discipline</strong>:
 massive losses, austerity and cuts to social programs and public infrastructure,
 moralizing our individual failures as people, capitalizing on the large-scale
-failures of small businesses<sup><a href="#user-content-fn-3" id="user-content-fnref-3" data-footnote-ref aria-describedby="footnote-label">5</a></sup>, and continual indebtedness for the poor and
+failures of small businesses<sup><a href="#user-content-fn-3" id="user-content-fnref-3" data-footnote-ref aria-describedby="footnote-label">4</a></sup>, and continual indebtedness for the poor and
 middle classes.</p>
 <p>This is an ideological conservatism combined with a blind faith in an economics
 that can never be wrong. As Frank Wilhoit put it Conservatism consists of
@@ -1304,7 +1314,7 @@ poor —
 <a href="https://books.google.com/books?hl=de&#x26;id=B8k6btUYR68C&#x26;q=%22socialism+for+the+rich%22#v=snippet&#x26;q=%22socialism%20for%20the%20rich%22&#x26;f=false">Martin Luther King, Jr.</a>
 (pp 346).</p>
 <blockquote>
-<p><a href="https://en.wikipedia.org/wiki/Lemon_socialism">Lemon socialism</a> is a
+<p>Lemon socialism is a
 pejorative term for a form of government intervention in which government
 subsidies go to weak or failing firms (lemons; see Lemon law), with the
 effective result that the government (and thus the taxpayer) absorbs part or
@@ -1317,7 +1327,7 @@ to keep its profits but its losses are shifted to the taxpayer.</p>
 10 years, but not any other industry? Why does the
 <a href="https://www.newyorkfed.org/markets/opolicy/operating_policy_200312a">Fed create and spend 1.5T dollars to purchase worthless and arcane financial instruments</a>,
 but never spend on public goods like housing, student education, public
-infrastructure<sup><a href="#user-content-fn-2" id="user-content-fnref-2" data-footnote-ref aria-describedby="footnote-label">6</a></sup>?</p>
+infrastructure<sup><a href="#user-content-fn-2" id="user-content-fnref-2" data-footnote-ref aria-describedby="footnote-label">5</a></sup>?</p>
 <p>And now we get to the systemic asymetries of power. Trump and those within his
 inner circle, as well as his political base believe they are entitled to the
 rights and protections of the law, and meanwhile cast blame and stigmatize those
@@ -1349,7 +1359,7 @@ feedback.</p>
 As predicted, the Fed is starting to take consumer credit debt
 and commercial MBSes onto its balance sheet.
 The Fed will now accept triple-A rated tranches of existing commercial mortgage-backed securities and newly issued collateralized loan obligations. Under TALF, the Fed lends money to investors to buy securities backed by credit-card loans and other consumer debt. The Fed has made $100 billion available for that program and didn’t increase the amount Thursday.
-Fed Expands Corporate-Debt Backstops, Unveils New Programs to Aid States, Cities and Small Businesses <a href="#user-content-fnref-4" data-footnote-backref="" aria-label="Back to reference 1" class="data-footnote-backref">↩</a></p>
+<a href="https://www.wsj.com/articles/fed-announces-new-facilities-to-support-2-3-trillion-in-lending-11586435450?emailToken=541e2dedd6bede9b4d6ae9d44a2a062c7HuWo9MeoBNqhzmd09hf0IEjJVhb1HTeGJkTRwnEgr2wW1szbCZ9iSqB5eAUfJ5MrTaa7qUHJRxPktf+vdJ7dWh4tMok+E1cIneDsYK4DiTVjOvzKtS2+Vbq7iqpfucG">Fed Expands Corporate-Debt Backstops, Unveils New Programs to Aid States, Cities and Small Businesses</a> <a href="#user-content-fnref-4" data-footnote-backref="" aria-label="Back to reference 1" class="data-footnote-backref">↩</a></p>
 </li>
 <li id="user-content-fn-5">
 <p>Update: January 25, 2021
@@ -1363,23 +1373,20 @@ deposits, money market securities, mutual funds, and other time deposits.
 These assets are less liquid than M1 and not as suitable as exchange mediums,
 but they can be quickly converted into cash or checking deposits. <a href="#user-content-fnref-5" data-footnote-backref="" aria-label="Back to reference 2" class="data-footnote-backref">↩</a></p>
 </li>
-<li id="user-content-fn-6">
-<p>Update: November 18, 2021
-The chart I added in footnote 5 has been recently discontinued in favor of the
-M2SL. Perhaps when their metrics show negative monetary policy results, they
-just change the metrics. I guess if you can’t win the game, you just change
-the rules. <a href="#user-content-fnref-6" data-footnote-backref="" aria-label="Back to reference 3" class="data-footnote-backref">↩</a></p>
-</li>
 <li id="user-content-fn-1">
 <p>Specifically, the gutting of the Volcker Rule, the repeal of the
 affiliation restrictions of the Glass–Steagall Act, and the free-for-all stock
-buybacks in the financial sector since 2010: <a href="#user-content-fnref-1" data-footnote-backref="" aria-label="Back to reference 4" class="data-footnote-backref">↩</a></p>
+buybacks in the financial sector since 2010:</p>
+<p><img src="/static/images/2020-03-15-buybacks.jpg" alt="Financial stock buybacks since 2010"></p>
+<p>Furthermore, The only ways to mitigate risk-loading is strict limitations
+on executive compensation, employee bonuses, and no mergers or acquisitions
+for at least 10 years. These banks should be nationalized, its execs fired and all
+contracts voided. New leadershp will be brought in as reasonably paid public servants. <a href="#user-content-fnref-1" data-footnote-backref="" aria-label="Back to reference 3" class="data-footnote-backref">↩</a></p>
 </li>
 <li id="user-content-fn-3">
 <p>Update: March 25th
 After reviewing early drafts of the
-Take
-Responsibility for Workers and Families Act,
+<a href="https://www.majorityleader.gov/sites/democraticwhip.house.gov/files/COVIDSUPP3_xml.pdf">Take Responsibility for Workers and Families Act</a>,
 as proposed, Wall Street, will suddenly have $4-6T of
 government guaranteed low cost credit to go shopping for businesses in
 trouble. We would see the mother of all roll-ups, as small and medium sized
@@ -1387,7 +1394,7 @@ businesses desperately try to get whatever they can from deep-pocketed
 private equity investors and monopolists. If that happens, the America we
 know, of heterogeneous small businesses would look very different
 after this pandemic is over—a homogeneous space optimized for
-massive corporations and destroying local autonomy and diversity. <a href="#user-content-fnref-3" data-footnote-backref="" aria-label="Back to reference 5" class="data-footnote-backref">↩</a></p>
+massive corporations and destroying local autonomy and diversity. <a href="#user-content-fnref-3" data-footnote-backref="" aria-label="Back to reference 4" class="data-footnote-backref">↩</a></p>
 </li>
 <li id="user-content-fn-2">
 <p>This is our biggest opportunity, while we have the most leverage, to heavily
@@ -1399,7 +1406,17 @@ nationalize the airline industry. Since 2010, the
 very same industry has been investing their money directly into stock
 buybacks, pumping up their own stock prices, and paying huge bonuses to
 their execs and CEOs. Since 2010 the major airlines have invested $45B in
-buybacks, and now asks for $50B in bailouts. <a href="#user-content-fnref-2" data-footnote-backref="" aria-label="Back to reference 6" class="data-footnote-backref">↩</a></p>
+buybacks, and now asks for $50B in bailouts.</p>
+<p><img src="/static/images/2020-03-15-airline-buybacks.png" alt="Airline stock buybacks since 2010"></p>
+<p>This means that they spent $45B
+of their own money betting that their stocks would go up in value, paying out
+any profits to their execs and CEOs as their valuations rose, and when
+the market burst, they asked for their money back <em>and an additional
+$5B on top</em>. To put this simply, this is a massive con-job and
+outright theft. Nationalizing the airline industry is a win-win: it will
+create good paying american jobs, make flying more affordable, mitigate cost
+cutting at the expense of flight safety (see ‘Boeing 737 Max’), and mitigate
+market risk. <a href="#user-content-fnref-2" data-footnote-backref="" aria-label="Back to reference 5" class="data-footnote-backref">↩</a></p>
 </li>
 </ol>
 </section>]]></description>
