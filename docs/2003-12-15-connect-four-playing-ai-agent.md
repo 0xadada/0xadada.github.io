@@ -7,20 +7,9 @@ description:
 author: "0xADADA, Erik Ibsen, Chen Zhang"
 license: cc-by
 tags: [projects, artificial intelligence, software engineering]
-style: |
-  .hentry .c-Header { text-align: center; }
-  .hentry h1,
-  .hentry h2,
-  .hentry h3,
-  .hentry h4 {
-    text-align: center;
-    text-transform: uppercase;
-  }
 ---
 
-<center>
-0xADADA, Erik Ibsen, Chen Zhang <br /> Khoury College of Computer Sciences <br /> Northeastern University Boston, MA
-</center>
+<center>0xADADA, Erik Ibsen, Chen Zhang <br /> Khoury College of Computer Sciences <br /> Northeastern University Boston, MA </center>
 
 ---
 

@@ -44,16 +44,16 @@ Most importantly, he emphasizes the importance of validating theory with
 practice, and as such, this book is a practical framework for revolutionaries
 who _think and do_.
 
-<figure>
-  <a href="https://unredacted-word.pub/spectacle/" title="go to Book">
-    <img src="/static/images/2021-04-01-the-society-of-the-spectacle-cover.png" alt="The Society of the Spectacle, cover design" />
-  </a>
-  <figcaption>The Society of the Spectacle, book cover design</figcaption>
-</figure>
+[![The Society of the Spectacle, cover design](/static/images/2021-04-01-the-society-of-the-spectacle-cover.png)](https://unredacted-word.pub/spectacle/)
 
 Debord’s text is concise, economical, poetic, provocative, and difficult. As
 Michael Hardt & Antonio Negri describe it in their notes to _Empire_ as
-"delirious".[^1] His work contains many references to Hegel and Marx. He uses
+"<abbr title="Quoting Hardt & Negri: “...Debord recognized this spectacle as the destiny of
+triumphant capitalism. Despite their important differences, such authors offer
+us real anticipations of the path of capitalist development.” And continuting
+in their notes: “[The Spectacle], which is perhaps the best articulation, in
+its own delirious way, of the contemporary consciousness of the triumph of
+capital.”">delirious</abbr>".[^1] His work contains many references to Hegel and Marx. He uses
 words and phrases defined in other Situationist texts, and expects the reader to
 be familiar with them. This is to be expected, as he demands much from the
 reader, and had written for a small audience of “fifty or sixty people”[^2] who
@@ -161,9 +161,8 @@ written. I am optimistic that together we _can_ make another world possible.
     us real anticipations of the path of capitalist development." And continuting
     in their notes: "[The Spectacle], which is perhaps the best articulation, in
     its own delirious way, of the contemporary consciousness of the triumph of
-    capital."
-    <br />
-    <cite>Hardt, M. & Negri, A. (2000). <em>Empire</em>. Cambridge, Mass: Harvard University
+    capital."<br /><cite>Hardt, M. & Negri, A. (2000).
+    <em>Empire</em>. Cambridge, Mass: Harvard University
     Press. 0674251210.</cite> (Pp. 188/444).
 
 [^2]:
@@ -178,7 +177,6 @@ written. I am optimistic that together we _can_ make another world possible.
     doing quite the opposite. Having, then, to take account of readers who are
     both attentive and diversely influential, I obviously cannot speak with
     complete freedom. Above all, I must take care not to give too much information
-    to just anybody.”
-    <cite> Debord, G. & Imrie, M. (1998). <em>Comments on the society of the spectacle</em>.
-    London New York: Verso. 9781844676729.
-    </cite> (Pp. 1)
+    to just anybody.”<br /><cite> Debord, G. & Imrie, M. (1998).
+    <em>Comments on the society of the spectacle</em>.
+    London New York: Verso. 9781844676729. </cite> (Pp. 1)

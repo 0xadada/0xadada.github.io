@@ -4,7 +4,7 @@
         <description><![CDATA[0xADADA]]></description>
         <link>https://0xadada.pub</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 04 Mar 2024 19:31:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Mar 2024 19:15:39 GMT</lastBuildDate>
         <atom:link href="https://0xadada.pub/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[A Year of Tech Layoffs]]></title>
@@ -555,6 +555,7 @@ decentralized workers councils, a suggestion made only twice in the entire text.
 Most importantly, he emphasizes the importance of validating theory with
 practice, and as such, this book is a practical framework for revolutionaries
 who <em>think and do</em>.</p>
+<p><a href="https://unredacted-word.pub/spectacle/"><img src="/static/images/2021-04-01-the-society-of-the-spectacle-cover.png" alt="The Society of the Spectacle, cover design"></a></p>
 <p>Debord’s text is concise, economical, poetic, provocative, and difficult. As
 Michael Hardt &#x26; Antonio Negri describe it in their notes to <em>Empire</em> as
 “delirious”.<sup><a href="#user-content-fn-1" id="user-content-fnref-1" data-footnote-ref aria-describedby="footnote-label">1</a></sup> His work contains many references to Hegel and Marx. He uses
@@ -656,9 +657,8 @@ triumphant capitalism. Despite their important differences, such authors offer
 us real anticipations of the path of capitalist development.” And continuting
 in their notes: “[The Spectacle], which is perhaps the best articulation, in
 its own delirious way, of the contemporary consciousness of the triumph of
-capital.”
-
-Hardt, M. &#x26; Negri, A. (2000). Empire. Cambridge, Mass: Harvard University
+capital.”Hardt, M. &#x26; Negri, A. (2000).
+Empire. Cambridge, Mass: Harvard University
 Press. 0674251210. (Pp. 188/444). <a href="#user-content-fnref-1" data-footnote-backref="" aria-label="Back to reference 1" class="data-footnote-backref">↩</a></p>
 </li>
 <li id="user-content-fn-2">
@@ -673,10 +673,9 @@ spectacular system of domination, and the other half of people who persist in
 doing quite the opposite. Having, then, to take account of readers who are
 both attentive and diversely influential, I obviously cannot speak with
 complete freedom. Above all, I must take care not to give too much information
-to just anybody.”
- Debord, G. &#x26; Imrie, M. (1998). Comments on the society of the spectacle.
-London New York: Verso. 9781844676729.
- (Pp. 1) <a href="#user-content-fnref-2" data-footnote-backref="" aria-label="Back to reference 2" class="data-footnote-backref">↩</a></p>
+to just anybody.” Debord, G. &#x26; Imrie, M. (1998).
+Comments on the society of the spectacle.
+London New York: Verso. 9781844676729.  (Pp. 1) <a href="#user-content-fnref-2" data-footnote-backref="" aria-label="Back to reference 2" class="data-footnote-backref">↩</a></p>
 </li>
 </ol>
 </section>]]></description>
@@ -916,22 +915,23 @@ sudo dscl . create "${HOME}" Picture "${PWD}/avatar.jpg"
         </item>
         <item>
             <title><![CDATA[The U.S. is a Failed Experiment]]></title>
-            <description><![CDATA[<p>The United States was started as a rational experiment in democratic capitalism
+            <description><![CDATA[<p><img src="/static/images/2020-09-04-us-corporate-flag.jpg" alt="The Corporate States of America by AdBusters"></p>
+<p>The United States was started as a rational experiment in democratic capitalism
 based on ideas that inspired its forefathers. They were influenced by ideas
 coming out of the Enlightenment, specifically Adam Smith, Locke, Rousseau, and
 the conception of humans resorting to “the state of nature” and acting in
 bad-faith with one another.</p>
 <blockquote>
-<p>“fuck the monarchy, let’s experiment with a rational government based on
-contract law and this new capitalism stuff.”</p>
+<p>fuck the monarchy, let’s experiment with a rational government based on
+contract law and this new capitalism stuff.</p>
 </blockquote>
 <p>The problem with this type of Hobbesian thinking is “man will resort to kill or
 be killed in the ‘state of nature’” and therefore the State must enforce
 contacts to ensure civility and protect the rights of property.</p>
 <p>My thinking is more aligned with Zeynep Tufecki:</p>
 <blockquote>
-<p>“We think of society as this Hobbesian thing, as opposed to the reality where
-most people are very friendly, most people are prone to solidarity.”</p>
+<p>We think of society as this Hobbesian thing, as opposed to the reality where
+most people are very friendly, most people are prone to solidarity.</p>
 </blockquote>
 <p>In disasters and daily life, people want to help each other, and feel as part of
 something greater than themselves. The atomization of the individual, a result
@@ -993,7 +993,7 @@ forces. This militarization has lead to the increase of police violence
 nationally, spanning a long history from the Watts Rebellion to Rodney King, the
 Kneel Movement and most recently with #BlackLivesMatter. This is yet another
 example of the cycle of racist imperialism coming home.</p>
-<p>Dr. Casey Delehanty and colleagues at Gardner-Webb University found1
+<p>Dr. Casey Delehanty and colleagues at Gardner-Webb University found<sup><a href="#user-content-fn-1" id="user-content-fnref-1" data-footnote-ref aria-describedby="footnote-label">1</a></sup>
 that districts that received the maximum 1033 transfers are twice as likely to
 have police killings compared to districts that receive none.</p>
 <p>There is little evidence that such militarization reduces crime, and
@@ -1003,15 +1003,20 @@ violence against their own population.</p>
 finding the most relevant jobs in the police force, and yet their mandates are
 diametrically opposed. Many of these soldiers carry the mental scars of war, are
 being streamlined from the streets of Fallujah to the city blocks of the US with
-little mental heathcare or transitional training.</p>
+little mental heathcare or transitional training<sup><a href="#user-content-fn-2" id="user-content-fnref-2" data-footnote-ref aria-describedby="footnote-label">2</a></sup>.</p>
 <p>It is therefore in the best interests of our community to demilitarize and
 defund the police, and in doing so, we work towards a more <strong>just</strong> society that
 applies to <strong>all</strong> members of our community.</p>
-<h2 id="references">References</h2>
-<ul>
-<li><a href="https://www2.ohchr.org/english/bodies/cerd/docs/ngos/usa/USHRN15.pdf">IN THE SHADOWS OF THE WAR ON TERROR: PERSISTENT POLICE BRUTALITY AND ABUSE OF PEOPLE OF COLOR IN THE UNITED STATES: A report prepared for the United Nations Committee on the Elimination of Racial Discrimination</a></li>
-<li><a href="https://dissidentvoice.org/2014/02/coming-home-to-roost/">Coming Home to Roost: American Militarism, War Culture, and Police Brutality</a></li>
-</ul>]]></description>
+<section data-footnotes class="footnotes"><h2 class="sr-only" id="footnote-label">Footnotes</h2>
+<ol>
+<li id="user-content-fn-1">
+<p><a href="https://www2.ohchr.org/english/bodies/cerd/docs/ngos/usa/USHRN15.pdf">IN THE SHADOWS OF THE WAR ON TERROR: PERSISTENT POLICE BRUTALITY AND ABUSE OF PEOPLE OF COLOR IN THE UNITED STATES: A report prepared for the United Nations Committee on the Elimination of Racial Discrimination</a> <a href="#user-content-fnref-1" data-footnote-backref="" aria-label="Back to reference 1" class="data-footnote-backref">↩</a></p>
+</li>
+<li id="user-content-fn-2">
+<p><a href="https://dissidentvoice.org/2014/02/coming-home-to-roost/">Coming Home to Roost: American Militarism, War Culture, and Police Brutality</a> <a href="#user-content-fnref-2" data-footnote-backref="" aria-label="Back to reference 2" class="data-footnote-backref">↩</a></p>
+</li>
+</ol>
+</section>]]></description>
             <link>https://0xadada.pub/2020/06/24/testimony-on-defunding-the-somerville-police/</link>
             <guid isPermaLink="true">https://0xadada.pub/2020/06/24/testimony-on-defunding-the-somerville-police/</guid>
             <category><![CDATA[essays]]></category>
@@ -1210,10 +1215,11 @@ regardless of how it’s being invoked.</p>]]></description>
         </item>
         <item>
             <title><![CDATA[Elasticity Versus Discipline]]></title>
-            <description><![CDATA[<blockquote>
-<p>“A central issue of contestation is elasticity versus discipline, elasticity
+            <description><![CDATA[<p><img src="/static/images/2020-03-15-elasticity-versus-discipline-luther-bottrill.jpg" alt="Police in Valencia Spain by Luther Bottrill"></p>
+<blockquote>
+<p>A central issue of contestation is <em>elasticity versus discipline</em>, elasticity
 for me and discipline for you, alchemy of banking and money funding for me,
-austerity and borrowing/payment for you.”</p>
+austerity and borrowing/payment for you.</p>
 </blockquote>
 <p>Like 2009,
 <a href="https://twitter.com/i/events/1238487524856803331">the (coming/arriving) financial collapse of 2020</a>
@@ -1225,28 +1231,30 @@ think: <em>“The Fed is literally buying failed financial instruments to preven
 banks and financial companies from going out of business”</em>. Currently, according
 to <a href="https://www.federalreserve.gov/aboutthefed/section14.htm">Section 14</a> of the
 Federal Reserve Act, the Fed is prevented from buying assets (stocks, index
-funds CDO(Collateralized Debt Obligation), MBS(Mortgage Backed Security))
+funds
+CDO,
+mortgage backed security
 directly on the market. Instead they can only buy government-backed assets,
 mostly bonds and MBSs by institutions like Freddie Mac that <em>are</em> government
 backed. Instead, the Feds first line of defense is lowering interest rates, and
 then creating liquidity by buying long-term maturities.</p>
 <p>With the interest rates at zero, the biggest lever at the Fed is effectively
-broken, and now they’ve got to find another lever. Last Friday (6 March), Boston
-Fed President Eric Rosengren called on Congress to expand the Fed’s powers to
+broken, and now they’ve got to find another lever. Last Friday, Boston Fed
+President Eric Rosengren called on Congress to expand the Fed’s powers to
 buy and sell a broader range of assets. This will require congressional
 approval, and during this period of crisis, I’m certain Shock Doctrine politics
 will win out, and these ammendments will pass. I hope I’m wrong.</p>
 <p>So what does this mean? This means that the Fed can start buying non-government
 backed securities: potentially any failing public stocks, private CDOs and
-MBSs<sup><a href="#user-content-fn-4" id="user-content-fnref-4" data-footnote-ref aria-describedby="footnote-label">1</a></sup>. What this means is
+MBSs<sup><a href="#user-content-fn-april2021" id="user-content-fnref-april2021" data-footnote-ref aria-describedby="footnote-label">1</a></sup>. What this means is
 the Fed can buy the most dangerous, volatile, and toxic assets that nobody else
 is buying, the ones that are the first to fail in a bursting bubble. This is a
-Fed that has institutionalized &#x26; <em>encouraged</em> systemic moral hazard—
-saying, in effect: If you (the finance sector) create risky assets and they
+Fed that has institutionalized &#x26; <em>encouraged</em> systemic moral hazard—saying,
+in effect: If you (the finance sector) create risky assets and they
 fail, we’ll allow you to profit during the good times and we’ll save you by
 buying them back during the bad times.</p>
-<p>Remember the Microsoft Zune mp3 player? Probably not, because it failed
-horribly. Now imagine Microsoft had put so much investment into its Zune, that
+<p>Remember the Microsoft Zune mp3 player?
+Now imagine Microsoft had put so much investment into its Zune, that
 when nobody bought it, and the product failed, the company would’ve gone
 bankrupt. Now, if this were the financial sector, this is where the Fed becomes
 the Dealer of Last Resort, steps in and buys all the Zune mp3 players, saving
@@ -1256,18 +1264,19 @@ sheet”—its buying the failed assets the financial industry has created over 
 last 10 years, those very same assets the industry has made huge profits from;
 but now that the profits have stopped, the Fed bails them out by buying them
 when no one else will.</p>
-<p>(Update: Jan 2021<sup><a href="#user-content-fn-5" id="user-content-fnref-5" data-footnote-ref aria-describedby="footnote-label">2</a></sup>, Nov 2021<sup><a href="#user-content-fn-6" id="user-content-fnref-6" data-footnote-ref aria-describedby="footnote-label">3</a></sup>) nearly 10 months since this essay was published, we’re
+<p>Nearly 10 months<sup><a href="#user-content-fn-jan2021" id="user-content-fnref-jan2021" data-footnote-ref aria-describedby="footnote-label">2</a></sup> since this essay was published, we’re
 already seeing strong indicators that consumer purchasing power
 will be severely hurt by inflation. So while government stipends may help in the
 near short term, long term people will be hurt by less value for every dollar
 they earn.</p>
+<p><img src="/static/images/2020-03-15-M2-money-stock.png" alt="Chart from the St. Louis Federal Reserve Bank. FRED M2 Money Stock. The US Fed has printed more money in 2020 alone than the prior 6 years combined. This chart has been recently discontinued in favor of the M2SL. Perhaps when their metrics show negative monetary policy results, they just change the metrics. I guess if you can&#x27;t win the game, you just change the rules."></p>
 <p>When the Fed goes to congress to ask for changes to Section 14, they will use
 the Shock Doctrine playbook: the banks will fail, retirement funds
 will tank, companies will go out of business, we’re in desperate
 times, so we need to take desparate measures. These predictions are all
 true, and these outcomes will happen: but the solution they offer only addresses
-the symptoms, but not the root cause— the
-<strong>deregulation<sup><a href="#user-content-fn-1" id="user-content-fnref-1" data-footnote-ref aria-describedby="footnote-label">4</a></sup></strong> of the
+the symptoms, but not the root cause—the
+<strong>deregulation</strong> of the
 financial sector. Neoliberal deregulation of the financial sector over the last
 40 years has encouraged banks to put money into risky bubbles that keep popping,
 retirement funds of regular people are directly tied into that system, even
@@ -1278,12 +1287,19 @@ These asset types need to be drastically limited to qualified investors and
 speculators only.</p>
 <p>As it stands, bailouts will reward the most risky investors and speculators,
 while passive investors, retirees, and taxpayers will end up bailing out these
-risk takers. Thus, for the finance sector, the Fed provides <strong>elasticity</strong>:
+risk takers. We’ve already seen it happen, specifically, the gutting of the Volcker Rule, the repeal of the
+affiliation restrictions of the Glass–Steagall Act, and the giant free-for-all stock
+buybacks taking place.</p>
+<p><img src="/static/images/2020-03-15-buybacks.jpg" alt="Financial stock buybacks since 2010"></p>
+<p>The only ways to mitigate risk-loading is strict limitations on executive compensation, employee bonuses, and no
+mergers or acquisitions for at least 10 years. These banks should be nationalized, its execs fired and all contracts
+voided. New leadershp will be brought in as reasonably paid public servants.</p>
+<p>Thus, for the finance sector, the Fed provides <strong>elasticity</strong>:
 fungible rules around banking, investing, taxation, and bailouts when things go
 bad. For the rest of the economy, and individuals, we get <strong>discipline</strong>:
 massive losses, austerity and cuts to social programs and public infrastructure,
 moralizing our individual failures as people, capitalizing on the large-scale
-failures of small businesses<sup><a href="#user-content-fn-3" id="user-content-fnref-3" data-footnote-ref aria-describedby="footnote-label">5</a></sup>, and continual indebtedness for the poor and
+failures of small businesses<sup><a href="#user-content-fn-shopping" id="user-content-fnref-shopping" data-footnote-ref aria-describedby="footnote-label">3</a></sup>, and continual indebtedness for the poor and
 middle classes.</p>
 <p>This is an ideological conservatism combined with a blind faith in an economics
 that can never be wrong. As Frank Wilhoit put it Conservatism consists of
@@ -1300,11 +1316,9 @@ out. It’s all upside, and no downside. This is the very definition of moral
 hazard. The financial industry literally cannot lose because the Fed will always
 save them.</p>
 <p>In effect, this is Socialism for the rich, rugged individualism for the
-poor —
-<a href="https://books.google.com/books?hl=de&#x26;id=B8k6btUYR68C&#x26;q=%22socialism+for+the+rich%22#v=snippet&#x26;q=%22socialism%20for%20the%20rich%22&#x26;f=false">Martin Luther King, Jr.</a>
-(pp 346).</p>
+poor —<a href="https://books.google.com/books?hl=de&#x26;id=B8k6btUYR68C&#x26;q=%22socialism+for+the+rich%22#v=snippet&#x26;q=%22socialism%20for%20the%20rich%22&#x26;f=false">Martin Luther King, Jr.</a> (pp 346).</p>
 <blockquote>
-<p><a href="https://en.wikipedia.org/wiki/Lemon_socialism">Lemon socialism</a> is a
+<p>Lemon socialism is a
 pejorative term for a form of government intervention in which government
 subsidies go to weak or failing firms (lemons; see Lemon law), with the
 effective result that the government (and thus the taxpayer) absorbs part or
@@ -1317,7 +1331,25 @@ to keep its profits but its losses are shifted to the taxpayer.</p>
 10 years, but not any other industry? Why does the
 <a href="https://www.newyorkfed.org/markets/opolicy/operating_policy_200312a">Fed create and spend 1.5T dollars to purchase worthless and arcane financial instruments</a>,
 but never spend on public goods like housing, student education, public
-infrastructure<sup><a href="#user-content-fn-2" id="user-content-fnref-2" data-footnote-ref aria-describedby="footnote-label">6</a></sup>?</p>
+infrastructure?</p>
+<p>This is our biggest opportunity, while we have the most leverage, to heavily
+invest in public infrastructure and works programs. The airline industry is
+already asking for bailouts to the tune of $50B. This isn’t the time for
+bailouts, this is the time for imagination, to create a society that works
+for everyone. This is the time to nationalize the airline industry. Since 2010, the
+very same industry has been investing their money directly into stock
+buybacks, pumping up their own stock prices, and paying huge bonuses to
+their execs and CEOs. Since 2010 the major airlines have invested $45B in
+buybacks, and now asks for $50B in bailouts.</p>
+<p><img src="/static/images/2020-03-15-airline-buybacks.png" alt="Airline stock buybacks since 2010"></p>
+<p>This means that they spent $45B of their own money betting that their stocks would go up in value, paying out
+any profits to their execs and CEOs as their valuations rose, and when
+the market burst, they asked for their money back <em>and an additional
+$5B on top</em>. To put this simply, this is a massive con-job and
+outright theft. Nationalizing the airline industry is a win-win: it will
+create good paying american jobs, make flying more affordable, mitigate cost
+cutting at the expense of flight safety (see ‘Boeing 737 Max’), and mitigate
+market risk.</p>
 <p>And now we get to the systemic asymetries of power. Trump and those within his
 inner circle, as well as his political base believe they are entitled to the
 rights and protections of the law, and meanwhile cast blame and stigmatize those
@@ -1344,42 +1376,28 @@ C., and Garrick Y. for reviewing early drafts of this essay and providing
 feedback.</p>
 <section data-footnotes class="footnotes"><h2 class="sr-only" id="footnote-label">Footnotes</h2>
 <ol>
-<li id="user-content-fn-4">
-<p>Update: April 9th
+<li id="user-content-fn-april2021">
+<p>Update: April 9th, 2021
 As predicted, the Fed is starting to take consumer credit debt
 and commercial MBSes onto its balance sheet.
 The Fed will now accept triple-A rated tranches of existing commercial mortgage-backed securities and newly issued collateralized loan obligations. Under TALF, the Fed lends money to investors to buy securities backed by credit-card loans and other consumer debt. The Fed has made $100 billion available for that program and didn’t increase the amount Thursday.
-Fed Expands Corporate-Debt Backstops, Unveils New Programs to Aid States, Cities and Small Businesses <a href="#user-content-fnref-4" data-footnote-backref="" aria-label="Back to reference 1" class="data-footnote-backref">↩</a></p>
+<a href="https://www.wsj.com/articles/fed-announces-new-facilities-to-support-2-3-trillion-in-lending-11586435450?emailToken=541e2dedd6bede9b4d6ae9d44a2a062c7HuWo9MeoBNqhzmd09hf0IEjJVhb1HTeGJkTRwnEgr2wW1szbCZ9iSqB5eAUfJ5MrTaa7qUHJRxPktf+vdJ7dWh4tMok+E1cIneDsYK4DiTVjOvzKtS2+Vbq7iqpfucG">Fed Expands Corporate-Debt Backstops, Unveils New Programs to Aid States, Cities and Small Businesses</a> <a href="#user-content-fnref-april2021" data-footnote-backref="" aria-label="Back to reference 1" class="data-footnote-backref">↩</a></p>
 </li>
-<li id="user-content-fn-5">
+<li id="user-content-fn-jan2021">
 <p>Update: January 25, 2021
-Added a chart of the FRED M2 Money Stock from the Federal Reserve Bank of
-St. Louis.
+Added a chart of the FRED M2 Money Stock from the Federal Reserve Bank of St. Louis.
 M2 is closely watched as an indicator of money supply and future inflation,
 and as a target of central bank monetary policy. M2 is a calculation of the
 money supply that includes all elements of M1 as well as “near money.” M1
 includes cash and checking deposits, while near money refers to savings
 deposits, money market securities, mutual funds, and other time deposits.
 These assets are less liquid than M1 and not as suitable as exchange mediums,
-but they can be quickly converted into cash or checking deposits. <a href="#user-content-fnref-5" data-footnote-backref="" aria-label="Back to reference 2" class="data-footnote-backref">↩</a></p>
+but they can be quickly converted into cash or checking deposits. <a href="#user-content-fnref-jan2021" data-footnote-backref="" aria-label="Back to reference 2" class="data-footnote-backref">↩</a></p>
 </li>
-<li id="user-content-fn-6">
-<p>Update: November 18, 2021
-The chart I added in footnote 5 has been recently discontinued in favor of the
-M2SL. Perhaps when their metrics show negative monetary policy results, they
-just change the metrics. I guess if you can’t win the game, you just change
-the rules. <a href="#user-content-fnref-6" data-footnote-backref="" aria-label="Back to reference 3" class="data-footnote-backref">↩</a></p>
-</li>
-<li id="user-content-fn-1">
-<p>Specifically, the gutting of the Volcker Rule, the repeal of the
-affiliation restrictions of the Glass–Steagall Act, and the free-for-all stock
-buybacks in the financial sector since 2010: <a href="#user-content-fnref-1" data-footnote-backref="" aria-label="Back to reference 4" class="data-footnote-backref">↩</a></p>
-</li>
-<li id="user-content-fn-3">
-<p>Update: March 25th
+<li id="user-content-fn-shopping">
+<p>Update: March 25th, 2021
 After reviewing early drafts of the
-Take
-Responsibility for Workers and Families Act,
+<a href="https://www.majorityleader.gov/sites/democraticwhip.house.gov/files/COVIDSUPP3_xml.pdf">Take Responsibility for Workers and Families Act</a>,
 as proposed, Wall Street, will suddenly have $4-6T of
 government guaranteed low cost credit to go shopping for businesses in
 trouble. We would see the mother of all roll-ups, as small and medium sized
@@ -1387,19 +1405,7 @@ businesses desperately try to get whatever they can from deep-pocketed
 private equity investors and monopolists. If that happens, the America we
 know, of heterogeneous small businesses would look very different
 after this pandemic is over—a homogeneous space optimized for
-massive corporations and destroying local autonomy and diversity. <a href="#user-content-fnref-3" data-footnote-backref="" aria-label="Back to reference 5" class="data-footnote-backref">↩</a></p>
-</li>
-<li id="user-content-fn-2">
-<p>This is our biggest opportunity, while we have the most leverage, to heavily
-invest in public infrastructure and works programs. The airline industry is
-already asking for bailouts to the tune of $50B. This isn’t the time for
-bailouts, this is the time for imagination, to create a society that works
-for everyone. This is the time to
-nationalize the airline industry. Since 2010, the
-very same industry has been investing their money directly into stock
-buybacks, pumping up their own stock prices, and paying huge bonuses to
-their execs and CEOs. Since 2010 the major airlines have invested $45B in
-buybacks, and now asks for $50B in bailouts. <a href="#user-content-fnref-2" data-footnote-backref="" aria-label="Back to reference 6" class="data-footnote-backref">↩</a></p>
+massive corporations and destroying local autonomy and diversity. <a href="#user-content-fnref-shopping" data-footnote-backref="" aria-label="Back to reference 3" class="data-footnote-backref">↩</a></p>
 </li>
 </ol>
 </section>]]></description>
@@ -1475,7 +1481,7 @@ console.log(a, b, c, d, e);
         </item>
         <item>
             <title><![CDATA[On Fascism]]></title>
-            <description><![CDATA[<p><img src="/static/images/2019-09-25-on-fascism-police.webp" alt="A cop"></p>
+            <description><![CDATA[<p><img src="/static/images/2019-09-25-on-fascism-police.webp" alt="Cop photo by Alec Favale"></p>
 <p>Fascism is an expensive to maintain state-of-siege by the capitalist economy
 attempting to defend itself by an irrational means. Fascism rallies to the
 defense of the conservative bourgeois ideology of the family, private property,
@@ -1498,18 +1504,15 @@ to the scale and effort required of the state to enforce the authoritarian rule
 of a minority with a police state apparatus. Fascism is unsustainable in the
 long-term, and must be pushed aside by a more efficient and rational form of
 power; neoconservative or neoliberal representational democracy being typical
-contemporary examples.</p>
-<p><em>This was an excerpt from “The Society of The Spectacle” a forthcoming new book
-by 0xADADA which reinterprets the original by Guy Debord.</em></p>
-<h2 id="references">References</h2>]]></description>
+contemporary examples.</p>]]></description>
             <link>https://0xadada.pub/2019/09/25/on-fascism/</link>
             <guid isPermaLink="true">https://0xadada.pub/2019/09/25/on-fascism/</guid>
             <category><![CDATA[essays]]></category>
             <category><![CDATA[fascism]]></category>
             <category><![CDATA[anti-fascism]]></category>
             <category><![CDATA[capitalism]]></category>
-            <category><![CDATA[society of the spectacle]]></category>
-            <category><![CDATA[late capitalism]]></category>
+            <category><![CDATA[society-of-the-spectacle]]></category>
+            <category><![CDATA[late-capitalism]]></category>
             <dc:creator><![CDATA[0xADADA]]></dc:creator>
             <pubDate>Wed, 25 Sep 2019 04:00:00 GMT</pubDate>
         </item>
@@ -1961,14 +1964,12 @@ of a conservative set of “not in my backyard” zoning laws that haven’t kep
 with the living force of the city.</p>
 <p>Gibsons most powerful argument was wonderful:</p>
 <blockquote>
-<p>“The legendary urbanist Jane Jacobs once remarked that new ideas come from
+<p>The legendary urbanist Jane Jacobs once remarked that new ideas come from
 old buildings, the types of places you can alter without permission because
 no one cares about them. This is one reason why so many garage startups and
 garage bands and artists spilling paint in discarded warehouse lofts have
 left their mark on the world. The true creative class can’t afford to
-rent expensive new studios.”</p>
-<p>—Michael Gibson,
- > San Francisco’s Slow-Motion Suicide > </p>
+rent expensive new studios.<sup><a href="#user-content-fn-gibson" id="user-content-fnref-gibson" data-footnote-ref aria-describedby="footnote-label">1</a></sup></p>
 </blockquote>
 <p>Gibson alludes to the conservative zoning laws and wealthy property owners
 exacerbating the plight of San Francisco and similar cities: Owners want
@@ -1988,7 +1989,7 @@ businesses and develop existing vacant lots for new uses are minimal or
 non-existent.</p>
 <p><img src="/static/images/2019-04-16-gentrification.jpg" alt="An example of &#x22;Gentrified Architecture&#x22;. Photo by Ted Eytan"></p>
 <p>The drive to urbanization is an imperative of capitalism, this drive results in
-a freezing of life— a static world devoid of spontaneity, the result of land
+a freezing of life—a static world devoid of spontaneity, the result of land
 development and bureaucratic zoning laws optimized for rent seeking and
 increased land valuations, devoid of nature and where its residents have no
 ability to change their surroundings to suit daily life. All desire for change
@@ -2005,7 +2006,6 @@ seasons and with time. The philosopher Hegel explored this concept saying:</p>
 things [objects]; Time is the connection of their vanishing or alteration…
 In the spatial world the question is not succession but of coexistence… As a
 restless Becoming [Time] is not an element of the synthetic whole.”</p>
-<p>—G.W.F. Hegel, The Philosophical Propadeutic<sup><a href="#user-content-fn-1" id="user-content-fnref-1" data-footnote-ref aria-describedby="footnote-label">1</a></sup></p>
 </blockquote>
 <p>This is to say: the privileging of objects in space fetishizes the object and
 therefore sacrifices changes in time. This creates an
@@ -2015,11 +2015,11 @@ devoid of life.</p>
 forthcoming translation of Guy Debord, translated by 0xADADA.</em></p>
 <section data-footnotes class="footnotes"><h2 class="sr-only" id="footnote-label">Footnotes</h2>
 <ol>
-<li id="user-content-fn-1">
-<p>Hegel, G.W.F. (1986). The Philosophical Propadeutic. Trans. A.V. Miller. Oxford, UK: New York, NY: B. Blackwell, Hardcover. <a href="#user-content-fnref-1" data-footnote-backref="" aria-label="Back to reference 1" class="data-footnote-backref">↩</a></p>
+<li id="user-content-fn-gibson">
+<p><a href="https://www.nationalreview.com/2019/04/san-francisco-decline-failed-government-policies/">San Francisco’s Slow-Motion Suicide</a> <a href="#user-content-fnref-gibson" data-footnote-backref="" aria-label="Back to reference 1" class="data-footnote-backref">↩</a></p>
 </li>
 <li id="user-content-fn-2">
-<p>Debord, Guy. (1983). The Society of the Spectacle. Trans. Fredy Perlman. Detroit: Black &#x26; Red, Print. <a href="#user-content-fnref-2" data-footnote-backref="" aria-label="Back to reference 2" class="data-footnote-backref">↩</a></p>
+<p>Debord, Guy. (1983). <em>The Society of the Spectacle</em>. Trans. Fredy Perlman. Detroit: Black &#x26; Red, Print. <a href="#user-content-fnref-2" data-footnote-backref="" aria-label="Back to reference 2" class="data-footnote-backref">↩</a></p>
 </li>
 </ol>
 </section>]]></description>
@@ -2336,6 +2336,7 @@ console.log(
             <title><![CDATA[Against Facebook]]></title>
             <description><![CDATA[<p>On the commodification of attention, the abuses of unpaid microwork and
 strategies of resistance.</p>
+<p><img src="/static/images/2018-05-01-against-facebook-title.jpg" alt="Against Facebook"></p>
 <p><em>Alarm goes off, time to wake up. Snooze alarm, and then repeat: check email,
 check Facebook, check Twitter, check Snapchat, rinse; repeat again; no new
 posts? Check again. No second spared to compose a thought; dreams fade away. Day
@@ -2371,17 +2372,16 @@ retweeting, and generally dedicating our time, attention, and emotions to these
 platforms—each tiny action its own form of labor, given over freely to the
 advertisers.</p>
 <blockquote>
-<p>“The new media of surveillance capitalism solicit social behaviors, monitor
+<p>The new media of surveillance capitalism solicit social behaviors, monitor
 those behaviors, map social interactions, and resell what they learn to
-advertisers and others.” (Turner, 2017)</p>
+advertisers and others.</p>
 </blockquote>
 <p>Platforms like Facebook are attempting to create systems for the generation of
 distraction, Crary describes it as follows:</p>
 <blockquote>
-<p>“conditions that individuate, immobilize, and separate subjects, even within a
+<p>conditions that individuate, immobilize, and separate subjects, even within a
 world in which mobility and circulation are ubiquitous. In this way attention
-becomes key to the operation of noncoercive forms of power” (Crary,
-2001, pg. 74)</p>
+becomes key to the operation of noncoercive forms of power.</p>
 </blockquote>
 <p>Over time, these systems continually push our attention and distraction to new
 limits and thresholds. Youtube &#x26; Netflix discovered that auto-playing the next
@@ -2425,6 +2425,7 @@ considered “real” friendship into a relationship with the platform itself,
 mediated by the features and “images of friendship” within it through Liked and
 Retweeted posts, Snapchat streaks, Follow requests, posted text, images or even
 how we reduce our emotions into a series of emoji (Smith, 2016).</p>
+<p><img src="/static/images/2018-05-01-facebook-spectacle-graph.svg" alt="The process of commodification"></p>
 <p>In this way, the platform is able to monetize our friendships, tastes, opinions,
 and even our emotions. Our internal thoughts and experiences become
 commodifiable assets, measured as engagements to be analyzed, A-B tested,
@@ -2435,12 +2436,12 @@ paid a dime.</p>
 <p>No rest, no meditation, no reflection, no conversation—the senses are continually
 overloaded with stimuli. Man Doesn’t learn to question his world anymore; The
 screen offers him answers already made.</p>
-<p>Joost Meerloo <em>Rape of the Mind</em></p>
 </blockquote>
 <p>Instead of blindly activating our social media habit for that quick dopamine
 fix, consider who actually benefits. Are you performing a microwork task for
 Facebook or Snapchat? If so, then why aren’t you being paid?</p>
 <h2 id="what-they-say-vs-what-they-do">What They Say vs What They Do</h2>
+<p><img src="/static/images/2018-05-01-facebook-spectacle.jpg" alt="The Society of the Facebook"></p>
 <p>Newspapers, cable news, and social media platforms are trying to turn us all
 into media addicts. These businesses rely on persuading us to consume more and
 more (keyword: “increase engagement”) in order to curate an “interest in current
@@ -2464,7 +2465,7 @@ inspire much hope that they will ever be solved.” (Dobelli, 2020)</p>
 <p>The increase in the ads delivered was driven by an increase in users and their
 engagement and an increase in the number and frequency of ads displayed on
 News Feed, partially offset by increasing user engagement with video content
-and other product changes. (Facebook, 2017)</p>
+and other product changes.</p>
 </blockquote>
 <p>We think we’re immune to the persuasiveness of advertising, but remember,
 advertising is a $600 billion dollar industry that is the financial basis of
@@ -2488,8 +2489,8 @@ process of “exchanging time for image, provides the counterflow to the moving
 image and as advertising revenues would indicate, is itself productive of
 value.” (Beller 2006, p.79)</p>
 <blockquote>
-<p>“Facebook’s nearly one billion users have become the largest unpaid workforce
-in history” (Laney, 2012)</p>
+<p>Facebook’s nearly one billion users have become the largest unpaid workforce
+in history.</p>
 </blockquote>
 <p>The intended effect the media wishes to create is media-driven neuroticism—a
 love of change for its own sake, or neomania, a love of new things. Ultimately,
@@ -2504,6 +2505,7 @@ feelings are misguided however, since the lives we see in the media and social
 platforms are a tightly edited and curated spectacle of people presenting an
 <em>image of how they want to appear, not of how they actually are.</em></p>
 <h2 id="practical-defense-against-unpaid-microwork">Practical Defense Against Unpaid Microwork</h2>
+<p><img src="/static/images/2018-04-24-against-facebook.jpg" alt="News Feed, by Beeple"></p>
 <p>Today it’s popular to hear about the media detox or a social media diet. The
 concept is often framed as a metaphor for eating and weight loss. We can extend
 this metaphor to consider the microwork tasks we find ourselves doing on a daily
@@ -2524,7 +2526,7 @@ both misdirect and distract, and has negative effects on our mood.</p>
 <blockquote>
 <p>Distraction could be described as a phenomenon in which you connect,
 inadvertently or absentmindedly, to more things than you intended. The noise
-drowns out the signal. (Solnit, 2018)</p>
+drowns out the signal.</p>
 </blockquote>
 <p>A practical approach for a healthy relationship with the media we consume is to
 create distance between ourselves and the media that surrounds us on a daily
@@ -2554,7 +2556,7 @@ by wariness and devotion to reconsecrate ourselves, and make once more a fane
 of the mind. <em>We should treat our minds, that is, ourselves, as innocent and
 ingenuous children, whose guardians we are, and be careful what objects and
 what subjects we thrust on their attention.</em> Read not the Times. Read the
-Eternities. (Thoreau, 1863)</p>
+Eternities.</p>
 </blockquote>
 <p>This essay proposes the <em>survivorship</em> bias as the criteria to determine which
 media to ignore as mundane, cheap, and ephemeral. Survivorship sets the focus on
@@ -2563,14 +2565,13 @@ following recommendation in <em>Antifragile</em>:</p>
 <blockquote>
 <p>“[read] as little as feasible from the last twenty years, except history books
 that are not about the last fifty years. […what most people do] is read
-timely material that becomes instantly obsolete. (Taleb, 2012)</p>
+timely material that becomes instantly obsolete.</p>
 </blockquote>
 <p>Aaron Swartz had similar sentiments:</p>
 <blockquote>
 <p>Its obsession with the criminal and the deviant makes us less trusting people.
 Its obsession with the hurry of the day-to-day makes us less reflective
-thinkers. Its obsession with surfaces makes us shallow.
-(Swartz, 2006)</p>
+thinkers. Its obsession with surfaces makes us shallow.</p>
 </blockquote>
 <p>Survivorship is a simple heuristic with which to judge media, be it books, news,
 social media, television, academic journal articles or even video games. A
@@ -2600,7 +2601,7 @@ take action!</p>
 example of the ways that the spectacle takes advantage of its subordination of
 the masses. It is a process to which they have no control other than to
 renounce image culture completely which in a hyperreal world is almost
-inconceivable. (Berthelot, 2013)</p>
+inconceivable.</p>
 </blockquote>
 <p>Any efforts to reform the practices that produce the addictive symptoms of the
 attention economy will fail to address the underlying structures of late
@@ -2856,7 +2857,7 @@ promotions and deals. (Dormehl, 2014).</p>
 <p>”The problem with the web and its associated technologies is that it has made
 it so easy to share information about ourselves that doing so begins to feel
 like an obligation, a sentence, a sisyphean curse; another day, another photo
-of lunch to post.” (Beato, G.)</p>
+of lunch to post.”</p>
 </blockquote>
 <p>Facebook manipulates our emotions with experiments on the News Feed. (Booth,
 2014).</p>
@@ -2893,7 +2894,6 @@ do 😉!</p>
 <a href="https://twitter.com/suzidao">Suzi Dao</a>,
 <a href="https://twitter.com/b_apothecary">Stephen</a> &#x26;
 <a href="https://twitter.com/qtychr">qtychr</a>.</p>
-<h2 id="references">References</h2>
 <p>Angwin, Julia. Mattu, Surya. Parris Jr, Terry. (December 27, 2016). <a href="https://www.propublica.org/article/facebook-doesnt-tell-users-everything-it-really-knows-about-them">Facebook Doesn’t Tell Users Everything It Really Knows About Them</a> (Retrieved April 21, 2018).</p>
 <p>Ahmed, Nafeez. (December 29, 2017).
 <a href="https://medium.com/insurge-intelligence/how-facebook-will-infiltrate-national-elections-and-rule-the-world-in-less-than-10-years-unless-732da197b8fd">Facebook will become more powerful than the NSA in less than 10 years — unless we stop it</a>.
@@ -3172,7 +3172,7 @@ About Health, Wealth, and Happiness</em>. New Haven: Yale University Press. Prin
             <guid isPermaLink="true">https://0xadada.pub/2018/05/01/against-facebook/</guid>
             <category><![CDATA[essays]]></category>
             <category><![CDATA[privacy]]></category>
-            <category><![CDATA[Facebook]]></category>
+            <category><![CDATA[facebook]]></category>
             <dc:creator><![CDATA[0xADADA]]></dc:creator>
             <pubDate>Tue, 01 May 2018 04:00:00 GMT</pubDate>
         </item>
@@ -4042,15 +4042,13 @@ this mindset towards privacy by building pro-privacy features and services.</p>
 <p>Privacy marketing will be an important value-add for Internet commerce. It
 will be a terrific way to gain market share at the expense of the competition
 — or to lose much of your market share, if you find yourself on the wrong end
-of a privacy campaign
-—<a href="http://www.fon.hum.uva.nl/rob/Courses/InformationInSpeech/CDROM/Literature/LOTwinterschool2006/szabo.best.vwh.net/privacy_marketing.html">Nick Szabo</a></p>
+of a privacy campaign</p>
 </blockquote>
 <p>Organizations that respect and offer a straightforward choice around tracking to
 their customers will earn their trust and loyalty.</p>
 <blockquote>
 <p>“great experiences don’t have to come at the expense of your privacy and
-security. Instead, they can support them.”
-—<a href="https://www.apple.com/privacy/">Apple</a></p>
+security. Instead, they can support them.”</p>
 </blockquote>
 <p>Apple seems to have wised-up to selling privacy as a component of a luxury
 product. They have marketed features like TouchID, ApplePay, encryption and
@@ -4413,7 +4411,8 @@ and on github at
         </item>
         <item>
             <title><![CDATA[Before Trump Takes Office]]></title>
-            <description><![CDATA[<p>Before Trump takes office, I want to create a picture of the high-water mark,
+            <description><![CDATA[<p><img src="/static/images/2017-01-16-before-trump.jpg" alt="Trump"></p>
+<p>Before Trump takes office, I want to create a picture of the high-water mark,
 something I can point to and say “That was how it was” without the fog of time,
 or the distortions of propaganda and ideology. I was inspired by Sarah Kendzior:</p>
 <blockquote>
@@ -4428,7 +4427,6 @@ of things you would never do. Because it is possible that in the next year,
 you will do them. Write a list of things you would never believe. Because it
 is possible that in the next year, you will either believe them or be forced
 to say you believe them.<sup><a href="#user-content-fn-1" id="user-content-fnref-1" data-footnote-ref aria-describedby="footnote-label">1</a></sup></p>
-<p>‒Sarah Kendzior</p>
 </blockquote>
 <h2 id="the-spectacle-of-2016">The Spectacle of 2016</h2>
 <p>The 2016 election was a farce and a tipping point where politics have finally
@@ -4571,9 +4569,9 @@ rationale the Chinese government is using to censor social media, the “danger 
 rumors” causing fractures in social cohesion. I’m worried the Trump
 administration will take a similar path.</p>
 <p>I will oppose the reappropriation of language. I will not use terms they
-redefine, nor use new terms they make<sup><a href="#user-content-fn-6" id="user-content-fnref-6" data-footnote-ref aria-describedby="footnote-label">6</a></sup>. We must preserve the true meaning of
-words, and reconsider the use of language to simplify discourse and bias our
-perspectives.</p>
+redefine, nor use new terms they make.
+We must preserve the true meaning of words, and reconsider the use of language to
+simplify discourse and bias our perspectives.</p>
 <p>The media, press, bloggers and social media are free to criticize the political
 establishment; it’s a national pastime. The Daily Show and Colbert Report are
 built on getting laughs from the deep cynicism of the Left. I post my criticism
@@ -4625,7 +4623,6 @@ federal politics, I have high hopes for local community action and the arts.</p>
 <ol>
 <li id="user-content-fn-1">
 <p>Kendzior, Sarah.
-<a href="https://thecorrespondent.com/5696/were-heading-into-dark-times-this-is-how-to-be-your-own-light-in-the-age-of-trump/1611114266432-e23ea1a6">We’re heading into dark times. This is how to be your own light in the Age of Trump</a>
 <em>The Correspondent</em>.
 The Correspondent,
 18 Nov. 2016.
@@ -4655,9 +4652,6 @@ Web. 2016. <a href="#user-content-fnref-4" data-footnote-backref="" aria-label="
 <li id="user-content-fn-5">
 <p>I’ve collected a few examples of this type of behavior in a Twitter Moment
 <a href="https://twitter.com/i/moments/817897786301710336">Performative Anti-Trump Activism</a>. <a href="#user-content-fnref-5" data-footnote-backref="" aria-label="Back to reference 5" class="data-footnote-backref">↩</a></p>
-</li>
-<li id="user-content-fn-6">
-<p>For example, terms like ‘fake news’. <a href="#user-content-fnref-6" data-footnote-backref="" aria-label="Back to reference 6" class="data-footnote-backref">↩</a></p>
 </li>
 </ol>
 </section>]]></description>
@@ -4820,7 +4814,7 @@ the distances are percieved that really matters. If ones perception of 2,400
 miles is two mediocre movies and a few bad in-flight meals, perhaps it’s not
 really “travel”.</p>
 <blockquote>
-<p>“The air traveller only travels after he has landed.”</p>
+<p>The air traveller only travels after he has landed.</p>
 </blockquote>
 <p>After travelling through Croatia in 2014, I wrote:</p>
 <blockquote>
@@ -8524,7 +8518,8 @@ Puritan/<a href="https://en.wikipedia.org/wiki/The_Protestant_Ethic_and_the_Spir
 <em>Hard work, frugality, perseverance in the face of hardship (without complaint)
 is the mark of Grace and this will allow you to achieve salvation. You are your
 work, and your value and place in the social hierarchy is defined by your job.</em>
-There is a built-in assumption that ones job defines ones personal identity<sup><a href="#user-content-fn-1" id="user-content-fnref-1" data-footnote-ref aria-describedby="footnote-label">1</a></sup>.</p>
+There is a built-in assumption that
+ones job defines ones personal identity.</p>
 <p><strong>This ideology sustains the basis for capitalistic inequality</strong>. The work-ethic
 creates two groups of people: those who work hard and are deserving salvation
 and those who do not. In defining the qualities of a ‘Good’ person, its’
@@ -8536,8 +8531,7 @@ prevented from work, those who don’t work, and those who don’t believe in th
 <p>In asking the question, two assumptions are made:</p>
 <ol>
 <li>The other person has a job</li>
-<li>Their job describes their identity to some extent. (For many people, this
-doesn’t apply.)</li>
+<li>Their job describes their identity to some extent.</li>
 </ol>
 <p>During conversation, this question can be interpreted as a strategic move by the
 interrogator. In asking first, the interrogator is positioned to answer the
@@ -8547,15 +8541,11 @@ prior to battle. It can come off as setting a stage to brag about ones job.
 Those conversations tend to unfold something like this:</p>
 <blockquote>
 <p>Roy: “So what do you do?”</p>
-</blockquote>
-<blockquote>
 <p>Steve: “I work at a red-sauce joint in Brookline” (see note)</p>
-</blockquote>
-<blockquote>
 <p>Roy: [Puffs his chest] “I’m the Director of Technology at EvilCorp”</p>
 </blockquote>
-<p>When asked “what do you do?” I try to be very generic and skirt the expected
-response: “I read and ride bikes every day”. For one, most people don’t care
+<p>When asked “what do you do?” I try to detour the question with some unexpected and obsolete
+profession I run a VHS rewinder service. For one, most people don’t care
 about the answer, they ask out of cultural habit. If pressed about my job, I
 usually say “I make internet stuff” and explicitly leave any job title or
 hierarchy out of the response.</p>
@@ -8566,16 +8556,7 @@ hierarchy out of the response.</p>
 <p>This question has a goal, namely to create a real connection between people that
 exists beyond bullshit corporate jargon and hierarchy.</p>
 <p>If we want to move beyond a society structured by hierarchy and class, we need
-to think outside our own ideology before we speak.</p>
-<section data-footnotes class="footnotes"><h2 class="sr-only" id="footnote-label">Footnotes</h2>
-<ol>
-<li id="user-content-fn-1">
-<p>Its also a uniquely American question to ask. In Europe you don’t hear this
-question asked at parties, because work doesn’t define their lives outside
-of work. A broad generalization, but a correct one. <a href="#user-content-fnref-1" data-footnote-backref="" aria-label="Back to reference 1" class="data-footnote-backref">↩</a></p>
-</li>
-</ol>
-</section>]]></description>
+to think outside our own ideology before we speak.</p>]]></description>
             <link>https://0xadada.pub/2015/08/02/so-what-do-you-do/</link>
             <guid isPermaLink="true">https://0xadada.pub/2015/08/02/so-what-do-you-do/</guid>
             <category><![CDATA[essays]]></category>
@@ -8583,6 +8564,7 @@ of work. A broad generalization, but a correct one. <a href="#user-content-fnref
             <category><![CDATA[performativity]]></category>
             <category><![CDATA[society]]></category>
             <category><![CDATA[class]]></category>
+            <category><![CDATA[identity]]></category>
             <dc:creator><![CDATA[0xADADA]]></dc:creator>
             <pubDate>Sun, 02 Aug 2015 04:00:00 GMT</pubDate>
         </item>
@@ -8701,11 +8683,11 @@ IE10 comes with DNT enabled by default.</p>
 agrarian economy to an industrial economy as a template for the next shift from
 an industrial economy to an information economy.</p>
 <blockquote>
-<p>“Another characteristic reversal after passing a road break boundary is that
+<p>Another characteristic reversal after passing a road break boundary is that
 the country ceases to be the center of all work, and the city ceases to be the
 center of leisure. In fact, improved roads and transport have reversed the
 ancient pattern and made cities the centers of work and the country the place
-of leisure and of recreation.”</p>
+of leisure and of recreation.<sup><a href="#user-content-fn-mc" id="user-content-fnref-mc" data-footnote-ref aria-describedby="footnote-label">1</a></sup></p>
 </blockquote>
 <p>He goes on to describe how farmers lived and worked on the land in the
 countryside. The rise of industrialization lead to a shift in the focus of labor
@@ -8726,11 +8708,13 @@ countryside — ie: working remotely from your country home.</p>
 of seeing deep into societal shifts before they happened, and providing guidance
 as they unfolded. Perhaps his works should be revisited, as they continue to
 provide useful insights.</p>
-<h2 id="references">References</h2>
-<p>McLuhan, Marshall.
-<em><a href="https://mitpress.mit.edu/books/understanding-media">Understanding Media: The Extensions of Man</a></em>.
-Cambridge: MIT,
-Print. 1994.</p>]]></description>
+<section data-footnotes class="footnotes"><h2 class="sr-only" id="footnote-label">Footnotes</h2>
+<ol>
+<li id="user-content-fn-mc">
+<p>McLuhan, Marshall. <em><a href="https://mitpress.mit.edu/books/understanding-media">Understanding Media: The Extensions of Man</a></em>. Cambridge: MIT, Print. 1994. <a href="#user-content-fnref-mc" data-footnote-backref="" aria-label="Back to reference 1" class="data-footnote-backref">↩</a></p>
+</li>
+</ol>
+</section>]]></description>
             <link>https://0xadada.pub/2015/03/17/mcluhan-understanding-media/</link>
             <guid isPermaLink="true">https://0xadada.pub/2015/03/17/mcluhan-understanding-media/</guid>
             <category><![CDATA[notes]]></category>
@@ -8738,9 +8722,9 @@ Print. 1994.</p>]]></description>
             <category><![CDATA[politics]]></category>
             <category><![CDATA[mass media]]></category>
             <category><![CDATA[media]]></category>
-            <category><![CDATA[media studies]]></category>
+            <category><![CDATA[media-studies]]></category>
             <category><![CDATA[television]]></category>
-            <category><![CDATA[Marshall McLuhan]]></category>
+            <category><![CDATA[marshall-mcluhan]]></category>
             <dc:creator><![CDATA[0xADADA]]></dc:creator>
             <pubDate>Tue, 17 Mar 2015 04:00:00 GMT</pubDate>
         </item>
@@ -8754,7 +8738,6 @@ Print. 1994.</p>]]></description>
 <p>So basically BTC is backed by mathematics, technology and an economy, just like any other currency, but without a central bank. Some argue this is better than any other fiat currency because a fiat currency is controlled by (and manipulated by) a governing power; BTC is peer-to-peer. The block chain is the public record of all BTC transactions, in chronological order. This means that all transactions are known to the world; contrast this with how little we know of central bank activities.</p>
 <p><em>Mathematics</em> Bitcoins are created and transacted by a mathematical proof-of-work<sup><a href="#user-content-fn-2" id="user-content-fnref-2" data-footnote-ref aria-describedby="footnote-label">3</a></sup>. This means that in order to create a new bitcoin, and to conduct a bitcoin transaction; computers must provide a solution to a complex mathematics problem that takes time &#x26; electricity to compute. This creates intrinsic value in the form of time and cost-of-electricity and simultaneously verifies the authenticity of the new coins and transactions. Contrast that with the intrinsic value of a piece of printed paper of a US Dollar bill.</p>
 <p><em>Economy</em> Bitcoin is “backed” by its usefulness. Just as is the US dollar. As long as you can do things with it, then it has value. The more people can do with BTC, the more value it will have. In time, the technology and economic rules might make BTC more appealing than the USD.</p>
-<h2 id="footnotes">Footnotes</h2>
 <section data-footnotes class="footnotes"><h2 class="sr-only" id="footnote-label">Footnotes</h2>
 <ol>
 <li id="user-content-fn-1">
@@ -8784,7 +8767,56 @@ and the
         </item>
         <item>
             <title><![CDATA[Best Practices for Writing CSS]]></title>
-            <description><![CDATA[<h2 id="general-high-order-principles">General High-Order Principles</h2>
+            <description><![CDATA[<p>Every selector you write is additional complexity that will need to be
+maintained. Can you generalize or abstract that selector so other components can
+use it?</p>
+<ul>
+<li>Write your CSS selectors to be as concise as possible</li>
+<li>Write your CSS selectors to be as performant as possible, efficient as
+possible and even more efficient</li>
+<li>Don’t overqualify your CSS selectors</li>
+<li>Use the lessons learned in <a href="http://oocss.org/">“Object-Oriented” CSS</a></li>
+</ul>
+<p>Make use of the child selector to limit how deep your css goes. <code>.nav-list > li</code>
+can do a lot to prevent the cascade from going too deep.</p>
+<p>Think of the class attribute in HTML as a mounting-point for CSS classes,
+fixtures upon which styling is attached to markup. This is opposed to using the
+markup as a skeleton on which you drape your style.</p>
+<p>When asked to change existing code, rather than simply adding complexity with
+new classes or additional selectors, can you refactor or abstract existing
+selectors or classes to produce the desired behavior? Look at change requests as
+an opportunity to refactor.</p>
+<p>Code reuse is your friend. The first “C” in CSS stands for Cascade. Use the
+cascade to maximum advantage. Inheritance is extremely powerful. When adding a
+css property, ask yourself if you can add it higher in the cascade, and inherit
+it from a higher abstraction.</p>
+<p>Write obvious code. CSS is fragile, write code as if a novice coder would be
+maintaining your code in the future.</p>
+<p>”Extent your CSS objects with class” - not with selector specificity. Increasing
+selector specificity makes overrides more difficult and fragile to maintain.
+Class names can always be more semantic than the generic tag names at your
+disposal.</p>
+<p>Browsers actually have a very similar set of core default-styles. Rather than
+obliterating the core-styles with a hard-reset css, think about the value of css
+normalization. Using a normalized approach, the focus is to normalize the
+differences across browsers rather than eliminating all styles together. This
+means you spend less time re-creating the core styles that are very useful in
+practice.</p>
+<p>Create a UI Pattern and Component Library -
+<a href="http://mailchimp.com/__bananabin/components.html">MailChimp has a good one</a>.</p>
+<p>Elements that are effected by javascript behaviors should have css modified by
+adding or removing classes. Keep your css in the css-file, don’t pollute the
+javascript with css properties when you could abstract those properties to the
+css file. Elements that have multiple states should have corresponding class
+names that describe those states when added to the element. The default state of
+the element is when it has no additional descriptors in the class attribute -
+the default state. For an anchor tag button, some additional states class names
+could be:</p>
+<pre><code>is-active
+is-disabled
+is-hover
+</code></pre>
+<h2 id="general-high-order-principles">General High-Order Principles</h2>
 <ul>
 <li>Simplicity - The most bug-free line of code is the one you don’t have to
 write!</li>
@@ -8916,12 +8948,12 @@ context-dependent</li>
 <p>Instead, use the unique name for the parent elements css selector, and separate
 the child elements css class names with two – hyphens, for example:</p>
 <p><strong>Markup</strong></p>
-<pre><code class="language-html">&#x3C;ul class=" c-navmenu ">
+<pre><code class="language-html">&#x3C;ul class="c-navmenu">
   &#x3C;li>
-    &#x3C;a class=" c-nav-menu–-item ">an item&#x3C;/a>
+    &#x3C;a class="c-nav-menu–-item">an item&#x3C;/a>
   &#x3C;/li>
   &#x3C;li>
-    &#x3C;a class=" c-nav-menu–-item ">an item&#x3C;/a>
+    &#x3C;a class="c-nav-menu–-item">an item&#x3C;/a>
   &#x3C;/li>
 &#x3C;/ul>
 </code></pre>
@@ -8949,7 +8981,7 @@ duplicate the class name, but add a modifier class separated by three — hyphen
 </code></pre>
 <p><strong>Markup</strong></p>
 <pre><code class="language-html">&#x3C;li>
-  &#x3C;a class=" c-navmenu–item c-navmenu-item---light ">an item&#x3C;/a>
+  &#x3C;a class="c-navmenu–item c-navmenu-item---light">an item&#x3C;/a>
 &#x3C;/li>
 </code></pre>
 <p>Extending our already-existing style by adding classes additionally gives us a
@@ -8971,56 +9003,6 @@ time, and requirements change, components move</li>
 <li>Using javascript to modify css properties - don’t pollute your javascript with
 css</li>
 </ul>
-<h2 id="techniques">Techniques</h2>
-<ul>
-<li>Write your CSS selectors to be as concise as possible</li>
-<li>Write your CSS selectors to be as performant as possible, efficient as
-possible and even more efficient</li>
-<li>Don’t overqualify your CSS selectors</li>
-<li>Use the lessons learned in <a href="http://oocss.org/">“Object-Oriented” CSS</a></li>
-</ul>
-<p>Every selector you write is additional complexity that will need to be
-maintained. Can you generalize or abstract that selector so other components can
-use it?</p>
-<p>Make use of the child selector to limit how deep your css goes. <code>.nav-list > li</code>
-can do a lot to prevent the cascade from going too deep.</p>
-<p>Think of the class attribute in HTML as a mounting-point for CSS classes,
-fixtures upon which styling is attached to markup. This is opposed to using the
-markup as a skeleton on which you drape your style.</p>
-<p>When asked to change existing code, rather than simply adding complexity with
-new classes or additional selectors, can you refactor or abstract existing
-selectors or classes to produce the desired behavior? Look at change requests as
-an opportunity to refactor.</p>
-<p>Code reuse is your friend. The first “C” in CSS stands for Cascade. Use the
-cascade to maximum advantage. Inheritance is extremely powerful. When adding a
-css property, ask yourself if you can add it higher in the cascade, and inherit
-it from a higher abstraction.</p>
-<p>Write obvious code. CSS is fragile, write code as if a novice coder would be
-maintaining your code in the future.</p>
-<p>”Extent your CSS objects with class” - not with selector specificity. Increasing
-selector specificity makes overrides more difficult and fragile to maintain.
-Class names can always be more semantic than the generic tag names at your
-disposal.</p>
-<p>Browsers actually have a very similar set of core default-styles. Rather than
-obliterating the core-styles with a hard-reset css, think about the value of css
-normalization. Using a normalized approach, the focus is to normalize the
-differences across browsers rather than eliminating all styles together. This
-means you spend less time re-creating the core styles that are very useful in
-practice.</p>
-<p>Create a UI Pattern and Component Library -
-<a href="http://mailchimp.com/__bananabin/components.html">MailChimp has a good one</a>.</p>
-<p>Elements that are effected by javascript behaviors should have css modified by
-adding or removing classes. Keep your css in the css-file, don’t pollute the
-javascript with css properties when you could abstract those properties to the
-css file. Elements that have multiple states should have corresponding class
-names that describe those states when added to the element. The default state of
-the element is when it has no additional descriptors in the class attribute -
-the default state. For an anchor tag button, some additional states class names
-could be:</p>
-<pre><code>is-active
-is-disabled
-is-hover
-</code></pre>
 <h2 id="adding-behavior">Adding Behavior</h2>
 <p>Class names are often used to add a behavioral hint that our javascript will use
 to select an element and add some sort of behavior, ie: a tab control made up of
@@ -9084,7 +9066,7 @@ CSS Rendering</li>
             <link>https://0xadada.pub/2013/03/01/best-practices-writing-css/</link>
             <guid isPermaLink="true">https://0xadada.pub/2013/03/01/best-practices-writing-css/</guid>
             <category><![CDATA[essays]]></category>
-            <category><![CDATA[software-development]]></category>
+            <category><![CDATA[software-engineering]]></category>
             <category><![CDATA[css]]></category>
             <category><![CDATA[web-development]]></category>
             <dc:creator><![CDATA[0xADADA]]></dc:creator>
@@ -9107,22 +9089,23 @@ implements.”</p>
         </item>
         <item>
             <title><![CDATA[Travel Writing]]></title>
-            <description><![CDATA[<p>Travel opens my mind to new perspectives and allows me to recontextualize
+            <description><![CDATA[<p><img src="/static/images/2011-12-01-travel-writing-bologna-italy-alleyway.jpg" alt="Alleyway in Bologna, Italy"></p>
+<p>Travel opens my mind to new perspectives and allows me to recontextualize
 existing systems of thought.</p>
 <p>I had casually studied Roman history over the course of a few years, prior to my
 travels to Italy. My understanding was built upon a small collection of books
 and two <a href="http://thehistoryofrome.typepad.com/">excellent</a>
 <a href="http://12byzantinerulers.com/">podcast</a> series. While one can learn a great
 deal from books, podcasts, and other media, that knowledge is divorced from its
-original context — i.e. we musn’t mistake a map for the territory.</p>
-<p>A museum - by its very nature - strips the subject of its contextual time and
+original context—i.e. we musn’t mistake a map for the territory.</p>
+<p>A museum—by its very nature—strips the subject of its contextual time and
 place (arguably the time, and sometimes place have been lost to time). A museum
 succeeds if it is able to recreate the context of the subject in both time and
 place, within the mind of the museum visitor. This leads to a more delightful
 understanding and appreciation of the subject.</p>
-<p>When I travel, I seek to create new understanding - a recontextualization of the
+<p>When I travel, I seek to create new understanding—a recontextualization of the
 artifacts of knowledge I grasp on the subject. From facts and anecdotes taken
-from books, images and perspectives gathered from museums — all mashed
+from books, images and perspectives gathered from museums—all mashed
 together again, and then reformed within the milieu of their original spatial
 context.</p>
 <p>Its important to note that this is a passive activity, simply walking around
@@ -9140,7 +9123,8 @@ always viewed the world.</p>]]></description>
         </item>
         <item>
             <title><![CDATA[Visual Commentary Propaganda Pastiche]]></title>
-            <description><![CDATA[<p>From comic book stores to Facebook to message boards, it seems that the “Keep
+            <description><![CDATA[<p><img src="/static/images/2011-10-12-keep-buying-and-carry-debt.png" alt="Keep Buying and Carry Debt"></p>
+<p>From comic book stores to Facebook to message boards, it seems that the “Keep
 Calm and Carry On” poster is living a new life as pop-culture cool while people
 remix its’ message with both quirky or banal messages.</p>
 <p>This attempt tries to speak most directly to its underlying message of
@@ -9148,6 +9132,8 @@ consumerism, amidst the current climate of the Occupy Movement.</p>]]></descript
             <link>https://0xadada.pub/2011/10/12/keep-buying-and-carry-debt/</link>
             <guid isPermaLink="true">https://0xadada.pub/2011/10/12/keep-buying-and-carry-debt/</guid>
             <category><![CDATA[notes]]></category>
+            <category><![CDATA[graphic-design]]></category>
+            <category><![CDATA[occupy-wallstreet]]></category>
             <dc:creator><![CDATA[0xADADA]]></dc:creator>
             <pubDate>Wed, 12 Oct 2011 04:00:00 GMT</pubDate>
         </item>
@@ -9822,12 +9808,7 @@ they will remain one of the best solutions to a computer game-playing problem.</
         </item>
         <item>
             <title><![CDATA[Speech Segmentation in Japanese and English Bilinguals]]></title>
-            <description><![CDATA[<p>Colleges of Computer Sciences and Science (Psychology)
-
-Northeastern University Boston, MA
-
-Topics Concerning Japanese and English Bilinguals</p>
-<h3 id="a-literature-review">A Literature Review</h3>
+            <description><![CDATA[<h3 id="a-literature-review">A Literature Review</h3>
 <hr>
 <p>The purpose of this paper is to provide an overview of the existing literature concerning speech segmentation, categorical perception, and some other issues concerning bilinguals of English and Japanese. It will touch on some of the differences in the two languages and how they affect learning the L2. The paper will start by providing background information about some of the two languages and some of the current issues involved in speech processing. The paper will then delve into the most current research, what the issues are, how it was done, and the results they have found. It will then go on to discuss the possible future directions of this research and end with references.</p>
 <hr>
@@ -10277,17 +10258,19 @@ be of interest to this field. Also of interest to future research is the topics
 of multiple segmentation cues, such as lexico-semantic, and prosody, and how
 these can be used interchangeably along with more native segmentation processes
 such as mora, syllable, or stress-based segmentation.</p>
-<h2 id="references">References</h2>]]></description>
+<h2 id="bibliography">Bibliography</h2>]]></description>
             <link>https://0xadada.pub/2003/12/14/speech-segmentation-in-japanese-and-english-bilinguals/</link>
             <guid isPermaLink="true">https://0xadada.pub/2003/12/14/speech-segmentation-in-japanese-and-english-bilinguals/</guid>
             <category><![CDATA[essays]]></category>
             <category><![CDATA[Japanese]]></category>
+            <category><![CDATA[sociology]]></category>
             <dc:creator><![CDATA[0xADADA]]></dc:creator>
             <pubDate>Sun, 14 Dec 2003 05:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Hikikomori/Otaku Japans Latest Out-Group - Creating Social Outcasts to Construct a National Self-identity]]></title>
-            <description><![CDATA[<h2 id="introduction">Introduction</h2>
+            <description><![CDATA[<p><img src="/static/images/2003-01-01-hikikomori-mt-isolation.jpg" alt="Mt. Isolation NH, USA"></p>
+<h2 id="introduction">Introduction</h2>
 <p>Hikikomori (Jap. 引きこもり) and otaku (Jap. おたく) are considered today’s most
 prominent social problems. Hikikomori refers to the recent state of middle and
 high school students who drop out of school, and withdraw completely from
@@ -10311,7 +10294,7 @@ of foreign heritage born in Japan, such as Koreans, or children born from
 migrant workers. If you want to be Japanese, you must look, speak, act, and most
 importantly be by-blood, Japanese.</p>
 <blockquote>
-<p>”In short, while it is possible-though not particularly easy-for a foreigner
+<p>In short, while it is possible-though not particularly easy-for a foreigner
 to acquire Japanese citizenship, it is not possible for an immigrant or the
 children of immigrants to “become Japanese” the way such people can “become
 American.” The way you get to be Japanese is the same way you get to be Zulu
@@ -10319,7 +10302,7 @@ or Shona in Africa: you have to be born into the tribe. For that is what the
 people of Japan-or at least more than 97 percent of them-really are: members
 of a single great tribe united not just by common citizenship or common
 language but by common bloodlines, common racial memory and common tribal
-codes, so of which stretch back into prehistory.”</p>
+codes, so of which stretch back into prehistory.</p>
 </blockquote>
 <p>Japanese society distinguishes itself from other cultures based on in-groups and
 out-groups. The groups that are not Japanese, not local, and different are
@@ -10354,11 +10337,11 @@ outsiders to the Japanese. While these people were easily identified as
 outsiders because of their foreign origins, they were also outsiders because of
 the way they were seen and accepted by society.</p>
 <blockquote>
-<p>“At the same time however, outsiders themselves were ambiguous figures, for
+<p>At the same time however, outsiders themselves were ambiguous figures, for
 usually they were believed to possess both beneficent and malevolent powers.
 The stranger our outsider might have skills pleasing or valuable to the
 community and be the harbinger of good fortune in general, but he or she could
-equally well be the bringer of calamity, the bearer of evil.”</p>
+equally well be the bringer of calamity, the bearer of evil.</p>
 </blockquote>
 <p>Koreans have been a largely disenfranchised group of Japanese society since
 Korea was colonized in 1910. The situation of Koreans in Japan is that many were
@@ -10391,7 +10374,7 @@ not allowed to communicate with the outside world. With the acts of terrorism in
 1995 by this cult, cults are now seen as outsiders by the majority of Japanese
 society.</p>
 <blockquote>
-<p>Otaku (Jap. おたく) have arisen out of the early 1980s as a new group of
+<p>おたく have arisen out of the early 1980s as a new group of
 mostly teenage and twenty-something year olds who share a common obsession.
 The term Otaku is derived from its ancient meaning of addressing someone from
 another household, and implies that you are unconcerned with the details of
@@ -10400,8 +10383,8 @@ there were differences between ‘I’ and ‘You’.</p>
 </blockquote>
 <p>Today the term is used to mean</p>
 <blockquote>
-<p>”I am not interested in you or your inner life. I share with you only a narrow
-interest.”</p>
+<p>I am not interested in you or your inner life. I share with you only a narrow
+interest.</p>
 </blockquote>
 <p>Usually the obsession is about an obscure topic such as a dead rock star, a
 video game, an animated (anime) cartoon series, computers or internet. These
@@ -10442,13 +10425,13 @@ conformity to the education system that he/she was brought up in. Both of these
 qualities are seen as having ‘virtue’ in Japanese society, but when brought to
 extremes can have serious social implications.</p>
 <blockquote>
-<p>“This is the purest imaginable display of the narcissism inherent in Japanese
+<p>This is the purest imaginable display of the narcissism inherent in Japanese
 society. The otaku desires both an idealized union and an impregnable
 independence-the classic drives of the narcissist. He seems postmodern and
 marginal but is deeply traditional in his rejection of the unfamiliar.
 Students in the ancient schools of tea ceremony were like otaku. Every member
 had to be a mirror of every other member. The otaku represent rebellion as
-parodic conformity.”</p>
+parodic conformity.</p>
 </blockquote>
 <p>The media have recently jumped on the rash of violent activities of a few otaku
 and have made the group into monsters. The rate of teenage violent acts of crime
@@ -10502,11 +10485,11 @@ system is ideal for a state that means to create people who will work well in
 industrialized society, and contribute to the state by being a productive
 individual who works towards the common goal of prosperity for the nation.</p>
 <blockquote>
-<p>“Pupils are taught not to think but to accumulate immense piles of disparate
+<p>Pupils are taught not to think but to accumulate immense piles of disparate
 facts that can be repeated on command but cannot be connected. This is not an
 accident or a lapse. Rote learning is the child’s next lesson is dependence.
 To think is an act of autonomy; to memorize the given is to rely upon
-authority.”</p>
+authority.</p>
 </blockquote>
 <p>This type of education system, rote learning, is measured by intense
 examinations that will judge if you have conformed, as well as if you have
@@ -10514,7 +10497,7 @@ memorized the facts presented to you. The subject will either pass or fail; this
 does not judge individual achievement, or critical thinking, but instead to
 rewards the most conformist individual with entrance to industrial society.</p>
 <blockquote>
-<p>“Savage competition and force-fed information without the cultivation of
+<p>Savage competition and force-fed information without the cultivation of
 critical thought go far to explain the character of Japanese graduates. The
 system’s demands-years in exam hell, every other student an adversary-produce
 not exploring intellects but the narrow, machinelike people we assume the
@@ -10523,7 +10506,7 @@ place in the hierarchy, they are unable to form healthy ties with
 equals-horizontal relationships. They are indifferent to most public issues
 because they are unnaturally inward-looking and (by official design) ignorant
 of large patches of their own history. Outside of a few conventional
-settings-karaoke bars are one-they display little sense of autonomy.”</p>
+settings-karaoke bars are one-they display little sense of autonomy.</p>
 </blockquote>
 <p>Otaku are the direct result of this type of education system. They are an
 extreme example of an authoritarian and militaristic rote learning system gone
@@ -10536,25 +10519,25 @@ thinks about the topic given to him/her. This phenomenon is concrete, as you
 would find it increasingly difficult to find an example of otaku outside the
 realm of the academic system.</p>
 <blockquote>
-<p>“There is no doubt that Japan’s educational system produces a dedicated
+<p>There is no doubt that Japan’s educational system produces a dedicated
 workforce, and that these “corporate warriors” are the engine behind Japan’s
 tremendous industrial strength. Obedience to authority, instilled in people
 from the time they are small children, makes Japanese society work very
 smoothly, with far less of the social turmoil and violent crime that have
 plagued other countries. All this is on the plus side of the balance. But
 there is a minus side, which, like so many other modern Japanese problems, has
-to do with once-good ideas carried too far.”</p>
+to do with once-good ideas carried too far.</p>
 </blockquote>
 <p>Hikikomori, on the other hand, also exhibit symptoms rooting from problems
 within the education system. These problems are from a different issue entirely.
 The Japanese education system is built upon the concept of the individual as a
 contributor to the society.</p>
 <blockquote>
-<p>“Standardized textbooks, uniforms, school rules, marching in lockstep around
+<p>Standardized textbooks, uniforms, school rules, marching in lockstep around
 the school grounds, bowing in unison-these regimens were able to achieve what
 350 years of isolation could not: a triumph over regionalism and
 individuality. It was probably Japan’s single most serious modern
-maladaptation.”</p>
+maladaptation.</p>
 </blockquote>
 <p>When children start schooling in kindergarten, the teacher assigns the students
 into “kumi” or groups. These groups will stay together until graduation; they
@@ -10606,8 +10589,7 @@ continues to pounce on every opportunity it gets to portray just how sinister
 and deplorable members assigned to this group are.</p>
 <p>Until Japanese society begins to examine its own social psychological processes,
 it will continue to persist an environment that continually defines its own
-identity by reference to out-groups that it creates and reinforces.</p>
-<h2 id="references">References</h2>]]></description>
+identity by reference to out-groups that it creates and reinforces.</p>]]></description>
             <link>https://0xadada.pub/2003/01/01/hikikomori-otaku-japans-latest-outcasts/</link>
             <guid isPermaLink="true">https://0xadada.pub/2003/01/01/hikikomori-otaku-japans-latest-outcasts/</guid>
             <category><![CDATA[essays]]></category>
@@ -10633,18 +10615,22 @@ time, and lived experience. 🧑‍💻🔧🚗✍️🔒</p>
 <p>0xADADA works on open source, web, and cybersecurity projects from the Boston area; graduated from Northeastern
 University with degrees in Computer Science and Cognitive Psychology focusing on Artificial Intelligence &#x26;
 Human-Centered Computing.</p>
+<h2 id="my-book">My book</h2>
+<p>I’ve written a book, a new English translation of Guy Debords’ 1967 work of philosophy and critical theory,
+<em>The Society of The Spectacle</em>. My edition isn’t as much a straight translation as it is an elaboration, or
+‘remix’ that attempts to reveal more under the text than existed in the original
+and its various translations. <a href="/2021/03/27/the-society-of-the-spectacle/">Read my blog post about it</a></p>
+<p><img src="/static/images/2021-04-01-the-society-of-the-spectacle-cover.png" alt="The Society of the Spectacle, cover design"></p>
+<p>You can find it at <a href="https://unredacted-word.pub/catalog/uw010601-spectacle/">Unredacted Word</a>, or
+<a href="https://unredacted-word.pub/spectacle/">read it online</a></p>
 <h2 id="references">References</h2>
 <blockquote>
-<p>”@0xADADA is the hat expert.”</p>
-<p>—@qtychr
-<a href="https://twitter.com/qtychr/status/756121223302635520">Twitter</a></p>
+<p>”@0xADADA is the hat expert."</p>
 </blockquote>
 <blockquote>
-<p>”[0xADADA] often wore a colored T-shirt with the day of the week printed on
+<p>"[he] often wore a colored T-shirt with the day of the week printed on
 it. At midweek he wore a green ‘Wednesday’ T-shirt; on the next day he wore a
-“Thursday” T-shirt in navy blue.”</p>
-<p>—Joseph M. Reagle
-<a href="https://mitpress.mit.edu/books/hacking-life">Hacking Life: Systematized Living and Its Discontents</a></p>
+‘Thursday’ T-shirt in navy blue.”</p>
 </blockquote>
 <h2 id="faq">FAQ</h2>
 <ul>

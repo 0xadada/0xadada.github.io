@@ -109,6 +109,7 @@ abbr {
   cursor: help;
 }
 @media (min-width: 60rem) {
+  .note,
   abbr::before {
     /* shows abbr title as sidenotes */
     content: attr(title);
@@ -185,9 +186,12 @@ p {
   hyphens: auto;
 }
 
-ins,
+ins {
+  color: forestgreen;
+  font-weight: bold;
+}
 del {
-  text-decoration: none;
+  color: red;
 }
 
 figure {

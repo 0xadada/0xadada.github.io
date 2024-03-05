@@ -23,6 +23,7 @@ export const metadata: Metadata = {
 interface PageMetadata {
   title: string;
   description: string;
+  noindex?: true;
 }
 
 interface Post {
@@ -35,6 +36,7 @@ interface Post {
   date: Date;
   slug: string;
   url: string;
+  noindex?: true;
 }
 
 export default async function Home() {
@@ -53,6 +55,7 @@ export default async function Home() {
         file.filename,
       );
       const post: Post = {
+        ...frontmatter,
         title: frontmatter.title,
         description: frontmatter.description,
         filename: file.filename,
@@ -66,7 +69,9 @@ export default async function Home() {
       return post;
     }),
   );
-  const posts = unsortedPosts.sort((a, b) => (b.date > a.date ? 1 : -1));
+  const posts = unsortedPosts
+    .filter((a) => !a.noindex)
+    .sort((a, b) => (b.date > a.date ? 1 : -1));
   const postMap = new Map();
   posts.forEach((post) => {
     const postsForYear = postMap.get(post.year) ?? [];

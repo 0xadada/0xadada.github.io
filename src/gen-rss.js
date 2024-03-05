@@ -44,6 +44,7 @@ async function generate() {
 
       const { date, url } = parseFilename(file.filename);
       return {
+        ...frontmatter,
         title: frontmatter.title,
         description: content,
         categories: Array.isArray(frontmatter.tags) ? frontmatter.tags : [],
@@ -53,7 +54,9 @@ async function generate() {
       };
     }),
   );
-  const posts = unsortedPosts.sort((a, b) => (b.date > a.date ? 1 : -1));
+  const posts = unsortedPosts
+    .filter((a) => !a.noindex)
+    .sort((a, b) => (b.date > a.date ? 1 : -1));
   posts.map((post) => {
     feed.item(post);
   });

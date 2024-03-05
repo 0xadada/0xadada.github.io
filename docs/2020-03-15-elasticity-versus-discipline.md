@@ -52,7 +52,7 @@ in effect: <q>If you (the finance sector) create risky assets and they
 fail, we'll allow you to profit during the good times and we'll save you by
 buying them back during the bad times</q>.
 
-Remember the <abbr title="Nobody remembers the Zune, it failed horribly">Microsoft Zune</abbr> mp3 player?
+Remember the <abbr title="Nobody remembers the Zune, it failed horribly.">Microsoft Zune</abbr> mp3 player?
 Now imagine Microsoft had put so much investment into its Zune, that
 when nobody bought it, and the product failed, the company would've gone
 bankrupt. Now, if this were the financial sector, this is where the Fed becomes
@@ -126,9 +126,7 @@ hazard. The financial industry literally cannot lose because the Fed will always
 save them.
 
 In effect, this is <q>Socialism for the rich, rugged individualism for the
-poor</q> --
-[Martin Luther King, Jr.](https://books.google.com/books?hl=de&id=B8k6btUYR68C&q=%22socialism+for+the+rich%22#v=snippet&q=%22socialism%20for%20the%20rich%22&f=false)
-(pp 346).
+poor</q> --[Martin Luther King, Jr.](https://books.google.com/books?hl=de&id=B8k6btUYR68C&q=%22socialism+for+the+rich%22#v=snippet&q=%22socialism%20for%20the%20rich%22&f=false) (pp 346).
 
 > Lemon socialism is a
 > pejorative term for a form of government intervention in which government
@@ -139,7 +137,7 @@ poor</q> --
 > company to pay its own losses, while in lemon socialism the company is allowed
 > to keep its profits but its losses are shifted to the taxpayer.
 >
-> <figcaption><cite>[Lemon socialism](https://en.wikipedia.org/wiki/Lemon_socialism)</cite></figcaption>
+> <figcaption>Lemon Socialism<cite> [Wikipedia](https://en.wikipedia.org/wiki/Lemon_socialism)</cite></figcaption>
 
 So the imbalance: Why does the Fed continually save the financial industry every
 10 years, but not any other industry? Why does the

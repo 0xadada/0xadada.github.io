@@ -18,10 +18,11 @@ bun dev
 
 Metadata fields
 
-- title
-- description
-- image
-- tags
+- `title: string`
+- `description: string`
+- `image?: string`
+- `noindex?: true`
+- `tags?: string[]`
 
 Image gallery
 
