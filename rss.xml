@@ -4,7 +4,7 @@
         <description><![CDATA[0xADADA]]></description>
         <link>https://0xadada.pub</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 05 Mar 2024 02:23:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Mar 2024 15:49:41 GMT</lastBuildDate>
         <atom:link href="https://0xadada.pub/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[A Year of Tech Layoffs]]></title>
@@ -1240,14 +1240,14 @@ mostly bonds and MBSs by institutions like Freddie Mac that <em>are</em> governm
 backed. Instead, the Feds first line of defense is lowering interest rates, and
 then creating liquidity by buying long-term maturities.</p>
 <p>With the interest rates at zero, the biggest lever at the Fed is effectively
-broken, and now they’ve got to find another lever. Last Friday (6 March), Boston
-Fed President Eric Rosengren called on Congress to expand the Fed’s powers to
+broken, and now they’ve got to find another lever. Last Friday, Boston Fed
+President Eric Rosengren called on Congress to expand the Fed’s powers to
 buy and sell a broader range of assets. This will require congressional
 approval, and during this period of crisis, I’m certain Shock Doctrine politics
 will win out, and these ammendments will pass. I hope I’m wrong.</p>
 <p>So what does this mean? This means that the Fed can start buying non-government
 backed securities: potentially any failing public stocks, private CDOs and
-MBSs<sup><a href="#user-content-fn-4" id="user-content-fnref-4" data-footnote-ref aria-describedby="footnote-label">1</a></sup>. What this means is
+MBSs<sup><a href="#user-content-fn-april2021" id="user-content-fnref-april2021" data-footnote-ref aria-describedby="footnote-label">1</a></sup>. What this means is
 the Fed can buy the most dangerous, volatile, and toxic assets that nobody else
 is buying, the ones that are the first to fail in a bursting bubble. This is a
 Fed that has institutionalized &#x26; <em>encouraged</em> systemic moral hazard—saying,
@@ -1265,7 +1265,7 @@ sheet”—its buying the failed assets the financial industry has created over 
 last 10 years, those very same assets the industry has made huge profits from;
 but now that the profits have stopped, the Fed bails them out by buying them
 when no one else will.</p>
-<p>(Update: Jan 2021<sup><a href="#user-content-fn-5" id="user-content-fnref-5" data-footnote-ref aria-describedby="footnote-label">2</a></sup>) Nearly 10 months since this essay was published, we’re
+<p>Nearly 10 months<sup><a href="#user-content-fn-jan2021" id="user-content-fnref-jan2021" data-footnote-ref aria-describedby="footnote-label">2</a></sup> since this essay was published, we’re
 already seeing strong indicators that consumer purchasing power
 will be severely hurt by inflation. So while government stipends may help in the
 near short term, long term people will be hurt by less value for every dollar
@@ -1277,7 +1277,7 @@ will tank, companies will go out of business, we’re in desperate
 times, so we need to take desparate measures. These predictions are all
 true, and these outcomes will happen: but the solution they offer only addresses
 the symptoms, but not the root cause—the
-<strong>deregulation<sup><a href="#user-content-fn-1" id="user-content-fnref-1" data-footnote-ref aria-describedby="footnote-label">3</a></sup></strong> of the
+<strong>deregulation</strong> of the
 financial sector. Neoliberal deregulation of the financial sector over the last
 40 years has encouraged banks to put money into risky bubbles that keep popping,
 retirement funds of regular people are directly tied into that system, even
@@ -1288,12 +1288,19 @@ These asset types need to be drastically limited to qualified investors and
 speculators only.</p>
 <p>As it stands, bailouts will reward the most risky investors and speculators,
 while passive investors, retirees, and taxpayers will end up bailing out these
-risk takers. Thus, for the finance sector, the Fed provides <strong>elasticity</strong>:
+risk takers. We’ve already seen it happen, specifically, the gutting of the Volcker Rule, the repeal of the
+affiliation restrictions of the Glass–Steagall Act, and the giant free-for-all stock
+buybacks taking place.</p>
+<p><img src="/static/images/2020-03-15-buybacks.jpg" alt="Financial stock buybacks since 2010"></p>
+<p>The only ways to mitigate risk-loading is strict limitations on executive compensation, employee bonuses, and no
+mergers or acquisitions for at least 10 years. These banks should be nationalized, its execs fired and all contracts
+voided. New leadershp will be brought in as reasonably paid public servants.</p>
+<p>Thus, for the finance sector, the Fed provides <strong>elasticity</strong>:
 fungible rules around banking, investing, taxation, and bailouts when things go
 bad. For the rest of the economy, and individuals, we get <strong>discipline</strong>:
 massive losses, austerity and cuts to social programs and public infrastructure,
 moralizing our individual failures as people, capitalizing on the large-scale
-failures of small businesses<sup><a href="#user-content-fn-3" id="user-content-fnref-3" data-footnote-ref aria-describedby="footnote-label">4</a></sup>, and continual indebtedness for the poor and
+failures of small businesses<sup><a href="#user-content-fn-shopping" id="user-content-fnref-shopping" data-footnote-ref aria-describedby="footnote-label">3</a></sup>, and continual indebtedness for the poor and
 middle classes.</p>
 <p>This is an ideological conservatism combined with a blind faith in an economics
 that can never be wrong. As Frank Wilhoit put it Conservatism consists of
@@ -1327,7 +1334,25 @@ to keep its profits but its losses are shifted to the taxpayer.</p>
 10 years, but not any other industry? Why does the
 <a href="https://www.newyorkfed.org/markets/opolicy/operating_policy_200312a">Fed create and spend 1.5T dollars to purchase worthless and arcane financial instruments</a>,
 but never spend on public goods like housing, student education, public
-infrastructure<sup><a href="#user-content-fn-2" id="user-content-fnref-2" data-footnote-ref aria-describedby="footnote-label">5</a></sup>?</p>
+infrastructure?</p>
+<p>This is our biggest opportunity, while we have the most leverage, to heavily
+invest in public infrastructure and works programs. The airline industry is
+already asking for bailouts to the tune of $50B. This isn’t the time for
+bailouts, this is the time for imagination, to create a society that works
+for everyone. This is the time to nationalize the airline industry. Since 2010, the
+very same industry has been investing their money directly into stock
+buybacks, pumping up their own stock prices, and paying huge bonuses to
+their execs and CEOs. Since 2010 the major airlines have invested $45B in
+buybacks, and now asks for $50B in bailouts.</p>
+<p><img src="/static/images/2020-03-15-airline-buybacks.png" alt="Airline stock buybacks since 2010"></p>
+<p>This means that they spent $45B of their own money betting that their stocks would go up in value, paying out
+any profits to their execs and CEOs as their valuations rose, and when
+the market burst, they asked for their money back <em>and an additional
+$5B on top</em>. To put this simply, this is a massive con-job and
+outright theft. Nationalizing the airline industry is a win-win: it will
+create good paying american jobs, make flying more affordable, mitigate cost
+cutting at the expense of flight safety (see ‘Boeing 737 Max’), and mitigate
+market risk.</p>
 <p>And now we get to the systemic asymetries of power. Trump and those within his
 inner circle, as well as his political base believe they are entitled to the
 rights and protections of the law, and meanwhile cast blame and stigmatize those
@@ -1354,37 +1379,26 @@ C., and Garrick Y. for reviewing early drafts of this essay and providing
 feedback.</p>
 <section data-footnotes class="footnotes"><h2 class="sr-only" id="footnote-label">Footnotes</h2>
 <ol>
-<li id="user-content-fn-4">
-<p>Update: April 9th
+<li id="user-content-fn-april2021">
+<p>Update: April 9th, 2021
 As predicted, the Fed is starting to take consumer credit debt
 and commercial MBSes onto its balance sheet.
 The Fed will now accept triple-A rated tranches of existing commercial mortgage-backed securities and newly issued collateralized loan obligations. Under TALF, the Fed lends money to investors to buy securities backed by credit-card loans and other consumer debt. The Fed has made $100 billion available for that program and didn’t increase the amount Thursday.
-<a href="https://www.wsj.com/articles/fed-announces-new-facilities-to-support-2-3-trillion-in-lending-11586435450?emailToken=541e2dedd6bede9b4d6ae9d44a2a062c7HuWo9MeoBNqhzmd09hf0IEjJVhb1HTeGJkTRwnEgr2wW1szbCZ9iSqB5eAUfJ5MrTaa7qUHJRxPktf+vdJ7dWh4tMok+E1cIneDsYK4DiTVjOvzKtS2+Vbq7iqpfucG">Fed Expands Corporate-Debt Backstops, Unveils New Programs to Aid States, Cities and Small Businesses</a> <a href="#user-content-fnref-4" data-footnote-backref="" aria-label="Back to reference 1" class="data-footnote-backref">↩</a></p>
+<a href="https://www.wsj.com/articles/fed-announces-new-facilities-to-support-2-3-trillion-in-lending-11586435450?emailToken=541e2dedd6bede9b4d6ae9d44a2a062c7HuWo9MeoBNqhzmd09hf0IEjJVhb1HTeGJkTRwnEgr2wW1szbCZ9iSqB5eAUfJ5MrTaa7qUHJRxPktf+vdJ7dWh4tMok+E1cIneDsYK4DiTVjOvzKtS2+Vbq7iqpfucG">Fed Expands Corporate-Debt Backstops, Unveils New Programs to Aid States, Cities and Small Businesses</a> <a href="#user-content-fnref-april2021" data-footnote-backref="" aria-label="Back to reference 1" class="data-footnote-backref">↩</a></p>
 </li>
-<li id="user-content-fn-5">
+<li id="user-content-fn-jan2021">
 <p>Update: January 25, 2021
-Added a chart of the FRED M2 Money Stock from the Federal Reserve Bank of
-St. Louis.
+Added a chart of the FRED M2 Money Stock from the Federal Reserve Bank of St. Louis.
 M2 is closely watched as an indicator of money supply and future inflation,
 and as a target of central bank monetary policy. M2 is a calculation of the
 money supply that includes all elements of M1 as well as “near money.” M1
 includes cash and checking deposits, while near money refers to savings
 deposits, money market securities, mutual funds, and other time deposits.
 These assets are less liquid than M1 and not as suitable as exchange mediums,
-but they can be quickly converted into cash or checking deposits. <a href="#user-content-fnref-5" data-footnote-backref="" aria-label="Back to reference 2" class="data-footnote-backref">↩</a></p>
+but they can be quickly converted into cash or checking deposits. <a href="#user-content-fnref-jan2021" data-footnote-backref="" aria-label="Back to reference 2" class="data-footnote-backref">↩</a></p>
 </li>
-<li id="user-content-fn-1">
-<p>Specifically, the gutting of the Volcker Rule, the repeal of the
-affiliation restrictions of the Glass–Steagall Act, and the free-for-all stock
-buybacks in the financial sector since 2010:</p>
-<p><img src="/static/images/2020-03-15-buybacks.jpg" alt="Financial stock buybacks since 2010"></p>
-<p>Furthermore, The only ways to mitigate risk-loading is strict limitations
-on executive compensation, employee bonuses, and no mergers or acquisitions
-for at least 10 years. These banks should be nationalized, its execs fired and all
-contracts voided. New leadershp will be brought in as reasonably paid public servants. <a href="#user-content-fnref-1" data-footnote-backref="" aria-label="Back to reference 3" class="data-footnote-backref">↩</a></p>
-</li>
-<li id="user-content-fn-3">
-<p>Update: March 25th
+<li id="user-content-fn-shopping">
+<p>Update: March 25th, 2021
 After reviewing early drafts of the
 <a href="https://www.majorityleader.gov/sites/democraticwhip.house.gov/files/COVIDSUPP3_xml.pdf">Take Responsibility for Workers and Families Act</a>,
 as proposed, Wall Street, will suddenly have $4-6T of
@@ -1394,29 +1408,7 @@ businesses desperately try to get whatever they can from deep-pocketed
 private equity investors and monopolists. If that happens, the America we
 know, of heterogeneous small businesses would look very different
 after this pandemic is over—a homogeneous space optimized for
-massive corporations and destroying local autonomy and diversity. <a href="#user-content-fnref-3" data-footnote-backref="" aria-label="Back to reference 4" class="data-footnote-backref">↩</a></p>
-</li>
-<li id="user-content-fn-2">
-<p>This is our biggest opportunity, while we have the most leverage, to heavily
-invest in public infrastructure and works programs. The airline industry is
-already asking for bailouts to the tune of $50B. This isn’t the time for
-bailouts, this is the time for imagination, to create a society that works
-for everyone. This is the time to
-nationalize the airline industry. Since 2010, the
-very same industry has been investing their money directly into stock
-buybacks, pumping up their own stock prices, and paying huge bonuses to
-their execs and CEOs. Since 2010 the major airlines have invested $45B in
-buybacks, and now asks for $50B in bailouts.</p>
-<p><img src="/static/images/2020-03-15-airline-buybacks.png" alt="Airline stock buybacks since 2010"></p>
-<p>This means that they spent $45B
-of their own money betting that their stocks would go up in value, paying out
-any profits to their execs and CEOs as their valuations rose, and when
-the market burst, they asked for their money back <em>and an additional
-$5B on top</em>. To put this simply, this is a massive con-job and
-outright theft. Nationalizing the airline industry is a win-win: it will
-create good paying american jobs, make flying more affordable, mitigate cost
-cutting at the expense of flight safety (see ‘Boeing 737 Max’), and mitigate
-market risk. <a href="#user-content-fnref-2" data-footnote-backref="" aria-label="Back to reference 5" class="data-footnote-backref">↩</a></p>
+massive corporations and destroying local autonomy and diversity. <a href="#user-content-fnref-shopping" data-footnote-backref="" aria-label="Back to reference 3" class="data-footnote-backref">↩</a></p>
 </li>
 </ol>
 </section>]]></description>
