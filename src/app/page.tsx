@@ -83,7 +83,7 @@ export default async function Home() {
       <ol className={styles.years}>
         {[...postMap.keys()].map((year) => (
           <li key={year} className={styles.year}>
-            {year}
+            <span className={styles.yearLabel}>{year}</span>
             <ol className={styles.posts}>
               {postMap.get(year).map((post: Post) => (
                 <li key={post.title} className={styles.post}>
