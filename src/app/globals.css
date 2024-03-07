@@ -115,6 +115,7 @@ abbr {
     content: attr(title);
     width: calc(var(--sideNoteWidth) - 2rem);
     float: right;
+    clear: right;
     margin-right: calc(0rem - var(--sideNoteWidth));
     font-size: 0.75em;
     margin-left: 0;

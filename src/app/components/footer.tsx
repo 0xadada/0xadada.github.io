@@ -11,24 +11,27 @@ export default function Footer({ className = "" }) {
   return (
     <footer className={`${styles.footer} ${className}`}>
       <nav>
-        <p>
+        <p className="h-card">
           &copy; 2003-{year()} 0xADADA (unless otherwise noted.)
           <br />
-          <Link href="/" title="0xADADA">
-            Home
+          <Link
+            className="u-url u-uid"
+            href="https://0xadada.pub/"
+            title="0xADADA"
+          >
+            0xADADA
           </Link>{" "}
-          <span className="h-card">
-            <Link
-              href="mailto:0xadada.pub@protonmail.com"
-              className="c-Meta u-email"
-              rel="me"
-              title="0xADADA"
-            >
-              Email
-            </Link>{" "}
-          </span>
+          <Link
+            href="mailto:0xadada.pub@protonmail.com"
+            className="c-Meta u-email"
+            rel="me"
+            title="0xADADA"
+          >
+            Email
+          </Link>{" "}
           <Link
             href="https://warpcast.com/0xadada"
+            className="u-url"
             rel="me nofollow external noopener"
             title="0xADADA on Warpcast"
           >
@@ -36,6 +39,7 @@ export default function Footer({ className = "" }) {
           </Link>{" "}
           <Link
             href="https://mastodon.cloud/@0xADADA"
+            className="u-url"
             rel="me nofollow external noopener"
             title="0xADADA on Mastodon"
           >
@@ -43,6 +47,7 @@ export default function Footer({ className = "" }) {
           </Link>{" "}
           <Link
             href="https://bsky.app/profile/0xadada.bsky.social"
+            className="u-url"
             rel="me nofollow external noopener"
             title="0xADADA on Bluesky"
           >
@@ -50,13 +55,15 @@ export default function Footer({ className = "" }) {
           </Link>{" "}
           <Link
             href="https://twitter.com/0xadada"
+            className="u-url"
             rel="me nofollow external noopener"
             title="0xADADA on Twitter"
           >
-            Twitter
+            <del>Twitter</del>
           </Link>{" "}
           <Link
             href="https://github.com/0xadada"
+            className="u-url"
             rel="me nofollow external noopener"
             title="0xADADA on GitHub"
           >
@@ -64,6 +71,7 @@ export default function Footer({ className = "" }) {
           </Link>{" "}
           <Link
             href="https://www.goodreads.com/review/list/60524683-0xadada?shelf=wanted"
+            className="u-url"
             rel="me nofollow external noopener"
             title="0xADADA on Goodreads"
           >
@@ -71,6 +79,7 @@ export default function Footer({ className = "" }) {
           </Link>{" "}
           <Link href="/rss.xml">RSS</Link>{" "}
           <Image
+            className="u-photo"
             src="/static/images/meta/avatar.svg"
             alt="0xADADA icon"
             width="20"
