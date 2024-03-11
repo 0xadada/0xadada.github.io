@@ -117,7 +117,7 @@ organized, packaged, advertised and productized self-improvement (e.g. self-help
 books, expensive Yoga classes, meditation get-aways, therapy sessions, magical
 potions and boner pills). The real work can't be bought, it must be practiced-
 and you don't need to leave the house to do it. Travel doesn't change personal
-growth any more than puzzels improve intellectual growth.
+growth any more than puzzles improve intellectual growth.
 
 ![Home, the journey inwards](/static/images/2016-11-06-travel-home.jpg)
 
