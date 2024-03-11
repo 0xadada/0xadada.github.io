@@ -95,6 +95,17 @@ export default function Footer({ className = "" }) {
           </span>
         </p>
       </nav>
+      <form
+        action="https://buttondown.email/api/emails/embed-subscribe/0xadada"
+        method="post"
+        target="popupwindow"
+      >
+        <label htmlFor="email">
+          Sign up to get emailed when I write new things:{" "}
+        </label>
+        <input type="email" name="email" id="email" />
+        <input type="submit" value="Subscribe" />
+      </form>
     </footer>
   );
 }
