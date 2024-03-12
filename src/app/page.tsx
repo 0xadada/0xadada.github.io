@@ -23,7 +23,6 @@ export const metadata: Metadata = {
 interface PageMetadata {
   title: string;
   description: string;
-  noindex?: true;
 }
 
 interface Post {
@@ -36,16 +35,17 @@ interface Post {
   date: Date;
   slug: string;
   url: string;
-  noindex?: true;
 }
 
 export default async function Home() {
   const docsDir = join(process.cwd(), "docs");
   const filenames = fs.readdirSync(docsDir);
-  const files = filenames.map((filename) => ({
-    filename: filename,
-    filepath: join(docsDir, filename),
-  }));
+  const files = filenames
+    .filter((name) => name.match(/^\d{4}/))
+    .map((filename) => ({
+      filename: filename,
+      filepath: join(docsDir, filename),
+    }));
   const unsortedPosts = await Promise.all(
     files.map(async (file) => {
       const markdown = await read(file.filepath);
@@ -69,9 +69,7 @@ export default async function Home() {
       return post;
     }),
   );
-  const posts = unsortedPosts
-    .filter((a) => !a.noindex)
-    .sort((a, b) => (b.date > a.date ? 1 : -1));
+  const posts = unsortedPosts.sort((a, b) => (b.date > a.date ? 1 : -1));
   const postMap = new Map();
   posts.forEach((post) => {
     const postsForYear = postMap.get(post.year) ?? [];

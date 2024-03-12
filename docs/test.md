@@ -1,7 +1,6 @@
 ---
-title: "hello world"
+title: "Test: hello world"
 description: "markdown and html markup for style testing"
-noindex: true
 ---
 
 ![An image](/static/images/2003-01-01-hikikomori-mt-isolation.jpg)
@@ -39,6 +38,7 @@ were well versed in the history of the western philosophical tradition.
 
 An <mark>important </mark> area of <ins>study</ins> <del>concerning</del> bilingual speech segmentation is how
 non-native speakers segment their second language (L2).
+<span className="spoiler">This is a spoiler!</span>.
 If non-native speakers
 can use any of the non-native language rhythmic, prosodic, lexico-syntatic, and
 syntactic segmentation processes, then they will have a much easier time

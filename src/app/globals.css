@@ -369,3 +369,18 @@ td {
   text-align: left;
   padding: 0 1rem;
 }
+
+.spoiler {
+  background: #292929;
+  color: transparent;
+  cursor: help;
+  user-select: none;
+  transition:
+    background 0.3s ease 0.2s,
+    color 0.2s ease 0.25s;
+}
+.spoiler:hover,
+.spoiler:focus {
+  background: inherit;
+  color: inherit;
+}
