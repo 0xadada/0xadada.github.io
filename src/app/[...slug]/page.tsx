@@ -8,8 +8,8 @@ import remarkSmartypants from "remark-smartypants";
 import remarkSlug from "remark-slug";
 // @ts-ignore
 import rehypeFigure from "rehype-figure";
-import DisplayDate from "../../../../components/display-date";
-import License from "../../../../components/license";
+import DisplayDate from "../components/display-date";
+import License from "../components/license";
 import styles from "./page.module.css";
 import type { Metadata } from "next";
 
@@ -25,24 +25,25 @@ interface PageMetadata {
 export async function generateStaticParams() {
   const docsDir = join(process.cwd(), "docs");
   const slugs = fs.readdirSync(docsDir);
-  const posts = slugs.map((filename) => {
-    const name = filename.replace(/\.md$/, "");
-    const year = name.slice(0, 4);
-    const month = name.slice(5, 7);
-    const date = name.slice(8, 10);
-    const slug = name.slice(11);
-    return {
-      year,
-      month,
-      date,
-      slug,
-    };
-  });
+  const posts = slugs
+    .filter((slug) => slug.match(/^\d{4}/))
+    .map((filename) => {
+      const name = filename.replace(/\.md$/, "");
+      const year = name.slice(0, 4);
+      const month = name.slice(5, 7);
+      const date = name.slice(8, 10);
+      const slug = name.slice(11);
+      return {
+        slug: [year, month, date, slug],
+      };
+    });
   return posts;
 }
 
 export async function generateMetadata({
-  params: { year, month, date, slug },
+  params: {
+    slug: [year, month, date, slug],
+  },
 }: PageProps): Promise<Metadata> {
   const docsDir = join(process.cwd(), "docs");
   const filename = `${[year, month, date, slug].join("-")}.md`;
@@ -76,7 +77,7 @@ export async function generateMetadata({
     openGraph: {
       title: frontmatter.title,
       description: frontmatter.description,
-      url: `${year}/${month}/${date}/${slug}/`,
+      url: `${year}/${month}/${date}/${slug}`,
       siteName: "0xADADA",
       locale: "en_US",
       type: "article",
@@ -87,14 +88,13 @@ export async function generateMetadata({
 
 interface PageProps {
   params: {
-    year: string;
-    month: string;
-    date: string;
-    slug: string;
+    slug: string[];
   };
 }
 export default async function Page({
-  params: { year, month, date, slug },
+  params: {
+    slug: [year, month, date, slug],
+  },
 }: PageProps) {
   const docsDir = join(process.cwd(), "docs");
   const filename = `${[year, month, date, slug].join("-")}.md`;

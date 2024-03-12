@@ -21,10 +21,12 @@ async function generate() {
 
   const docsDir = join(process.cwd(), "docs");
   const filenames = await readdir(docsDir);
-  const files = filenames.map((filename) => ({
-    filename: filename,
-    filepath: join(docsDir, filename),
-  }));
+  const files = filenames
+    .filter((name) => name.match(/^\d{4}/))
+    .map((filename) => ({
+      filename: filename,
+      filepath: join(docsDir, filename),
+    }));
 
   const unsortedPosts = await Promise.all(
     files.map(async (file) => {
@@ -49,7 +51,7 @@ async function generate() {
         description: content,
         categories: Array.isArray(frontmatter.tags) ? frontmatter.tags : [],
         author: "0xADADA",
-        url: `https://0xadada.pub/${url}/`,
+        url: `https://0xadada.pub/${url}`,
         date,
       };
     }),
