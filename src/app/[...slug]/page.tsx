@@ -77,7 +77,7 @@ export async function generateMetadata({
     openGraph: {
       title: frontmatter.title,
       description: frontmatter.description,
-      url: `${year}/${month}/${date}/${slug}`,
+      url: `${year}/${month}/${date}/${slug}/`,
       siteName: "0xADADA",
       locale: "en_US",
       type: "article",

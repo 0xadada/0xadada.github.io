@@ -12,6 +12,7 @@ const withMDX = createMDX({
 const nextConfig = withMDX({
   output: "export",
   images: { unoptimized: true },
+  trailingSlash: true,
   // Configure `pageExtensions` to include MDX files
   pageExtensions: ["mdx", "md", "js", "jsx", "ts", "tsx"],
 });

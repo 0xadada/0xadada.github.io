@@ -11,14 +11,14 @@ export default function Header({ className = "" }) {
         <ul className={styles.items}>
           <li className={styles.item}>
             <Link
-              href="/2021/03/27/the-society-of-the-spectacle"
+              href="/2021/03/27/the-society-of-the-spectacle/"
               className={styles.link}
             >
               📕 Book
             </Link>
           </li>
           <li className={styles.item}>
-            <Link href="about" className={styles.link}>
+            <Link href="about/" className={styles.link}>
               About{" "}
             </Link>
           </li>

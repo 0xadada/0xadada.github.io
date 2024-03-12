@@ -29,7 +29,7 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   ];
   posts.map((post) =>
     sitemap.push({
-      url: `https://0xadada.pub/${post.url}`,
+      url: `https://0xadada.pub/${post.url}/`,
       lastModified: new Date(),
       changeFrequency: "monthly",
       priority: 0.8,
