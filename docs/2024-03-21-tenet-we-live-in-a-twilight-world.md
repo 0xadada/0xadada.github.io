@@ -7,7 +7,7 @@ tags: [essays, notes, films, christopher-nolan]
 
 ![Screenshot from TENET, Neil in the background behind a broken window made of reinforced glass, Protagonist in the foreground looking surprised: He discovered the Hegel references in the film!](/static/images/2024-03-21-tenet-we-live-in-a-twilight-world.jpg)
 
-Christopher Nolans' 2020 sci-fi action thriller *Tenet* is a heist film in which the titular organization attempts to stop the end of the world through time travel[^nolan].
+Christopher Nolans' 2020 sci-fi action thriller *Tenet* is a heist film in which the titular organization attempts to stop the end of the world through time travel.[^nolan]
 
 Due to the sensitivity of the main characters mission, they use a call-and-response passphrase:
 "We live in a twilight world." and
@@ -44,7 +44,7 @@ With respect to the meta-narrative of the film, it could simply mean "There are 
 
 I'll ask Mr. Nolan if he has read both Hegel and the commentary by Papaïoannou, and if the reference is correct.
 
-[^hegel1]: Hegel, G. W. F., Wood, A. & Nisbet, H. (1991). **Elements of the philosophy of right**. Cambridge England New York: Cambridge University Press.
-[^hegel2]: Hegel, G. W. F., Dyde, S. W. (2012). **Philosophy of right**. Dover Publications.
-[^nolan]: Nolan, C. (Director). (2020). **TENET**. Warner Bros. Pictures.
-[^papa]: Papaïoannou, K., Hegel, G. W. F. (2012). **Hegel: avec un choix de textes traduits par l'auteur**. France: Les Belles lettres. 978-2251200286.
+[^hegel1]: Hegel, G. W. F., Wood, A. & Nisbet, H. (1991). *Elements of the philosophy of right*. Cambridge England New York: Cambridge University Press.
+[^hegel2]: Hegel, G. W. F., Dyde, S. W. (2012). *Philosophy of right*. Dover Publications.
+[^nolan]: Nolan, C. (Director). (2020). *TENET*. Warner Bros. Pictures.
+[^papa]: Papaïoannou, K., Hegel, G. W. F. (2012). *Hegel: avec un choix de textes traduits par l'auteur*. France: Les Belles lettres. 978-2251200286.
