@@ -1,13 +1,13 @@
 ---
 title: "TENET: We Live In A Twilight World"
-description: 'I try to unravel the subtle references to Hegel in Christopher Nolan''s 2020 film "Tenet"'
+description: "I try to unravel the subtle references to Hegel in Christopher Nolans' 2020 film “Tenet”"
 image: /static/images/2024-03-21-tenet-we-live-in-a-twilight-world.jpg
 tags: [essays, notes, films, christopher-nolan]
 ---
 
 ![Screenshot from TENET, Neil in the background behind a broken window made of reinforced glass, Protagonist in the foreground looking surprised: He discovered the Hegel references in the film!](/static/images/2024-03-21-tenet-we-live-in-a-twilight-world.jpg)
 
-Christopher Nolan's 2020 sci-fi action thriller **Tenet** is a heist film in which the titular organization attempts to stop the end of the world through time travel[^nolan].
+Christopher Nolans' 2020 sci-fi action thriller *Tenet* is a heist film in which the titular organization attempts to stop the end of the world through time travel[^nolan].
 
 Due to the sensitivity of the main characters mission, they use a call-and-response passphrase:
 "We live in a twilight world." and
@@ -35,7 +35,7 @@ Hegels' metaphor of the owl of Minerva signifies that true philosophical insight
 The owl of Minerva spreads its wings only with the falling of twilight, symbolizing that philosophical reflection occurs when a way of life is mature enough to be understood in hindsight.
 This concept implies that genuine understanding and reflection on history and society can only happen once an epoch has concluded, emphasizing the retrospective nature of philosophical comprehension.
 
-Commenting on Hegel, Papaïoannou describes his post-revolutionary philosophical maturity as a '<abbr title="Papaïoannou 2021, P. 91">twilight world</abbr>'[^papa],
+Commenting on Hegel, Papaïoannou describes his post-revolutionary philosophical maturity as a '<abbr title="Papaïoannou 2012, P. 91">twilight world</abbr>'[^papa],
 as an era that could be interpreted, with equal justice, both as end of the day and as a new dawn.
 His metaphor thus indicates that philosophy need not contemplate a completed world, but could instead herald its transformation.
 
