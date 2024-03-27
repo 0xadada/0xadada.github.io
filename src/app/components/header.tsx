@@ -19,7 +19,12 @@ export default function Header({ className = "" }) {
           </li>
           <li className={styles.item}>
             <Link href="pages/" className={styles.link}>
-              Pages
+              &hellip;
+            </Link>
+          </li>
+          <li className={styles.item}>
+            <Link href="now/" className={styles.link}>
+              Now
             </Link>
           </li>
           <li className={styles.item}>
