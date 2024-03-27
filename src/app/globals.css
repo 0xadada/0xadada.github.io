@@ -48,10 +48,10 @@
 
 :root {
   --sans-serif: system-ui, -apple-system, "BlinkMacSystemFont", "HiraginoSans",
-    "Hiragino Sans", "Roboto", "Noto Sans", "Noto Sans CJK JP", "Oxygen-Sans",
-    "Ubuntu", "Cantarell", "Segoe UI", "Meiryo", "Arial", sans-serif,
-    "Apple Color Emoji", "Noto Color Emoji", "Symbola", "Segoe UI Emoji",
-    "Segoe UI Symbol";
+    "Hiragino Sans", "Lucida Grande", "Roboto", "Noto Sans", "Noto Sans CJK JP",
+    "Oxygen-Sans", "Ubuntu", "Cantarell", "Segoe UI", "Meiryo", "Arial",
+    sans-serif, "Apple Color Emoji", "Noto Color Emoji", "Symbola",
+    "Segoe UI Emoji", "Segoe UI Symbol";
   --bodyPadding: 1.5rem;
   --sideNoteWidth: 15rem;
 }
