@@ -18,6 +18,11 @@ export default function Header({ className = "" }) {
             </Link>
           </li>
           <li className={styles.item}>
+            <Link href="pages/" className={styles.link}>
+              Pages
+            </Link>
+          </li>
+          <li className={styles.item}>
             <Link href="about/" className={styles.link}>
               About{" "}
             </Link>

@@ -83,6 +83,7 @@ export default function Footer({ className = "" }) {
             >
               Goodreads
             </Link>{" "}
+            <Link href="/colophon/">Colophon</Link>{" "}
             <Link href="/rss.xml">RSS</Link>{" "}
             <Image
               className="u-photo"
