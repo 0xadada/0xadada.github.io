@@ -90,6 +90,7 @@ abbr {
 }
 @media (min-width: 60rem) {
   .note,
+  small,
   abbr::before {
     /* shows abbr title as sidenotes */
     content: attr(title);
@@ -100,6 +101,10 @@ abbr {
     font-size: 0.75em;
     margin-left: 0;
     margin-top: 0.375rem;
+  }
+  .note p,
+  small p,
+  abbr::before p {
     text-align: left;
   }
 }
@@ -249,10 +254,10 @@ article header {
   article h2 {
     font-size: 2em;
   }
-  article .entry-content {
+  .entry-content {
     font-size: 1.25em;
   }
-  article .entry-content p {
+  .entry-content p {
     text-align: justify;
     text-wrap: pretty;
   }
