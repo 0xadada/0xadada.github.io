@@ -4,8 +4,58 @@
         <description><![CDATA[0xADADA]]></description>
         <link>https://0xadada.pub</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 12 Mar 2024 18:38:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Apr 2024 01:52:12 GMT</lastBuildDate>
         <atom:link href="https://0xadada.pub/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[TENET: We Live In A Twilight World]]></title>
+            <description><![CDATA[<p><img src="/static/images/2024-03-21-tenet-we-live-in-a-twilight-world.jpg" alt="Screenshot from TENET, Neil in the background behind a broken window made of reinforced glass, Protagonist in the foreground looking surprised: He discovered the Hegel references in the film!"></p>
+<p>Christopher Nolan’s 2020 sci-fi action thriller <em>Tenet</em> is a heist film in which the titular organization attempts to stop the end of the world through time travel.<sup><a href="#user-content-fn-nolan" id="user-content-fnref-nolan" data-footnote-ref aria-describedby="footnote-label">1</a></sup></p>
+<p>Due to the sensitivity of the main characters mission, they use a call-and-response passphrase:
+“We live in a twilight world.” and
+“There are no friends at dusk.”
+This phrase is used to identify those on the inside of the mission from outsiders, and, thereby, avoid divulging secrets to an enemy that can manipulate time.</p>
+<p>This passphrase is a reference to Hegel:</p>
+<blockquote>
+<p>“When philosophy paints its grey in grey, a shape of life has grown, and it cannot be rejuvenated, but only reorganized, but the grey in grey of philosophy; the owl of Minerva begins its flight only with the onset of dusk.”<sup><a href="#user-content-fn-hegel1" id="user-content-fnref-hegel1" data-footnote-ref aria-describedby="footnote-label">2</a></sup></p>
+</blockquote>
+<p>An alternative translation reads:</p>
+<blockquote>
+<p>“When philosophy paints its grey in grey, one form of life has become old, and by means of grey it cannot be rejuvenated, but only known. The owl of Minerva takes its flight only when the shades of night are gathering.”<sup><a href="#user-content-fn-hegel2" id="user-content-fnref-hegel2" data-footnote-ref aria-describedby="footnote-label">3</a></sup></p>
+</blockquote>
+<p>Hegel’s metaphor of the owl of Minerva signifies that true philosophical insight and wisdom only emerge at the end of an era or after events have transpired.
+The owl of Minerva spreads its wings only with the falling of twilight, symbolizing that philosophical reflection occurs when a way of life is mature enough to be understood in hindsight.
+This concept implies that genuine understanding and reflection on history and society can only happen once an epoch has concluded, emphasizing the retrospective nature of philosophical comprehension.</p>
+<p>Commenting on Hegel, Papaïoannou describes his post-revolutionary philosophical maturity as a ‘twilight world’<sup><a href="#user-content-fn-papa" id="user-content-fnref-papa" data-footnote-ref aria-describedby="footnote-label">4</a></sup>,
+as an era that could be interpreted, with equal justice, both as end of the day and as a new dawn.
+His metaphor thus indicates that philosophy need not contemplate a completed world, but could instead herald its transformation.</p>
+<p>With respect to the meta-narrative of the film, it could simply mean “There are no friends at the end of the story” because
+(spoiler) Neil dies.</p>
+<p>I’ll ask Mr. Nolan if he has read both Hegel and the commentary by Papaïoannou, and if the reference is correct.</p>
+<section data-footnotes class="footnotes"><h2 class="sr-only" id="footnote-label">Footnotes</h2>
+<ol>
+<li id="user-content-fn-nolan">
+<p>Nolan, C. (Director). (2020). <em>TENET</em>. Warner Bros. Pictures. <a href="#user-content-fnref-nolan" data-footnote-backref="" aria-label="Back to reference 1" class="data-footnote-backref">↩</a></p>
+</li>
+<li id="user-content-fn-hegel1">
+<p>Hegel, G. W. F., Wood, A. &#x26; Nisbet, H. (1991). <em>Elements of the philosophy of right</em>. Cambridge England New York: Cambridge University Press. <a href="#user-content-fnref-hegel1" data-footnote-backref="" aria-label="Back to reference 2" class="data-footnote-backref">↩</a></p>
+</li>
+<li id="user-content-fn-hegel2">
+<p>Hegel, G. W. F., Dyde, S. W. (2012). <em>Philosophy of right</em>. Dover Publications. <a href="#user-content-fnref-hegel2" data-footnote-backref="" aria-label="Back to reference 3" class="data-footnote-backref">↩</a></p>
+</li>
+<li id="user-content-fn-papa">
+<p>Papaïoannou, K., Hegel, G. W. F. (2012). <em>Hegel: avec un choix de textes traduits par l’auteur</em>. France: Les Belles lettres. 978-2251200286. <a href="#user-content-fnref-papa" data-footnote-backref="" aria-label="Back to reference 4" class="data-footnote-backref">↩</a></p>
+</li>
+</ol>
+</section>]]></description>
+            <link>https://0xadada.pub/2024/03/21/tenet-we-live-in-a-twilight-world/</link>
+            <guid isPermaLink="true">https://0xadada.pub/2024/03/21/tenet-we-live-in-a-twilight-world/</guid>
+            <category><![CDATA[essays]]></category>
+            <category><![CDATA[notes]]></category>
+            <category><![CDATA[films]]></category>
+            <category><![CDATA[christopher-nolan]]></category>
+            <dc:creator><![CDATA[0xADADA]]></dc:creator>
+            <pubDate>Thu, 21 Mar 2024 04:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[A Year of Tech Layoffs]]></title>
             <description><![CDATA[<p><em>Welcome back, stranger. Remember, its about their needs, not yours.</em></p>
