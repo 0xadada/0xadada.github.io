@@ -88,21 +88,6 @@ body {
 abbr {
   cursor: help;
 }
-@media (min-width: 60rem) {
-  .note,
-  small,
-  abbr::before {
-    /* shows abbr title as sidenotes */
-    content: attr(title);
-    width: calc(var(--sideNoteWidth) - 2rem);
-    float: right;
-    clear: right;
-    margin-right: calc(0rem - var(--sideNoteWidth));
-    font-size: 0.75em;
-    margin-left: 0;
-    margin-top: 0.375rem;
-  }
-}
 
 a {
   color: #292929;
@@ -259,10 +244,27 @@ article header {
   
   .entry-content .note p,
   .entry-content small p,
-  .entry-content abbr::before p {
+  .entry-content abbr::before {
     text-align: left;
   }
 }
+
+@media (min-width: 60rem) {
+  .note,
+  small,
+  abbr::before {
+    /* support for sidenotes */
+    content: attr(title);
+    width: calc(var(--sideNoteWidth) - 2rem);
+    float: right;
+    clear: right;
+    margin-right: calc(0rem - var(--sideNoteWidth));
+    font-size: 0.75em;
+    margin-left: 0;
+    margin-top: 0.375rem;
+  }
+}
+
 .e-content a[href^="http"]::after,
 .entry-content a[href^="http"]::after {
   content: " ⎘";
