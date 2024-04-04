@@ -160,6 +160,10 @@ del {
   color: red;
 }
 
+ruby ruby {
+  ruby-position: under;
+}
+
 figure {
   text-align: center;
 }
@@ -241,7 +245,7 @@ article header {
     text-align: justify;
     text-wrap: pretty;
   }
-  
+
   .entry-content .note p,
   .entry-content small p,
   .entry-content abbr::before {
