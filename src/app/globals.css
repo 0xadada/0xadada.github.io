@@ -160,6 +160,9 @@ del {
   color: red;
 }
 
+ruby {
+  font-size: 1rem;
+}
 ruby ruby {
   ruby-position: under;
 }

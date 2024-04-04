@@ -40,6 +40,7 @@ An <mark>important </mark> area of <ins>study</ins> <del>concerning</del> biling
 non-native speakers segment their second language (L2).
 <span className="spoiler">This is a spoiler!</span>.
 If non-native speakers
+<ruby><ruby>摆<rt>let it</rt></ruby><rt>bai</rt><rb><ruby>烂<rt>rot</rt></ruby></rb><rt>lan</rt></ruby>
 can use any of the non-native language rhythmic, prosodic, lexico-syntatic, and
 syntactic segmentation processes, then they will have a much easier time
 segmenting the L2. The ability to learn a non-native segmentation process would
