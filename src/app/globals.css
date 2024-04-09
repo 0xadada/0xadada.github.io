@@ -249,8 +249,10 @@ article header {
     text-wrap: pretty;
   }
 
+  abbr,
   .note {
     text-decoration: underline dotted;
+    text-underline-offset: 0.15em;
   }
   .entry-content .note p,
   .entry-content .note small,
