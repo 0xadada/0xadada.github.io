@@ -12,6 +12,7 @@ import type { Metadata } from "next";
 
 interface PageMetadata {
   title: string;
+  subtitle?: string;
   description?: string;
   displayTitle?: string;
   image?: string;
@@ -67,7 +68,7 @@ export async function generateMetadata({
       };
   return {
     title: frontmatter.title,
-    description: frontmatter.description,
+    description: frontmatter.subtitle || frontmatter.description,
     openGraph: {
       title: frontmatter.title,
       description: frontmatter.description,
@@ -101,6 +102,7 @@ export default async function Page({ params: { page } }: PageProps) {
     <article className="hentry h-entry">
       <header>
         <h1 className="entry-title p-name">{frontmatter.title}</h1>
+        {frontmatter.subtitle && <h2>{frontmatter.subtitle}</h2>}
       </header>
       <div className="entry-content e-content">{content}</div>
     </article>

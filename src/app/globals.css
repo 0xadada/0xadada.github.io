@@ -238,6 +238,9 @@ article header {
   article h1 {
     font-size: 3em;
   }
+  article header h2 {
+    font-size: 1em;
+  }
   article h2 {
     font-size: 2em;
   }

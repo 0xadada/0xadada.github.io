@@ -27,8 +27,6 @@ tags:
   ]
 ---
 
-The Power of 'No': Reclaiming Leisure from the Commodification of Time in an Age of Hyperactivity
-
 ![
   The north face of The Mönch from Lauterbrunnen valley in Switzerland. Photo by the author, 2016.
 ](/static/images/2024-05-01-lauterbrunnen-lived-time-vs-spectacular-time.jpg)
@@ -62,8 +60,10 @@ and they say that to become an expert you must have done 10,000 hours.[^gladwell
 There is something to be said, however, against the professional, the expert, the overachiever.
 I will do my best to argue for the idler, the amateur, the layabout–for they are the experts of idleness.
 I hope to join their ranks one day, and as such,
-<span className="note">I ground the basis of my cause and claims on nothing<small>"ground the basis of my cause and claims on nothing" (Debord 2021, [thesis 208](https://unredacted-word.pub/spectacle/#section-200)), cf. Stirner 1995, cf. Goethe n.d.</small></span>
+<span className="note">I ground the basis of my cause and claims on nothing<small>"ground the basis of my cause and claims on nothing" (Debord 2021, [thesis 208](https://unredacted-word.pub/spectacle/#section-200)), cf. Stirner 1995, cf. Goethe n.d.</small></span>[^debord1]
 but its own self-evident truth--one that is deeply felt.
+
+## Bibliography
 
 [^0xadada-2003]: 0xADADA. 2003. _“[Hikikomori/Otaku Japans Latest Out-Group - Creating Social Outcasts to Construct a National Self-Identity](https://0xadada.pub/2003/01/01/hikikomori-otaku-japans-latest-outcasts/).”_ 0xADADA (blog). January 1, 2003. 0xadada.pub.
 [^tangpingist-2021]: Tangpingist, Anonymous. 2021. “[Tangpingist Manifesto](https://chi.st/bugs/tangpingist-manifesto.).” Bugs - Chi.st (blog). April 1, 2021. chi.st.
