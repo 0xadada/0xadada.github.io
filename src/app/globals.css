@@ -249,7 +249,11 @@ article header {
     text-wrap: pretty;
   }
 
+  .note {
+    text-decoration: underline dotted;
+  }
   .entry-content .note p,
+  .entry-content .note small,
   .entry-content small p,
   .entry-content abbr::before {
     text-align: left;
@@ -257,8 +261,8 @@ article header {
 }
 
 @media (min-width: 60rem) {
-  .note,
-  small,
+  small.note,
+  .note small,
   abbr::before {
     /* support for sidenotes */
     content: attr(title);
