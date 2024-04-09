@@ -188,6 +188,13 @@ pre {
   margin: 0 -1.5rem;
 }
 
+sup {
+  vertical-align: baseline;
+  position: relative;
+  top: -0.5rem;
+  font-size: 0.6em;
+}
+
 @media (min-width: 60rem) {
   figure,
   blockquote,
