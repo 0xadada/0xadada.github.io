@@ -198,6 +198,27 @@ It is relegated to a subservient role as _a gift that presupposed labor_ rather 
 To maintain these complementary roles, consumable time finds itself laden with false attributions of value, and these moments are segmented into a sequence of artificially distinct events, which are merely undifferentiated moments of time perceived to be
 <span className="note"><small>In consumable time, the weekend is perceived as more valuable than the weekdays, and the general sentiment that Mondays are worse than Fridays. These moments of consumable time are perceived to be more valuable since the worker is able to consume this time freely.</small>more highly valuable</span>.[^debord1]
 
+The **Age of the Autonomous Spectacle** is the ultimate realization of the
+<span className="note"><small>The 'End of History' is a political and philosophical concept that supposes that a particular political, economic, or social system may develop that would constitute the end-point of humanity's sociocultural evolution.
+A number of writers have argued that a particular system is the end of history including Thomas More in _Utopia_, G. W. F. Hegel, Karl Marx, Vladimir Solovyov, Alexandre Kojève, and Francis Fukuyama in his 1992 book, _The End of History and the Last Man_.
+Papaïoannou is more optimistic, arguing that "a time of [historical] arrest is not the end of time", and argues that it can contain the potential for new futures (Papaïoannou 2012, p. 97).</small>End of History</span>[^papa-2012]--a
+refusal of the progression of any major historical divergence from our extant social organization and temporalities.
+It is an indefinite postponement of the future.
+This is an age characterized by commodities that exist for their own sake, external to any human desires, or even society itself.
+This is an age where the economy becomes autonomous--organizing social activity in order to reproduce itself.[^jappe]
+The age was inaugurated with the publishing of
+<span className="note"><small>_Propaganda_, was written by Edward Bernays in 1928, incorporated the literature from social science and psychological manipulation into an examination of the techniques of public communication for the "conscious and intelligent manipulation of the organized habits and opinions of the masses." (Bernays 2005).</small>_Propaganda_</span>
+in 1928[^debord2], it developed with the ubiquity of television and radio.
+It was formally declared when Margret Thatcher announced
+<span className="note"><small>"There is no alternative" (TINA) is a political slogan arguing that capitalism is the only viable system of social organization. It was used by Margaret Thatcher in a 1980 speech where she says "We have to get our production and our earnings into balance. There's no easy popularity in what we are proposing but it is fundamentally sound. Yet I believe people accept there's no real alternative." Together with Ronald Reagan, they began the era of neoliberal austerity and laissez-faire globalization.</small> "There is no alternative to capitalism"</span>[^thatcher],
+and finally materialized with the fall of the Berlin Wall, when all alternatives to capitalism ceased to exist.
+
+The temporal modality of this age is **Spectacular time**, with the perception of time itself as a consumable commodity.
+Spectacular time is generalized across the globe as a repetition of the same day, a uniform and equal amount of time fully allocated to the production of commodities, the consumption of commodities, and the reproduction of itself.
+This is a time that can only be organized by the specialized interest groups who own the production of commodities.
+Just as irreversible time was democratized during the Age of Economic Production, the Age of the Autonomous Spectacle democratizes chronological time by granting individuals the ability to create and consume commodities in the general economy (whereas it was once limited to the social elite).
+This is participation with the historical record, albeit limited to the production and consumption of commodities that _increasingly becomes_ the totality of lived experience.
+
 ## Bibliography
 
 [^0xadada-2003]: 0xADADA. 2003. _“[Hikikomori/Otaku Japans Latest Out-Group - Creating Social Outcasts to Construct a National Self-Identity](https://0xadada.pub/2003/01/01/hikikomori-otaku-japans-latest-outcasts/).”_ 0xADADA (blog). January 1, 2003. 0xadada.pub.
