@@ -201,16 +201,16 @@ To maintain these complementary roles, consumable time finds itself laden with f
 The **Age of the Autonomous Spectacle** is the ultimate realization of the
 <span className="note"><small>The 'End of History' is a political and philosophical concept that supposes that a particular political, economic, or social system may develop that would constitute the end-point of humanity's sociocultural evolution.
 A number of writers have argued that a particular system is the end of history including Thomas More in _Utopia_, G. W. F. Hegel, Karl Marx, Vladimir Solovyov, Alexandre Kojève, and Francis Fukuyama in his 1992 book, _The End of History and the Last Man_.
-Papaïoannou is more optimistic, arguing that "a time of [historical] arrest is not the end of time", and argues that it can contain the potential for new futures (Papaïoannou 2012, p. 97).</small>End of History</span>[^papa-2012]--a
+Papaïoannou is more optimistic, saying "a time of [historical] arrest is not the end of time", argues that it can contain the potential for new futures (Papaïoannou 2012, p. 97).</small>End of History</span>[^papa-2012]--a
 refusal of the progression of any major historical divergence from our extant social organization and temporalities.
 It is an indefinite postponement of the future.
 This is an age characterized by commodities that exist for their own sake, external to any human desires, or even society itself.
 This is an age where the economy becomes autonomous--organizing social activity in order to reproduce itself.[^jappe]
 The age was inaugurated with the publishing of
-<span className="note"><small>_Propaganda_, was written by Edward Bernays in 1928, incorporated the literature from social science and psychological manipulation into an examination of the techniques of public communication for the "conscious and intelligent manipulation of the organized habits and opinions of the masses." (Bernays 2005).</small>_Propaganda_</span>
+<span className="note"><small>_Propaganda_, was written by Edward Bernays in 1928, incorporated the literature from social science and psychology for the techniques of public communication for the manipulation of the masses. (Bernays 2005).</small>_Propaganda_</span>[^bernays]
 in 1928[^debord2], it developed with the ubiquity of television and radio.
 It was formally declared when Margret Thatcher announced
-<span className="note"><small>"There is no alternative" (TINA) is a political slogan arguing that capitalism is the only viable system of social organization. It was used by Margaret Thatcher in a 1980 speech where she says "We have to get our production and our earnings into balance. There's no easy popularity in what we are proposing but it is fundamentally sound. Yet I believe people accept there's no real alternative." Together with Ronald Reagan, they began the era of neoliberal austerity and laissez-faire globalization.</small> "There is no alternative to capitalism"</span>[^thatcher],
+<span className="note"><small>"There is no alternative" (TINA) is a political slogan arguing that capitalism is the only viable system of social organization. It was used by Margaret Thatcher in a speech. Together with Ronald Reagan, they began the era of neoliberal austerity and laissez-faire globalization.</small> "There is no alternative to capitalism"</span>[^thatcher],
 and finally materialized with the fall of the Berlin Wall, when all alternatives to capitalism ceased to exist.
 
 The temporal modality of this age is **Spectacular time**, with the perception of time itself as a consumable commodity.
@@ -218,6 +218,48 @@ Spectacular time is generalized across the globe as a repetition of the same day
 This is a time that can only be organized by the specialized interest groups who own the production of commodities.
 Just as irreversible time was democratized during the Age of Economic Production, the Age of the Autonomous Spectacle democratizes chronological time by granting individuals the ability to create and consume commodities in the general economy (whereas it was once limited to the social elite).
 This is participation with the historical record, albeit limited to the production and consumption of commodities that _increasingly becomes_ the totality of lived experience.
+
+Most concretely, social media allows individuals to participate in history
+<span className="note"><small>The celebrity is the contemporary class that was formerly the role of the bourgeoisie, the ruling class, or the nobility--the appearance of the control of power and influence: The Influencer.</small>_as celebrity_</span>
+by 'going viral' either among their peers, or more broadly.
+This is an ephemeral participation in history however, as the attention—or gaze of the public—is distracted by the continual onslaught of spectacular memes.
+Individual subjects of the viral event are quickly subsumed by the global flows of the attention economy that expands autonomously according to market imperatives.
+This commoditized form of time segments moments into Spectacular time and **Pseudo-cyclical time**.
+Spectacular time is the equivalent of work, and pseudo-cyclical time is its' corresponding free-time.
+Pseudo-cyclical time is perceived to have more intrinsic value than working time--work is the so-called 'real life' the worker must endure.
+<span className="note"><small>The consumption of these images (media broadly: internet, tv, news, magazines, apps, even academic publications) serve as further advertisements for all other commodities.</small>Any surplus pseduo-cyclical time is increasingly allocated to the consumption of images</span>,
+deepening the immersion in
+<span className="note"><small>Spectacle is a pervasive system of mediation that alienates individuals from authentic social interactions and experiences. It is not merely about passive consumption of media but encompasses the entire fabric of society, including politics, culture, and everyday life where reality becomes fragmented and commodified, with images and representations serving as a substitute for genuine human relationships and directly lived experiences (Debord 2021).</small>Spectacle</span>.
+This time is the realm of the commodity, and the images are the medium with which these commodities act upon our consciousness most efficiently.
+This is the realm of the attention economy, a battlefield from which the Spectacle mounts its strongest attack.
+The ultimate goal of this attack is to maintain our attention upon the Spectacle itself, and to increase the time allocated to the consumption of spectacular events.
+Whereas power in the Age of Economic Production was determined by nation-states, who made their power legible by drawing territorial boundaries, and defining residents and aliens--the Age of the Autonomous Spectacle is one where power is determined by attention, and space is no longer relevant.
+
+The invention of the smartphone is the key development (after the emergence of the internet) that established the ubiquity of spectacular time and cyberspace.
+The smartphone means we're on the internet all the time.
+We previously _went to the place_ of the internet and took things away with us, but smartphones push us over a threshold where we need to opt-out of
+<span className="note"><small>Known as 'cyberspace-time', cf. Fisher 2020.</small>spectacular time</span>.
+With the internet in our hands, in the ubiquitous non-place of cyberspace did we discover that it becomes nearly impossible to opt-out.[^fisher2]
+This is the spatial modality of this age:
+<span className="note"><small>Airspace is a term coined by Kyle Chayka (Chayka 2016).</small>Airspace</span>,[^chayka1]
+the _universal_ realm of the global market, where local goods, cultures and the places themselves are made accessible to the market, each comparable and homogeneous to better conform to the ease of exchange--and therefore lacking any semblance of its once unique character.[^debord1]
+Airspace is a banalizing and homogenizing force across the globe--where the same tertiary services appear everywhere as workers travel the world demanding the same familiar experiences, creating a banal nowhere.[^chayka1]
+This can be seen happening simultaneously, with the reproduction of the same coffee shops, stores, languages, restaurants, styles, and customs across the globe.
+The emergence of Airspace corresponds with the success of non-location companies like McDonalds, Starbucks, Airbnb, Uber & Lyft,
+<span className="note"><small>Zoom and VPNs are technologies that negate space itself, as well as the need to travel.</small>Zoom, and VPNs</span>.
+Workers are no longer tied to their localities, cities, or even countries.
+Workers can move to their hometowns, move in with families, or move abroad in order to change their working conditions.
+In this age, the nation-state becomes a barrier to free trade, a barrier to the worker trying to optimize their working conditions.
+With the obsolescence of the nation-state, corporate power comes to the fore.
+Corporations are the dominant zeitgeber in the daily lives of individuals.
+They provide the infrastructure for wages, health care, perks, and even define when, where, and who people socialize with.
+The corporation is the predominant institution that organizes society.
+The rise of corporate sociality is built upon the graveyard of community.
+The ideal worker in the Age of the Autonomous Spectacle is the knowledge worker, the self-starter, whose primary task is to produce one's own psyche: an
+<span className="note"><small>The achievement-subject refers to individuals who have transitioned from being obedience-subjects in a disciplinary society to entrepreneurs of themselves in an achievement society. These individuals are driven by a task-oriented compulsion towards constant productivity, self-improvement, and overachievement. They are guided by a positive social milieu that emphasizes "Yes, we can". This condition ultimately leads to anxiety, exhaustion, burnout, and depression (Han 2015).</small>achievement-subject</span>[^han]
+who is expected to have little inputs and produce maximum outputs, with little management, and produce surplus value that consistently goes beyond 'meets expectations'.
+
+## Temporalities of Time
 
 ## Bibliography
 
