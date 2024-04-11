@@ -157,7 +157,7 @@ For members of the Historical society, Irreversible time truly exists, and withi
 The spatial modality of this age was _the control of territory_, and the weapon of choice was, for the first time, the written word.
 Ironically, the power of the nobility was legitimated by claims (familial or fictional) to a mythical past.
 It was during this age that
-<span className="note"><small>e.g. Judaism, Christianity, Islam, Buddhism.</small>monotheistic religions</span>
+<span className="note"><small>E.g. Judaism, Christianity, Islam, Buddhism.</small>monotheistic religions</span>
 developed and made a compromise between myth and history--one that bridged the gap between Cyclical time (as it dominated the sphere of agricultural production), and the Irreversible time that was the theater of politics.
 The religions that developed out of monotheism were the fundamental building blocks universally acknowledged as useful for building new Historical societies based on Irreversible time.
 It was during this age where one's life was measured according to Irreversible time, in the form of successive stages of life (childhood, adulthood, old-age), with the consideration of life as a _voyage_, as passage without return, in a world whose meaning culminates in the spatial elsewhere of
@@ -260,6 +260,125 @@ The ideal worker in the Age of the Autonomous Spectacle is the knowledge worker,
 who is expected to have little inputs and produce maximum outputs, with little management, and produce surplus value that consistently goes beyond 'meets expectations'.
 
 ## Temporalities of Time
+
+The perception of time is a fluid modality of human thought.
+A temporality is a collective psychology that dominates the whole mass of society.[^braudel1]
+These psychologies shift across periods of time and space, much like an age, a temporality is more keenly felt in the city than in the country.
+One temporality comes to the fore as another recedes, but one is always more dominant.
+The dominant temporality of any society is determined by its stage of human social development.
+During the Age of Cyclical Nature, time was humanized and therefore any individual was able to participate in the historical events of their own time.
+After the emergence of irreversible time, the individual could no longer meaningfully participate in the lived historical events of their own period, as those events are no longer controlled by those at the base of society.
+
+**Cyclical time** is a time that directly confronts naturally cyclical conditions, repeating with the seasons and according to the patterns of local flora and fauna.
+It is a perception of time as the passage of the labors of a people in sync with naturally occurring transitions.
+
+**Mythical time** is perceptually the same as Cyclical time, but underwritten by a claim to ownership of that time by a nobility that has taken ownership of the historical record.
+
+**Irreversible time** is the perception of time as a linear series of events and developments occurring in the realm of war, economics, technology, knowledge, and yet limited to the personal chronicles of the nobility.
+It is qualitative.
+Irreversible time is a temporality whereby the ruling class records their personal histories with narratives--those personal events, conquests, wars, battles, and the administration of their kingdom.
+Irreversible time is the official time of adventures and wars, the time from which the rulers of historical society pursue their personal histories; it is the same time that is contested in clashes between foreign lands.
+Irreversible time is thus alien to ordinary individuals, something they don't seek out and something from which they had thought they were protected from.
+These events mark changes in the historical record that provide a framework for individuals to understand their place within time.
+
+The early ages we've described above each correspond to a single temporality.
+In the later two ages (the Age of Economic Production and the Age of the Autonomous Spectacle, respectively) two modes of temporality emerge that exist in parallel.
+One of these temporalities always corresponds to the
+<span className="note"><small>In Debordian terms, 'time of production' (Debord 2021).</small>time spent working</span>
+and one corresponds to valorized time (free time, consumable time, more highly valued by individuals).
+Individuals experience these temporalities distinctly, and oscillate between them on a day-to-day basis.
+
+|                                     | **Working time**   | **Valorized time**   |
+| :---------------------------------- | :----------------- | :------------------- |
+| **Age of Economic Production**      | Chronological time | Consumable time      |
+| **Age of the Autonomous Spectacle** | Spectacular time   | Pseudo-cyclical time |
+
+**Chronological time** is linear and quantitative.
+It is segmented, measurable, ordered, and counted.
+It is the time of clocks, of hours, minutes, seconds, milliseconds.[^pandt12]
+Chronological time is the _Chronos_, it is scheduled and planned in advance, knowable and quantitative.[^odell2]
+It is the time of work.[^debord1]
+Chronological time atomizes the moment,
+<span className="note"><small>Equivalent time where every interval is equivalent in value and therefore indistinguishable as abstracted units of time, which are, in reality, merely their use value for exchangeability (Debord 2021).</small>where every interval is equivalent in value and therefore indistinguishable</span>.[^debord1]
+Chronological time has no duration, and produces no memory, it is unmemorable time but not forgotten--it is always inscribed into the historical record.
+Chronological time is understood as a sequence of the same uneventful 'nows' that repeat over and over again to the point where each working day is interchangeable for the next.
+Chronological time is complement to Consumable time, and the opposite of Lived time.
+
+<span className="note"><small>Debord uses the term 'Pseudo-cyclical time' when discussing the freely consumable time of the worker that is the compliment of time spent working.</small>**Consumable time**</span>
+is the time returned to social life as a by-product of the work accomplished during Chronological time[^debord1].
+Consumable time _is_ Chronological time _disguised_ as a time to be consumed freely by workers.
+It exhibits the same characteristics, namely equally segmented, fungible units of time--the qualitative dimensions of which are suppressed in favor of quantitative equality.
+Since this time is the complementary _by-product_ of work, it therefore maintains the hegemony and legitimacy _of work_.
+It is the complement to Chronological time, and a commoditized version of Lived time.
+
+![Sign reads "NO IDLING" besides a doorway into a building.](/static/images/2024-05-01-no-idling.jpg)
+
+**Spectacular time** is the ultimate realization of the End of History—a refusal of the progression of any major historical divergence or change to the dominant temporality.
+It changes our perception of time,
+<span className="note"><small>Twitter is the perfect example of a screaming low-level panic.</small>creating a panic-temporality</span>.
+It enforces a state of constant anxiety akin to entrepreneurialism, a form of precarity where we are compelled to continually hustle and market ourselves even when we have stable jobs.
+This temporality appears across the globe as a repetition of the same day, a uniform and equal amount of time fully allocated to the production and consumption of commodities, and the reproduction of Spectacle.
+In spectacular time, we never have the time to sit back and think, to plan for the future--all time has been accounted for, and the future has been foreclosed.
+This is a time that can only be organized by the specialized interest groups who own the production of those commodities.
+Spectacular time is an objective religion with dogma, ritual, and the imposition of scripture _as fact_--these take the form of best practices, productivity optimizations, and quantified success, respectively.
+This isn't a subjective religion that is lived and felt, but one that colonizes life.
+It is a religion that is submitted to from the external doctrines of the economy.
+
+**Pseudo-cyclical time** is the complement to Spectacular time, a time valorized for the 'free consumption' by the workers in the Age of the Autonomous Spectacle.
+Pseudo-cyclical time is experienced as cyclical time, returning to the
+<span className="note"><small>The natural zeitgebers are the cyclical rhythms of cyclical time: day and night, the procession of the seasons, the intervals of farm work, the cycle of harvests, festivals, and holidays.</small>zeitgebers</span>
+that regulated the intervals of pre-industrial societies.
+It builds upon these vestiges of Cyclical time as a foundation and generates new variations: day and night, weekly work and weekend rest, and the cycle of fashions, television shows, holidays, and periodic vacations.
+It is defined by the continuation of the rationality of the enlightenment combined with the demand for data that arose out of the attention economy.
+Pseudo-cyclical time is itself a consumable commodity, one which has combined all aspects of the social life which were previously distinguished: private life, economic life, and political life.
+This combined time of contemporary society is the raw material to be consumed by the worker how they see fit, but only as input to a set of ever-expanding products on a market of socially controlled schedules according to the attention economy.
+
+There are two more temporalities, these are the unmemorable, the unaccounted for, and therefore the untheorized.
+These two temporal domains are the wilderness of time, at once wild sites of potential and yet vulnerable to commodification.
+
+**Reproductive time** is the time used to reproduce the worker every day.
+This is the time required to acquire daily food, clothing, and shelter.
+It is the lived experience of commuting, doing chores, cooking, and eating.
+It accounts for adequate rest and sleep, maintaining one's health, childcare, relationships, and community.
+It is the equivalent to the time spent surviving in nature--foraging for food, searching for shelter, but set in a modern milieu—shopping, chores, and conducting economic transactions.
+Reproductive time is always subject to the dominant time of its age, be that irreversible time, chronological time, or spectacular time.
+The economy considers reproductive time as _secondary_ concerns.
+As such, health, aging, and childcare are continually sidelined by the economy as externalities that have no bearing on the production of products and services.
+Reproductive time is presented as the realm of the domestic, as feminine, and as such has is considered invisible and intuitive--which is to say, lacking in thought and rigor.[^garbes]
+Reproductive time is, in fact, the opposite--
+<span className="note"><small>To quote Marx describing the revolutionary proletarian: _'I am nothing and I should be everything.'_ (Marx 1975, p. 254).</small>it produces the visible workforce</span>,
+and a lot of emotion and thought is put into care for the people who become the fundamental basis of the economy.[^garbes]
+<q><span className="note"><small>Garbes 2022, p. 14.</small>Love and care, like social change, are slow and follow circuitous paths that take days not hours, years not months. The work may seem inefficient, but love doesn't play by the same rules as the economy</span></q>.[^garbes]
+While work is perceived as 'apart from life', and 'free time' remains perceived as 'more authentically real life', the lived experience of reproductive time is cut off from 'real life', remaining undocumented and unaccounted for on any personal narrative.
+This deprives daily life of language and as a formal concept, and it lacks any analysis of what events occurred within its own past.
+Reproductive time is the real time of life, but one that is misunderstood, smothered, and forgotten--to the benefit of the false consciousness of spectacular time that is the memory of the unmemorable.[^debord1]
+Reproductive time is the primary site of recuperation by neoliberal capitalism as it continues to colonize this time.
+It appears across the globe with the defunding of any social services that support reproductive time.
+Concrete examples of this include the defunding of public education and the increase of private schools and private childcare; the increase in the costs of college education, the politicization-of & elimination-of reproductive healthcare; the increase in health insurance costs and its decreasing coverage; the reduction of subsidized food and housing programs; the privatization of health services such as the NHS in the UK, and the consolidation of hospitals and outpatient clinics in the US.
+These reductions come at the expense of workers, and the costs are borne by workers in terms of both time and money.
+The ideological goal of these actions is twofold: shift the burden of reproductive time onto workers by eliminating services and shifting them to the private domain while corporations capture increasing profits by decreasing operational costs.
+
+<span className="note"><small>I chose to use Debordian term 'Lived time' because it has the connotation of actually living. Other have used the Greek word 'kairos' to describe such moments. Odell 2023.</small>**Lived time**</span>
+is the freest, most fun, most creative modes of time experienced.[^debord1]
+Lived time is the **Kairos**[^odell2]--those nonlinear and qualitative moments that dynamically stretch and contract with our emotions, engage all our senses, and requires full participation.
+Lived time are those
+<span className="note"><small>Known as 'ecstatic time' in _Being and Time_, the word comes from the Greek *ékstasis*--to be 'outside of oneself'. See Heidegger 1962.</small>moments of ecstasy</span>
+experienced during leisure, play, focus, intense emotions, and erotic rapture.[^heidegger1]
+It is a time experienced without the awareness of time passing.
+Lived time is those moments we do something for the hell of it, when we escape the rigid order of the schedule.
+Lived time is a
+<span className="note"><small>The 'space of play' is Graeber's term for a distinction between play and games, where play is free, creative, and open-ended, while games are rigid, repetitive, and closed-off. Graeber suggested that play underlies art, science, conversation, and community, while games are the preferred method of bureaucracy. He emphasized that the key distinction between games and play is the presence of rules, with games being defined by their rules, while play is defined by its lack of rules (Graeber 2015).</small>space of play</span>
+that is free, creative, and open-ended.[^graeber1]
+Athletes, artists, and creatives have converged on describing this time as "a state of flow"--a total state of immersion in activity.
+Lived time is unhurried, a time in which people can pursue their own projects, at their own pace.
+These projects may not lead to a predetermined goal, but the projects are gradually _becoming_ unto themselves, absent a goal--done for their own sake.
+Often when we say we "have lost track of time", it is due to the experience of lived time.
+The feeling of lived time at its most intense can be depersonalizing, we only realize how absorbed we are when we emerge from it.
+Lived time is never scheduled and always late.
+It is here where we abandon the utility-value of time as money, and it is where past, present and future coalesce into duration[^pandt12]--the perception of memorable times distilled into a narrative that chronicles one's life.
+Lived time is fundamentally useless, ephemeral, disposable, and therefore cherished--that singular characteristic beyond value.
+Lived time is experienced for its own sake--not guided by instrumentality or utility.
+It is a time that uniquely gives us a sense of our own mortality.[^pandt12]
 
 ## Bibliography
 
