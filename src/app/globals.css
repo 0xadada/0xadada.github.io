@@ -241,7 +241,7 @@ article header {
   margin: 6.5em 0;
 }
 
-.entry-content {
+article h2 {
   counter-reset: sidenote-counter;
 }
 
@@ -268,6 +268,7 @@ article header {
     counter-increment: sidenote-counter;
     text-decoration: underline dotted;
     text-underline-offset: 0.15em;
+    text-decoration-color: rgba(41, 41, 41, 0.25);
   }
   abbr[title]::after,
   .note::after {
