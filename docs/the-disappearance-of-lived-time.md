@@ -358,7 +358,7 @@ Concrete examples of this include the defunding of public education and the incr
 These reductions come at the expense of workers, and the costs are borne by workers in terms of both time and money.
 The ideological goal of these actions is twofold: shift the burden of reproductive time onto workers by eliminating services and shifting them to the private domain while corporations capture increasing profits by decreasing operational costs.
 
-<span className="note"><small>I chose to use Debordian term 'Lived time' because it has the connotation of actually living. Other have used the Greek word 'kairos' to describe such moments. Odell 2023.</small>**Lived time**</span>
+<span className="note"><small>I chose to use Debordian term 'Lived time' because it has the connotation of actually living. Other have used the Greek word 'kairos' to describe such moments, see Odell 2023.</small>**Lived time**</span>
 is the freest, most fun, most creative modes of time experienced.[^debord1]
 Lived time is the **Kairos**[^odell2]--those nonlinear and qualitative moments that dynamically stretch and contract with our emotions, engage all our senses, and requires full participation.
 Lived time are those
@@ -380,9 +380,84 @@ Lived time is fundamentally useless, ephemeral, disposable, and therefore cheris
 Lived time is experienced for its own sake--not guided by instrumentality or utility.
 It is a time that uniquely gives us a sense of our own mortality.[^pandt12]
 
+## Instrumentarianism and The Perpetual Present
+
+The Perpetual Present is our contemporary temporal social milieu--a period without duration that never changes, it is a temporality where the past is irrelevant, and
+<span className="note"><small>The Perpetual Present is the reification of time itself.</small>the present moment is spent determining a future that isn't our own</span>.
+Unlike the circle in the cyclical time of nature, and the line in the irreversible time of history, the perpetual present is a point of singularity collapsed into a time we call 'now'.
+The perpetual present is the period at the End of History.
+
+![It's Always Now: Image of an analog clock face with 'Now' at every hour.](/static/images/2024-05-01-its-always-now.jpg)
+
+The
+<span className="note"><small>The autonomous economy is an economy which has shifted from the satisfaction of human needs to the generation of pseudo-needs in for its own sake, external to any human desire, or even society itself, organizing reality in order to reproduce itself.</small>autonomous economy</span>
+privileges the perpetual present which is concentrated as a cascade of urgent 'nows' that bury the past and obscure the future.
+There is no felt duration between past and future when the now is in ubiquitous crisis.
+The ubiquity of this temporality creates a dominant social order--one in which we <q>scurry to meet the demands of our quantitative culture.</q>[^pandt12]
+Our lives increasingly exist in the perpetual present, where moments are sold according to the ticking of the clock.
+Time is money, time is getting things done, and yet, at the end of the day we cannot account for where our time went.
+A society dominated by continual busyness is a social life that is permanently anxious and
+<span className="note"><small>"It's easier to imagine the end of the world than the end of capitalism" a quote attributed to Fredric Jameson and Slavoj Žižek (Fisher 2009).</small>too distracted to imagine a future</span>.[^fisher1][^fisher-2014]
+The perpetual present is haunted by <q>lost futures that the twentieth century taught us to anticipate... the disappearance of the future meant the deterioration of a whole mode of social imagination: the capacity to conceive of a world radically different from the one in which we currently live.
+It meant the acceptance of a situation in which culture would continue without really changing.</q>[^fisher-2012]
+This is a society deeply networked by smartphones, and an onslaught of tasks that ruthlessly undermine any sense that time can 'congeal' due to informational saturation.
+The more information we are exposed to, the more we become subject to the duration-lessness of the perpetual present, and our focus narrows onto specific instrumental objectives.[^pandt12]
+This instrumental attention prioritizes time solely as a means to attain certain ends: we allocate time for tasks essential to _perceived_ survival, tethering our actions to the ticking of the clock.
+This gives us a diminished sense of duration, and therefore diminished memory--a society of amnesiacs in pursuit of productivity for its own sake, in service to an economy that operates for its own sake.
+In the perpetual present _we are all Leonard_, the protagonist in the 2001 film _Memento_.
+
+![The tattoos on Leonard's body serve as a todo list to help him work despite his amnesia.](/static/images/2024-05-01-memento.jpg)
+
+<span className="note"><small>Cf. Nolan 2001</small>Here's the thing. You see, I haven’t told you about his condition</span>.[^memento]
+
+Leonard has anterograde amnesia, a result of a violent home invasion that left him injured and his wife dead.
+The traumatic memory of this murder drives Leonard's quest for revenge.
+Despite his condition, Leonard is portrayed as smart, determined, and capable.
+He is the exemplar of the achievement-subject: someone focused on achievement for its own sake, the task of increased achievement.
+Leonard exists in a perpetual present brought on by amnesia. Spoilers: <span className="spoiler">once he has gotten his revenge, he must answer for himself: What is next, and to what end? To this, he refuses to answer, and instead changes his own memory by editing the notes that document his own past.
+His perpetual present is constructed with lies and selective memory</span>.
+He continues his task beyond completion, beyond achievement.
+Leonard is the achievement-subject taken to its logical conclusion.
+
+Our perception of the perpetual present exhibits two key characteristics.
+Firstly, time is exclusively tied to the fleeting and present moment.
+Secondly, this present moment becomes illusory, infinitely divisible, and laden with an ever-expanding array of tasks--_becoming infinite_.
+Pursuing this logic leads to the imposition of an unattainable burden, resulting in widespread anxiety and burnout.[^han]
+
+Leonard's amnesia inoculates him from burnout.
+Without memory, without any meaningful sense of the past, Leonard maintains an infinite state of productivity without burnout.
+The TV show _Severance_ expands upon this idea, where employees volunteer to have their brains surgically segmented, thus splitting one's work life from their personal life--they, quite literally, have no memory of their workday.
+The procedure is legitimated as beneficial to mental health, and its' effect produces a docile, burnout-free workforce.[^severance]
+
+_We are all Leonard_ in the perpetual present that is continually demanding 'more'.
+More things to do, more tasks to complete, more labor to be expended, more psychological effort, more status to achieve--nothing is ever complete, and nothing is ever enough.[^pandt12]
+We, unlike Leonard, are not immune to anxiety, depression, exhaustion, and burnout.
+Leonard exemplifies instrumental attention, an attendance to goals and outcomes that is typical of the achievement-subject.
+These goals and behaviors are--much like Leonard--vulnerable to manipulation by the operant forces of Spectacle and surveillance capitalism.
+
+Zuboff defines surveillance capitalism as the utilization of big data, AI, and data-driven technologies to subtly modify human behavior remotely and at scale towards economic ends.[^zuboff]
+The smartphone inaugurated the era of big-data surveillance and gamified behavioral modification using gadgets.
+Twitter's "pull-to-refresh" UI gesture that leverages variable rewards, much like a slot machine, triggers addictive behavior as a way to increase user engagement with the timeline.
+Facebook employs similar psychological methods with the "red dot" notifications that keep people checking their phone for the next new thing.[^0xadada-2018]
+Youtube & Netflix discovered that auto-playing the related videos dramatically increased views.[^bridle-2019]
+She defines
+<span className="note"><small>According to Lacan[^evans], the 'big Other' represents a kind of ideal observer or societal norms that individuals perform for, shaping their behavior and expressions to conform to social expectations (Evans 1996). Žižek[^zizek] further explores this concept by delving into the enigmatic nature of the 'big Other', questioning its demands and highlighting its role in shaping desires and behaviors within society (Žižek 1989).</small>'Big Other'</span>
+as the global physical architecture of computerized and networked technologies that achieve a pervasive and unprecedented means of behavioral surveillance.
+This creates a new form of **Instrumentarian power** that operates through the manipulation of individuals' behaviors, preferences, and actions based on predictive data derived from technological tools--ultimately serving the commercial interests of corporations.[^zuboff]
+
+Contrary to Orwellian depictions of oppressive surveillance technology that maliciously watches our every move, instrumentarian power doesn't rely on forced control or subjugation but rather on individuals willingly interacting with technology in ways that lead them to progressively disclose personal information and behaviors over time.
+<span className="note"><small>Zuboff's Instrumentarian power aligns with Debord's concept of the Integrated Spectacle in _Comments on the Society of the Spectacle_ he described it as
+a fusion of the Diffuse and Concentrated forms, characterized by intensive technological development, continual personal re-skilling, and an integration of state and economy that mirrors how surveillance capitalism intertwines technology with economic interests to monitor and influence individuals' voluntary experiences for profit.
+It is a prescient description of instrumentarian power (Debord 1998, ch. IV).</small>
+Voluntary participation is both far more effective and efficient at subduing the masses</span>,
+since it appears to empower individuals through improved productivity and consumer choice.[^debord2]
+Technology companies leverage cloud computation, big data, artificial intelligence, and behavioral economics to monitor and manipulate experiences for the purpose of commodifying users' private data and attention to keep users engaged.[^zuboff]
+Ultimately, instrumentarianism is a power over time, a unilateral claim to the future,[^zuboff] a power to sell future behaviors to advertisers--all while burying the present in a cascade of banal trivialities.
+
 ## Bibliography
 
-[^0xadada-2003]: 0xADADA. 2003. _“[Hikikomori/Otaku Japans Latest Out-Group - Creating Social Outcasts to Construct a National Self-Identity](https://0xadada.pub/2003/01/01/hikikomori-otaku-japans-latest-outcasts/).”_ 0xADADA (blog). January 1, 2003. 0xadada.pub.
+[^0xadada-2003]: 0xADADA. 2003. _[Hikikomori/Otaku Japans Latest Out-Group - Creating Social Outcasts to Construct a National Self-Identity](https://0xadada.pub/2003/01/01/hikikomori-otaku-japans-latest-outcasts/)._ 0xADADA (blog). January 1, 2003. 0xadada.pub.
+[^0xadada-2018]: 0xADADA. 2018. _[Against Facebook](https://0xadada.pub/2018/05/01/against-facebook/).”_ 0xADADA (blog). May 1, 2018. 0xadada.pub.
 [^tangpingist-2021]: Tangpingist, Anonymous. 2021. “[Tangpingist Manifesto](https://chi.st/bugs/tangpingist-manifesto.).” Bugs - Chi.st (blog). April 1, 2021. chi.st.
 [^augustine]: Augustine, Saint. 2008. *The confessions*. Oxford.
 [^augustine2]: Augustine. & Dods, M. 1993. *The city of god*. New York: Modern Library.
@@ -395,12 +470,13 @@ It is a time that uniquely gives us a sense of our own mortality.[^pandt12]
 [^bunyard1]: Bunyard, Tom. 2019. _Debord, time and spectacle : Hegelian Marxism and situationist theory_. Haymarket Books.
 [^debord1]: Debord, Guy. 2021. _The society of the spectacle_ (Ron. Adams, Trans.). Unredacted Word.
 [^debord2]: Debord, Guy. & Imrie, Malcolm. 1998. *Comments on the society of the spectacle*. London New York: Verso.
+[^evans]: Dylan Evans. 1996. _An Introductory Dictionary of Lacanian Psychoanalysis_. Routledge.
 [^chayka1]: Chayka, Kyle. 2016. “[Welcome to Airspace](https://www.theverge.com/2016/8/3/12325104/airbnb-aesthetic-global-minimalism-startup-gentrification)”. _The Verge_ (blog). August 16, 2016. theverge.com.
 [^chayka-2024]: Chayka, Kyle. 2024. _Filterworld_. Doubleday.
 [^fisher1]: Fisher, Mark. 2009. _Capitalist realism: is there no alternative?_ Zero Books.
-[^fisher-2012]: Fisher, Mark. 2012. “What Is Hauntology?” _Film Quarterly_ 66 (1): 16–24. [doi](https://doi.org/10.1525/fq.2012.66.1.16).
+[^fisher-2012]: Fisher, Mark. 2012. "What Is Hauntology?" _Film Quarterly_ 66 (1): 16–24. [doi](https://doi.org/10.1525/fq.2012.66.1.16).
 [^fisher2]: Fisher, Mark. 2020. _Mark Fisher - cybertime crisis_. [YouTube](https://www.youtube.com/watch?v=zOQgCg73sfQ).
-[^fisher-2014]: Fisher, Mark. 2014. “Mark Fisher: The Slow Cancellation of the Future.” YouTube Video. [\_\_YouTube](https://www.youtube.com/watch?v=aCgkLICTskQ)\_\_.
+[^fisher-2014]: Fisher, Mark. 2014. _"Mark Fisher: The Slow Cancellation of the Future."_ [YouTube](https://www.youtube.com/watch?v=aCgkLICTskQ).
 [^fukuyama-1992]: Fukuyama, Francis. 1992. _The End of History and the Last Man_. New York, N.Y. ; London: Free Press.
 [^garbes]: Garbes, Angela. 2022. _Essential labor_. HarperCollins.
 [^gladwell]: Gladwell, Malcolm. 2008. _Outliers: The story of success_. Back Bay Books.
@@ -428,6 +504,7 @@ It is a time that uniquely gives us a sense of our own mortality.[^pandt12]
 [^russell]: Russell, Bertrand. 1972. _In praise of idleness, and other essays_. Simon & Schuster.
 [^stirner]: Stirner, Max. 1995. _Stirner: The Ego and Its Own_. Cambridge University Press.
 [^stevenson]: Stevenson, Robert Louis. 2023. _[An apology for idlers](https://www.gutenberg.org/files/69825/69825-h/69825-h.htm)_. gutenberg.org. (Retrieved March 8, 2024).
-[^severance]: Stiller, Ben Stiller, and Aoife McArdle. 2022. "_Severance_". TV Series. Apple TV+.
+[^severance]: Stiller, Ben Stiller, and Aoife McArdle. 2022. _Severance_. TV Series. Apple TV+.
 [^thatcher]: Thatcher, Margaret. 1980. "Speech to Conservative Women's Conference". [margaretthatcher.org](https://www.margaretthatcher.org/document/104368). Margaret Thatcher Foundation. (Retrieved March 20, 2024).
+[^zizek]: Žižek, Slavoj. 1989. _The Sublime Object of Ideology_. Verso.
 [^zuboff]: Zuboff, Shoshana. 2018. _The Age of Surveillance Capitalism: The Fight for a Human Future at the New Frontier of Power_. Public Affairs.
