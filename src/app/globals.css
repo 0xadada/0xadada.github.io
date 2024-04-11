@@ -241,6 +241,10 @@ article header {
   margin: 6.5em 0;
 }
 
+.entry-content {
+  counter-reset: sidenote-counter;
+}
+
 @media screen and (min-width: 35em) {
   article h1 {
     font-size: 3em;
@@ -259,11 +263,20 @@ article header {
     text-wrap: pretty;
   }
 
-  abbr,
+  abbr[title],
   .note {
+    counter-increment: sidenote-counter;
     text-decoration: underline dotted;
     text-underline-offset: 0.15em;
   }
+  abbr[title]::after,
+  .note::after {
+    content: counter(sidenote-counter, lower-alpha);
+    font-size: 0.6em;
+    position: relative;
+    top: -0.5rem;
+  }
+
   .entry-content .note p,
   .entry-content .note small,
   .entry-content small p,
@@ -273,11 +286,10 @@ article header {
 }
 
 @media (min-width: 60rem) {
-  small.note,
   .note small,
-  abbr::before {
-    /* support for sidenotes */
-    content: attr(title);
+  small.note,
+  abbr[title]::before {
+    /* sidenote */
     width: calc(var(--sideNoteWidth) - 2rem);
     float: right;
     clear: right;
@@ -286,6 +298,12 @@ article header {
     margin-left: 0;
     margin-top: 0.375rem;
     speak: none;
+  }
+  small.note::before,
+  .note small::before,
+  abbr[title]::before {
+    /* sidenote counter */
+    content: counter(sidenote-counter, lower-alpha) ". " attr(title);
   }
 }
 
