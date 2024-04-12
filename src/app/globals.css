@@ -272,8 +272,9 @@ article h2 {
   }
   abbr[title]::after,
   .note::after {
+    /* note superscript */
     content: counter(sidenote-counter, lower-alpha);
-    font-size: 0.6em;
+    font-size: 0.7em;
     position: relative;
     top: -0.5rem;
     padding-left: 0.333333em;
@@ -317,15 +318,13 @@ article h2 {
   position: relative;
   top: -0.5em;
 }
+.e-content .footnotes a[href^="http"]::after,
+.entry-content .footnotes a[href^="http"]::after {
+  content: none;
+}
 
 .footnotes {
   margin-top: 2rem;
-}
-.footnotes::before {
-  content: " ";
-  display: block;
-  border-top: 1px solid #d0d7de;
-  width: 8rem;
 }
 #footnote-label {
   display: none;
@@ -348,10 +347,12 @@ article h2 {
   padding: 0;
 }
 
-.hanging-indent {
+.hanging-indent,
+#bibliography + .footnotes ol {
   display: block;
-  padding-left: 1.5em;
-  text-indent: -1.5em;
+  list-style: none;
+  padding-left: 2.5em;
+  text-indent: -2.5em;
 }
 
 .scroller {
@@ -362,6 +363,13 @@ table tr:nth-child(odd) td {
 }
 td {
   vertical-align: top;
+}
+
+aside {
+  font-family: sans-serif;
+  font-size: 1rem;
+  background-color: rgba(128, 128, 128, 0.15);
+  padding: 1rem;
 }
 
 .rehype-figure-container {

@@ -59,7 +59,7 @@ and they say that to become an expert you must have done 10,000 hours.[^gladwell
 There is something to be said, however, against the professional, the expert, the overachiever.
 I will do my best to argue for the idler, the amateur, the layabout–for they are the experts of idleness.
 I hope to join their ranks one day, and as such,
-<span className="note"><small>"ground the basis of my cause and claims on nothing" (Debord 2021, [thesis 208](https://unredacted-word.pub/spectacle/#section-200)), cf. Stirner 1995, cf. Goethe n.d.</small>I ground the basis of my cause and claims on nothing</span>[^debord1]
+<span className="note"><small>"ground the basis of my cause and claims on nothing" (Debord 2021, [thesis 208](https://unredacted-word.pub/spectacle/#section-200)), cf. Stirner 1995, cf. Goethe n.d.</small>I ground the basis of my cause and claims on nothing</span>[^debord1][^stirner][^goethe]
 but its own self-evident truth--one that is deeply felt.
 
 ## The Historicity of Time
@@ -201,7 +201,7 @@ To maintain these complementary roles, consumable time finds itself laden with f
 The **Age of the Autonomous Spectacle** is the ultimate realization of the
 <span className="note"><small>The 'End of History' is a political and philosophical concept that supposes that a particular political, economic, or social system may develop that would constitute the end-point of humanity's sociocultural evolution.
 A number of writers have argued that a particular system is the end of history including Thomas More in _Utopia_, G. W. F. Hegel, Karl Marx, Vladimir Solovyov, Alexandre Kojève, and Francis Fukuyama in his 1992 book, _The End of History and the Last Man_.
-Papaïoannou is more optimistic, saying "a time of [historical] arrest is not the end of time", argues that it can contain the potential for new futures (Papaïoannou 2012, p. 97).</small>End of History</span>[^papa-2012]--a
+Papaïoannou is more optimistic, saying "a time of [historical] arrest is not the end of time", argues that it can contain the potential for new futures (Papaïoannou 2012, p. 97).</small>End of History</span>[^papa-2012][^fukuyama-1992]--a
 refusal of the progression of any major historical divergence from our extant social organization and temporalities.
 It is an indefinite postponement of the future.
 This is an age characterized by commodities that exist for their own sake, external to any human desires, or even society itself.
@@ -238,7 +238,7 @@ Whereas power in the Age of Economic Production was determined by nation-states,
 The invention of the smartphone is the key development (after the emergence of the internet) that established the ubiquity of spectacular time and cyberspace.
 The smartphone means we're on the internet all the time.
 We previously _went to the place_ of the internet and took things away with us, but smartphones push us over a threshold where we need to opt-out of
-<span className="note"><small>Known as 'cyberspace-time', cf. Fisher 2020.</small>spectacular time</span>.
+<span className="note"><small>Named 'cyberspace-time', cf. Fisher 2020.</small>spectacular time</span>.
 With the internet in our hands, in the ubiquitous non-place of cyberspace did we discover that it becomes nearly impossible to opt-out.[^fisher2]
 This is the spatial modality of this age:
 <span className="note"><small>Airspace is a term coined by Kyle Chayka (Chayka 2016).</small>Airspace</span>,[^chayka1]
@@ -348,7 +348,7 @@ Reproductive time is presented as the realm of the domestic, as feminine, and as
 Reproductive time is, in fact, the opposite--
 <span className="note"><small>To quote Marx describing the revolutionary proletarian: _'I am nothing and I should be everything.'_ (Marx 1975, p. 254).</small>it produces the visible workforce</span>,
 and a lot of emotion and thought is put into care for the people who become the fundamental basis of the economy.[^garbes]
-<q><span className="note"><small>Garbes 2022, p. 14.</small>Love and care, like social change, are slow and follow circuitous paths that take days not hours, years not months. The work may seem inefficient, but love doesn't play by the same rules as the economy</span></q>.[^garbes]
+<span className="note"><small>Garbes 2022, p. 14.</small><q>Love and care, like social change, are slow and follow circuitous paths that take days not hours, years not months. The work may seem inefficient, but love doesn't play by the same rules as the economy</q></span>.[^garbes]
 While work is perceived as 'apart from life', and 'free time' remains perceived as 'more authentically real life', the lived experience of reproductive time is cut off from 'real life', remaining undocumented and unaccounted for on any personal narrative.
 This deprives daily life of language and as a formal concept, and it lacks any analysis of what events occurred within its own past.
 Reproductive time is the real time of life, but one that is misunderstood, smothered, and forgotten--to the benefit of the false consciousness of spectacular time that is the memory of the unmemorable.[^debord1]
@@ -393,12 +393,16 @@ The
 <span className="note"><small>The autonomous economy is an economy which has shifted from the satisfaction of human needs to the generation of pseudo-needs in for its own sake, external to any human desire, or even society itself, organizing reality in order to reproduce itself.</small>autonomous economy</span>
 privileges the perpetual present which is concentrated as a cascade of urgent 'nows' that bury the past and obscure the future.
 There is no felt duration between past and future when the now is in ubiquitous crisis.
-The ubiquity of this temporality creates a dominant social order--one in which we <q>scurry to meet the demands of our quantitative culture.</q>[^pandt12]
+The ubiquity of this temporality creates a dominant social order--one in which we
+<q>scurry to meet the demands of our quantitative culture.</q>[^pandt12]
 Our lives increasingly exist in the perpetual present, where moments are sold according to the ticking of the clock.
 Time is money, time is getting things done, and yet, at the end of the day we cannot account for where our time went.
 A society dominated by continual busyness is a social life that is permanently anxious and
 <span className="note"><small>"It's easier to imagine the end of the world than the end of capitalism" a quote attributed to Fredric Jameson and Slavoj Žižek (Fisher 2009).</small>too distracted to imagine a future</span>.[^fisher1][^fisher-2014]
-The perpetual present is haunted by <q>lost futures that the twentieth century taught us to anticipate... the disappearance of the future meant the deterioration of a whole mode of social imagination: the capacity to conceive of a world radically different from the one in which we currently live.
+The perpetual present is haunted by
+<q>lost futures that the twentieth century taught us to anticipate...
+the disappearance of the future meant the deterioration of a whole mode of social imagination:
+the capacity to conceive of a world radically different from the one in which we currently live.
 It meant the acceptance of a situation in which culture would continue without really changing.</q>[^fisher-2012]
 This is a society deeply networked by smartphones, and an onslaught of tasks that ruthlessly undermine any sense that time can 'congeal' due to informational saturation.
 The more information we are exposed to, the more we become subject to the duration-lessness of the perpetual present, and our focus narrows onto specific instrumental objectives.[^pandt12]
@@ -517,12 +521,143 @@ Failure to socialize, failure to manage time, failure to manage one's own mental
 
 Thus, as we forfeit our claim to time, and forfeit our claim to space, we forfeit our claim to memory, we forfeit our claim to life--and thus we become the zeitzombie.
 
+## Leisure as Refusal: The Power of 'No'
+
+Over the last
+<span className="note"><small>40 years corresponds to the neoliberal era of economic deregulation that started with Lee Kuan Yew in Singapore, then Reagan in the US and Thatcher in the UK; Yasuhiro Nakasone in Japan, and Deng Xiaoping in China pursuing 'Socialism with Chinese characteristics'.</small>40 years</span>
+we've seen an accelerated emergence of implicit and explicit forms of negativity and refusal, especially in more concentrated societies like Japan and China.
+The
+<span className="note"><small>The Japanese economic miracle of the 1980s was characterized by easy credit, unbridled speculation, and soaring asset prices, which eventually led to a bust in the early 1990s, resulting in a deep recession.</small>Japanese economic miracle</span>
+and the subsequent stagflation of the 1990s created a challenging environment for young people, especially university and high school students, who faced immense pressure to succeed in a society where work achievements were hamstrung by loyalty and seniority.
+The intense competition and high-pressure environment led some individuals to withdraw from society as a coping mechanism, resulting in the condition of the
+<span className="note"><small>The term 'hikikomori' was first used in 1985 to describe retreat neurosis and social apathy, it originated in Japan and refers to a form of social withdrawal where individuals, typically young adults, isolate themselves from society for extended periods, often staying at home and avoiding social interactions (0xADADA 2003).</small><ruby lang="ja">引きこもり<rp>(</rp><rt>hikikomori</rt><rp>)</rp></ruby>[^0xadada-2003]</span>.
+The
+<span className="note"><small>The 996 working hour system (<span lang="zh-CN">996工作制</span>) in China requires employees to work from 9:00 am to 9:00 pm, 12 hours per day for 6 days per week; i.e. 72 hours per week. It is still widespread as of 2024.</small>996 working hour system</span>
+in China resulted in exhaustion, burnout, mental health conditions, and strained personal relationships among workers.
+This lead to the emergence of the
+<ruby lang="zh-CN"><ruby>躺<rt>lying</rt></ruby><rt>tǎng</rt><rb><ruby>平<rt>flat</rt></ruby></rb><rt>píng</rt></ruby>
+movement in the spring of 2021.
+Tang ping reflects a growing discontent among Chinese youth with the intense work expectations and lifestyle sacrifices demanded by the dominant work culture.
+Tang ping encourages individuals to 'lie flat',
+<q>rotate the world 90 degrees, and people will discover this unspoken truth: the one who lies flat is standing, and the one who stands is crawling.</q>[^tangpingist-2021]
+Tang ping advocated for a recognition of the slavery inherent to existing working conditions, and rejects the societal expectations tied to relentless work hours and material success.
+Tang ping and its spiritual successor
+<ruby lang="zh-CN"><ruby>摆<rt>let it</rt></ruby><rt>bǎi</rt><rb><ruby>烂<rt>rot</rt></ruby></rb><rt>làn</rt></ruby>
+echoes the American hippie counterculture movement of the late 1960s, and it is the contemporary analog to the Quiet quitting phenomenon in the US.
+Quiet quitting gained traction during the COVID-19 pandemic, where employees fulfill their job requirements but do not go above and beyond, rejecting the idea that work should consume their lives and choosing not to exceed the expectations outlined in their job descriptions.
+They're setting boundaries, avoiding overtime, and focusing on completing tasks within designated working hours.
+
+To resist the dominance of spectacular time and the perpetual present, we must collectively take responsibility to determine how we use time & space--and to what ends, otherwise the instrumentarian power will allocate our lives to its own ends.
+To do so, we can try embracing negativity.
+By _negativity_ we don't mean melancholy or pessimism, but rather our ability to self-determine one's life by negation, or the change of what we _are_ with a view to _being or becoming_ something else.
+Without negativity we do not have freedom.[^han]
+Neoliberal capitalism encourages human beings to be defined by activity and action--'yes I can' (an excess of positivity), often from pressures outside onesself.
+Negativity is the opposite, it is the power of 'No'--the power to choose.
+
+The power of 'No' is predicated upon the increases of productivity in the last 40 years without a corresponding increase in wages or a decrease in time spent working.
+American households are working more overall today compared to 1980, putting in an average of nearly 4 more weeks of work annually.
+This is driven by increased hours and weeks worked by women who have shifted from reproductive labor to employment.[^pew]
+This increase in productive-time yields surpluses in the form of profits for corporations, and yet lost time for ourselves.
+The real measure of wealth in a society that calls itself 'developed' is not money nor commodities,
+<span className="note"><small>Marx 1973, p. 628.</small><q>but rather, disposable time</q></span>[^marx-1973]
+which is to say the
+<span className="note"><small>Bunyard 2018, p. 220.</small><q>collective potential to actualize qualitatively differentiated moments of lived experience.</q></span>[^bunyard1]
+We say 'No' and refuse to give more time.
+
+When we think of time in terms of hours, minutes, and seconds, we mistake these mere referents as the _thing in itself_--which is to say, we mistake the map for the territory.
+The result of this perception is a collection of social problems caused by
+<span className="note"><small>Odell 2023, p. 120, cf. Bergson 1944</small><q>conceiving of the true nature of time as stemming from wanting to imagine discrete moments sitting side by side in space.</q></span>[^odell2][^bergson1]
+This thinking traps us into the anxiety of 'losing time', of 'time passing', and the loss of productivity that motivates the achievement-subject to produce their own self-exploitation.
+Many of our contemporary social conditions come from auto-disciplining ourselves into an inability to say 'No'.
+
+The power of 'No' allows us to move towards temporal self-determinacy.
+This is temporal negativity, a 'No' to things that hijack our time, a 'No' to instrumentarian power.
+The task of 'No' is to consciously (and collectively) self-determine the goal of human activity and act towards the realization of that goal.
+The individual's concrete activity in leisure (the means) is directly connected to its own action (the ends), which is to say, it is done for its own sake.
+A path forward may be to extend the collective understanding of leisure as a way to establish
+<span className="note"><small>Bunyard 2018, p. 211.</small><q>a condition of unity between conscious human agents (subject) and their own objective historical existence (object)</q></span>,
+which is to say--we can become who we want, as we want, in our own time.
+
+![Parking garage sign that commands us to 'GO SLOW'.](/static/images/2024-05-01-go-slow.jpg)
+
+What can 'save' us, is thinking.
+Thinking takes time that requires lingering, deliberating, weighing up possible alternatives, and patience.
+All these are active forms of 'No' that resist attempts to turn us into passive beings that obey without resistance.
+If we don't, we face hyperactivity and its consequences: anxiety, depression, exhaustion, and burnout.
+'Hyperactivity' is reactionary, it blindly reacts with unthinking efficiency--it lacks in _activity_ since it presupposes immediacy, rather than real activity of thought, which requires time, effort, and delay.[^pandt12]
+We can borrow practices from Zen meditation, where one attempts to achieve
+<span className="note"><small>Han 2015, p. 23.</small><q>the pure negativity of _not to_--that is, the void--by freeing oneself from rushing</q></span>,
+from intrusive thoughts.[^han]
+We need contemplation: the mode of
+<span className="note"><small>Merrifield 2008, p. 165.</small>holistic thinking that considers everything</span>,
+the thinking that is the product of daydreaming, adventures in the mind, meditative thinking that is often useless but done for its own sake.[^merrifield-2008]
+We need activity of thought--the non-time of thinking without rules, without best practices, using intuition which brings into existence new territories of ideas, language, and actions that could never have been predicted.
+
+To say 'No' is to reject the dominant temporality and embrace time for its own sake, a time that is _ours_.
+
+<figure>
+<iframe width="100%" height="520" src="https://www.youtube.com/embed/0atATbXbQ9g?si=m5XDBEkz3KCT3CiM&amp;start=29" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" referrerPolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>
+<figcaption>"Down here it's our time, it's _our_ time down here."[^goonies] Mikey <cite>The Goonies</cite></figcaption>
+</figure>
+
+What can 'save' us is the revival of the sabbatical, a period of relaxation and observation.
+The sabbatical, according to the Hebrew Bible, occurs after six years of planting and tending one's fields, you let them lie
+<span className="note"><small>For more on fallowing, see Kuzmanović 2024.</small>fallow</span>[^kuzm]
+on the seventh year--to let them grow wild without harvest or tending.
+It is a year of rewilding of the land, just as we may similarly re-wild our thoughts.
+Farmers took sabbatical on a rotating basis, and other farmers pooled resources to support the farmer who was observing sabbatical.
+The sabbatical is a period of listening, not speaking; watching, not doing.
+It's _not_ about refreshing oneself to improve future productivity, or reflecting on the past.
+It's about reorienting oneself to the present moment free from outside demands.
+
+What can 'save' us is idleness.
+Idleness and imagination are essential to our wellbeing, they're the wellspring of mental clarity, and the backstop for memory.
+Idleness is the _space of play_, it opens a time that engages all the senses and full participation.
+It allows for activity for its own sake, without ends or instrumental reasoning.
+The activity is self-determined and open-ended.
+
+What can 'save' us is boredom.
+Boredom is the peak of mental relaxation[^han] and acts as a gravity well for contemplation.
+We can turn off our smartphones and de-network ourselves.
+We can resist the mechanization of the supernormal stimuli, we can resist our reactionary impulses that drive social media by means of technological abstinence, it could be
+<span className="note"><small>Orthodox and traditionally observant Jews do not use lights, electrical appliances, or any other electrical devices on the Sabbath (Fri night to Sat night).
+This is because using electricity violates the biblical prohibition on performing "creative labor" (melachah) on the Sabbath.</small>ceasing to use technological devices</span>,
+or it could be by creating spaces that are free from commercial technology.
+
+What can 'save' us is leisure.
+True leisure is the experience of free and undetermined Lived time.
+By free we mean freedom, a mode of living that is not determined, modes of life free from necessity and purpose.[^pandt13]
+This is a leisure that is the opposite of
+<span className="note"><small>Vacation became _instrumentalized leisure_, sold as a packaged product to refresh us for our next stint of work.</small>vacation</span>.
+Leisure provides
+<span className="note"><small>Odell 2023, p. 106.</small><q>a moment of perspective on the grander reality</q></span>[^odell2]
+where we can engage with both past and future.
+Through leisure we reanimate our sense of duration by reintroducing lived time into our lives.
+Leisure is the source of happiness, real meaningful happiness comes from the whimsical, where we engage in practices and projects which are not subordinate to an economic imperative (those things which are trivial, superfluous, and gratuitous).
+Put simply, leisure is to luxuriate in _fun_.
+
+We demand a leisure of the commune, a leisure that isn't the personal responsibility of the individual, but a leisure that is a common good for all people.
+This is leisure-as-public-park: where we
+<span className="note"><small>Odell 2023, p. 95.</small><q>have demarcated space as one free from private ownership... free from the work of optimizing oneself</q></span>.[^odell2]
+
+What can save us is to **Never Work!**
+
+We _have_ time, let's make it ours.
+
+<aside>
+This is part of a series exploring idleness, time, attention, and lived experience.
+
+1. [Travel Writing - Redux, Italy & Switzerland Edition](/2016/11/06/travel-italy-switzerland/)
+2. [Against Facebook](/2018/05/01/against-facebook/)
+3. [I am not a software developer](/2022/04/01/i-am-not-a-software-developer/)
+4. [The Disappearance of Lived Time](/2024/05/01/the-disappearance-of-lived-time/)
+</aside>
+
 ## Bibliography
 
 [^0xadada-2003]: 0xADADA. 2003. _[Hikikomori/Otaku Japans Latest Out-Group - Creating Social Outcasts to Construct a National Self-Identity](https://0xadada.pub/2003/01/01/hikikomori-otaku-japans-latest-outcasts/)._ 0xADADA (blog). January 1, 2003. 0xadada.pub.
 [^0xadada-2018]: 0xADADA. 2018. _[Against Facebook](https://0xadada.pub/2018/05/01/against-facebook/).”_ 0xADADA (blog). May 1, 2018. 0xadada.pub.
 [^tangpingist-2021]: Tangpingist, Anonymous. 2021. “[Tangpingist Manifesto](https://chi.st/bugs/tangpingist-manifesto.).” Bugs - Chi.st (blog). April 1, 2021. chi.st.
-[^augustine]: Augustine, Saint. 2008. *The confessions*. Oxford.
 [^augustine2]: Augustine. & Dods, M. 1993. *The city of god*. New York: Modern Library.
 [^bergson1]: Bergson, Henri., & Mitchell, A. (1944) 1907. *Creative evolution*. The Modern library.
 [^bernays]: Bernays, Edward L. (1928) 2005. _Propaganda: With an Introduction by Mark Crispin Miller_. New York: Ig publishing.
@@ -554,7 +689,6 @@ Thus, as we forfeit our claim to time, and forfeit our claim to space, we forfei
 [^leone]: Leone, Sergio, dir. 1966. _The Good, the Bad and the Ugly_. Archive.org. Produzioni Europee Associate.
 [^marx-1867]: Marx, Karl. (1867) 1990. _Capital: A Critique of Political Economy. / Vol. 1._ Harmondsworth: Penguin in Association with New Left Review.
 [^marx-1973]: Marx, Karl. (1859) 1973. _[Grundrisse : Foundations of the Critique of Political Economy](https://www.marxists.org/archive/marx/works/download/pdf/grundrisse.pdf)_. Translated by Martin Nicolaus. London: Penguin.
-[^marx-1975]: Marx, Karl. 1975. _Early Writings_. Vintage.
 [^memento]: Nolan, Christopher, dir. 2001. _Memento_. United States: Newmarket.
 [^merrifield-2008]: Merrifield, Andy. 2008. _The Wisdom of Donkeys_. Bloomsbury Publishing USA.
 [^odell-2019]: Odell, Jenny. 2019. _How to Do Nothing: Resisting the Attention Economy_. Melville House.
