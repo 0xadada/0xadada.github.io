@@ -276,6 +276,7 @@ article h2 {
     font-size: 0.6em;
     position: relative;
     top: -0.5rem;
+    padding-left: 0.333333em;
   }
 
   .entry-content .note p,

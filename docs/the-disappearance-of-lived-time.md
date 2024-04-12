@@ -454,6 +454,69 @@ since it appears to empower individuals through improved productivity and consum
 Technology companies leverage cloud computation, big data, artificial intelligence, and behavioral economics to monitor and manipulate experiences for the purpose of commodifying users' private data and attention to keep users engaged.[^zuboff]
 Ultimately, instrumentarianism is a power over time, a unilateral claim to the future,[^zuboff] a power to sell future behaviors to advertisers--all while burying the present in a cascade of banal trivialities.
 
+## The Rise of the Zeitzombie
+
+The extreme busyness of the perpetual present saps us of vitality and leaves us without a strong sense of personal identity.
+We have been seduced into the culture of hustle & grind, we have worked so many long hours that our imagination is devoid of anything outside of work.
+
+> "There is a sort of dead-alive hackneyed people about, who are scarcely conscious of living except in the exercise of some conventional occupation."[^stevenson]
+>
+> <figcaption>Robert Louis Stevenson <cite>An Apology for Idlers</cite></figcaption>
+
+<span className="note"><small>Han 2015, p. 50.</small><q>When life is devoid of value, it must be kept healthy at any cost, health becomes self-referential without any greater purpose.
+Health is the new goodness in a society that doesn’t know what good is...
+The people of the achievement society are zombies, they are too healthy to die, and yet too dead to live</q></span>.[^han]
+We are all _Leonard_, we are--**the zeitzombie**.
+
+**Zeitzombie** zeit·zom·bie, IPA /ˈzaɪtˌzɑmbi/ A conjunction of the German _zeit_ for 'time' and the Kikongo word *zumbi* for 'fetish'.
+A living corpse reanimated by productivity and busyness.
+They are those who claim to have no time.
+The zeitzombie is created when a life is drained by the vampire of neoliberal capitalism, converting living flesh into
+<span className="note"><small>Dead labor is labor power that has been expended into a product, a widget, a machine, or even a factory (Marx 1867).</small>dead labor</span>.[^marx-1867]
+Symptoms include: the glorification of work, a protestant work ethic, and a proclivity to do things for the sake of getting them done, and dedication to keeping healthy at any cost.
+Other symptoms include a resistance to sociality, a fear of daydreaming, and the elimination of boredom.
+
+The zeitzombie is the product of our collective proclivity to say 'yes', it's an
+<span className="note"><small>Positivity, according to Han, is "the societal focus on positivity and achievement can lead to an excess of pressure and expectations, making it difficult for individuals to manage negative experiences and ultimately resulting in burnout." (Han 2015, p. 1). Cf. Fisher 2014 who calls it a "permanently multitasking, permanently distracted state of being".</small>excess of positivity</span>.[^han][^fisher-2014]
+As the achievement-subject, we say 'yes' to the urgency of the perpetual present, we say 'yes' to performance improvements at work, we say 'yes' to optimizing our health, we say 'yes' to answering late night work requests, we say 'yes' and pickup those side jobs.
+<span className="note"><small>Odell 2019, p. 15.</small><q>every waking moment has become the time in which we make our living... time becomes an economic resource that we can no longer justify spending on 'nothing'.</q></span>[^odell-2019]
+
+There is no 'work-life balance' for the zeitzombie, when all of life is work: producing our work, producing our bodies to better produce work, producing our psychologies to identify with the production of work.
+<span className="note"><small>Fisher 2009, p. 34.</small>
+<q>Work and life become inseparable.
+Capital follows you when you dream.
+Time ceases to be linear, becomes chaotic, broken down into punctiform divisions...
+To function effectively as a component of just-in-time production you must develop a capacity to respond to unforeseen events, you must learn to live in conditions of total instability, or 'precarity'</q></span>.[^fisher1]
+
+The zeitzombie has internalized corporate claims that
+<span className="note"><small>Fisher 2009, p. 40.</small>'satisfactory' is not enough</span>,
+they intuitively understand that schools, jobs, and even gig apps will undertake performance improvement plans unless they've met 'exceeded' or 'excelled' performance.
+They are therefore compelled to excel beyond satisfactory in all institutional environments.
+This drive to continually excel and constant precarity leads to a diminished sense of _life_ and yields to the simple concern for survival.
+This is the 'logic of increase' that subsumes all notions of _a good life_ in the realms of work, money, health, knowledge, relationships, and community.
+This logic manifests as a fear of falling down the social order that is amplified by social media as we scroll through friends' and celebrities curated image of "what life could be".[^odell2]
+
+<figure>
+  <img src="/static/images/2024-05-01-tuco.jpg" alt="Tuco smiles, screenshot from the 1966 film The Good, the Bad and the Ugly)" />
+  <figcaption>_"If you work for a living, why do you kill yourself working?"_ —Tuco (From the 1966 film "The Good, the Bad and the Ugly"[^leone])</figcaption>
+</figure>
+
+With the conveniences offered by smartphones, we willingly forfeit the separation that work and life once had.
+These technologies expand the legitimate claims to our time inside and outside work, we are expected to be
+<span className="note"><small>Odell 2023, p. 65.</small>reachable by anyone anyplace and at any time</span>.[^odell2].
+The work-life balance is blurred even more when you consider the impact of technology on leisure.
+Vacation once meant leaving the physical place of work behind, now we must ask ourselves _what is vacation when you can work remotely from vacation?_ When there is no clear demarcation between work and _where we are in space_, leisure, as it was understood, is now less definable--just as the concept of 'home' is less obvious when we work from home.
+That which was formerly private space is no longer a place of _refuge_.
+
+Depression, Attention Deficit Hyperactivity Disorder (ADHD), Borderline Personality Disorder, and burnout are the dominant psychological pathologies at the beginning of the twenty-first century.[^han]
+The zeitzombie is ultimately _a victim_ of a society that privatizes social problems,
+<span className="note"><small>Fisher 2015, p. 21.</small><q>treating them as if they were caused only by chemical imbalances in the individual's neurology and/or by their family background--any question of social systemic causation is ruled out.</q></span>[^fisher1]
+Society puts the responsibility of managing social problems onto the individual as personal failures.
+Failure to socialize, failure to manage time, failure to manage one's own mental health--and yet depression is the
+<span className="note"><small>Han 2015, p. 10.</small><q>pathological symptom of late modern human beings failure to become himself.</q></span>[^han]
+
+Thus, as we forfeit our claim to time, and forfeit our claim to space, we forfeit our claim to memory, we forfeit our claim to life--and thus we become the zeitzombie.
+
 ## Bibliography
 
 [^0xadada-2003]: 0xADADA. 2003. _[Hikikomori/Otaku Japans Latest Out-Group - Creating Social Outcasts to Construct a National Self-Identity](https://0xadada.pub/2003/01/01/hikikomori-otaku-japans-latest-outcasts/)._ 0xADADA (blog). January 1, 2003. 0xadada.pub.

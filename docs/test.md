@@ -23,12 +23,13 @@ The purpose of this paper is to provide an overview of the existing literature c
 
 Debord’s text is concise, economical, poetic, provocative, and difficult. As
 Michael Hardt & Antonio Negri describe it in their notes to _Empire_ as
-"<abbr title="Quoting Hardt & Negri: “...Debord recognized this spectacle as the destiny of
+<span class="note"><small>Quoting Hardt & Negri: "...Debord recognized this spectacle as the destiny of
 triumphant capitalism. Despite their important differences, such authors offer
-us real anticipations of the path of capitalist development.” And continuting
-in their notes: “[The Spectacle], which is perhaps the best articulation, in
+us real anticipations of the path of capitalist development." And continuting
+in their notes: "[The Spectacle], which is perhaps the best articulation, in
 its own delirious way, of the contemporary consciousness of the triumph of
-capital.”">delirious</abbr>".[^hardt] His work contains many references to Hegel and Marx. He uses
+capital."</small>delirious</span>.[^hardt]
+His work contains many references to Hegel and Marx. He uses
 words and phrases defined in other Situationist texts, and expects the reader to
 be familiar with them. This is to be expected, as he demands much from the
 reader, and had written for a small audience of “fifty or sixty people” who
@@ -58,7 +59,7 @@ directly benefit the existing body of knowledge[^multiline].
 > language but by common bloodlines, common racial memory and common tribal
 > codes, so of which stretch back into prehistory.[^note-a]
 >
-> <figcaption><cite>Christopher, Robert C., 51</cite></figcaption>
+> <figcaption>Christopher, Robert C.<cite>Bookname 2021, p. 51</cite></figcaption>
 
 In a study of brain plasticity and non-native lexical and segmentation
 processes, Sanders et al. in 2002 came up with interesting methods for probing
