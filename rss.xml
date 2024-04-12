@@ -4,7 +4,7 @@
         <description><![CDATA[0xADADA]]></description>
         <link>https://0xadada.pub</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 04 Apr 2024 13:06:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Apr 2024 20:47:08 GMT</lastBuildDate>
         <atom:link href="https://0xadada.pub/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[TENET: We Live In A Twilight World]]></title>
@@ -25,7 +25,8 @@ This phrase is used to identify those on the inside of the mission from outsider
 <p>Hegel’s metaphor of the owl of Minerva signifies that true philosophical insight and wisdom only emerge at the end of an era or after events have transpired.
 The owl of Minerva spreads its wings only with the falling of twilight, symbolizing that philosophical reflection occurs when a way of life is mature enough to be understood in hindsight.
 This concept implies that genuine understanding and reflection on history and society can only happen once an epoch has concluded, emphasizing the retrospective nature of philosophical comprehension.</p>
-<p>Commenting on Hegel, Papaïoannou describes his post-revolutionary philosophical maturity as a ‘twilight world’<sup><a href="#user-content-fn-papa" id="user-content-fnref-papa" data-footnote-ref aria-describedby="footnote-label">4</a></sup>,
+<p>Commenting on Hegel, Papaïoannou describes his post-revolutionary philosophical maturity as a
+Papaïoannou 2012, P. 91’twilight world’<sup><a href="#user-content-fn-papa" id="user-content-fnref-papa" data-footnote-ref aria-describedby="footnote-label">4</a></sup>,
 as an era that could be interpreted, with equal justice, both as end of the day and as a new dawn.
 His metaphor thus indicates that philosophy need not contemplate a completed world, but could instead herald its transformation.</p>
 <p>With respect to the meta-narrative of the film, it could simply mean “There are no friends at the end of the story” because
@@ -62,19 +63,25 @@ His metaphor thus indicates that philosophy need not contemplate a completed wor
 <p><img src="/static/images/2024-02-25-levelsfyi-layoffs-2022-2024.png" alt="2022-2024 layoffs according to Levels.fyi"></p>
 <p>From Q4 2022 through Q1 2024 the tech industry has seen a shit-ton of layoffs. These are due to a combination of factors:</p>
 <ol>
-<li>The end of the ZIRP era, higher interest rates means investors demand profitability (instead of growth) from portfolio companies.</li>
+<li>The end of the ZIRP: Zero Interest Rate PolicyZIRP era, higher interest rates means investors demand profitability (instead of growth) from portfolio companies.</li>
 <li>In 2017, Section 174 of the US tax code changed, taking effect in 2022<sup><a href="#user-content-fn-1" id="user-content-fnref-1" data-footnote-ref aria-describedby="footnote-label">1</a></sup>.</li>
 <li>Companies with a remote-first culture are hiring nationally, even globally<sup><a href="#user-content-fn-2" id="user-content-fnref-2" data-footnote-ref aria-describedby="footnote-label">2</a></sup>.</li>
 <li>A market correction from over-hiring during the pandemic.</li>
 <li>The hype surrounding AI tools lead to preemptive downsizing<sup><a href="#user-content-fn-3" id="user-content-fnref-3" data-footnote-ref aria-describedby="footnote-label">3</a></sup>.</li>
 </ol>
-<p>The unfortunate outcome of all these layoffs is the impact on these employees. Employment is a critical part of people’s lives, and layoffs can leave long-lasting emotional scars. A job is a zeitgeber, and aside from the circadian rhythm, it is the dominant structural organizer for the cadence of daily life. This is why unemployment is so destabilizing, it arrives as the feeling of vertigo—the ground below has suddenly fallen away, and that nothing is what it was. It manifests as a gradual sense of derealization, as if the world isn’t real, as if you are in a dream. Unemployment is an anxious mental liminal space, a waiting room where control is largely in the hands of others—waiting for replies, waiting for call-backs, waiting for upcoming interview dates, waiting to hear back, wondering why. These feelings will pass, it is temporary.</p>
+<p>The unfortunate outcome of all these layoffs is the impact on these employees. Employment is a critical part of people’s lives, and layoffs can leave long-lasting emotional scars. A job is a
+zeitgeber: German for time giverzeitgeber,
+and aside from the circadian rhythm, it is the dominant structural organizer for the cadence of daily life. This is why unemployment is so destabilizing, it arrives as the feeling of vertigo—the ground below has suddenly fallen away, and that nothing is what it was. It manifests as a gradual sense of
+derealization is detachment from ones surroundingsderealization,
+as if the world isn’t real, as if you are in a dream. Unemployment is an anxious mental liminal space, a waiting room where control is largely in the hands of others—waiting for replies, waiting for call-backs, waiting for upcoming interview dates, waiting to hear back, wondering why. These feelings will pass, it is temporary.</p>
 <p>The next hurdle is the mental investment in perpetual studying and the preparation for technical interviews (which are a poor predictor of performance). The labor is never good enough, never prepares you for all eventualities, and is <em>never complete</em>. Then there is the emotional labor of courting potential corporate suitors, imagining yourself in the role, asking the good questions, showing <em>passion</em> and <em>craftsmanship</em> only to hear them say: unfortunately we’re moving forward with other candidates.</p>
 <p><a href="/2022/04/01/i-am-not-a-software-developer/">You are not your job title</a>. Being laid off says nothing about you or your worth, certainly nothing about your value as a person; they are simply the result of a calculation to further the interests of the company. Layoffs are a failure(unaccountable) of management that <a href="/2020/03/15/elasticity-versus-discipline/">socialize losses</a>(workers get laid off) and <a href="https://abcnews.go.com/Business/ceos-pay-climbed-layoffs-tech-giants-alphabet-microsoft/story?id=101665156">privatize profits</a>(execs get paid off).</p>
 <h2 id="my-experience-with-layoffs">My Experience with Layoffs</h2>
 <p><img src="/static/images/2024-02-25-dot-com-crash.png" alt="The Dot-com Crash of 2001/2002"></p>
 <p>For many this will be the first layoff experience of their career, and I feel for them. I’ve been here before, quite a few times in fact, perhaps you can benefit from my experience.</p>
-<p>I started my career in software engineering as an intern at a tech startup during <a href="https://en.wikipedia.org/wiki/Dot-com_bubble#Bursting_the_bubble">the dot-com crash of 2001</a>. My internship promptly ended when the company closed and laid off most of its employees the week after I started. Aside from not having a job to help pay for rent, I didn’t earn those course credits that were a part of my graduation requirement. I went back to university for six months and then had an opportunity to make up that course credit at EMC² (Now Dell EMC) the following year. That internship also ended with another mass layoff—this time because of the <a href="https://en.wikipedia.org/wiki/Stock_market_downturn_of_2002">post-9/11 stock market downturn of 2002</a>. For the remainder of my time at university, I focused on the course work. I let time sort out the economy while I wasn’t participating in it.</p>
+<p>I started my career in software engineering as an intern at
+Rovia was an early e-book pioneera tech startup
+during <a href="https://en.wikipedia.org/wiki/Dot-com_bubble#Bursting_the_bubble">the dot-com crash of 2001</a>. My internship promptly ended when the company closed and laid off most of its employees the week after I started. Aside from not having a job to help pay for rent, I didn’t earn those course credits that were a part of my graduation requirement. I went back to university for six months and then had an opportunity to make up that course credit at EMC² (Now Dell EMC) the following year. That internship also ended with another mass layoff—this time because of the <a href="https://en.wikipedia.org/wiki/Stock_market_downturn_of_2002">post-9/11 stock market downturn of 2002</a>. For the remainder of my time at university, I focused on the course work. I let time sort out the economy while I wasn’t participating in it.</p>
 <blockquote>
 <p>I tend to think of employment in tech as riding a bull. Not a big bull-riding spectator, but from what little I have seen, it really isn’t about whether you are going to stay on the bull or not. You are going to get thrown off, it’s just a matter of when.</p>
 </blockquote>
@@ -104,13 +111,18 @@ Gareth Mallory: You don’t need to be an operative to see the obvious. It’s a
 <li>finished a bunch of personal projects.</li>
 <li>🥳 refactored my <a href="https://github.com/0xadada/dotfiles/blob/master/.config/nvim/init.lua">Neovim config to Lua</a> &#x26; LSP 🎉.</li>
 <li>refactored this blog.</li>
-<li>started writing on topics that I’d been woolgathering for far too long.</li>
+<li><a href="/2024/05/01/the-disappearance-of-lived-time/">started writing</a> on topics that I’d been Woolgathering refers to indulging in aimless thought, daydreaming, or contemplation without a specific purpose. It can involve allowing one’s mind to wander freely, fostering creativity and introspectionwoolgathering for far too long.</li>
 </ul>
 <h2 id="my-job-search">My Job Search</h2>
-<p>I re-started the job search in earnest in early January and shifted my search to mature, publicly traded software companies. I’m convinced that startups in the US are in for a very difficult time unless theyʼre in AI, crypto, or tough tech.</p>
-<p>After a few months of searching, it is hands-down the most difficult job market I’ve ever seen. There is a pool of world-class engineers available. I personally know more great unemployed talent now than ever in my entire career. I suspect the Department of Labor statistics arenʼt reflecting how bad it really is because many of these workers are havenʼt filed for unemployment because theyʼre still on severance. The interview process is <strong>far</strong> more difficult both in terms of technical breadth, depth, ‘soft-skillsʼ, and incidentals. Employers are expecting “batteries included” engineers who require 0-training, 0-investment, and fully-fit to their needs. Itʼs an employers market, so they expect to get the best, most committed engineers, and they’re able to down-level at a discount.</p>
+<p>I re-started the job search in earnest in early January and shifted my search to mature, publicly traded software companies. I’m convinced that startups in the US are in for a very difficult time unless theyʼre in AI, crypto, or
+tough tech ventures address significant real-world problems, often with long development timelines and high technical uncertaintytough tech.</p>
+<p>After a few months of searching, it is hands-down the most difficult job market I’ve ever seen. There is a pool of world-class engineers available. I personally know more great unemployed talent now than ever in my entire career. I suspect the Department of Labor statistics arenʼt reflecting how bad it really is because many of these workers are havenʼt filed for unemployment because
+a privilege, but one every worker should gettheyʼre still on severance.
+The interview process is <strong>far</strong> more difficult both in terms of technical breadth, depth, ‘soft-skillsʼ, and incidentals. Employers are expecting “batteries included” engineers who require 0-training, 0-investment, and fully-fit to their needs. Itʼs an employers market, so they expect to get the best, most committed engineers, and they’re able to down-level at a discount.</p>
 <p><img src="/static/images/2024-02-25-jigsaw-puzzle-software-interview-process.png" alt="Software engineer interview process as a jigsaw puzzle"></p>
-<p>For the first time in my career, I got no responses to applications, or companies ghosted me after the initial call. Neither of these had happened in any previous job search. If it is this difficult for a cis, white, male startup veteran, what are the chances for a non-white, non-male, with less experience and without a network to fall back on? In the past, job interviews for senior roles had fewer rounds, but now they’ve increased to 7-8 rounds with more code challenges. There are now at least 2, often 3, coding exercises, along with discussions about technical experience, product &#x26; design, leadership, and behavior. The difficulty level of coding questions has also risen from LeetCode easy to medium/hard. As the process progresses, companies become more selective, especially since they have many strong candidates. The final decision often depends on smaller details, what particular library or framework you’ve used, or simple “match making.”</p>
+<p>For the first time in my career, I got no responses to applications, or companies ghosted me after the initial call.
+privilege of the software engineerNeither of these had happened in any previous job search.
+If it is this difficult for a cis, white, male startup veteran, what are the chances for a non-white, non-male, with less experience and without a network to fall back on? In the past, job interviews for senior roles had fewer rounds, but now they’ve increased to 7-8 rounds with more code challenges. There are now at least 2, often 3, coding exercises, along with discussions about technical experience, product &#x26; design, leadership, and behavior. The difficulty level of coding questions has also risen from LeetCode easy to medium/hard. As the process progresses, companies become more selective, especially since they have many strong candidates. The final decision often depends on smaller details, what particular library or framework you’ve used, or simple “match making.”</p>
 <p><img src="/static/images/2024-02-25-job-search.png" alt="My job search infographic"></p>
 <p>Some take-aways: I didn’t make it through the interview process for any startups, only the established companies considered me. I’m not sure why, maybe startups mimic big companies’ processes without proper validation, or perhaps it’s age-related—I’m considered a greybeard now. Their technical questions tended to be easier. I had one interviewer ask me “how many dependents will you have on your healthcare plan” which I pointed out is an illegal question. He stumbled back with “Oh, I ask because our individual plan is good, but our family plan isn’t good”—he went on to describe their company culture as “we hustle, we’re usually in the office 6-days a week and long nights”. They are co-opting the hustle culture ethos and filtering for those rise-and-grind 20-something ‘entrepreneurs’. Is self-exploitation cool again? I know burnout isn’t. I noped out of that funnel, they went into the ‘Declined’ bucket along with another company that pushed back on the value of contemplative thinking and only valued calculative thinking<sup><a href="#user-content-fn-4" id="user-content-fnref-4" data-footnote-ref aria-describedby="footnote-label">5</a></sup>.</p>
 <p>My job search, by the numbers:</p>
@@ -569,7 +581,13 @@ my achievements. This might have been okay where we talked about the idea of a c
 as a vocation, but not now—when the only horizon of intelligibility available according
 to the dominant mindset is one where we understand our selves only in terms of pure
 utility, or economic productiveness. This I refuse.</p>
-<p>I <em>do</em> software engineering. I am not a software engineer.</p>]]></description>
+<p>I <em>do</em> software engineering. I am not a software engineer.</p>
+<ol>
+<li><a href="/2016/11/06/travel-italy-switzerland/">Travel Writing - Redux, Italy &#x26; Switzerland Edition</a></li>
+<li><a href="/2018/05/01/against-facebook/">Against Facebook</a></li>
+<li><a href="/2022/04/01/i-am-not-a-software-developer/">I am not a software developer</a></li>
+<li><a href="/2024/05/01/the-disappearance-of-lived-time/">The Disappearance of Lived Time</a></li>
+</ol>]]></description>
             <link>https://0xadada.pub/2022/04/01/i-am-not-a-software-developer/</link>
             <guid isPermaLink="true">https://0xadada.pub/2022/04/01/i-am-not-a-software-developer/</guid>
             <category><![CDATA[essays]]></category>
@@ -608,7 +626,13 @@ who <em>think and do</em>.</p>
 <p><a href="https://unredacted-word.pub/spectacle/"><img src="/static/images/2021-04-01-the-society-of-the-spectacle-cover.png" alt="The Society of the Spectacle, cover design"></a></p>
 <p>Debord’s text is concise, economical, poetic, provocative, and difficult. As
 Michael Hardt &#x26; Antonio Negri describe it in their notes to <em>Empire</em> as
-“delirious”.<sup><a href="#user-content-fn-1" id="user-content-fnref-1" data-footnote-ref aria-describedby="footnote-label">1</a></sup> His work contains many references to Hegel and Marx. He uses
+Quoting Hardt &#x26; Negri: “…Debord recognized this spectacle as the destiny of
+triumphant capitalism. Despite their important differences, such authors offer
+us real anticipations of the path of capitalist development.” Continuting
+in their notes: “[The Spectacle], which is perhaps the best articulation, in
+its own delirious way, of the contemporary consciousness of the triumph of
+capital.”delirious.<sup><a href="#user-content-fn-1" id="user-content-fnref-1" data-footnote-ref aria-describedby="footnote-label">1</a></sup>
+His work contains many references to Hegel and Marx. He uses
 words and phrases defined in other Situationist texts, and expects the reader to
 be familiar with them. This is to be expected, as he demands much from the
 reader, and had written for a small audience of “fifty or sixty people”<sup><a href="#user-content-fn-2" id="user-content-fnref-2" data-footnote-ref aria-describedby="footnote-label">2</a></sup> who
@@ -1282,14 +1306,16 @@ banks and financial companies from going out of business”</em>. Currently, acc
 to <a href="https://www.federalreserve.gov/aboutthefed/section14.htm">Section 14</a> of the
 Federal Reserve Act, the Fed is prevented from buying assets (stocks, index
 funds
-CDO,
+CDO: Collateralized Debt ObligationCDO,
 mortgage backed security
 directly on the market. Instead they can only buy government-backed assets,
 mostly bonds and MBSs by institutions like Freddie Mac that <em>are</em> government
 backed. Instead, the Feds first line of defense is lowering interest rates, and
 then creating liquidity by buying long-term maturities.</p>
 <p>With the interest rates at zero, the biggest lever at the Fed is effectively
-broken, and now they’ve got to find another lever. Last Friday, Boston Fed
+broken, and now they’ve got to find another lever.
+March 6th, 2021Last Friday,
+Boston Fed
 President Eric Rosengren called on Congress to expand the Fed’s powers to
 buy and sell a broader range of assets. This will require congressional
 approval, and during this period of crisis, I’m certain Shock Doctrine politics
@@ -1303,7 +1329,9 @@ Fed that has institutionalized &#x26; <em>encouraged</em> systemic moral hazard�
 in effect: If you (the finance sector) create risky assets and they
 fail, we’ll allow you to profit during the good times and we’ll save you by
 buying them back during the bad times.</p>
-<p>Remember the Microsoft Zune mp3 player?
+<p>Remember the
+Nobody remembers the Zune, it failed horribly.Microsoft Zune
+mp3 player?
 Now imagine Microsoft had put so much investment into its Zune, that
 when nobody bought it, and the product failed, the company would’ve gone
 bankrupt. Now, if this were the financial sector, this is where the Fed becomes
@@ -1314,7 +1342,8 @@ sheet”—its buying the failed assets the financial industry has created over 
 last 10 years, those very same assets the industry has made huge profits from;
 but now that the profits have stopped, the Fed bails them out by buying them
 when no one else will.</p>
-<p>Nearly 10 months<sup><a href="#user-content-fn-jan2021" id="user-content-fnref-jan2021" data-footnote-ref aria-describedby="footnote-label">2</a></sup> since this essay was published, we’re
+<p>Update: January 2021Nearly 10 months<sup><a href="#user-content-fn-jan2021" id="user-content-fnref-jan2021" data-footnote-ref aria-describedby="footnote-label">2</a></sup>
+since this essay was published, we’re
 already seeing strong indicators that consumer purchasing power
 will be severely hurt by inflation. So while government stipends may help in the
 near short term, long term people will be hurt by less value for every dollar
@@ -1420,10 +1449,6 @@ to the core, and this rot is going to seep into public sentiment: <em>“If they
 don’t play by the rules, why should I?“</em>. This has the effect or eroding the
 very conception of a nation operating under an equal rule of law, and will
 result in toxic resentment and fuel civil unrest.</p>
-<h2 id="thanks">Thanks</h2>
-<p>Thanks to <a href="https://twitter.com/b_apothecary">@b_apothecary</a>, Coby Durling, Jason
-C., and Garrick Y. for reviewing early drafts of this essay and providing
-feedback.</p>
 <section data-footnotes class="footnotes"><h2 class="sr-only" id="footnote-label">Footnotes</h2>
 <ol>
 <li id="user-content-fn-april2021">
@@ -2937,13 +2962,13 @@ dark patterns. (Brown, 2010).</p>
 email accounts. (Carlson, 2010).</p>
 <p>You should delete your Facebook account, but please share this essay before you
 do 😉!</p>
-<h2 id="acknowledgements">Acknowledgements</h2>
-<p>I thank the following friends for their feedback:
-<a href="https://twitter.com/agrabau">Alex Grabau</a>,
-<a href="https://twitter.com/thomdunn">Thom Dunn</a>,
-<a href="https://twitter.com/suzidao">Suzi Dao</a>,
-<a href="https://twitter.com/b_apothecary">Stephen</a> &#x26;
-<a href="https://twitter.com/qtychr">qtychr</a>.</p>
+<p>This is part of a series exploring idleness, time, attention, and lived experience.</p>
+<ol>
+<li><a href="/2016/11/06/travel-italy-switzerland/">Travel Writing - Redux, Italy &#x26; Switzerland Edition</a></li>
+<li><a href="/2018/05/01/against-facebook/">Against Facebook</a></li>
+<li><a href="/2022/04/01/i-am-not-a-software-developer/">I am not a software developer</a></li>
+<li><a href="/2024/05/01/the-disappearance-of-lived-time/">The Disappearance of Lived Time</a></li>
+</ol>
 <p>Angwin, Julia. Mattu, Surya. Parris Jr, Terry. (December 27, 2016). <a href="https://www.propublica.org/article/facebook-doesnt-tell-users-everything-it-really-knows-about-them">Facebook Doesn’t Tell Users Everything It Really Knows About Them</a> (Retrieved April 21, 2018).</p>
 <p>Ahmed, Nafeez. (December 29, 2017).
 <a href="https://medium.com/insurge-intelligence/how-facebook-will-infiltrate-national-elections-and-rule-the-world-in-less-than-10-years-unless-732da197b8fd">Facebook will become more powerful than the NSA in less than 10 years — unless we stop it</a>.
@@ -4619,7 +4644,8 @@ rationale the Chinese government is using to censor social media, the “danger 
 rumors” causing fractures in social cohesion. I’m worried the Trump
 administration will take a similar path.</p>
 <p>I will oppose the reappropriation of language. I will not use terms they
-redefine, nor use new terms they make.
+redefine, nor use
+E.g. ‘fake news’new terms they make.
 We must preserve the true meaning of words, and reconsider the use of language to
 simplify discourse and bias our perspectives.</p>
 <p>The media, press, bloggers and social media are free to criticize the political
@@ -4940,7 +4966,13 @@ books, expensive Yoga classes, meditation get-aways, therapy sessions, magical
 potions and boner pills). The real work can’t be bought, it must be practiced-
 and you don’t need to leave the house to do it. Travel doesn’t change personal
 growth any more than puzzles improve intellectual growth.</p>
-<p><img src="/static/images/2016-11-06-travel-home.jpg" alt="Home, the journey inwards"></p>]]></description>
+<p><img src="/static/images/2016-11-06-travel-home.jpg" alt="Home, the journey inwards"></p>
+<ol>
+<li><a href="/2016/11/06/travel-italy-switzerland/">Travel Writing - Redux, Italy &#x26; Switzerland Edition</a></li>
+<li><a href="/2018/05/01/against-facebook/">Against Facebook</a></li>
+<li><a href="/2022/04/01/i-am-not-a-software-developer/">I am not a software developer</a></li>
+<li><a href="/2024/05/01/the-disappearance-of-lived-time/">The Disappearance of Lived Time</a></li>
+</ol>]]></description>
             <link>https://0xadada.pub/2016/11/06/travel-italy-switzerland/</link>
             <guid isPermaLink="true">https://0xadada.pub/2016/11/06/travel-italy-switzerland/</guid>
             <category><![CDATA[essays]]></category>
@@ -8569,7 +8601,7 @@ Puritan/<a href="https://en.wikipedia.org/wiki/The_Protestant_Ethic_and_the_Spir
 is the mark of Grace and this will allow you to achieve salvation. You are your
 work, and your value and place in the social hierarchy is defined by your job.</em>
 There is a built-in assumption that
-ones job defines ones personal identity.</p>
+It’s also a uniquely American question to ask. In Europe you don’t hear this question asked at social events—work doesn’t define their lives outside of work, and frankly, it is impolite to discuss work when there are more interesting things to talk about.ones job defines ones personal identity.</p>
 <p><strong>This ideology sustains the basis for capitalistic inequality</strong>. The work-ethic
 creates two groups of people: those who work hard and are deserving salvation
 and those who do not. In defining the qualities of a ‘Good’ person, its’
@@ -8581,7 +8613,7 @@ prevented from work, those who don’t work, and those who don’t believe in th
 <p>In asking the question, two assumptions are made:</p>
 <ol>
 <li>The other person has a job</li>
-<li>Their job describes their identity to some extent.</li>
+<li>For many people, this simply doesn’t apply.Their job describes their identity to some extent.</li>
 </ol>
 <p>During conversation, this question can be interpreted as a strategic move by the
 interrogator. In asking first, the interrogator is positioned to answer the
@@ -8594,7 +8626,9 @@ Those conversations tend to unfold something like this:</p>
 <p>Steve: “I work at a red-sauce joint in Brookline” (see note)</p>
 <p>Roy: [Puffs his chest] “I’m the Director of Technology at EvilCorp”</p>
 </blockquote>
-<p>When asked “what do you do?” I try to detour the question with some unexpected and obsolete
+<p>When asked “what do you do?” I try to
+From the French détournement, a rerouting, to misappropriate, to hijack on purpose. Turning expressions of the capitalist system against itself.detour
+the question with some unexpected and obsolete
 profession I run a VHS rewinder service. For one, most people don’t care
 about the answer, they ask out of cultural habit. If pressed about my job, I
 usually say “I make internet stuff” and explicitly leave any job title or
@@ -10424,7 +10458,7 @@ not allowed to communicate with the outside world. With the acts of terrorism in
 1995 by this cult, cults are now seen as outsiders by the majority of Japanese
 society.</p>
 <blockquote>
-<p>おたく have arisen out of the early 1980s as a new group of
+<p>Otakuおたく have arisen out of the early 1980s as a new group of
 mostly teenage and twenty-something year olds who share a common obsession.
 The term Otaku is derived from its ancient meaning of addressing someone from
 another household, and implies that you are unconcerned with the details of
