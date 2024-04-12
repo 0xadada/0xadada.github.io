@@ -184,7 +184,8 @@ rumors" causing fractures in social cohesion. I'm worried the Trump
 administration will take a similar path.
 
 I will oppose the reappropriation of language. I will not use terms they
-redefine, nor use <abbr title="E.g. 'fake news'">new terms they make</abbr>.
+redefine, nor use
+<span className="note"><small>E.g. 'fake news'</small>new terms they make</span>.
 We must preserve the true meaning of words, and reconsider the use of language to
 simplify discourse and bias our perspectives.
 

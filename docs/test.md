@@ -11,7 +11,12 @@ description: "markdown and html markup for style testing"
 
 ---
 
-<aside className="note">This article has translations in Spanish. Read at [Contra Facebook, Parte 1](https://nadarespetable.com/2020/03/25/contra-facebook-parte-1/), [Contra Facebook, Parte 2](https://nadarespetable.com/2020/03/26/contra-facebook-parte-2/)</aside>
+<aside>
+This article has translations in Spanish.
+Read at
+[Contra Facebook, Parte 1](https://nadarespetable.com/2020/03/25/contra-facebook-parte-1/),
+[Contra Facebook, Parte 2](https://nadarespetable.com/2020/03/26/contra-facebook-parte-2/)
+</aside>
 
 The purpose of this paper is to provide an overview of the existing literature concerning speech segmentation, categorical perception, and some other issues concerning bilinguals of English and Japanese. It will touch on some of the differences in the two languages and how they affect learning the L2. The paper will start by providing background information about some of the two languages and some of the current issues involved in speech processing. The paper will then delve into the most current research, what the issues are, how it was done, and the results they have found. It will then go on to discuss the possible future directions of this research and end with references.
 
@@ -23,12 +28,13 @@ The purpose of this paper is to provide an overview of the existing literature c
 
 Debord’s text is concise, economical, poetic, provocative, and difficult. As
 Michael Hardt & Antonio Negri describe it in their notes to _Empire_ as
-"<abbr title="Quoting Hardt & Negri: “...Debord recognized this spectacle as the destiny of
+<span class="note"><small>Quoting Hardt & Negri: "...Debord recognized this spectacle as the destiny of
 triumphant capitalism. Despite their important differences, such authors offer
-us real anticipations of the path of capitalist development.” And continuting
-in their notes: “[The Spectacle], which is perhaps the best articulation, in
+us real anticipations of the path of capitalist development." And continuting
+in their notes: "[The Spectacle], which is perhaps the best articulation, in
 its own delirious way, of the contemporary consciousness of the triumph of
-capital.”">delirious</abbr>".[^hardt] His work contains many references to Hegel and Marx. He uses
+capital."</small>delirious</span>.[^hardt]
+His work contains many references to Hegel and Marx. He uses
 words and phrases defined in other Situationist texts, and expects the reader to
 be familiar with them. This is to be expected, as he demands much from the
 reader, and had written for a small audience of “fifty or sixty people” who
@@ -58,7 +64,7 @@ directly benefit the existing body of knowledge[^multiline].
 > language but by common bloodlines, common racial memory and common tribal
 > codes, so of which stretch back into prehistory.[^note-a]
 >
-> <figcaption><cite>Christopher, Robert C., 51</cite></figcaption>
+> <figcaption>Christopher, Robert C.<cite>Bookname 2021, p. 51</cite></figcaption>
 
 In a study of brain plasticity and non-native lexical and segmentation
 processes, Sanders et al. in 2002 came up with interesting methods for probing

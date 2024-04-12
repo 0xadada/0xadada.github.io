@@ -21,7 +21,7 @@ tags:
 ---
 
 <aside>
-  <em>It seems fitting that I write this article on #HumanRightsDay</em>
+  _It seems fitting that I write this article on #HumanRightsDay_
 </aside>
 
 Privacy is a fundamental human right. It is the right to control to whom and to
@@ -359,13 +359,11 @@ With technology and law moving forward in lockstep, I see a positive path
 forward for the protection of the right to privacy online.
 
 <aside>
-  <em>
-    This article is adapted from a series of talks given at
-    <a href="https://naralogics.com" title="Nara Logics" rel="nofollow">Nara
-      Logics</a> in 2015, and later at 
-    <a href="https://cinchfinancial.com" title="Cinch Financial" rel="nofollow">Cinch
-      Financial</a> in 2017.
-  </em>
+_This article is adapted from a series of talks given at
+<a href="https://naralogics.com" title="Nara Logics" rel="nofollow">Nara
+  Logics</a> in 2015, and later at 
+<a href="https://cinchfinancial.com" title="Cinch Financial" rel="nofollow">Cinch
+  Financial</a> in 2017._
 </aside>
 
 [^1]: TMZ.com homepage as of December 2nd, 2017.

@@ -121,6 +121,15 @@ growth any more than puzzles improve intellectual growth.
 
 ![Home, the journey inwards](/static/images/2016-11-06-travel-home.jpg)
 
+<aside>
+This is part of a series exploring idleness, time, attention, and lived experience.
+
+1. [Travel Writing - Redux, Italy & Switzerland Edition](/2016/11/06/travel-italy-switzerland/)
+2. [Against Facebook](/2018/05/01/against-facebook/)
+3. [I am not a software developer](/2022/04/01/i-am-not-a-software-developer/)
+4. [The Disappearance of Lived Time](/2024/05/01/the-disappearance-of-lived-time/)
+</aside>
+
 [^1]:
     McLuhan, Marshall, and Lewis H. Lapham.
     _Understanding Media: the Extensions of Man_.

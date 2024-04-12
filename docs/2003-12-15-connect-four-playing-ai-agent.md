@@ -100,10 +100,10 @@ described in Table 1.2.
 | Actuators           | Piece placing function.                                                                   |
 | Sensors             | Direct access to the state of the board.                                                  |
 
-<aside>
+<em>
   <a id="#table:1.1"></a>
   Table 1.1 – A PEAS description of the task environment.
-</aside>
+</em>
 
 | Environment Property                      | Description                                                                                                                                                                                                                                                                                                                                                                                                                      |
 | :---------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -114,10 +114,10 @@ described in Table 1.2.
 | Discrete vs. Continuous                   | Connect Four is a fairly simple game with a finite, albeit large, number of different states. Therefore, the environment is decidedly discrete.                                                                                                                                                                                                                                                                                  |
 | Single agent vs. multi-agent              | In this game, there are two agents at work. From the point of view of the AI agent, there is itself, and another agent. The other agent can either be a human player or another AI agent, which may or may not use the same algorithm. Since both agents (be they human or otherwise) are out to maximize their own performance measure and minimize their opponent’s, the environment is classified as competitive multi-agent. |
 
-<aside>
+<em>
   <a id="table:1.1"></a>
   Table 1.2 – Detailed description of the task environment properties
-</aside>
+</em>
 
 ### Naming Convention
 
@@ -370,9 +370,9 @@ Table 5.1 is a brief summary of how the different algorithms interact.
 | Defensive or Aggressive vs. Minimax                | Minimax             | Since Minimax is able to look ahead four moves, it will usually defeat both Defensive and Aggressive. There are some instances where the game will end in a draw.                                                                               |
 | Minimax vs. Minimax                                | Player 2            | For some coincidental reason, when Minimax is pitted against itself, the second player always wins, and the same game is always played. This may be due to the fact that the entire game tree is not searched, so the algorithm is not perfect. |
 
-<aside>
+<em>
   Table 5.1 – A summary of the results of AI vs. AI games.
-</aside>
+</em>
 
 ## Conclusion
 
@@ -427,5 +427,5 @@ Milton-Bradley, Inc. Connect Four Game, Hasbro, Inc.
 
 <aside>
   All source code is available at
-  <a href="https://github.com/0xadada/smart-connect-four">GitHub</a>.
+  [GitHub](https://github.com/0xadada/smart-connect-four).
 </aside>

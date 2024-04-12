@@ -9,10 +9,8 @@ tags: [essays, anti-fascism, economics, books]
 ---
 
 <aside>
-  <p>
-    This essay was adapted from the foreword to my new English edition to Guy
-    Debord's 1967 book <em>The Society of the Spectacle</em>.
-  </p>
+This essay was adapted from the foreword to my new English edition to Guy
+Debord's 1967 book <em>The Society of the Spectacle</em>.
 </aside>
 
 Readers of my site may have noticed the many references to Guy Debord in my
@@ -48,12 +46,13 @@ who _think and do_.
 
 Debord’s text is concise, economical, poetic, provocative, and difficult. As
 Michael Hardt & Antonio Negri describe it in their notes to _Empire_ as
-"<abbr title="Quoting Hardt & Negri: “...Debord recognized this spectacle as the destiny of
+<span className="note"><small>Quoting Hardt & Negri: "...Debord recognized this spectacle as the destiny of
 triumphant capitalism. Despite their important differences, such authors offer
-us real anticipations of the path of capitalist development.” And continuting
-in their notes: “[The Spectacle], which is perhaps the best articulation, in
+us real anticipations of the path of capitalist development." Continuting
+in their notes: "[The Spectacle], which is perhaps the best articulation, in
 its own delirious way, of the contemporary consciousness of the triumph of
-capital.”">delirious</abbr>".[^1] His work contains many references to Hegel and Marx. He uses
+capital."</small><q>delirious</q></span>.[^1]
+His work contains many references to Hegel and Marx. He uses
 words and phrases defined in other Situationist texts, and expects the reader to
 be familiar with them. This is to be expected, as he demands much from the
 reader, and had written for a small audience of “fifty or sixty people”[^2] who

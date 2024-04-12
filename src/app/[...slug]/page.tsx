@@ -15,6 +15,7 @@ import type { Metadata } from "next";
 
 interface PageMetadata {
   title: string;
+  subtitle?: string;
   description?: string;
   displayTitle?: string;
   license?: "cc-by-nc-sa" | "cc-by-sa" | "cc-by";
@@ -72,7 +73,7 @@ export async function generateMetadata({
       };
   return {
     title: frontmatter.title,
-    description: frontmatter.description,
+    description: frontmatter.subtitle || frontmatter.description,
     keywords: frontmatter.tags,
     openGraph: {
       title: frontmatter.title,
@@ -117,6 +118,7 @@ export default async function Page({
     <article className="hentry h-entry">
       <header>
         <h1 className="entry-title p-name">{frontmatter.title}</h1>
+        {frontmatter.subtitle && <h2>{frontmatter.subtitle}</h2>}
         <DisplayDate datetime={postDate} />
         <span className={`h-card ${styles.byline}`}>
           {" by "}

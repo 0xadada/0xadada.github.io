@@ -42,8 +42,8 @@ power; neoconservative or neoliberal representational democracy being typical
 contemporary examples.
 
 <aside>
-  _This was an excerpt from "The Society of The Spectacle" a forthcoming new book
-  by 0xADADA which reinterprets the original by Guy Debord._
+  This was an excerpt from "The Society of The Spectacle" a forthcoming new book
+  by 0xADADA which reinterprets the original by Guy Debord.
 </aside>
 
 <div className="hanging-indent">
