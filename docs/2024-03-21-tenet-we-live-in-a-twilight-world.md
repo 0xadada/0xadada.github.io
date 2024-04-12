@@ -35,7 +35,8 @@ Hegel's metaphor of the owl of Minerva signifies that true philosophical insight
 The owl of Minerva spreads its wings only with the falling of twilight, symbolizing that philosophical reflection occurs when a way of life is mature enough to be understood in hindsight.
 This concept implies that genuine understanding and reflection on history and society can only happen once an epoch has concluded, emphasizing the retrospective nature of philosophical comprehension.
 
-Commenting on Hegel, Papaïoannou describes his post-revolutionary philosophical maturity as a '<abbr title="Papaïoannou 2012, P. 91">twilight world</abbr>'[^papa],
+Commenting on Hegel, Papaïoannou describes his post-revolutionary philosophical maturity as a
+<span className="note"><small>Papaïoannou 2012, P. 91</small>'twilight world'</span>[^papa],
 as an era that could be interpreted, with equal justice, both as end of the day and as a new dawn.
 His metaphor thus indicates that philosophy need not contemplate a completed world, but could instead herald its transformation.
 

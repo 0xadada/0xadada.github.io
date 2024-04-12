@@ -28,7 +28,7 @@ banks and financial companies from going out of business"_. Currently, according
 to [Section 14](https://www.federalreserve.gov/aboutthefed/section14.htm) of the
 Federal Reserve Act, the Fed is prevented from buying assets (stocks, index
 funds
-<abbr title="CDO: Collateralized Debt Obligation">CDO</abbr>,
+<span className="note"><small>CDO: Collateralized Debt Obligation</small>CDO</span>,
 mortgage backed security
 directly on the market. Instead they can only buy government-backed assets,
 mostly bonds and MBSs by institutions like Freddie Mac that _are_ government
@@ -36,7 +36,9 @@ backed. Instead, the Feds first line of defense is lowering interest rates, and
 then creating liquidity by buying long-term maturities.
 
 With the interest rates at zero, the biggest lever at the Fed is effectively
-broken, and now they've got to find another lever. <abbr title="March 6th, 2021">Last Friday</abbr>, Boston Fed
+broken, and now they've got to find another lever.
+<span className="note"><small>March 6th, 2021</small>Last Friday</span>,
+Boston Fed
 President Eric Rosengren called on Congress to expand the Fed's powers to
 buy and sell a broader range of assets. This will require congressional
 approval, and during this period of crisis, I'm certain Shock Doctrine politics
@@ -52,7 +54,9 @@ in effect: <q>If you (the finance sector) create risky assets and they
 fail, we'll allow you to profit during the good times and we'll save you by
 buying them back during the bad times</q>.
 
-Remember the <abbr title="Nobody remembers the Zune, it failed horribly.">Microsoft Zune</abbr> mp3 player?
+Remember the
+<span className="note"><small>Nobody remembers the Zune, it failed horribly.</small>Microsoft Zune</span>
+mp3 player?
 Now imagine Microsoft had put so much investment into its Zune, that
 when nobody bought it, and the product failed, the company would've gone
 bankrupt. Now, if this were the financial sector, this is where the Fed becomes
@@ -65,7 +69,8 @@ last 10 years, those very same assets the industry has made huge profits from;
 but now that the profits have stopped, the Fed bails them out by buying them
 when no one else will.
 
-<abbr title="Update: January 2021">Nearly 10 months</abbr>[^jan2021] since this essay was published, we're
+<span className="note"><small>Update: January 2021</small>Nearly 10 months</span>[^jan2021]
+since this essay was published, we're
 already seeing strong indicators that consumer purchasing power
 will be severely hurt by inflation. So while government stipends may help in the
 near short term, long term people will be hurt by less value for every dollar
@@ -189,11 +194,9 @@ don't play by the rules, why should I?"_. This has the effect or eroding the
 very conception of a nation operating under an equal rule of law, and will
 result in toxic resentment and fuel civil unrest.
 
-## Thanks
-
-Thanks to [@b_apothecary](https://twitter.com/b_apothecary), Coby Durling, Jason
+<aside>Thanks to [@b_apothecary](https://twitter.com/b_apothecary), Coby Durling, Jason
 C., and Garrick Y. for reviewing early drafts of this essay and providing
-feedback.
+feedback.</aside>
 
 [^shopping]:
     Update: March 25th, 2021<br />

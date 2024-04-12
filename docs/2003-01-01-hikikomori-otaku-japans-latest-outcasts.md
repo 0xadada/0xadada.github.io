@@ -147,7 +147,7 @@ not allowed to communicate with the outside world. With the acts of terrorism in
 1995 by this cult, cults are now seen as outsiders by the majority of Japanese
 society.
 
-> <abbr title="Otaku">おたく</abbr> have arisen out of the early 1980s as a new group of
+> <span className="note"><small>Otaku</small>おたく</span> have arisen out of the early 1980s as a new group of
 > mostly teenage and twenty-something year olds who share a common obsession.
 > The term Otaku is derived from its ancient meaning of addressing someone from
 > another household, and implies that you are unconcerned with the details of

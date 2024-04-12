@@ -241,6 +241,8 @@ article header {
   margin: 6.5em 0;
 }
 
+.entry-content,
+h1,
 article h2 {
   counter-reset: sidenote-counter;
 }
@@ -263,14 +265,12 @@ article h2 {
     text-wrap: pretty;
   }
 
-  abbr[title],
   .note {
     counter-increment: sidenote-counter;
     text-decoration: underline dotted;
     text-underline-offset: 0.15em;
     text-decoration-color: rgba(41, 41, 41, 0.25);
   }
-  abbr[title]::after,
   .note::after {
     /* note superscript */
     content: counter(sidenote-counter, lower-alpha);
@@ -282,16 +282,14 @@ article h2 {
 
   .entry-content .note p,
   .entry-content .note small,
-  .entry-content small p,
-  .entry-content abbr::before {
+  .entry-content small {
     text-align: left;
   }
 }
 
 @media (min-width: 60rem) {
   .note small,
-  small.note,
-  abbr[title]::before {
+  small.note {
     /* sidenote */
     width: calc(var(--sideNoteWidth) - 2rem);
     float: right;
@@ -303,10 +301,10 @@ article h2 {
     speak: none;
   }
   small.note::before,
-  .note small::before,
-  abbr[title]::before {
+  .note small::before {
     /* sidenote counter */
-    content: counter(sidenote-counter, lower-alpha) ". " attr(title);
+    content: counter(sidenote-counter, lower-alpha) ". ";
+    font-weight: bold;
   }
 }
 
@@ -348,7 +346,7 @@ article h2 {
 }
 
 .hanging-indent,
-#bibliography + .footnotes ol {
+#bibliography + .footnotes li {
   display: block;
   list-style: none;
   padding-left: 2.5em;

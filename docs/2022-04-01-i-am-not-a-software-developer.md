@@ -15,9 +15,9 @@ to an employer severely limits ones ability to negotiate wages when that identit
 Beyond wages, this mindset limits the horizons of what is possible to do with our own lived time.
 
 > "I need to do software engineering forever, for I am a software engineer".
-We can create art with software, we can also create software as art, we can also choose to _not_ make software,
-and we are still the same person.
-Software is something we create; we also create ourselves.
+> We can create art with software, we can also create software as art, we can also choose to _not_ make software,
+> and we are still the same person.
+> Software is something we create; we also create ourselves.
 
 As someone who has spent a lifetime in software engineering, who has credentials in the field, and who's hobbies and interests have,
 at various times, fallen into the bin of "software engineering",
@@ -32,3 +32,12 @@ to the dominant mindset is one where we understand our selves only in terms of p
 utility, or economic productiveness. This I refuse.
 
 I _do_ software engineering. I am not a software engineer.
+
+<aside>
+This is part of a series exploring idleness, time, attention, and lived experience.
+
+1. [Travel Writing - Redux, Italy & Switzerland Edition](/2016/11/06/travel-italy-switzerland/)
+2. [Against Facebook](/2018/05/01/against-facebook/)
+3. [I am not a software developer](/2022/04/01/i-am-not-a-software-developer/)
+4. [The Disappearance of Lived Time](/2024/05/01/the-disappearance-of-lived-time/)
+</aside>

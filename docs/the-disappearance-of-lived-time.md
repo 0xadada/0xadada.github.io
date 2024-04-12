@@ -1,5 +1,5 @@
 ---
-title: "The Disappearance of Lived Time"
+title: "DRAFT: The Disappearance of Lived Time"
 subtitle: "The Power of 'No': Reclaiming Leisure from the Commodification of Time in an Age of Hyperactivity"
 description: ""
 image: /static/images/2024-05-01-lauterbrunnen-lived-time-vs-spectacular-time.jpg
@@ -37,9 +37,9 @@ Behind us lies centuries of experiments in social organization that provide the 
 Some failed with communism's collapse in 1991, while the capitalist experiment shifted to the authoritarian 'capitalism with Chinese characteristics' in the east, or the more subtly coercive neoliberal experiment in the west.
 This experiment has raised many out of poverty, and yet has not improved the quality of _life_.
 As
-<abbr title='"We stand on the brink... we peer into the abyss..." (Poe, 2022).'>we peer into the abyss</abbr>,[^poe]
+<span className="note"><small>"We stand on the brink... we peer into the abyss..." (Poe, 2022).</small>we peer into the abyss</span>,[^poe]
 we grow sick with emergent
-<span className="note"><small>Social diseases: We are **not** saying that these diseases are naturally occurring facts, nor are we saying that these diseases do not exist, but we recognize that they are really experienced diseases that are contingent upon existing conditions of neoliberal capitalism.</small>social diseases</span>--anxiety,
+<span className="note"><small>We are **not** saying that these diseases are naturally occurring facts, nor are we saying that these diseases do not exist, but we recognize that they are really experienced diseases that are contingent upon existing conditions of neoliberal capitalism.</small>social diseases</span>--anxiety,
 depression, exhaustion, and burnout.
 These conditions are a symptom of a way of life that lacks direction.
 With the gradual shift to secular life, we've turned away from communal practices that provide spaces and times that lead to human flourishing.
