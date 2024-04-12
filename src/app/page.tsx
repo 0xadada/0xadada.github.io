@@ -22,11 +22,13 @@ export const metadata: Metadata = {
 
 interface PageMetadata {
   title: string;
+  subtitle?: string;
   description: string;
 }
 
 interface Post {
   title: string;
+  subtitle?: string;
   description: string;
   filename: string;
   year: string;
@@ -57,6 +59,7 @@ export default async function Home() {
       const post: Post = {
         ...frontmatter,
         title: frontmatter.title,
+        subtitle: frontmatter.subtitle || frontmatter.description,
         description: frontmatter.description,
         filename: file.filename,
         year,
@@ -87,7 +90,7 @@ export default async function Home() {
                 <li key={post.title} className={styles.post}>
                   <Link href={post.url}>{post.title}</Link>
                   <br />
-                  {post.description}
+                  {post.subtitle || post.description}
                   <br />
                   <DisplayDate datetime={post.date} />
                 </li>
