@@ -11,7 +11,12 @@ description: "markdown and html markup for style testing"
 
 ---
 
-<aside className="note">This article has translations in Spanish. Read at [Contra Facebook, Parte 1](https://nadarespetable.com/2020/03/25/contra-facebook-parte-1/), [Contra Facebook, Parte 2](https://nadarespetable.com/2020/03/26/contra-facebook-parte-2/)</aside>
+<aside>
+This article has translations in Spanish.
+Read at
+[Contra Facebook, Parte 1](https://nadarespetable.com/2020/03/25/contra-facebook-parte-1/),
+[Contra Facebook, Parte 2](https://nadarespetable.com/2020/03/26/contra-facebook-parte-2/)
+</aside>
 
 The purpose of this paper is to provide an overview of the existing literature concerning speech segmentation, categorical perception, and some other issues concerning bilinguals of English and Japanese. It will touch on some of the differences in the two languages and how they affect learning the L2. The paper will start by providing background information about some of the two languages and some of the current issues involved in speech processing. The paper will then delve into the most current research, what the issues are, how it was done, and the results they have found. It will then go on to discuss the possible future directions of this research and end with references.
 

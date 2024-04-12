@@ -7,7 +7,7 @@ image: /static/images/2018-04-24-against-facebook-preview.jpg
 tags: [essays, privacy, facebook]
 ---
 
-<aside className="fn">
+<aside>
   [Contra Facebook, Parte 1](https://nadarespetable.com/2020/03/25/contra-facebook-parte-1/),
   [Contra Facebook, Parte 2](https://nadarespetable.com/2020/03/26/contra-facebook-parte-2/)
 </aside>
@@ -706,14 +706,21 @@ email accounts. (Carlson, 2010).
 You should delete your Facebook account, but please share this essay before you
 do 😉!
 
-## Acknowledgements
-
-I thank the following friends for their feedback:
+<aside>
+I thank the following friends for their feedback on early drafts:
 [Alex Grabau](https://twitter.com/agrabau),
 [Thom Dunn](https://twitter.com/thomdunn),
 [Suzi Dao](https://twitter.com/suzidao),
 [Stephen](https://twitter.com/b_apothecary) &
 [qtychr](https://twitter.com/qtychr).
+
+This is part of a series exploring idleness, time, attention, and lived experience.
+
+1. [Travel Writing - Redux, Italy & Switzerland Edition](/2016/11/06/travel-italy-switzerland/)
+2. [Against Facebook](/2018/05/01/against-facebook/)
+3. [I am not a software developer](/2022/04/01/i-am-not-a-software-developer/)
+4. [The Disappearance of Lived Time](/2024/05/01/the-disappearance-of-lived-time/)
+</aside>
 
 <div className="hanging-indent">
 

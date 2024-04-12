@@ -80,8 +80,8 @@ defund the police, and in doing so, we work towards a more **just** society that
 applies to **all** members of our community.
 
 <aside>
-  <em>This testimony was prepared and given on June 24th, 2020 at the Somerville
-  City Council Finance Committee hearing on the FY-21 Budget.</em>
+  This testimony was prepared and given on June 24th, 2020 at the Somerville
+  City Council Finance Committee hearing on the FY-21 Budget.
 </aside>
 
 [^1]: [IN THE SHADOWS OF THE WAR ON TERROR: PERSISTENT POLICE BRUTALITY AND ABUSE OF PEOPLE OF COLOR IN THE UNITED STATES: A report prepared for the United Nations Committee on the Elimination of Racial Discrimination](https://www2.ohchr.org/english/bodies/cerd/docs/ngos/usa/USHRN15.pdf)

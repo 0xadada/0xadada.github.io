@@ -9,10 +9,8 @@ tags: [essays, anti-fascism, economics, books]
 ---
 
 <aside>
-  <p>
-    This essay was adapted from the foreword to my new English edition to Guy
-    Debord's 1967 book <em>The Society of the Spectacle</em>.
-  </p>
+This essay was adapted from the foreword to my new English edition to Guy
+Debord's 1967 book <em>The Society of the Spectacle</em>.
 </aside>
 
 Readers of my site may have noticed the many references to Guy Debord in my
