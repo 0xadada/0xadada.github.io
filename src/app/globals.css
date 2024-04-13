@@ -241,6 +241,16 @@ article header {
   margin: 6.5em 0;
 }
 
+article h1 {
+  font-size: 3em;
+}
+article header h2 {
+  font-size: 1em;
+}
+article h2 {
+  font-size: 2em;
+}
+
 .entry-content,
 h1,
 article h2 {
@@ -261,15 +271,6 @@ small {
 }
 
 @media screen and (min-width: 35em) {
-  article h1 {
-    font-size: 3em;
-  }
-  article header h2 {
-    font-size: 1em;
-  }
-  article h2 {
-    font-size: 2em;
-  }
   .entry-content {
     font-size: 1.25em;
   }
