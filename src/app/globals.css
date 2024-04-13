@@ -247,6 +247,19 @@ article h2 {
   counter-reset: sidenote-counter;
 }
 
+.note {
+  counter-increment: sidenote-counter;
+}
+.note p,
+.note small,
+small {
+  font-family: var(--sans-serif);
+  font-size: 0.6em;
+  opacity: 0.75;
+  text-align: left;
+  speak: none;
+}
+
 @media screen and (min-width: 35em) {
   article h1 {
     font-size: 3em;
@@ -264,9 +277,10 @@ article h2 {
     text-align: justify;
     text-wrap: pretty;
   }
+}
 
+@media (min-width: 60rem) {
   .note {
-    counter-increment: sidenote-counter;
     text-decoration: underline dotted;
     text-underline-offset: 0.15em;
     text-decoration-color: rgba(41, 41, 41, 0.25);
@@ -280,27 +294,16 @@ article h2 {
     padding-left: 0.333333em;
   }
 
-  .entry-content .note p,
-  .entry-content .note small,
-  .entry-content small {
-    text-align: left;
-  }
-}
-
-@media (min-width: 60rem) {
-  .note small,
-  small.note {
+  .note small {
     /* sidenote */
+    opacity: 1;
     width: calc(var(--sideNoteWidth) - 2rem);
     float: right;
     clear: right;
     margin-right: calc(0rem - var(--sideNoteWidth));
-    font-size: 0.6em;
     margin-left: 0;
     margin-top: 0.375rem;
-    speak: none;
   }
-  small.note::before,
   .note small::before {
     /* sidenote counter */
     content: counter(sidenote-counter, lower-alpha) ". ";

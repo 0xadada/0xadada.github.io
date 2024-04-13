@@ -6,11 +6,8 @@ title: Now
   Say what you’d tell a friend you hadn’t seen in a year.
 </aside>
 
-<small className="note">
-Updated March 27th, 2024. The now page is part of [nownownow](https://nownownow.com/p/HxjF).
-</small>
-
-Over the last 3 years I've been woolgathering thoughts for a new essay on leisure,
+<span className="note"><small>Updated March 27th, 2024. The now page is part of [nownownow](https://nownownow.com/p/HxjF).</small>Over</span>
+the last 3 years I've been woolgathering thoughts for a new essay on leisure,
 idleness, lived time, and the attention economy.
 I'm currently writing the rough draft--and I'm very excited about this project.
 
