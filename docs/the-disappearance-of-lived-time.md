@@ -77,6 +77,8 @@ Along the arc of history, different social structures emerged that engender diff
 The following table lists distinct temporal periods called 'ages'.
 Each age is mediated by a form of social organization that generates specific perceptions of time called 'temporalities'.
 
+<div className="scroller">
+
 | _Age_                           | _Social organization_ | _Temporality_                                               | _Related periods_                                                                                                                                                                                                                                                                       |
 | :------------------------------ | :-------------------- | :---------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Age of Gods & Men               | Mythic society        | Cyclical time (early)                                       | The Neolithic Age to the Early Bronze Age. Prior to the First Egyptian Dynasty, and before the invention of agriculture.                                                                                                                                                                |
@@ -84,6 +86,8 @@ Each age is mediated by a form of social organization that generates specific pe
 | Age of Kings                    | Historical society    | Mythical time / Irreversible time                           | From the emergence of cities and the invention of specialization: nobility, warriors, priests. From the Etruscans to Roman Republic to the Holy Roman Empire. From the Zhou Dynasty to Ming Dynasty. The emergence of mercantilism & nation-states. Late Bronze Age to Late Middle Age. |
 | Age of Economic Production      | Industrial society    | Chronological time                                          | The Enlightenment, the era of the nation-state and the industrial revolution. Late Middle Age to the end of the Machine Age.                                                                                                                                                            |
 | Age of the Autonomous Spectacle | Spectacular society   | Pseudo-cyclical time / Spectacular time / Perpetual present | Post-War Era, Information Age, the emergence of global communications, globalization, and mass media.                                                                                                                                                                                   |
+
+</div>
 
 Each age describes the dominant forces that structure daily life and determine perceptions of time--the
 <span className="note"><small>A zeitgeber is an external cue that entrains or synchronizes an organism's biological rhythms. These are natural factors like light, temperature, seasons, but can include social cues like work schedules or gig apps.</small>zeitgeber</span>.
@@ -288,10 +292,14 @@ One of these temporalities always corresponds to the
 and one corresponds to valorized time (free time, consumable time, more highly valued by individuals).
 Individuals experience these temporalities distinctly, and oscillate between them on a day-to-day basis.
 
+<div className="scroller">
+
 |                                     | **Working time**   | **Valorized time**   |
 | :---------------------------------- | :----------------- | :------------------- |
 | **Age of Economic Production**      | Chronological time | Consumable time      |
 | **Age of the Autonomous Spectacle** | Spectacular time   | Pseudo-cyclical time |
+
+</div>
 
 **Chronological time** is linear and quantitative.
 It is segmented, measurable, ordered, and counted.
