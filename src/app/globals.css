@@ -184,7 +184,8 @@ pre {
 
 figure,
 blockquote,
-pre {
+pre,
+.scroller {
   margin: 0 -1.5rem;
 }
 
@@ -198,7 +199,8 @@ sup {
 @media (min-width: 60rem) {
   figure,
   blockquote,
-  pre {
+  pre,
+  .scroller {
     margin: 0 -16.5rem 0 -1.5rem;
     margin-right: calc(
       0rem - var(--bodyPadding) + calc(0rem - var(--sideNoteWidth))
