@@ -701,8 +701,8 @@ This is part of a series exploring idleness, time, attention, and lived experien
 [^merrifield-2008]: Merrifield, Andy. 2008. _The Wisdom of Donkeys_. Bloomsbury Publishing USA.
 [^odell-2019]: Odell, Jenny. 2019. _How to Do Nothing: Resisting the Attention Economy_. Melville House.
 [^odell2]: Odell, Jenny. 2023. _Saving time: discovering a life beyond the clock_. Random House.
-[^pandt12]: O’Connor, P. (2021, December). _Posthumanism and technology_ ([lecture 12: Byung-Chul Han, technology and the burnout society](https://open.spotify.com/episode/5mKHmB8QUsIH9G5o3V9de0?si=595986ba96694f88&nd=1&dlsi=00132e5d96ce4937)). (Retrieved March 8, 2024).
-[^pandt13]: O’Connor, Patrick. 2021, December. _Posthumanism and technology_ ([lecture 13: Byung-Chul Han, technology and Psychopolitics](https://open.spotify.com/episode/3jwWS42uPZghGaDfRgI7EM?si=ddb2b97dc4ac4d8c)). (Retrieved March 8, 2024).
+[^pandt12]: O’Connor, Patrick. 2021, December. _Posthumanism and technology_ ([lecture 12: Byung-Chul Han, technology and the burnout society](https://open.spotify.com/episode/5mKHmB8QUsIH9G5o3V9de0?si=595986ba96694f88&nd=1&dlsi=00132e5d96ce4937)). (Retrieved March 8, 2024).
+[^pandt13]: O’Connor, Patrick. 2021, December. _Posthumanism and technology_ ([lecture 13: Byung-Chul Han, technology and psychopolitics](https://open.spotify.com/episode/3jwWS42uPZghGaDfRgI7EM?si=ddb2b97dc4ac4d8c)). (Retrieved March 8, 2024).
 [^papa-2012]: Papaïoannou, Kostas. 2012. _Hegel (Le Gout Des Idees)_. Paris: les Belles Lettres.
 [^pew]: Pew Research Center. 2016. "[The State of American Jobs: How the Shifting Economic Landscape Is Reshaping Work and Society and Affecting the Way People Think about the Skills and Training They Need to Get Ahead.](https://www.pewresearch.org/social-trends/2016/10/06/1-changes-in-the-american-workplace/)" _Pew Research_.
 [^poe]: Poe, Edgar Allen. 2022. “[The Imp of the Perverse](https://poemuseum.org/the-imp-of-the-perverse/).” _The Poe Museum_ (blog). February 3, 2022. poemuseum.org.
