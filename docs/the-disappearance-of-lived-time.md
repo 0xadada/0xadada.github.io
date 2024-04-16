@@ -32,6 +32,7 @@ tags:
   The north face of The Mönch from Lauterbrunnen valley in Switzerland. Photo by the author, 2016.
 ](/static/images/2024-05-01-lauterbrunnen-lived-time-vs-spectacular-time.jpg)
 
+<a name="introduction"></a>
 We stand on the brink of a precipice.
 In front of us lies a society driven for the sake of productivity, the mechanics increasingly directed by artificial intelligence to serve corporate interests.
 Behind us lies centuries of experiments in social organization that provide the historical and material foundation of society.
@@ -62,6 +63,20 @@ I will do my best to argue for the idler, the amateur, the layabout–for they a
 I hope to join their ranks one day, and as such,
 <span className="note"><small>"ground the basis of my cause and claims on nothing" (Debord 2021, [thesis 208](https://unredacted-word.pub/spectacle/#section-200)), cf. Stirner 1995, cf. Goethe n.d.</small>I ground the basis of my cause and claims on nothing</span>[^debord1][^stirner][^goethe]
 but its own self-evident truth--one that is deeply felt.
+
+<aside>
+  <details>
+    <summary>Table of Contents</summary>
+    
+1. [Introduction](#Introduction)
+2. [The Historicity of Time](#the-historicity-of-time)
+3. [Temporalities of Time](#temporalities-of-time)
+4. [Instrumentarianism and the Perpetual Present](#instrumentarianism-and-the-perpetual-present)
+5. [Leisure as Refusal: The Power of 'No'](#leisure-as-refusal-the-power-of-no)
+6. [Bibliography](#bibliography)
+  
+  </details>
+</aside>
 
 ## The Historicity of Time
 
