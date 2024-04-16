@@ -66,10 +66,10 @@ but its own self-evident truth--one that is deeply felt.
 
 'Time' is natural, physical, and spatial; it exists independently of humanity.
 'History', however, is humanities
-"<span className="note"><small>Bunyard 2018, p. 216.</small>awareness of its existence within a temporal reality—only arises with the emergence of human beings</span>",[^bunyard1]
+<span className="note"><small>Bunyard 2018, p. 216.</small><q>awareness of its existence within a temporal reality—only arises with the emergence of human beings</q></span>,[^bunyard1]
 and is shaped by humanity.
 The great arcs of history are determined by the rulers of their period, and individuals are capable (to a certain extent) of generating their own personal narratives within that period.
-<span className="note"><small>Bunyard 2018, p. 4.</small>History, therefore, is a process directed by human agents to shape their world, and create their own identities through that activity</span>.[^bunyard1]
+<span className="note"><small>Bunyard 2018, p. 4.</small><q>History, therefore, is a process directed by human agents to shape their world, and create their own identities through that activity</q></span>.[^bunyard1]
 
 In order to establish an understanding of our contemporary perception of time, we will begin with
 <span className="note"><small>This periodization draws heavily on the philosophical anthropology of Guy Debord from his 1967 book _The Society of the Spectacle_ (Debord 2021).</small>a periodization that describes the perception of time across history</span>.
