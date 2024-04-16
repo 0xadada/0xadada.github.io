@@ -501,14 +501,20 @@ Capital follows you when you dream.
 Time ceases to be linear, becomes chaotic, broken down into punctiform divisions...
 To function effectively as a component of just-in-time production you must develop a capacity to respond to unforeseen events, you must learn to live in conditions of total instability, or 'precarity'.</q></span>[^fisher1]
 
-The zeitzombie exists to solve 'real world problems',
-<span className="note"><small>The techno-optimists claim "death that can be fixed with AI"--presupposing death as a problem needing a solution, and yet offer no vision for what _life_ could be 🤣.</small><q>Give us a real world problem, and we can invent technology that will solve it.</q></span>[^techno]
+The zeitzombie exists merely to solve 'real world problems'.
+<span className="note"><small>Techno-optimists claim "death that can be fixed with AI"--presupposing death as a problem needing a solution, and yet offer no vision for what _life_ could be 🤣.</small><q>Give us a real world problem, and we can invent technology that will solve it.</q></span>[^techno]
 they say.
-Everything is a problem to be solved, and technology is the solution to every problem.
-Yet the zeitzombies propose no reason other than for the sake of inventing technology for its own sake,
-for its own self-development--they offer no vision or imagination for a _good social life_--only a world in which
+Everything is a problem to be solved, and technology is the solution to every problem,
+and yet the zeitzombies propose no reason other than for the sake of inventing new technology.
+They offer no vision for a _good social life_--only a world in which
 <span className="note"><small>Emphasis in the original. For the techno-optimists, work _is_ heaven, and in their manifesto there is no meaning, nor life, in their section called "The Meaning of Life", cf. Andreessen 2023.</small><q>man was meant to be **useful**, to be **productive**.</q></span>[^techno]
 For the zeitzombie, there _is no life outside of work_, and death is a problem that needs to be solved in order to guarantee future productivity.
+The zeitzombie is the techno-zealot--<q>we believe intrinsic motivations– the satisfaction of building something new...,
+the achievement of becoming a better version of oneself</q>,
+these are the words of the achievement-subject, true believers in the coming of the
+<span className="note"><small>Their techno-Messiah is the General Artificial Intelligence (AGI). "We believe Artificial Intelligence is our alchemy... [AI] can save lives" (Andreessen 2023)</small>AI techno-Messiah</span>[^roko]
+who will unleash endless productivity for its own self-development, or
+<span className="note"><small>Roko's Basilisk is a thought experiment that proposes a superintelligent AGI who punishes anyone who doesn't actively contribute their lives to the development of itself (Roko, 2022)</small>punish those who refuse to work for its benefit</span>
 
 The zeitzombie has internalized corporate claims that
 <span className="note"><small>Fisher 2009, p. 40.</small>'satisfactory' is not enough,</span>
@@ -675,7 +681,7 @@ This is part of a series exploring idleness, time, attention, and lived experien
 
 [^0xadada-2003]: 0xADADA. 2003. _[Hikikomori/Otaku Japans Latest Out-Group - Creating Social Outcasts to Construct a National Self-Identity](https://0xadada.pub/2003/01/01/hikikomori-otaku-japans-latest-outcasts/)._ 0xADADA (blog). January 1, 2003. 0xadada.pub.
 [^0xadada-2018]: 0xADADA. 2018. _[Against Facebook](https://0xadada.pub/2018/05/01/against-facebook/).”_ 0xADADA (blog). May 1, 2018. 0xadada.pub.
-[^techno]: Andreessen, Marc. 2023. "[The Techno-Optimist Manifesto](https://a16z.com/the-techno-optimist-manifesto/)." _Andreessen Horowitz_ (blog). October 16, 2023. a16z.com.
+[^techno]: Andreessen, Marc. October 16, 2023. "[The Techno-Optimist Manifesto](https://a16z.com/the-techno-optimist-manifesto/)." _Andreessen Horowitz_ (blog). October 16, 2023. a16z.com.
 [^tangpingist-2021]: Tangpingist, Anonymous. 2021. “[Tangpingist Manifesto](https://chi.st/bugs/tangpingist-manifesto.).” Bugs - Chi.st (blog). April 1, 2021. chi.st.
 [^augustine2]: Augustine. & Dods, M. 1993. *The city of god*. New York: Modern Library.
 [^bergson1]: Bergson, Henri., & Mitchell, A. (1944) 1907. *Creative evolution*. The Modern library.
@@ -717,6 +723,7 @@ This is part of a series exploring idleness, time, attention, and lived experien
 [^papa-2012]: Papaïoannou, Kostas. 2012. _Hegel (Le Gout Des Idees)_. Paris: les Belles Lettres.
 [^pew]: Pew Research Center. 2016. "[The State of American Jobs: How the Shifting Economic Landscape Is Reshaping Work and Society and Affecting the Way People Think about the Skills and Training They Need to Get Ahead.](https://www.pewresearch.org/social-trends/2016/10/06/1-changes-in-the-american-workplace/)" _Pew Research_.
 [^poe]: Poe, Edgar Allen. 2022. “[The Imp of the Perverse](https://poemuseum.org/the-imp-of-the-perverse/).” _The Poe Museum_ (blog). February 3, 2022. poemuseum.org.
+[^roko]: "[Roko's Basilisk](https://www.lesswrong.com/tag/rokos-basilisk)". March 24, 2022. _LessWrong_. Archived from the original on 24 March 2022. Retrieved 24 March 2022.
 [^russell]: Russell, Bertrand. 1972. _In praise of idleness, and other essays_. Simon & Schuster.
 [^stirner]: Stirner, Max. 1995. _Stirner: The Ego and Its Own_. Cambridge University Press.
 [^stevenson]: Stevenson, Robert Louis. 2023. _[An apology for idlers](https://www.gutenberg.org/files/69825/69825-h/69825-h.htm)_. gutenberg.org. (Retrieved March 8, 2024).
