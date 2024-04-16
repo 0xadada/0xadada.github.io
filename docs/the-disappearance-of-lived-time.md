@@ -32,7 +32,7 @@ tags:
   The north face of The Mönch from Lauterbrunnen valley in Switzerland. Photo by the author, 2016.
 ](/static/images/2024-05-01-lauterbrunnen-lived-time-vs-spectacular-time.jpg)
 
-<a name="introduction"></a>
+<a id="introduction"></a>
 We stand on the brink of a precipice.
 In front of us lies a society driven for the sake of productivity, the mechanics increasingly directed by artificial intelligence to serve corporate interests.
 Behind us lies centuries of experiments in social organization that provide the historical and material foundation of society.
