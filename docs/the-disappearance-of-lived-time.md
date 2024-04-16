@@ -679,10 +679,10 @@ This is part of a series exploring idleness, time, attention, and lived experien
 
 ## Bibliography
 
-[^0xadada-2003]: 0xADADA. 2003. _[Hikikomori/Otaku Japans Latest Out-Group - Creating Social Outcasts to Construct a National Self-Identity](https://0xadada.pub/2003/01/01/hikikomori-otaku-japans-latest-outcasts/)._ 0xADADA (blog). January 1, 2003. 0xadada.pub.
-[^0xadada-2018]: 0xADADA. 2018. _[Against Facebook](https://0xadada.pub/2018/05/01/against-facebook/).”_ 0xADADA (blog). May 1, 2018. 0xadada.pub.
-[^techno]: Andreessen, Marc. October 16, 2023. "[The Techno-Optimist Manifesto](https://a16z.com/the-techno-optimist-manifesto/)." _Andreessen Horowitz_ (blog). October 16, 2023. a16z.com.
-[^tangpingist-2021]: Tangpingist, Anonymous. 2021. “[Tangpingist Manifesto](https://chi.st/bugs/tangpingist-manifesto.).” Bugs - Chi.st (blog). April 1, 2021. chi.st.
+[^0xadada-2003]: 0xADADA. January 1, 2003. "[Hikikomori/Otaku Japans Latest Out-Group - Creating Social Outcasts to Construct a National Self-Identity](https://0xadada.pub/2003/01/01/hikikomori-otaku-japans-latest-outcasts/)". _0xADADA_ (blog). 0xadada.pub.
+[^0xadada-2018]: 0xADADA. May 1, 2018. "[Against Facebook](https://0xadada.pub/2018/05/01/against-facebook/)." _0xADADA_ (blog). 0xadada.pub.
+[^techno]: Andreessen, Marc. October 16, 2023. "[The Techno-Optimist Manifesto](https://a16z.com/the-techno-optimist-manifesto/)." _Andreessen Horowitz_ (blog). a16z.com.
+[^tangpingist-2021]: Tangpingist, Anonymous. April 1, 2021. "[Tangpingist Manifesto](https://chi.st/bugs/tangpingist-manifesto.)." _Bugs - Chi.st_ (blog). chi.st.
 [^augustine2]: Augustine. & Dods, M. 1993. *The city of god*. New York: Modern Library.
 [^bergson1]: Bergson, Henri., & Mitchell, A. (1944) 1907. *Creative evolution*. The Modern library.
 [^bernays]: Bernays, Edward L. (1928) 2005. _Propaganda: With an Introduction by Mark Crispin Miller_. New York: Ig publishing.
@@ -694,7 +694,7 @@ This is part of a series exploring idleness, time, attention, and lived experien
 [^debord1]: Debord, Guy. 2021. _The society of the spectacle_ (Ron. Adams, Trans.). Unredacted Word.
 [^debord2]: Debord, Guy. & Imrie, Malcolm. 1998. *Comments on the society of the spectacle*. London New York: Verso.
 [^evans]: Dylan Evans. 1996. _An Introductory Dictionary of Lacanian Psychoanalysis_. Routledge.
-[^chayka1]: Chayka, Kyle. 2016. “[Welcome to Airspace](https://www.theverge.com/2016/8/3/12325104/airbnb-aesthetic-global-minimalism-startup-gentrification)”. _The Verge_ (blog). August 16, 2016. theverge.com.
+[^chayka1]: Chayka, Kyle. August 16, 2016. “[Welcome to Airspace](https://www.theverge.com/2016/8/3/12325104/airbnb-aesthetic-global-minimalism-startup-gentrification)”. _The Verge_ (blog). theverge.com.
 [^chayka-2024]: Chayka, Kyle. 2024. _Filterworld_. Doubleday.
 [^fisher1]: Fisher, Mark. 2009. _Capitalist realism: is there no alternative?_ Zero Books.
 [^fisher-2012]: Fisher, Mark. 2012. "What Is Hauntology?" _Film Quarterly_ 66 (1): 16–24. [doi](https://doi.org/10.1525/fq.2012.66.1.16).
@@ -722,12 +722,12 @@ This is part of a series exploring idleness, time, attention, and lived experien
 [^pandt13]: O’Connor, Patrick. 2021, December. _Posthumanism and technology_ ([lecture 13: Byung-Chul Han, technology and psychopolitics](https://open.spotify.com/episode/3jwWS42uPZghGaDfRgI7EM?si=ddb2b97dc4ac4d8c)). (Retrieved March 8, 2024).
 [^papa-2012]: Papaïoannou, Kostas. 2012. _Hegel (Le Gout Des Idees)_. Paris: les Belles Lettres.
 [^pew]: Pew Research Center. 2016. "[The State of American Jobs: How the Shifting Economic Landscape Is Reshaping Work and Society and Affecting the Way People Think about the Skills and Training They Need to Get Ahead.](https://www.pewresearch.org/social-trends/2016/10/06/1-changes-in-the-american-workplace/)" _Pew Research_.
-[^poe]: Poe, Edgar Allen. 2022. “[The Imp of the Perverse](https://poemuseum.org/the-imp-of-the-perverse/).” _The Poe Museum_ (blog). February 3, 2022. poemuseum.org.
-[^roko]: "[Roko's Basilisk](https://www.lesswrong.com/tag/rokos-basilisk)". March 24, 2022. _LessWrong_. Archived from the original on 24 March 2022. Retrieved 24 March 2022.
+[^poe]: Poe, Edgar Allen. February 3, 2022. “[The Imp of the Perverse](https://poemuseum.org/the-imp-of-the-perverse/).” _The Poe Museum_ (blog). poemuseum.org.
+[^roko]: Roko. March 24, 2022. "[Roko's Basilisk](https://www.lesswrong.com/tag/rokos-basilisk)". _LessWrong_ (blog). (Retrieved 24 March 2022).
 [^russell]: Russell, Bertrand. 1972. _In praise of idleness, and other essays_. Simon & Schuster.
 [^stirner]: Stirner, Max. 1995. _Stirner: The Ego and Its Own_. Cambridge University Press.
 [^stevenson]: Stevenson, Robert Louis. 2023. _[An apology for idlers](https://www.gutenberg.org/files/69825/69825-h/69825-h.htm)_. gutenberg.org. (Retrieved March 8, 2024).
 [^severance]: Stiller, Ben Stiller, and Aoife McArdle. 2022. _Severance_. TV Series. Apple TV+.
-[^thatcher]: Thatcher, Margaret. 1980. "Speech to Conservative Women's Conference". [margaretthatcher.org](https://www.margaretthatcher.org/document/104368). Margaret Thatcher Foundation. (Retrieved March 20, 2024).
+[^thatcher]: Thatcher, Margaret. 1980. "[Speech to Conservative Women's Conference]((https://www.margaretthatcher.org/document/104368))". _margaretthatcher.org_. Margaret Thatcher Foundation. (Retrieved March 20, 2024).
 [^zizek]: Žižek, Slavoj. 1989. _The Sublime Object of Ideology_. Verso.
 [^zuboff]: Zuboff, Shoshana. 2018. _The Age of Surveillance Capitalism: The Fight for a Human Future at the New Frontier of Power_. Public Affairs.
