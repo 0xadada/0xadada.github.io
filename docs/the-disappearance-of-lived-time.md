@@ -514,7 +514,7 @@ the achievement of becoming a better version of oneself</q>,
 these are the words of the achievement-subject, true believers in the coming of the
 <span className="note"><small>Their techno-Messiah is the General Artificial Intelligence (AGI). "We believe Artificial Intelligence is our alchemy... [AI] can save lives" (Andreessen 2023)</small>AI techno-Messiah</span>[^roko]
 who will unleash endless productivity for its own self-development, or
-<span className="note"><small>Roko's Basilisk is a thought experiment that proposes a superintelligent AGI who punishes anyone who doesn't actively contribute their lives to the development of itself (Roko, 2022)</small>punish those who refuse to work for its benefit</span>
+<span className="note"><small>Roko's Basilisk is a thought experiment that proposes a superintelligent AGI who punishes anyone who doesn't actively contribute their lives to the development of itself (Roko, 2022)</small>punish those who refuse to work for its own benefit.</span>
 
 The zeitzombie has internalized corporate claims that
 <span className="note"><small>Fisher 2009, p. 40.</small>'satisfactory' is not enough,</span>
