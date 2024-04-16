@@ -68,7 +68,7 @@ but its own self-evident truth--one that is deeply felt.
   <details>
     <summary>Table of Contents</summary>
     
-1. [Introduction](#Introduction)
+1. [Introduction](#introduction)
 2. [The Historicity of Time](#the-historicity-of-time)
 3. [Temporalities of Time](#temporalities-of-time)
 4. [Instrumentarianism and the Perpetual Present](#instrumentarianism-and-the-perpetual-present)
