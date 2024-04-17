@@ -114,7 +114,7 @@ To illustrate, the mythic narratives that arose from the Age of Gods & Men remai
 In another case, the Age of Kings had no definitive end, in fact, relics like the Queen of England still exist, but monarchy has receded to the background, and thus have become merely cultural.
 Institutions like religion, which previously dominated social organization have similarly receded to the background.
 In some sectors secular life has completely subsumed spiritual life, and spiritual life is relegated to the private domain of the individual.
-The ages of the past are still with us, but they've become a given, received culture, one that is taken for granted--it's issues and contentions are settled debate, but still have relevance.
+The ages of the past are still with us, but they've become a given, received culture, one that is taken for granted--its issues and contentions are settled debate, but still have relevance.
 Past ages become social and cultural foundations--but just like a buildings' foundation, they are more ossified and unchanging.
 The hegemonic age, however, dominates in its effects on daily life, it organizes social institutions, it's open to continual evolution and debate, and is always changing and dynamic.
 
@@ -165,7 +165,7 @@ Irreversible time is oriented around the succession of the nobility, and its mea
 The Age of Kings was a profoundly **Historical society** in that social organization was underwritten by history.
 It was during this age that history had increasing proximity to everyday existence but the possibility of individual participation grew more elusive.
 Individuals living in this Historical society experienced lived moments as mediated through the nobility or God as facilitator, since the nobility had sole possession of
-<span className="note"><small>The conception of duty has been a means used by the holders of power to induce others to live for the interest of their masters, rather than for their own</small>how individuals time was used and allocated--so called 'duty'.</span>[^russell]
+<span className="note"><small>The conception of duty has been a means used by the holders of power to induce others to live for the interest of their masters, rather than for their own</small>how individuals' time was used and allocated--so called 'duty'.</span>[^russell]
 The nobility were the only ones to be in a position to have knowledge of, and experience the enjoyment of directly lived events, while those in the city spectate upon what is essentially a conflict over power--witnesses to a story that is not their own; which is to say, they were mere spectators, alienated from directing the most important events that define their lives, and destined to be forgotten.
 In order for the irreversible time of history to cohere in the collective memory of individuals, there needed to be participation in these officially recorded events (as it was their duty).
 The wealth accumulated by the nobility was expended on lavish feasts and festivals--best exemplified by the
@@ -214,7 +214,7 @@ The city was the locality of the arts.
 The conception of utopia during this age was increasingly secular and socially constructed, resulting in the development of liberal democracy and socialism.
 It was during this age that the concept of leisure emerged as the temporality of **Consumable time**.
 Consumable time is the colonizer of non-working time.
-It is relegated to a subservient role as _a gift that presupposed labor_ rather than as equal to chronological time--it is free time that is legitimated by work.
+It is relegated to a subservient role as _a gift that presupposes labor_ rather than as equal to chronological time--it is free time that is legitimated by work.
 To maintain these complementary roles, consumable time finds itself laden with false attributions of value, and these moments are segmented into a sequence of artificially distinct events, which are merely undifferentiated moments of time perceived to be
 <span className="note"><small>In consumable time, the weekend is perceived as more valuable than the weekdays, and the general sentiment that Mondays are worse than Fridays. These moments of consumable time are perceived to be more valuable since the worker is able to consume this time freely.</small>more highly valuable.</span>[^debord1]
 
@@ -383,7 +383,7 @@ These reductions come at the expense of workers, and the costs are borne by work
 The ideological goal of these actions is twofold: shift the burden of reproductive time onto workers by eliminating services and shifting them to the private domain while corporations capture increasing profits by decreasing operational costs.
 
 <span className="note"><small>I chose to use Debordian term 'Lived time' because it has the connotation of actually living. Other have used the Greek word 'kairos' to describe such moments, see Odell 2023.</small>**Lived time**</span>
-is the freest, most fun, most creative modes of time experienced.[^debord1]
+is the freest, most fun, most creative mode of time experienced.[^debord1]
 Lived time is the **Kairos**[^odell2]--those nonlinear and qualitative moments that dynamically stretch and contract with our emotions, engage all our senses, and requires full participation.
 Lived time are those
 <span className="note"><small>Known as 'ecstatic time' in _Being and Time_, the word comes from the Greek *ékstasis*--to be 'outside of oneself'. See Heidegger 1962.</small>moments of ecstasy</span>
@@ -743,6 +743,6 @@ This is part of a series exploring idleness, time, attention, and lived experien
 [^stirner]: Stirner, Max. 1995. _Stirner: The Ego and Its Own_. Cambridge University Press.
 [^stevenson]: Stevenson, Robert Louis. 2023. _[An apology for idlers](https://www.gutenberg.org/files/69825/69825-h/69825-h.htm)_. gutenberg.org. (Retrieved March 8, 2024).
 [^severance]: Stiller, Ben Stiller, and Aoife McArdle. 2022. _Severance_. TV Series. Apple TV+.
-[^thatcher]: Thatcher, Margaret. 1980. "[Speech to Conservative Women's Conference]((https://www.margaretthatcher.org/document/104368))". _margaretthatcher.org_. Margaret Thatcher Foundation. (Retrieved March 20, 2024).
+[^thatcher]: Thatcher, Margaret. 1980. "[Speech to Conservative Women's Conference](<(https://www.margaretthatcher.org/document/104368)>)". _margaretthatcher.org_. Margaret Thatcher Foundation. (Retrieved March 20, 2024).
 [^zizek]: Žižek, Slavoj. 1989. _The Sublime Object of Ideology_. Verso.
 [^zuboff]: Zuboff, Shoshana. 2018. _The Age of Surveillance Capitalism: The Fight for a Human Future at the New Frontier of Power_. Public Affairs.
