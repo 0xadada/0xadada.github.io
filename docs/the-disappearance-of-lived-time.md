@@ -47,7 +47,7 @@ These conditions are a symptom of a way of life that lacks direction.
 With the gradual shift to secular life, we've turned away from communal practices that provide spaces and times that lead to human flourishing.
 These practices included holidays in which contemplation, prayer, and meditative practices were observed--e.g. Shabbat and Sundays.
 These were times allocated to prayer, creative play, leisure, reflection, rest, and quiet solitude that are no longer protected or made available to greater society.
-We have abandoned the practice of community-rest, pushing it into the private domain of the individual, but what we have lost is leisure and the communities that exist within leisure.
+We have abandoned the practice of community-rest, pushing it into the private domain of the individual, but what we have lost is leisure and the communities that exist there.
 The position of this essay is not a call to return to some golden past, or a renewed spiritual order, but an acknowledgment of the conditions that lead to what we have lost.
 It explores a revitalization of times and spaces for human flourishing that were formerly protected by a spiritual order, but can equally be rooted in secular thought.
 I propose points of resistance to a dominant social order that seeks to continually capture the vestiges of free time.
@@ -112,7 +112,7 @@ An age is more keenly experienced in the city than in the countryside.
 The procession of one age to the next doesn't entail that the previous age has ended, but that its' forces have receded to the background--they become infrastructural rather than hegemonic.
 To illustrate, the mythic narratives that arose from the Age of Gods & Men remain with us in the form of stories and metaphors that provide us with rich cultural allegory.
 In another case, the Age of Kings had no definitive end, in fact, relics like the Queen of England still exist, but monarchy has receded to the background, and thus have become merely cultural.
-Institutions like religion, which previously dominated social organization have similarly receded to the background.
+Institutions like religion, which previously dominated social organization have similarly receded.
 In some sectors secular life has completely subsumed spiritual life, and spiritual life is relegated to the private domain of the individual.
 The ages of the past are still with us, but they've become a given, received culture, one that is taken for granted--its issues and contentions are settled debate, but still have relevance.
 Past ages become social and cultural foundations--but just like a buildings' foundation, they are more ossified and unchanging.
@@ -201,7 +201,8 @@ Irreversible time limited participation to the nobility up until the period of t
 During this age, irreversible time developed into its generalized form—the inevitable unfolding of events for themselves, crushing any individual in its path.
 This was the emergence of the temporality of **Chronological time**: a progression of time marked by the unfolding events of the commodity, a time controlled by the market imperatives of the commodity.
 This is a time of clocks that is measurable, ordered, countable, and structured.
-The bourgeoisie, as rulers of the economy and specialists in the ownership of commodities, untethered history from the administration of the state and privileged the management of the economy.Increasing literacy and the historical power unleashed by the proliferation of the printing press democratized and diminished the hegemony of irreversible time.
+The bourgeoisie, as rulers of the economy and specialists in the ownership of commodities, untethered history from the administration of the state and privileged the management of the economy.
+Increasing literacy and the historical power unleashed by the proliferation of the printing press democratized and diminished the hegemony of irreversible time.
 Individuals participated in the production and consumption of commodities, which was formerly limited to the nobility.[^debord1]
 It was during the later part of this age that capitalism developed across the globe, universalizing chronological time as a singular history that progresses the same everywhere at once.
 This is a time belonging to the globalized marketplace.
@@ -239,7 +240,7 @@ This is a time that can only be organized by the specialized interest groups who
 Just as irreversible time was democratized during the Age of Economic Production, the Age of the Autonomous Spectacle democratizes chronological time by granting individuals the ability to create and consume commodities in the general economy (whereas it was once limited to the social elite).
 This is participation with the historical record, albeit limited to the production and consumption of commodities that _increasingly becomes_ the totality of lived experience.
 
-Most concretely, social media allows individuals to participate in history
+It is during this age that social media allowed individuals to participate in history
 <span className="note"><small>The celebrity is the contemporary class that was formerly the role of the bourgeoisie, the ruling class, or the nobility--the appearance of the control of power and influence: The Influencer.</small>_as celebrity_</span>
 by 'going viral' either among their peers, or more broadly.
 This is an ephemeral participation in history however, as the attention—or gaze of the public—is distracted by the continual onslaught of spectacular memes.
@@ -247,7 +248,7 @@ Individual subjects of the viral event are quickly subsumed by the global flows 
 This commoditized form of time segments moments into Spectacular time and **Pseudo-cyclical time**.
 Spectacular time is the equivalent of work, and pseudo-cyclical time is its' corresponding free-time.
 Pseudo-cyclical time is perceived to have more intrinsic value than working time--work is the so-called 'real life' the worker must endure.
-<span className="note"><small>The consumption of these images (media broadly: internet, tv, news, magazines, apps, even academic publications) serve as further advertisements for all other commodities.</small>Any surplus pseduo-cyclical time is increasingly allocated to the consumption of images,</span>
+<span className="note"><small>The consumption of these images (media broadly: internet, tv, news, magazines, apps, even academic publications) serve as further advertisements for all other commodities.</small>Any surplus pseudo-cyclical time is increasingly allocated to the consumption of images,</span>
 deepening the immersion in
 <span className="note"><small>Spectacle is a pervasive system of mediation that alienates individuals from authentic social interactions and experiences. It is not merely about passive consumption of media but encompasses the entire fabric of society, including politics, culture, and everyday life where reality becomes fragmented and commodified, with images and representations serving as a substitute for genuine human relationships and directly lived experiences (Debord 2021).</small>Spectacle.</span>
 This time is the realm of the commodity, and the images are the medium with which these commodities act upon our consciousness most efficiently.
@@ -256,10 +257,10 @@ The ultimate goal of this attack is to maintain our attention upon the Spectacle
 Whereas power in the Age of Economic Production was determined by nation-states, who made their power legible by drawing territorial boundaries, and defining residents and aliens--the Age of the Autonomous Spectacle is one where power is determined by attention, and space is no longer relevant.
 
 The invention of the smartphone is the key development (after the emergence of the internet) that established the ubiquity of spectacular time and cyberspace.
-The smartphone means we're on the internet all the time.
+The smartphone locates us on the internet all the time.
 We previously _went to the place_ of the internet and took things away with us, but smartphones push us over a threshold where we need to opt-out of
 <span className="note"><small>Named 'cyberspace-time', cf. Fisher 2020.</small>spectacular time.</span>
-With the internet in our hands, in the ubiquitous non-place of cyberspace did we discover that it becomes nearly impossible to opt-out.[^fisher2]
+With the internet in our hands, in the ubiquitous non-place of cyberspace--did we discover that it becomes nearly impossible to opt-out.[^fisher2]
 This is the spatial modality of this age:
 <span className="note"><small>Airspace is a term coined by Kyle Chayka (Chayka 2016).</small>Airspace,</span>[^chayka1]
 the _universal_ realm of the global market, where local goods, cultures and the places themselves are made accessible to the market, each comparable and homogeneous to better conform to the ease of exchange--and therefore lacking any semblance of its once unique character.[^debord1]
