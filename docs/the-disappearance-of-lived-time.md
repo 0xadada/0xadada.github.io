@@ -238,7 +238,7 @@ It was formally declared when Margret Thatcher announced
 and finally materialized with the fall of the Berlin Wall, when all alternatives to capitalism ceased to exist.
 
 The temporal modality of this age is **Spectacular time**, with the perception of time itself as a consumable commodity.
-Spectacular time is generalized across the globe as a repetition of the same day, a groundhog day[^groundhog], a uniform and equal amount of time fully allocated to the production and consumption of commodities, and the reproduction of itself.
+Spectacular time is generalized across the globe as a repetition of the same day, a Groundhog Day[^groundhog], a uniform and equal amount of time fully allocated to the production and consumption of commodities, and the reproduction of itself.
 This is a time that can only be organized by the specialized interest groups who own the production of commodities.
 Just as irreversible time was democratized during the Age of Economic Production, the Age of the Autonomous Spectacle democratizes chronological time by granting individuals the ability to create and consume commodities in the general economy (whereas it was once limited to the social elite).
 This is participation with the historical record, albeit limited to the production and consumption of commodities that _increasingly becomes_ the totality of lived experience.
@@ -301,15 +301,14 @@ It is a perception of time as the passage of the labors of a people in sync with
 **Irreversible time** is the perception of time as a linear series of events and developments occurring in the realm of war, economics, technology, knowledge, and yet limited to the personal chronicles of the nobility.
 It is qualitative.
 Irreversible time is a temporality whereby the ruling class records their personal histories with narratives--those personal events, conquests, wars, battles, and the administration of their kingdom.
-Irreversible time is the official time of adventures and wars, the time from which the rulers of historical society pursue their personal histories; it is the same time that is contested in clashes between foreign lands.
+Irreversible time is the official time that is contested in clashes between foreign lands.
 Irreversible time is thus alien to ordinary individuals, something they don't seek out and something from which they had thought they were protected from.
-These events mark changes in the historical record that provide a framework for individuals to understand their place within time.
+These events mark changes in the historical record that provide a framework for individuals to understand their place within that history.
 
-The early ages we've described above each correspond to a single temporality.
-In the later two ages (the Age of Economic Production and the Age of the Autonomous Spectacle, respectively) two modes of temporality emerge that exist in parallel.
+The early ages we’ve described each correspond to a single temporality. In the later two ages (the Age of Economic Production and the Age of the Autonomous Spectacle, respectively) two temporalities emerge that exist simultaneously.
 One of these temporalities always corresponds to the
 <span className="note"><small>In Debordian terms, 'time of production' (Debord 2021).</small>time spent working</span>
-and one corresponds to valorized time (free time, consumable time, more highly valued by individuals).
+and one corresponds to valorized time (free time that is highly valued by individuals).
 Individuals experience these temporalities distinctly, and oscillate between them on a day-to-day basis.
 
 <div className="scroller">
@@ -329,15 +328,15 @@ It is the time of work.[^debord1]
 Chronological time atomizes the moment,
 <span className="note"><small>Equivalent time where every interval is equivalent in value and therefore indistinguishable as abstracted units of time, which are, in reality, merely their use value for exchangeability (Debord 2021).</small>where every interval is equivalent in value and therefore indistinguishable.</span>[^debord1]
 Chronological time has no duration, and produces no memory, it is unmemorable time but not forgotten--it is always inscribed into the historical record.
-Chronological time is understood as a sequence of the same uneventful 'nows' that repeat over and over again to the point where each working day is interchangeable for the next.
-Chronological time is complement to consumable time, and the opposite of Lived time.
+Chronological time is understood as a sequence of the same uneventful 'nows' that repeat over and over again to the point where each working day is interchangeable with the next.
+Chronological time is the complement to consumable time, and the opposite of Lived time.
 
 <span className="note"><small>Debord uses the term 'Pseudo-cyclical time' when discussing the freely consumable time of the worker that is the compliment of time spent working.</small>**Consumable time**</span>
 is the time returned to social life as a by-product of the work accomplished during chronological time[^debord1].
-Consumable time _is_ chronological time _disguised_ as a time to be consumed freely by workers.
+Consumable time _is_ chronological time _disguised_ so it may be consumed freely by workers.
 It exhibits the same characteristics, namely equally segmented, fungible units of time--the qualitative dimensions of which are suppressed in favor of quantitative equality.
 Since this time is the complementary _by-product_ of work, it therefore maintains the hegemony and legitimacy _of work_.
-It is the complement to chronological time, and a commoditized version of Lived time.
+It is a commoditized version of Lived time.
 
 ![Sign reads "NO IDLING" besides a doorway into a building.](/static/images/2024-05-01-no-idling.jpg)
 
