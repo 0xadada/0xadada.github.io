@@ -133,17 +133,20 @@ The spatial modality of this period is characterized by territories that were un
 This age applied to human societies until the invention of agriculture, animal husbandry, and the emergence of subsistence farming.
 
 The **Age of Cyclical Nature** is characterized as a time that is proto-historical.
-When agriculture began, communities invested labor into the land, imbuing it with content.
-This attached the community to the land, and therefore enclosed the community within cultivated property--one surrounded by a differentiated region of uncultivated lands.
-This was a shift from the nomadic seasonal cycle, returning people to undifferentiated but similar places, giving way to the agrarian perception of the return of a set of gestures in time (planting, harvesting, etc) attached to a single place.
+When agriculture began, communities invested labor into the land, imbuing it with content.
+This attached the community to space, and therefore enclosed the community within cultivated property—one surrounded by a differentiated region of uncultivated lands.
+This was a shift from the nomadic seasonal cycle, returning people to undifferentiated but similar places and a familiar set of gestures in time
+(planting, harvesting, etc) that were attached to a single place.
 Agrarian society, therefore generated the spatial modality of "differentiated property" and "undifferentiated lands".
-The transition from the pastoral nomadism of the Age of Gods & Men to settled agriculture marked the end of an idle and unattached freedom, and the beginning of labor.
-The Agrarian society and agricultural mode of production is governed by the rhythm of the seasons, and as such is the implementation of **Cyclical time** in its fullest development.
+The transition from the pastoral nomadism of the Age of Gods & Men to settled agriculture marked the end of an idle and unattached freedom,
+and the beginning of labor.
+The Agrarian society and agricultural mode of production is governed by the rhythm of the seasons,
+and as such is the implementation of **Cyclical time** in its fullest development.
 
 The **Age of Kings** emerged from the practice of permanent agricultural settlements, and the growth of cities.[^braudel2]
 The Age of Kings is characterized by the division of social classes, each specializing in a different aspect of the total production of society: farmers, warriors, priests, and the nobility.
 The nobility organized social labor on the basis of the accumulation of wealth in the form of <span className="note"><small>Surplus value during the Age of Kings was the total amount of crop remaining after farmers fed themselves and paid taxes.</small>surplus value</span>.
-This class also appropriated the _temporal surplus value_ that resulted from the exploitation of the farming class.
+This class appropriated the _temporal surplus value_ that resulted from the exploitation of the farming class.
 Surplus time was invested into the development of a new form of power: the control of spatial territory and the development of history that was at the sole discretion of the nobility.
 The development of history is a new form of power controlled by the nobility over the direction, management, and recording of historical time.
 This is a power inaccessible to the laboring and agrarian classes.
@@ -164,29 +167,29 @@ and the political management of the power that results.
 Irreversible time is oriented around the succession of the nobility, and its measure of progress is determined by the number of successful successions.
 The Age of Kings was a profoundly **Historical society** in that social organization was underwritten by history.
 It was during this age that history had increasing proximity to everyday existence but the possibility of individual participation grew more elusive.
-Individuals living in this Historical society experienced lived moments as mediated through the nobility or God as facilitator, since the nobility had sole possession of
+Individuals living in this historical society experienced lived moments as mediated through the nobility or God as facilitator, since the nobility had sole possession of
 <span className="note"><small>The conception of duty has been a means used by the holders of power to induce others to live for the interest of their masters, rather than for their own</small>how individuals' time was used and allocated--so called 'duty'.</span>[^russell]
 The nobility were the only ones to be in a position to have knowledge of, and experience the enjoyment of directly lived events, while those in the city spectate upon what is essentially a conflict over power--witnesses to a story that is not their own; which is to say, they were mere spectators, alienated from directing the most important events that define their lives, and destined to be forgotten.
 In order for the irreversible time of history to cohere in the collective memory of individuals, there needed to be participation in these officially recorded events (as it was their duty).
 The wealth accumulated by the nobility was expended on lavish feasts and festivals--best exemplified by the
-<span className="note"><small>The term Bread & Circuses comes from Juvenal, a Roman poet active in the Second Century AD. The phrase is a critique of the political class who deliver not public services or policy, but instead public diversions, distractions, or other means of appeasing the populace with trivial or base appeals to amusement or other simple pleasures that make no lasting change or improvements to society.</small>Bread & Circuses of the Roman Empire</span>[^graeber2]
+<span className="note"><small>'bread & circuses' comes from Juvenal, a Roman poet active in the Second Century AD. The phrase is a critique of the political class who deliver not public services or policy, but instead public diversions, distractions, or other means of appeasing the populace with trivial or base appeals to amusement or other simple pleasures that make no lasting change or improvements to society.</small>bread & circuses of the Roman Empire</span>[^graeber2]
 that created fleeting moments of participatory lived experience mediated by the nobility.
 <span className="note"><small>The major events of this period culminated in the Crusades.</small>The resulting participation in these events</span>
 is a recognition amongst individuals as the possessors of a unique present, a period defined by the richness of their own actions, and a home built by their own (mediated) experience.
-For members of the Historical society, Irreversible time truly exists, and within it they create memories of their own history as well as the emergence of a newfound fear of _being forgotten_ into the oblivion of Cyclical time.
+For members of the historical society, irreversible time truly exists, and within it they create memories of their own history as well as the emergence of a newfound fear of _being forgotten_ into the oblivion of cyclical time.
 The spatial modality of this age was _the control of territory_, and the weapon of choice was, for the first time, the written word.
 Ironically, the power of the nobility was legitimated by claims (familial or fictional) to a mythical past.
 It was during this age that
 <span className="note"><small>E.g. Judaism, Christianity, Islam, Buddhism.</small>monotheistic religions</span>
-developed and made a compromise between myth and history--one that bridged the gap between Cyclical time (as it dominated the sphere of agricultural production), and the Irreversible time that was the theater of politics.
-The religions that developed out of monotheism were the fundamental building blocks universally acknowledged as useful for building new Historical societies based on Irreversible time.
-It was during this age where one's life was measured according to Irreversible time, in the form of successive stages of life (childhood, adulthood, old-age), with the consideration of life as a _voyage_, as passage without return, in a world whose meaning culminates in the spatial elsewhere of
+developed and made a compromise between myth and history--one that bridged the gap between cyclical time (as it dominated the sphere of agricultural production), and the irreversible time that was the theater of politics.
+The religions that developed out of monotheism were the fundamental building blocks universally acknowledged as useful for building new historical societies based on irreversible time.
+It was during this age where one's life was measured according to irreversible time, in the form of successive stages of life (childhood, adulthood, old-age), with the consideration of life as a _voyage_, as passage without return, in a world whose meaning culminates in the spatial elsewhere of
 <span className="note"><small>According to the Augustinian Proclamation, the Catholic Church in Vatican City was the unitary physical space shared with Heaven (Augustine 1993).</small>Heaven.</span>[^augustine2]
 Individuals found the fulfillment of their personal histories within the sphere of the ruling nobility.
 So, just as the nobility defined themselves by waging war over disputed power, individuals attached their personal historical chronicles to their rulers--thus, the knight and his personal story is entwined with the story of duty to his king.
 The Age of Kings applies to feudal civilizations in China, Egypt, Greece, Iran, Rome, Europe, Japan, and Latin America.
 
-As long as agriculture remained the primary form of labor during the Age of Kings, cyclical time continued to constrain social life with _tradition_, which inhibited the development of Irreversible time.
+As long as agriculture remained the primary form of labor during the Age of Kings, cyclical time continued to constrain social life with _tradition_, which inhibited the development of irreversible time.
 It wasn't until the rise of mercantilism that the bourgeoisie emerged, challenging the monopoly on irreversible time.[^debord1][^braudel3]
 It was only then that the irreversible time of the bourgeois economy was brought to bear upon the remaining vestiges of cyclical time, eradicating it at every encounter across the globe.
 As the bourgeoisie gained control over irreversible time, their labor gradually became a project to transform historical conditions.[^debord1]
@@ -199,7 +202,7 @@ This age emerged during the enlightenment and prefigured the industrial revoluti
 Irreversible time limited participation to the nobility up until the period of the
 <span className="note"><small>The bourgeois revolutions include the English Civil War (1642-1651), the American War of Independence (1775-1799), the French Revolution (1789-1799), the European revolutions of 1830 and 1848, and the unification movements in Germany and Italy.</small>bourgeois revolutions.</span>
 During this age, irreversible time developed into its generalized form—the inevitable unfolding of events for themselves, crushing any individual in its path.
-This was the emergence of the temporality of **Chronological time**: a progression of time marked by the unfolding events of the commodity, a time controlled by the market imperatives of the commodity.
+This was the emergence of the temporality of **Chronological time**: a progression of time marked by the unfolding events of the commodity, and controlled its market imperatives.
 This is a time of clocks that is measurable, ordered, countable, and structured.
 The bourgeoisie, as rulers of the economy and specialists in the ownership of commodities, untethered history from the administration of the state and privileged the management of the economy.
 Increasing literacy and the historical power unleashed by the proliferation of the printing press democratized and diminished the hegemony of irreversible time.
@@ -227,7 +230,7 @@ refusal of the progression of any major historical divergence from our extant so
 It is an indefinite postponement of the future.
 This is an age characterized by commodities that exist for their own sake, external to any human desires, or even society itself.
 This is an age where the economy becomes autonomous--organizing social activity in order to reproduce itself.[^jappe]
-The age was inaugurated with the publishing of
+This age was inaugurated with the publishing of
 <span className="note"><small>_Propaganda_, was written by Edward Bernays in 1928, incorporated the literature from social science and psychology for the techniques of public communication for the manipulation of the masses. (Bernays 2005).</small>_Propaganda_</span>[^bernays]
 in 1928[^debord2], it developed with the ubiquity of television and radio.
 It was formally declared when Margret Thatcher announced
@@ -235,7 +238,7 @@ It was formally declared when Margret Thatcher announced
 and finally materialized with the fall of the Berlin Wall, when all alternatives to capitalism ceased to exist.
 
 The temporal modality of this age is **Spectacular time**, with the perception of time itself as a consumable commodity.
-Spectacular time is generalized across the globe as a repetition of the same day, a uniform and equal amount of time fully allocated to the production of commodities, the consumption of commodities, and the reproduction of itself.
+Spectacular time is generalized across the globe as a repetition of the same day, a groundhog day[^groundhog], a uniform and equal amount of time fully allocated to the production and consumption of commodities, and the reproduction of itself.
 This is a time that can only be organized by the specialized interest groups who own the production of commodities.
 Just as irreversible time was democratized during the Age of Economic Production, the Age of the Autonomous Spectacle democratizes chronological time by granting individuals the ability to create and consume commodities in the general economy (whereas it was once limited to the social elite).
 This is participation with the historical record, albeit limited to the production and consumption of commodities that _increasingly becomes_ the totality of lived experience.
@@ -245,7 +248,7 @@ It is during this age that social media allowed individuals to participate in hi
 by 'going viral' either among their peers, or more broadly.
 This is an ephemeral participation in history however, as the attention—or gaze of the public—is distracted by the continual onslaught of spectacular memes.
 Individual subjects of the viral event are quickly subsumed by the global flows of the attention economy that expands autonomously according to market imperatives.
-This commoditized form of time segments moments into Spectacular time and **Pseudo-cyclical time**.
+This commoditized form of time segments moments into spectacular time and **Pseudo-cyclical time**.
 Spectacular time is the equivalent of work, and pseudo-cyclical time is its' corresponding free-time.
 Pseudo-cyclical time is perceived to have more intrinsic value than working time--work is the so-called 'real life' the worker must endure.
 <span className="note"><small>The consumption of these images (media broadly: internet, tv, news, magazines, apps, even academic publications) serve as further advertisements for all other commodities.</small>Any surplus pseudo-cyclical time is increasingly allocated to the consumption of images,</span>
@@ -261,8 +264,8 @@ The smartphone locates us on the internet all the time.
 We previously _went to the place_ of the internet and took things away with us, but smartphones push us over a threshold where we need to opt-out of
 <span className="note"><small>Named 'cyberspace-time', cf. Fisher 2020.</small>spectacular time.</span>
 With the internet in our hands, in the ubiquitous non-place of cyberspace--did we discover that it becomes nearly impossible to opt-out.[^fisher2]
-This is the spatial modality of this age:
-<span className="note"><small>Airspace is a term coined by Kyle Chayka (Chayka 2016).</small>Airspace,</span>[^chayka1]
+<span className="note"><small>Airspace is a term coined by Kyle Chayka (Chayka 2016).</small>Airspace</span>[^chayka1]
+is the spatial modality of this age:
 the _universal_ realm of the global market, where local goods, cultures and the places themselves are made accessible to the market, each comparable and homogeneous to better conform to the ease of exchange--and therefore lacking any semblance of its once unique character.[^debord1]
 Airspace is a banalizing and homogenizing force across the globe--where the same tertiary services appear everywhere as workers travel the world demanding the same familiar experiences, creating a banal nowhere.[^chayka1]
 This can be seen happening simultaneously, with the reproduction of the same coffee shops, stores, languages, restaurants, styles, and customs across the globe.
@@ -327,14 +330,14 @@ Chronological time atomizes the moment,
 <span className="note"><small>Equivalent time where every interval is equivalent in value and therefore indistinguishable as abstracted units of time, which are, in reality, merely their use value for exchangeability (Debord 2021).</small>where every interval is equivalent in value and therefore indistinguishable.</span>[^debord1]
 Chronological time has no duration, and produces no memory, it is unmemorable time but not forgotten--it is always inscribed into the historical record.
 Chronological time is understood as a sequence of the same uneventful 'nows' that repeat over and over again to the point where each working day is interchangeable for the next.
-Chronological time is complement to Consumable time, and the opposite of Lived time.
+Chronological time is complement to consumable time, and the opposite of Lived time.
 
 <span className="note"><small>Debord uses the term 'Pseudo-cyclical time' when discussing the freely consumable time of the worker that is the compliment of time spent working.</small>**Consumable time**</span>
-is the time returned to social life as a by-product of the work accomplished during Chronological time[^debord1].
-Consumable time _is_ Chronological time _disguised_ as a time to be consumed freely by workers.
+is the time returned to social life as a by-product of the work accomplished during chronological time[^debord1].
+Consumable time _is_ chronological time _disguised_ as a time to be consumed freely by workers.
 It exhibits the same characteristics, namely equally segmented, fungible units of time--the qualitative dimensions of which are suppressed in favor of quantitative equality.
 Since this time is the complementary _by-product_ of work, it therefore maintains the hegemony and legitimacy _of work_.
-It is the complement to Chronological time, and a commoditized version of Lived time.
+It is the complement to chronological time, and a commoditized version of Lived time.
 
 ![Sign reads "NO IDLING" besides a doorway into a building.](/static/images/2024-05-01-no-idling.jpg)
 
@@ -349,7 +352,7 @@ Spectacular time is an objective religion with dogma, ritual, and the imposition
 This isn't a subjective religion that is lived and felt, but one that colonizes life.
 It is a religion that is submitted to from the external doctrines of the economy.
 
-**Pseudo-cyclical time** is the complement to Spectacular time, a time valorized for the 'free consumption' by the workers in the Age of the Autonomous Spectacle.
+**Pseudo-cyclical time** is the complement to spectacular time, a time valorized for the 'free consumption' by the workers in the Age of the Autonomous Spectacle.
 Pseudo-cyclical time is experienced as cyclical time, returning to the
 <span className="note"><small>The natural zeitgebers are the cyclical rhythms of cyclical time: day and night, the procession of the seasons, the intervals of farm work, the cycle of harvests, festivals, and holidays.</small>zeitgebers</span>
 that regulated the intervals of pre-industrial societies.
@@ -517,10 +520,12 @@ Capital follows you when you dream.
 Time ceases to be linear, becomes chaotic, broken down into punctiform divisions...
 To function effectively as a component of just-in-time production you must develop a capacity to respond to unforeseen events, you must learn to live in conditions of total instability, or 'precarity'.</q></span>[^fisher1]
 
-The zeitzombie exists merely to solve 'real world problems'.
-<span className="note"><small>Techno-optimists claim "death that can be fixed with AI"--presupposing death as a problem needing a solution, and yet offer no vision for what _life_ could be 🤣.</small><q>Give us a real world problem, and we can invent technology that will solve it.</q></span>[^techno]
-they say.
-Everything is a problem to be solved, and technology is the solution to every problem,
+There is a type of zeitzombie that exists merely to solve 'real world problems'--the techno-optimist.
+This species goes as far to claim that even
+<q>death that can be fixed with AI</q>[^techno]--presupposing death as a problem in need of a solution,
+and yet offerer no vision for what _life_ can be.
+<q>Give us a real world problem, and we can invent technology that will solve it.</q>[^techno]
+they say. Everything is a problem to be solved, and technology is the solution to every problem,
 and yet the zeitzombies propose no reason other than for the sake of inventing new technology.
 They offer no vision for a _good social life_--only a world in which
 <span className="note"><small>Emphasis in the original. For the techno-optimists, work _is_ heaven, and in their manifesto there is no meaning, nor life, in their section called "The Meaning of Life", cf. Andreessen 2023.</small><q>man was meant to be **useful**, to be **productive**.</q></span>[^techno]
@@ -528,9 +533,11 @@ For the zeitzombie, there _is no life outside of work_, and death is a problem t
 The zeitzombie is the techno-zealot--<q>we believe intrinsic motivations– the satisfaction of building something new...,
 the achievement of becoming a better version of oneself</q>,
 these are the words of the achievement-subject, true believers in the coming of the
-<span className="note"><small>Their techno-Messiah is the General Artificial Intelligence (AGI). "We believe Artificial Intelligence is our alchemy... [AI] can save lives" (Andreessen 2023)</small>AI techno-Messiah</span>[^roko]
+<span className="note"><small>Their techno-Messiah is the General Artificial Intelligence (AGI). "We believe Artificial Intelligence is our alchemy... [AI] can save lives" (Andreessen 2023).</small>AI techno-Messiah</span>[^roko]
 who will unleash endless productivity for its own self-development, or
-<span className="note"><small>Roko's Basilisk is a thought experiment that proposes a superintelligent AGI who punishes anyone who doesn't actively contribute their lives to the development of itself (Roko, 2022)</small>punish those who refuse to work for its own benefit.</span>
+<span className="note"><small>Roko's Basilisk is a thought experiment that proposes a superintelligent AGI who punishes anyone who doesn't actively contribute their lives to the development of itself. (Roko, 2022)</small>punish those who refuse to work for its own benefit.</span>
+And so, just like the knights in the Age of Kings whose personal chronicle was bound by duty to their lord,
+the techno-optimists are bound by duty to accelerate The Singularity: the emergence of their AI god.
 
 The zeitzombie has internalized corporate claims that
 <span className="note"><small>Fisher 2009, p. 40.</small>'satisfactory' is not enough,</span>
@@ -691,6 +698,9 @@ This is part of a series exploring idleness, time, attention, and lived experien
 2. [Against Facebook](/2018/05/01/against-facebook/)
 3. [I am not a software developer](/2022/04/01/i-am-not-a-software-developer/)
 4. [The Disappearance of Lived Time](/2024/05/01/the-disappearance-of-lived-time/)
+
+Thanks to Jenna & [Stephen](https://www.bostonapothecary.com/about/) for reviewing early drafts of this essay.
+
 </aside>
 
 ## Bibliography
@@ -723,6 +733,7 @@ This is part of a series exploring idleness, time, attention, and lived experien
 [^goethe]: Goethe, Johann Wolfgang von. n.d. "[Vanitas! Vanitatum Vanitas!](https://kalliope.org/en/text/goethe2019010801)" Kalliope.org (blog). Accessed March 30, 2024. kalliope.org.
 [^graeber1]: Graeber, David. 2015. _The utopia of rules: on technology, stupidity, and the secret joys of bureaucracy_. Melville House Publishing.
 [^graeber2]: Graeber, David. 2011. *Debt: the first 5,000 years*. Melville House.
+[^groundhog]: Ramis, Harold, dir. 1993. _Groundhog Day_. Columbia Pictures.
 [^han]: Han, Byung Chul. 2015. _The burnout society_. Stanford Briefs, an Imprint of Stanford University Press.
 [^heidegger1]: Heidegger, Martin, John Macquarrie, and Edward Schouten Robinson. 1962. _Being and Time_. Harper and Row.
 [^jappe]: Jappe, Anselm, Donald Nicholson-Smith, and T J Clark. 1999. _Guy Debord_. University of California Press.
@@ -730,7 +741,7 @@ This is part of a series exploring idleness, time, attention, and lived experien
 [^leone]: Leone, Sergio, dir. 1966. _The Good, the Bad and the Ugly_. Archive.org. Produzioni Europee Associate.
 [^marx-1867]: Marx, Karl. (1867) 1990. _Capital: A Critique of Political Economy. / Vol. 1._ Harmondsworth: Penguin in Association with New Left Review.
 [^marx-1973]: Marx, Karl. (1859) 1973. _[Grundrisse : Foundations of the Critique of Political Economy](https://www.marxists.org/archive/marx/works/download/pdf/grundrisse.pdf)_. Translated by Martin Nicolaus. London: Penguin.
-[^memento]: Nolan, Christopher, dir. 2001. _Memento_. United States: Newmarket.
+[^memento]: Nolan, Christopher, dir. 2001. _Memento_. Newmarket.
 [^merrifield-2008]: Merrifield, Andy. 2008. _The Wisdom of Donkeys_. Bloomsbury Publishing USA.
 [^odell-2019]: Odell, Jenny. 2019. _How to Do Nothing: Resisting the Attention Economy_. Melville House.
 [^odell2]: Odell, Jenny. 2023. _Saving time: discovering a life beyond the clock_. Random House.
