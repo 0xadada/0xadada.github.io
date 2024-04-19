@@ -268,7 +268,7 @@ Whereas power in the Age of Economic Production was determined by nation-states,
 The invention of the smartphone is the key development (after the emergence of the internet) that established the ubiquity of spectacular time and cyberspace.
 The smartphone locates us on the internet all the time.
 We previously _went to the place_ of the internet and took things away with us, but smartphones push us over a threshold where we need to opt-out of
-<span className="note"><small>Named 'cyberspace-time', cf. Fisher 2020.</small>spectacular time.</span>
+<span className="note"><small>Named 'cyberspace-time', cf. Fisher 2020 00:08:30.</small>spectacular time.</span>
 With the internet in our hands, in the ubiquitous non-place of cyberspace--did we discover that it becomes nearly impossible to opt-out.[^fisher2]
 <span className="note"><small>Airspace is a term coined by Kyle Chayka (Chayka 2016).</small>Airspace</span>[^chayka1]
 is the spatial modality of this age:
