@@ -32,6 +32,11 @@ tags:
   The north face of The Mönch from Lauterbrunnen valley in Switzerland. Photo by the author, 2016.
 ](/static/images/2024-05-01-lauterbrunnen-lived-time-vs-spectacular-time.jpg)
 
+<figure>
+  <audio controls src="/media/2024-05-01-the-disappearance-of-lived-time.mp3"></audio>
+  <figcaption>Listen to this essay</figcaption>
+</figure>
+
 <a id="introduction"></a>
 We stand on the brink of a precipice.
 In front of us lies a society driven for the sake of productivity, the mechanics increasingly directed by artificial intelligence to serve corporate interests.
@@ -72,8 +77,9 @@ but its own self-evident truth--one that is deeply felt.
 2. [The Historicity of Time](#the-historicity-of-time)
 3. [Temporalities of Time](#temporalities-of-time)
 4. [Instrumentarianism and the Perpetual Present](#instrumentarianism-and-the-perpetual-present)
-5. [Leisure as Refusal: The Power of 'No'](#leisure-as-refusal-the-power-of-no)
-6. [Bibliography](#bibliography)
+5. [The Rise of the Zeitzombie](#the-rise-of-the-zeitzombie)
+6. [Leisure as Refusal: The Power of 'No'](#leisure-as-refusal-the-power-of-no)
+7. [Bibliography](#bibliography)
   
   </details>
 </aside>
@@ -293,7 +299,7 @@ The dominant temporality of any society is determined by its stage of human soci
 During the Age of Cyclical Nature, time was humanized and therefore any individual was able to participate in the historical events of their own time.
 After the emergence of irreversible time, the individual could no longer meaningfully participate in the lived historical events of their own period, as those events are no longer controlled by those at the base of society.
 
-**Cyclical time** is a time that directly confronts naturally cyclical conditions, repeating with the seasons and according to the patterns of local flora and fauna.
+**Cyclical time** directly confronts naturally cyclical conditions, repeating with the seasons and according to the patterns of local flora and fauna.
 It is a perception of time as the passage of the labors of a people in sync with naturally occurring transitions.
 
 **Mythical time** is perceptually the same as Cyclical time, but underwritten by a claim to ownership of that time by a nobility that has taken ownership of the historical record.
@@ -355,10 +361,10 @@ It is a religion that is submitted to from the external doctrines of the economy
 Pseudo-cyclical time is experienced as cyclical time, returning to the
 <span className="note"><small>The natural zeitgebers are the cyclical rhythms of cyclical time: day and night, the procession of the seasons, the intervals of farm work, the cycle of harvests, festivals, and holidays.</small>zeitgebers</span>
 that regulated the intervals of pre-industrial societies.
-It builds upon these vestiges of Cyclical time as a foundation and generates new variations: day and night, weekly work and weekend rest, and the cycle of fashions, television shows, holidays, and periodic vacations.
+It builds upon the vestiges of cyclical time as a foundation and generates new variations: day and night, weekly work and weekend rest, and the cycle of fashions, television shows, holidays, and periodic vacations.
 It is defined by the continuation of the rationality of the enlightenment combined with the demand for data that arose out of the attention economy.
-Pseudo-cyclical time is itself a consumable commodity, one which has combined all aspects of the social life which were previously distinguished: private life, economic life, and political life.
-This combined time of contemporary society is the raw material to be consumed by the worker how they see fit, but only as input to a set of ever-expanding products on a market of socially controlled schedules according to the attention economy.
+Pseudo-cyclical time is itself a consumable commodity, one which has combined all aspects of the social life which were formerly separate: private life, economic life, and political life.
+This combined time of contemporary society is the raw material to be consumed by the worker however they see fit, but only as inputs to a set of ever-expanding products on the market of socially controlled schedules of the attention economy.
 
 There are two more temporalities, these are the unmemorable, the unaccounted for, and therefore the untheorized.
 These two temporal domains are the wilderness of time, at once wild sites of potential and yet vulnerable to commodification.
@@ -369,9 +375,9 @@ It is the lived experience of commuting, doing chores, cooking, and eating.
 It accounts for adequate rest and sleep, maintaining one's health, childcare, relationships, and community.
 It is the equivalent to the time spent surviving in nature--foraging for food, searching for shelter, but set in a modern milieu—shopping, chores, and conducting economic transactions.
 Reproductive time is always subject to the dominant time of its age, be that irreversible time, chronological time, or spectacular time.
-The economy considers reproductive time as _secondary_ concerns.
+The economy considers reproductive time as a _secondary_ concern.
 As such, health, aging, and childcare are continually sidelined by the economy as externalities that have no bearing on the production of products and services.
-Reproductive time is presented as the realm of the domestic, as feminine, and as such has is considered invisible and intuitive--which is to say, lacking in thought and rigor.[^garbes]
+Reproductive time is presented as the realm of the domestic, as feminine, and as such is considered invisible and intuitive--which is to say, lacking in thought and rigor.[^garbes]
 Reproductive time is, in fact, the opposite--
 <span className="note"><small>To quote Marx describing the revolutionary proletarian: _'I am nothing and I should be everything.'_ (Marx 1975, p. 254).</small>it produces the visible workforce,</span>
 and a lot of emotion and thought is put into care for the people who become the fundamental basis of the economy.[^garbes]
@@ -392,14 +398,14 @@ Lived time are those
 <span className="note"><small>Known as 'ecstatic time' in _Being and Time_, the word comes from the Greek *ékstasis*--to be 'outside of oneself'. See Heidegger 1962.</small>moments of ecstasy</span>
 experienced during leisure, play, focus, intense emotions, and erotic rapture.[^heidegger1]
 It is a time experienced without the awareness of time passing.
-Lived time is those moments we do something for the hell of it, when we escape the rigid order of the schedule.
+Lived time are those moments when we do something for the hell of it, when we escape the rigid order of the schedule.
 Lived time is a
 <span className="note"><small>The 'space of play' is Graeber's term for a distinction between play and games, where play is free, creative, and open-ended, while games are rigid, repetitive, and closed-off. Graeber suggested that play underlies art, science, conversation, and community, while games are the preferred method of bureaucracy. He emphasized that the key distinction between games and play is the presence of rules, with games being defined by their rules, while play is defined by its lack of rules (Graeber 2015).</small>space of play</span>
 that is free, creative, and open-ended.[^graeber1]
 Athletes, artists, and creatives have converged on describing this time as "a state of flow"--a total state of immersion in activity.
 Lived time is unhurried, a time in which people can pursue their own projects, at their own pace.
-These projects may not lead to a predetermined goal, but the projects are gradually _becoming_ unto themselves, absent a goal--done for their own sake.
-Often when we say we "have lost track of time", it is due to the experience of lived time.
+These projects may not lead to a predetermined goal, but gradually _become_ unto themselves, absent a goal--done for their own sake.
+When we say we "have lost track of time", it is often due to the experience of lived time.
 The feeling of lived time at its most intense can be depersonalizing, we only realize how absorbed we are when we emerge from it.
 Lived time is never scheduled and always late.
 It is here where we abandon the utility-value of time as money, and it is where past, present and future coalesce into duration[^pandt12]--the perception of memorable times distilled into a narrative that chronicles one's life.
@@ -409,7 +415,7 @@ It is a time that uniquely gives us a sense of our own mortality.[^pandt12]
 
 ## Instrumentarianism and The Perpetual Present
 
-The Perpetual Present is our contemporary temporal social milieu--a period without duration that never changes, it is a temporality where the past is irrelevant, and
+The Perpetual Present is our contemporary social milieu--a period without duration that never changes, it is a temporality where the past is irrelevant, and
 <span className="note"><small>The Perpetual Present is the reification of time itself.</small>the present moment is spent determining a future that isn't our own.</span>
 Unlike the circle in the cyclical time of nature, and the line in the irreversible time of history, the perpetual present is a point of singularity collapsed into a time we call 'now'.
 The perpetual present is the period at the End of History.
@@ -471,12 +477,12 @@ The smartphone inaugurated the era of big-data surveillance and gamified behavio
 Twitter's "pull-to-refresh" UI gesture that leverages variable rewards, much like a slot machine, triggers addictive behavior as a way to increase user engagement with the timeline.
 Facebook employs similar psychological methods with the "red dot" notifications that keep people checking their phone for the next new thing.[^0xadada-2018]
 Youtube & Netflix discovered that auto-playing the related videos dramatically increased views.[^bridle-2019]
-She defines
+Zuboff defines
 <span className="note"><small>According to Lacan[^evans], the 'big Other' represents a kind of ideal observer or societal norms that individuals perform for, shaping their behavior and expressions to conform to social expectations (Evans 1996). Žižek[^zizek] further explores this concept by delving into the enigmatic nature of the 'big Other', questioning its demands and highlighting its role in shaping desires and behaviors within society (Žižek 1989).</small>'Big Other'</span>
 as the global physical architecture of computerized and networked technologies that achieve a pervasive and unprecedented means of behavioral surveillance.
 This creates a new form of **Instrumentarian power** that operates through the manipulation of individuals' behaviors, preferences, and actions based on predictive data derived from technological tools--ultimately serving the commercial interests of corporations.[^zuboff]
 
-Contrary to Orwellian depictions of oppressive surveillance technology that maliciously watches our every move, instrumentarian power doesn't rely on forced control or subjugation but rather on individuals willingly interacting with technology in ways that lead them to progressively disclose personal information and behaviors over time.
+Contrary to Orwellian depictions of oppressive surveillance technology that maliciously watches our every move, instrumentarian power doesn't rely on forced control or subjugation but rather on individuals who willingly interact with technology in ways that lead them to progressively disclose personal information and behaviors over time.
 <span className="note"><small>Zuboff's Instrumentarian power aligns with Debord's concept of the Integrated Spectacle in _Comments on the Society of the Spectacle_ he described it as
 a fusion of the Diffuse and Concentrated forms, characterized by intensive technological development, continual personal re-skilling, and an integration of state and economy that mirrors how surveillance capitalism intertwines technology with economic interests to monitor and influence individuals' voluntary experiences for profit.
 It is a prescient description of instrumentarian power (Debord 1998, ch. IV).</small>
@@ -521,8 +527,8 @@ To function effectively as a component of just-in-time production you must devel
 
 There is a type of zeitzombie that exists merely to solve 'real world problems'--the techno-optimist.
 This species goes as far to claim that even
-<q>death that can be fixed with AI</q>[^techno]--presupposing death as a problem in need of a solution,
-and yet offerer no vision for what _life_ can be.
+<q>death can be fixed with AI</q>[^techno]--presupposing death as a problem in need of a solution,
+and yet offering no vision for what _life_ could be.
 <q>Give us a real world problem, and we can invent technology that will solve it.</q>[^techno]
 they say. Everything is a problem to be solved, and technology is the solution to every problem,
 and yet the zeitzombies propose no reason other than for the sake of inventing new technology.
@@ -620,6 +626,7 @@ The power of 'No' allows us to move towards temporal self-determinacy.
 This is temporal negativity, a 'No' to things that hijack our time, a 'No' to instrumentarian power.
 The task of 'No' is to consciously (and collectively) self-determine the goal of human activity and act towards the realization of that goal.
 The individual's concrete activity in leisure (the means) is directly connected to its own action (the ends), which is to say, it is done for its own sake.
+This is the fulfillment of a unity between theory and praxis.
 A path forward may be to extend the collective understanding of leisure as a way to establish
 <span className="note"><small>Bunyard 2018, p. 211.</small><q>a condition of unity between conscious human agents (subject) and their own objective historical existence (object)</q>,</span>
 which is to say--we can become who we want, as we want, in our own time.
