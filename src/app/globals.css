@@ -362,6 +362,9 @@ small {
 .scroller {
   overflow-x: auto;
 }
+table {
+  width: 100%;
+}
 table tr:nth-child(odd) td {
   background-color: #eee;
 }

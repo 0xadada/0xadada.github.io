@@ -57,8 +57,8 @@ The position of this essay is not a call to return to some golden past, or a ren
 It explores a revitalization of times and spaces for human flourishing that were formerly protected by a spiritual order, but can equally be rooted in secular thought.
 I propose points of resistance to a dominant social order that seeks to continually capture the vestiges of free time.
 
-At this juncture, we, collectively, can _consciously_ decide what the future will hold for humanity--we can determine what that looks like, what we’re building, and to what ends.
-If we do not rise to this challenge, then the instrumental power that has emerged out of neoliberal capitalism will decide our future for its own, ultimately banal, ends.
+At this juncture, we, collectively, can decide what the future will hold for humanity--we can determine what that looks like, what we’re building, and to what ends.
+If we do not rise to this challenge, then the instrumental power that has emerged out of neoliberal capitalism will decide our future for its own banal ends.
 Together we can decide if we want increases in productivity to appear in the form of profits for the few, or as surplus time allocated to the many--the latter of which can be used for leisure and the concrete activity of creating a brighter future for all.
 
 <span className="note"><small>"The greatest difficulty with most subjects is to do them well; therefore, please to remember this is an apology. It is certain that much may be judiciously argued in favour of diligence; only there is something to be said against it..." (Stevenson 2023, p. 1).</small>The greatest difficulty with most subjects is to do them well,</span>[^stevenson]
@@ -119,7 +119,7 @@ The procession of one age to the next doesn't entail that the previous age has e
 To illustrate, the mythic narratives that arose from the Age of Gods & Men remain with us in the form of stories and metaphors that provide us with rich cultural allegory.
 In another case, the Age of Kings had no definitive end, in fact, relics like the Queen of England still exist, but monarchy has receded to the background, and thus have become merely cultural.
 Institutions like religion, which previously dominated social organization have similarly receded.
-In some sectors secular life has completely subsumed spiritual life, and spiritual life is relegated to the private domain of the individual.
+In some sectors, secular life has completely subsumed spiritual life, and spiritual life is relegated to the private domain of the individual.
 The ages of the past are still with us, but they've become a given, received culture, one that is taken for granted--its issues and contentions are settled debate, but still have relevance.
 Past ages become social and cultural foundations--but just like a buildings' foundation, they are more ossified and unchanging.
 The hegemonic age, however, dominates in its effects on daily life, it organizes social institutions, it's open to continual evolution and debate, and is always changing and dynamic.
@@ -159,7 +159,8 @@ This is a power inaccessible to the laboring and agrarian classes.
 This power is most visible in the historical chronicle—a story narrating the events deemed most significant to the ruling class, and often the only recorded history until the invention of the printing press.
 The nobility used this instrument to establish the forward progression of their historical time by recording its past with writing.
 The historical chronicle of the nobility develops and collapses fully autonomously and as a separate sphere of abstracted reality from natural reality, this is **Mythical time**.
-China and Egypt both held a monopoly on the immortality of the soul, and the earliest of their famous dynasties are built upon imaginary reconstructions of the past.
+China and Egypt both held a monopoly on the immortality of the soul, and the earliest of their famous dynasties are built upon
+<span className="note"><small>Debord 2021.</small>imaginary reconstructions of the past</span>.
 The rulers of these empires, as the owners of the private property of history--protected by a mythical past, make use of myth to prove the legitimacy of their claim to rule.
 The intention is to be understood as the earthly execution of <span className="note"><small>Mythic commandments would later be repurposed by religion to continue underwriting the control of power in the spiritual domain, best exemplified by the Holy Roman Empire.</small>mythic commandments.</span>
 The more they claimed historical ownership over time and tied it to their own mythical chronicles, the more they legitimated their control over power.
@@ -167,9 +168,9 @@ The more they claimed historical ownership over time and tied it to their own my
 The development of mythical history began with the administration of kingdoms that went hand-in-hand with the invention of writing.
 Mythical history gives time an orientation, a direction, and imbues it with meaning and significance.
 The emergence of history necessitated a development beyond Mythical time to the temporality of **Irreversible time**.
-The linear trajectory of irreversible time presupposes the prospect of endless economic development linked to the production of surplus value, the
+The linear trajectory of irreversible time presupposes endless economic development the production of surplus value, the
 <span className="note"><small>Lowercase c-capital in this instance can take the form of money, labor, and time.</small>control of this value in the form of capital,</span>
-and the political management of the power that results.
+and the political management of the resulting power.
 Irreversible time is oriented around the succession of the nobility, and its measure of progress is determined by the number of successful successions.
 The Age of Kings was a profoundly **Historical society** in that social organization was underwritten by history.
 It was during this age that history had increasing proximity to everyday existence but the possibility of individual participation grew more elusive.
@@ -348,7 +349,7 @@ It is a commoditized version of Lived time.
 
 **Spectacular time** is the ultimate realization of the End of History—a refusal of the progression of any major historical divergence or change to the dominant temporality.
 It changes our perception of time,
-<span className="note"><small>Twitter is the perfect example of a screaming low-level panic.</small>creating a panic-temporality.</span>
+<span className="note"><small>Twitter is the perfect example of a 'screaming low-level panic' (Fisher, 2020).</small>creating a panic-temporality.</span>[^fisher2]
 It enforces a state of constant anxiety akin to entrepreneurialism, a form of precarity where we are compelled to continually hustle and market ourselves even when we have stable jobs.
 This temporality appears across the globe as a repetition of the same day, a uniform and equal amount of time fully allocated to the production and consumption of commodities, and the reproduction of Spectacle.
 In spectacular time, we never have the time to sit back and think, to plan for the future--all time has been accounted for, and the future has been foreclosed.
@@ -723,7 +724,7 @@ Thanks to Jenna & [Stephen](https://www.bostonapothecary.com/about/) for reviewi
 [^braudel3]: Braudel, Fernand., & Reynolds, Siân. 1992b. _Civilization and capitalism, 15th-18th century. vol.2: the wheels of commerce_. University of California Press.
 [^bridle-2019]: Bridle, James. 2019. _New Dark Age : Technology and the End of the Future._ Orca Book Services.
 [^bunyard1]: Bunyard, Tom. 2019. _Debord, time and spectacle : Hegelian Marxism and situationist theory_. Haymarket Books.
-[^debord1]: Debord, Guy. 2021. _The society of the spectacle_ (Ron. Adams, Trans.). Unredacted Word.
+[^debord1]: Debord, Guy. & Adams, Ron. 2021. _The society of the spectacle_. Unredacted Word.
 [^debord2]: Debord, Guy. & Imrie, Malcolm. 1998. *Comments on the society of the spectacle*. London New York: Verso.
 [^evans]: Dylan Evans. 1996. _An Introductory Dictionary of Lacanian Psychoanalysis_. Routledge.
 [^chayka1]: Chayka, Kyle. August 16, 2016. “[Welcome to Airspace](https://www.theverge.com/2016/8/3/12325104/airbnb-aesthetic-global-minimalism-startup-gentrification)”. _The Verge_ (blog). theverge.com.
@@ -736,14 +737,14 @@ Thanks to Jenna & [Stephen](https://www.bostonapothecary.com/about/) for reviewi
 [^garbes]: Garbes, Angela. 2022. _Essential labor_. HarperCollins.
 [^gladwell]: Gladwell, Malcolm. 2008. _Outliers: The story of success_. Back Bay Books.
 [^goonies]: Donner, Richard, dir. 1985. _The Goonies_. Warner Bros.
-[^goethe]: Goethe, Johann Wolfgang von. n.d. "[Vanitas! Vanitatum Vanitas!](https://kalliope.org/en/text/goethe2019010801)" Kalliope.org (blog). Accessed March 30, 2024. kalliope.org.
+[^goethe]: Goethe, Johann Wolfgang von. n.d. "[Vanitas! Vanitatum Vanitas!](https://kalliope.org/en/text/goethe2019010801)" _Kalliope.org_ (blog). Accessed March 30, 2024. kalliope.org.
 [^graeber1]: Graeber, David. 2015. _The utopia of rules: on technology, stupidity, and the secret joys of bureaucracy_. Melville House Publishing.
 [^graeber2]: Graeber, David. 2011. *Debt: the first 5,000 years*. Melville House.
 [^groundhog]: Ramis, Harold, dir. 1993. _Groundhog Day_. Columbia Pictures.
 [^han]: Han, Byung Chul. 2015. _The burnout society_. Stanford Briefs, an Imprint of Stanford University Press.
 [^heidegger1]: Heidegger, Martin, John Macquarrie, and Edward Schouten Robinson. 1962. _Being and Time_. Harper and Row.
 [^jappe]: Jappe, Anselm, Donald Nicholson-Smith, and T J Clark. 1999. _Guy Debord_. University of California Press.
-[^kuzm]: Kuzmanović, Maja, and Nik Gaffney. 2024. “[Fallowing](https://anarchive.fo.am/wabisabi/fallowing/).” Accessed March 24, 2024. anarchive.fo.am.
+[^kuzm]: Kuzmanović, Maja, and Nik Gaffney. 2024. “[Fallowing](https://anarchive.fo.am/wabisabi/fallowing/).” _anarchive_. Accessed March 24, 2024. anarchive.fo.am.
 [^leone]: Leone, Sergio, dir. 1966. _The Good, the Bad and the Ugly_. Archive.org. Produzioni Europee Associate.
 [^marx-1867]: Marx, Karl. (1867) 1990. _Capital: A Critique of Political Economy. / Vol. 1._ Harmondsworth: Penguin in Association with New Left Review.
 [^marx-1973]: Marx, Karl. (1859) 1973. _[Grundrisse : Foundations of the Critique of Political Economy](https://www.marxists.org/archive/marx/works/download/pdf/grundrisse.pdf)_. Translated by Martin Nicolaus. London: Penguin.
@@ -761,6 +762,6 @@ Thanks to Jenna & [Stephen](https://www.bostonapothecary.com/about/) for reviewi
 [^stirner]: Stirner, Max. 1995. _Stirner: The Ego and Its Own_. Cambridge University Press.
 [^stevenson]: Stevenson, Robert Louis. 2023. _[An apology for idlers](https://www.gutenberg.org/files/69825/69825-h/69825-h.htm)_. gutenberg.org. (Retrieved March 8, 2024).
 [^severance]: Stiller, Ben Stiller, and Aoife McArdle. 2022. _Severance_. TV Series. Apple TV+.
-[^thatcher]: Thatcher, Margaret. 1980. "[Speech to Conservative Women's Conference](<(https://www.margaretthatcher.org/document/104368)>)". _margaretthatcher.org_. Margaret Thatcher Foundation. (Retrieved March 20, 2024).
+[^thatcher]: Thatcher, Margaret. 1980. "[Speech to Conservative Women's Conference](https://www.margaretthatcher.org/document/104368)". _margaretthatcher.org_. Margaret Thatcher Foundation. (Retrieved March 20, 2024).
 [^zizek]: Žižek, Slavoj. 1989. _The Sublime Object of Ideology_. Verso.
 [^zuboff]: Zuboff, Shoshana. 2018. _The Age of Surveillance Capitalism: The Fight for a Human Future at the New Frontier of Power_. Public Affairs.
