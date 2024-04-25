@@ -45,19 +45,19 @@ Some failed with communism's collapse in 1991, while the capitalist experiment s
 This experiment has raised many out of poverty, and yet has not improved the quality of _life_.
 As
 <span className="note"><small>"We stand on the brink... we peer into the abyss..." (Poe, 2022).</small>we peer into the abyss</span>,[^poe]
-we grow sick with emergent
-<span className="note"><small>We are **not** saying that these diseases are naturally occurring facts, nor are we saying that these diseases do not exist, but we recognize that they are really experienced diseases that are contingent upon existing conditions of neoliberal capitalism.</small>social diseases</span>--anxiety,
+many grow sick with emergent
+<span className="note"><small>This is **not** to say that these diseases are naturally occurring facts, nor that these diseases do not exist. They are really experienced diseases that are contingent upon existing conditions of neoliberal capitalism.</small>social diseases</span>--anxiety,
 depression, exhaustion, and burnout.
 These conditions are a symptom of a way of life that lacks direction.
 With the gradual shift to secular life, we've turned away from communal practices that provide spaces and times that lead to human flourishing.
 These practices included holidays in which contemplation, prayer, and meditative practices were observed--e.g. Shabbat and Sundays.
 These were times allocated to prayer, creative play, leisure, reflection, rest, and quiet solitude that are no longer protected or made available to greater society.
-We have abandoned the practice of community-rest, pushing it into the private domain of the individual, but what we have lost is leisure and the communities that exist there.
-The position of this essay is not a call to return to some golden past, or a renewed spiritual order, but an acknowledgment of the conditions that lead to what we have lost.
+Liberal democracies have abandoned the practice of community-rest, pushing it into the private domain of the individual, but what they have lost is leisure and the communities that exist there.
+The position presented here is not a call to return to some golden past, or a renewed spiritual order, but a historical account of the perspectives that have lead to what has been lost.
 It explores a revitalization of times and spaces for human flourishing that were formerly protected by a spiritual order, but can equally be rooted in secular thought.
 I propose points of resistance to a dominant social order that seeks to continually capture the vestiges of free time.
 
-At this juncture, we, collectively, can decide what the future will hold for humanity--we can determine what that looks like, what we’re building, and to what ends.
+At this juncture, society can collectively decide what the future will hold for humanity--we can determine what that looks like, what we're building, and to what ends.
 If we do not rise to this challenge, then the instrumental power that has emerged out of neoliberal capitalism will decide our future for its own banal ends.
 Together we can decide if we want increases in productivity to appear in the form of profits for the few, or as surplus time allocated to the many--the latter of which can be used for leisure and the concrete activity of creating a brighter future for all.
 
@@ -93,11 +93,13 @@ and is shaped by humanity.
 The great arcs of history are determined by the rulers of their period, and individuals are capable (to a certain extent) of generating their own personal narratives within that period.
 <span className="note"><small>Bunyard 2018, p. 4.</small><q>History, therefore, is a process directed by human agents to shape their world, and create their own identities through that activity</q></span>.[^bunyard1]
 
-In order to establish an understanding of our contemporary perception of time, we will begin with
-<span className="note"><small>This periodization draws heavily on the philosophical anthropology of Guy Debord from his 1967 book _The Society of the Spectacle_ (Debord 2021).</small>a periodization that describes the perception of time across history.</span>
-Along the arc of history, different social structures emerged that engender differing temporalities, thus a society's perception of history and its place in time is socially mediated.[^bunyard1]
-The following table lists distinct temporal periods called 'ages'.
-Each age is mediated by a form of social organization that generates specific perceptions of time called 'temporalities'.
+In order to establish an understanding of the perception of time across history, I will begin with
+a periodization that draws from the philosophical anthropology of Guy Debord in
+<span className="note"><small>See chapters V. and VI.</small>_The Society of the Spectacle_.</span>[^debord1]
+Debord presents a series of historical periods characterized by social structures that engender different perceptions of time called 'temporalities'.
+The following table lists these distinct periods.
+Each age is mediated by a form of social organization, and that organization generates a corresponding temporality, I will
+describe each in turn.
 
 <div className="scroller">
 
@@ -125,8 +127,6 @@ Past ages become social and cultural foundations--but just like a buildings' fou
 The hegemonic age, however, dominates in its effects on daily life, it organizes social institutions, it's open to continual evolution and debate, and is always changing and dynamic.
 
 ![Chart of time and history](/static/images/2024-05-01-time-and-history.png)
-
-We will now describe each of the five ages: the Age of Gods & Men, the Age of Cyclical Nature, the Age of Kings, the Age of Economic Production, and the Age of the Autonomous Spectacle.
 
 The **Age of Gods & Men** is the period before prehistory.
 It is accessible only through the archeological record and surviving oral traditions.
@@ -270,7 +270,7 @@ The invention of the smartphone is the key development (after the emergence of t
 The smartphone locates us on the internet all the time.
 We previously _went to the place_ of the internet and took things away with us, but smartphones push us over a threshold where we need to opt-out of
 <span className="note"><small>Named 'cyberspace-time', cf. Fisher 2020 00:08:30.</small>spectacular time.</span>
-With the internet in our hands, in the ubiquitous non-place of cyberspace--did we discover that it becomes nearly impossible to opt-out.[^fisher2]
+With the internet in our hands, in the ubiquitous non-place of cyberspace--we've lost the ability to opt-out.[^fisher2]
 <span className="note"><small>Airspace is a term coined by Kyle Chayka (Chayka 2016).</small>Airspace</span>[^chayka1]
 is the spatial modality of this age:
 the _universal_ realm of the global market, where local goods, cultures and the places themselves are made accessible to the market, each comparable and homogeneous to better conform to the ease of exchange--and therefore lacking any semblance of its once unique character.[^debord1]
@@ -399,7 +399,7 @@ Lived time are those
 <span className="note"><small>Known as 'ecstatic time' in _Being and Time_, the word comes from the Greek *ékstasis*--to be 'outside of oneself'. See Heidegger 1962.</small>moments of ecstasy</span>
 experienced during leisure, play, focus, intense emotions, and erotic rapture.[^heidegger1]
 It is a time experienced without the awareness of time passing.
-Lived time are those moments when we do something for the hell of it, when we escape the rigid order of the schedule.
+Lived time are those moments when we do something for the hell of it, escaping the rigid order of the schedule.
 Lived time is a
 <span className="note"><small>The 'space of play' is Graeber's term for a distinction between play and games, where play is free, creative, and open-ended, while games are rigid, repetitive, and closed-off. Graeber suggested that play underlies art, science, conversation, and community, while games are the preferred method of bureaucracy. He emphasized that the key distinction between games and play is the presence of rules, with games being defined by their rules, while play is defined by its lack of rules (Graeber 2015).</small>space of play</span>
 that is free, creative, and open-ended.[^graeber1]
@@ -409,7 +409,7 @@ These projects may not lead to a predetermined goal, but gradually _become_ unto
 When we say we "have lost track of time", it is often due to the experience of lived time.
 The feeling of lived time at its most intense can be depersonalizing, we only realize how absorbed we are when we emerge from it.
 Lived time is never scheduled and always late.
-It is here where we abandon the utility-value of time as money, and it is where past, present and future coalesce into duration[^pandt12]--the perception of memorable times distilled into a narrative that chronicles one's life.
+Lived time It is here where we abandon the utility-value of time as money, and it is where past, present and future coalesce into duration[^pandt12]--the perception of memorable times distilled into a narrative that chronicles one's life.
 Lived time is fundamentally useless, ephemeral, disposable, and therefore cherished--that singular characteristic beyond value.
 Lived time is experienced for its own sake--not guided by instrumentality or utility.
 It is a time that uniquely gives us a sense of our own mortality.[^pandt12]
@@ -439,7 +439,7 @@ the disappearance of the future meant the deterioration of a whole mode of socia
 the capacity to conceive of a world radically different from the one in which we currently live.
 It meant the acceptance of a situation in which culture would continue without really changing.</q>[^fisher-2012]
 This is a society deeply networked by smartphones, and an onslaught of tasks that ruthlessly undermine any sense that time can 'congeal' due to informational saturation.
-The more information we are exposed to, the more we become subject to the duration-lessness of the perpetual present, and our focus narrows onto specific instrumental objectives.[^pandt12]
+The more information we are exposed to, the more we are subject to the durationlessness of the perpetual present, and our focus narrows onto specific instrumental objectives.[^pandt12]
 This instrumental attention prioritizes time solely as a means to attain certain ends: we allocate time for tasks essential to _perceived_ survival, tethering our actions to the ticking of the clock.
 This gives us a diminished sense of duration, and therefore diminished memory--a society of amnesiacs in pursuit of productivity for its own sake, in service to an economy that operates for its own sake.
 In the perpetual present _we are all Leonard_, the protagonist in the 2001 film _Memento_.
@@ -519,7 +519,8 @@ The zeitzombie is the product of our collective proclivity to say 'yes', it's an
 As the achievement-subject, we say 'yes' to the urgency of the perpetual present, we say 'yes' to performance improvements at work, we say 'yes' to optimizing our health, we say 'yes' to answering late night work requests, we say 'yes' and pickup those side jobs.
 <span className="note"><small>Odell 2019, p. 15.</small><q>every waking moment has become the time in which we make our living... time becomes an economic resource that we can no longer justify spending on 'nothing'.</q></span>[^odell-2019]
 
-There is no 'work-life balance' for the zeitzombie, when all of life is work: producing our work, producing our bodies to better produce work, producing our psychologies to identify with the production of work.
+There is no 'work-life balance' for the zeitzombie, when all of life is work:
+producing our work, producing our bodies to better produce work, producing our psychologies to identify with the production of work.
 <span className="note"><small>Fisher 2009, p. 34.</small>
 <q>Work and life become inseparable.
 Capital follows you when you dream.
@@ -552,6 +553,8 @@ They are therefore compelled to excel beyond satisfactory in all institutional e
 This drive to continually excel and constant precarity leads to a diminished sense of _life_ and yields to the simple concern for survival.
 This is the 'logic of increase' that subsumes all notions of _a good life_ in the realms of work, money, health, knowledge, relationships, and community.
 This logic manifests as a fear of falling down the social order that is amplified by social media as we scroll through friends' and celebrities curated image of "what life could be".[^odell2]
+The condition of the zeitzombie applies equally up and down the social spectrum, from the working-poor to the Elon Musks of the world,
+everyone is time-poor when we all live _to work_.
 
 <figure>
   <img src="/static/images/2024-05-01-tuco.jpg" alt="Tuco smiles, screenshot from the 1966 film The Good, the Bad and the Ugly)" />
@@ -572,7 +575,7 @@ Society puts the responsibility of managing social problems onto the individual 
 Failure to socialize, failure to manage time, failure to manage one's own mental health--and yet depression is the
 <span className="note"><small>Han 2015, p. 10.</small><q>pathological symptom of late modern human beings failure to become himself.</q></span>[^han]
 
-Thus, as we forfeit our claim to time, and forfeit our claim to space, we forfeit our claim to memory, we forfeit our claim to life--and thus we become the zeitzombie.
+Thus, as we forfeit our claim to time, and forfeit our claim to space, we forfeit our claim to memory, we forfeit our claim to life--and thus we all become the zeitzombie.
 
 ## Leisure as Refusal: The Power of 'No'
 
@@ -706,7 +709,9 @@ This is part of a series exploring idleness, time, attention, and lived experien
 3. [I am not a software developer](/2022/04/01/i-am-not-a-software-developer/)
 4. [The Disappearance of Lived Time](/2024/05/01/the-disappearance-of-lived-time/)
 
-Thanks to Jenna & [Stephen](https://www.bostonapothecary.com/about/) for reviewing early drafts of this essay.
+Thanks to Jenna,
+[Stephen](https://www.bostonapothecary.com/about/), and
+[Remi](https://remikalir.com/) for reviewing early drafts of this essay.
 
 </aside>
 
