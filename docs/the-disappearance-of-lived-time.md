@@ -98,7 +98,7 @@ a periodization that draws from the philosophical anthropology of Guy Debord in
 <span className="note"><small>See chapters V. and VI.</small>_The Society of the Spectacle_.</span>[^debord1]
 Debord presents a series of historical periods characterized by social structures that engender different perceptions of time called 'temporalities'.
 The following table lists these distinct periods.
-Each age is mediated by a form of social organization, and that organization generates a corresponding temporality, I will
+Each age is mediated by a form of social organization, and that organization generates a corresponding temporality. I will
 describe each in turn.
 
 <div className="scroller">
@@ -113,8 +113,9 @@ describe each in turn.
 
 </div>
 
-Each age describes the dominant forces that structure daily life and determine perceptions of time--the
-<span className="note"><small>A zeitgeber is an external cue that entrains or synchronizes an organism's biological rhythms. These are natural factors like light, temperature, seasons, but can include social cues like work schedules or gig apps.</small>zeitgeber.</span>
+Each age describes the dominant forces that structure daily life--the
+<span className="note"><small>A zeitgeber is an external cue that entrains or synchronizes an organism's biological rhythms. These are natural factors like light, temperature, seasons, but can include social cues like work schedules or gig apps.</small>zeitgeber,</span>
+which shape perceptions of time.
 There is overlap between ages, both temporally and spatially.
 An age is more keenly experienced in the city than in the countryside.
 The procession of one age to the next doesn't entail that the previous age has ended, but that its' forces have receded to the background--they become infrastructural rather than hegemonic.
