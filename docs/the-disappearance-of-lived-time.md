@@ -2,7 +2,7 @@
 title: "DRAFT: The Disappearance of Lived Time"
 subtitle: "The Power of ‘No’: Reclaiming Leisure from the Commodification of Time in an Age of Hyperactivity"
 description: ""
-image: /static/images/2024-05-01-lauterbrunnen-lived-time-vs-spectacular-time.jpg
+image: /static/images/2024-05-01-lauterbrunnen-lived-time-vs-spectacular-time-card.png
 tags:
   [
     autonomous-spectacle,
@@ -30,7 +30,7 @@ tags:
 
 ![
   The north face of The Mönch from Lauterbrunnen valley in Switzerland. Photo by the author, 2016.
-](/static/images/2024-05-01-lauterbrunnen-lived-time-vs-spectacular-time.jpg)
+](/static/images/2024-05-01-lauterbrunnen-lived-time-vs-spectacular-time-square.png)
 
 <figure>
   <audio controls src="/media/2024-05-01-the-disappearance-of-lived-time.mp3"></audio>
