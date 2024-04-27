@@ -30,7 +30,7 @@ tags:
 
 ![
   The north face of The Mönch from Lauterbrunnen valley in Switzerland. Photo by the author, 2016.
-](/static/images/2024-05-01-lauterbrunnen-lived-time-vs-spectacular-time-square.png)
+](/static/images/2024-05-01-lauterbrunnen-lived-time-vs-spectacular-time.png)
 
 <figure>
   <audio controls src="/media/2024-05-01-the-disappearance-of-lived-time.mp3"></audio>
