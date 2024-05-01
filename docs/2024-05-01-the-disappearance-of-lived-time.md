@@ -29,7 +29,7 @@ tags:
 ---
 
 ![
-  The north face of The Mönch from Lauterbrunnen valley in Switzerland. Photo by the author, 2016.
+  The north face of The Mönch from Lauterbrunnen valley in Switzerland. Photo by the author, 2016; art by Cole Carson 2024.
 ](/static/images/2024-05-01-lauterbrunnen-lived-time-vs-spectacular-time.png)
 
 <figure>
