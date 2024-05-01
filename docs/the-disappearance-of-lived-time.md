@@ -1,5 +1,5 @@
 ---
-title: "DRAFT: The Disappearance of Lived Time"
+title: "The Disappearance of Lived Time"
 subtitle: "The Power of ‘No’: Reclaiming Leisure from the Commodification of Time in an Age of Hyperactivity"
 description: ""
 image: /static/images/2024-05-01-lauterbrunnen-lived-time-vs-spectacular-time-card.png
@@ -50,10 +50,11 @@ many grow sick with emergent
 depression, exhaustion, and burnout.
 These conditions are a symptom of a way of life that lacks direction.
 With the gradual shift to secular life, we've turned away from communal practices that provide spaces and times that lead to human flourishing.
-These practices included holidays in which contemplation, prayer, and meditative practices were observed--e.g. Shabbat and Sundays.
+These practices included holidays in which contemplation, prayer, and meditative practices were observed--
+<span className="text">e.g.</span><span className="audio">like</span> Shabbat and Sundays.
 These were times allocated to prayer, creative play, leisure, reflection, rest, and quiet solitude that are no longer protected or made available to greater society.
 Liberal democracies have abandoned the practice of community-rest, pushing it into the private domain of the individual, but what they have lost is leisure and the communities that exist there.
-The position presented here is not a call to return to some golden past, or a renewed spiritual order, but a historical account of the perspectives that have lead to what has been lost.
+The position presented here is not a call to return to some golden past, or a renewed spiritual order, but a historical account of the perspectives that led to the loss of leisure.
 It explores a revitalization of times and spaces for human flourishing that were formerly protected by a spiritual order, but can equally be rooted in secular thought.
 I propose points of resistance to a dominant social order that seeks to continually capture the vestiges of free time.
 
@@ -120,10 +121,10 @@ There is overlap between ages, both temporally and spatially.
 An age is more keenly experienced in the city than in the countryside.
 The procession of one age to the next doesn't entail that the previous age has ended, but that its' forces have receded to the background--they become infrastructural rather than hegemonic.
 To illustrate, the mythic narratives that arose from the Age of Gods & Men remain with us in the form of stories and metaphors that provide us with rich cultural allegory.
-In another case, the Age of Kings had no definitive end, in fact, relics like the Queen of England still exist, but monarchy has receded to the background, and thus have become merely cultural.
+In another case, the Age of Kings had no definitive end, in fact, relics like the Queen of England still exist, but monarchy is less important these days, and thus has become merely cultural.
 Institutions like religion, which previously dominated social organization have similarly receded.
 In some sectors, secular life has completely subsumed spiritual life, and spiritual life is relegated to the private domain of the individual.
-The ages of the past are still with us, but they've become a given, received culture, one that is taken for granted--its issues and contentions are settled debate, but still have relevance.
+The ages of the past are still with us, but they've become a given, received culture, one that is taken for granted--its issues and contentions are largely settled debate, but remain relevant.
 Past ages become social and cultural foundations--but just like a buildings' foundation, they are more ossified and unchanging.
 The hegemonic age, however, dominates in its effects on daily life, it organizes social institutions, it's open to continual evolution and debate, and is always changing and dynamic.
 
@@ -135,16 +136,18 @@ This is a period in which nature recurs with time, the coming and going of the s
 This is a **Mythic society** prior to the mastery of language.
 Mythic society was a directly lived experience, created by their own direct actions, one in which all individuals directly participated--_by necessity_.
 The hegemonic temporality associated with this age was **Cyclical time**.
-Cyclical time shaped their understanding of time as they confronted naturally cyclical conditions, repeated along every moment of their nomadic journey with the seasons and according to the migratory patterns of wild game and local flora.
+Cyclical time shaped peoples understanding of time as they encountered naturally cyclical conditions, repeated along every moment of their nomadic journey with the seasons and according to the migratory patterns of wild game and local flora.
 The spatial modality of this period is characterized by territories that were undifferentiated and therefore uniform—that is to say, hunter-gatherers didn't stay in a single territory long enough to shape their environment.
 This age applied to human societies until the invention of agriculture, animal husbandry, and the emergence of subsistence farming.
 
 The **Age of Cyclical Nature** is characterized as a time that is proto-historical.
-When agriculture began, communities invested labor into the land, imbuing it with content.
+When agriculture began, communities invested labor into the land,
+<span className="note"><small>The Clearing (die Lichtung) is Heidegger's concept of the open space where Dasein creates themselves.</small>clearing</span>[^heidegger1]
+it for planting and imbuing it with content.
 This attached the community to space, and therefore enclosed the community within cultivated property—one surrounded by a differentiated region of uncultivated lands.
 This was a shift from the nomadic seasonal cycle, returning people to undifferentiated but similar places and a familiar set of gestures in time
 (planting, harvesting, etc) that were attached to a single place.
-Agrarian society, therefore generated the spatial modality of "differentiated property" and "undifferentiated lands".
+Agrarian society generated the spatial modality of "differentiated property" and "undifferentiated lands".
 The transition from the pastoral nomadism of the Age of Gods & Men to settled agriculture marked the end of an idle and unattached freedom,
 and the beginning of labor.
 The Agrarian society and agricultural mode of production is governed by the rhythm of the seasons,
@@ -159,8 +162,8 @@ The development of history is a new form of power controlled by the nobility ove
 This is a power inaccessible to the laboring and agrarian classes.
 This power is most visible in the historical chronicle—a story narrating the events deemed most significant to the ruling class, and often the only recorded history until the invention of the printing press.
 The nobility used this instrument to establish the forward progression of their historical time by recording its past with writing.
-The historical chronicle of the nobility develops and collapses fully autonomously and as a separate sphere of abstracted reality from natural reality, this is **Mythical time**.
-China and Egypt both held a monopoly on the immortality of the soul, and the earliest of their famous dynasties are built upon
+**Mythical time** is the realization of the historical chronicles of the nobility that has developed autonomously and as a separate sphere of abstracted reality from natural reality.
+This was the case with China and Egypt, who held a monopoly on the immortality of the soul, and the earliest of their famous dynasties are built upon
 <span className="note"><small>Debord 2021.</small>imaginary reconstructions of the past</span>.
 The rulers of these empires, as the owners of the private property of history--protected by a mythical past, make use of myth to prove the legitimacy of their claim to rule.
 The intention is to be understood as the earthly execution of <span className="note"><small>Mythic commandments would later be repurposed by religion to continue underwriting the control of power in the spiritual domain, best exemplified by the Holy Roman Empire.</small>mythic commandments.</span>
@@ -169,7 +172,7 @@ The more they claimed historical ownership over time and tied it to their own my
 The development of mythical history began with the administration of kingdoms that went hand-in-hand with the invention of writing.
 Mythical history gives time an orientation, a direction, and imbues it with meaning and significance.
 The emergence of history necessitated a development beyond Mythical time to the temporality of **Irreversible time**.
-The linear trajectory of irreversible time presupposes endless economic development the production of surplus value, the
+The linear trajectory of irreversible time presupposes endless economic development linked to the production of surplus value, the
 <span className="note"><small>Lowercase c-capital in this instance can take the form of money, labor, and time.</small>control of this value in the form of capital,</span>
 and the political management of the resulting power.
 Irreversible time is oriented around the succession of the nobility, and its measure of progress is determined by the number of successful successions.
@@ -205,7 +208,7 @@ The bourgeoisie was the first ruling class for which labor became a valuable com
 With the gradual abolition of all nobility, social privileges, and titles, they recognize value only from the exploitation of labor, and have identified the control of the commoditized body of labor as their primary form of capital.
 These developments culminated in the emergence of the Age of Economic Production.
 
-The **Age of Economic Production** is characterized by working conditions that are the dominant zeitgeber of daily life.
+The **Age of Economic Production** is characterized by working conditions that were the dominant zeitgeber of daily life.
 This age emerged during the enlightenment and prefigured the industrial revolution with the inventions of the printing press and the clock tower.
 Irreversible time limited participation to the nobility up until the period of the
 <span className="note"><small>The bourgeois revolutions include the English Civil War (1642-1651), the American War of Independence (1775-1799), the French Revolution (1789-1799), the European revolutions of 1830 and 1848, and the unification movements in Germany and Italy.</small>bourgeois revolutions.</span>
@@ -226,7 +229,7 @@ The city was the locality of the arts.
 The conception of utopia during this age was increasingly secular and socially constructed, resulting in the development of liberal democracy and socialism.
 It was during this age that the concept of leisure emerged as the temporality of **Consumable time**.
 Consumable time is the colonizer of non-working time.
-It is relegated to a subservient role as _a gift that presupposes labor_ rather than as equal to chronological time--it is free time that is legitimated by work.
+It is relegated to a subservient role as _a gift that presupposes labor_ rather than as equal to chronological time--it is free time that is legitimated by work, but not free in the sense of freedom.
 To maintain these complementary roles, consumable time finds itself laden with false attributions of value, and these moments are segmented into a sequence of artificially distinct events, which are merely undifferentiated moments of time perceived to be
 <span className="note"><small>In consumable time, the weekend is perceived as more valuable than the weekdays, and the general sentiment that Mondays are worse than Fridays. These moments of consumable time are perceived to be more valuable since the worker is able to consume this time freely.</small>more highly valuable.</span>[^debord1]
 
@@ -242,11 +245,14 @@ This age was inaugurated with the publishing of
 <span className="note"><small>_Propaganda_, was written by Edward Bernays in 1928, incorporated the literature from social science and psychology for the techniques of public communication for the manipulation of the masses. (Bernays 2005).</small>_Propaganda_</span>[^bernays]
 in 1928[^debord2], it developed with the ubiquity of television and radio.
 It was formally declared when Margret Thatcher announced
-<span className="note"><small>"There is no alternative" (TINA) is a political slogan arguing that capitalism is the only viable system of social organization. It was used by Margaret Thatcher in a speech. Together with Ronald Reagan, they began the era of neoliberal austerity and laissez-faire globalization.</small> "There is no alternative to capitalism"</span>[^thatcher],
-and finally materialized with the fall of the Berlin Wall, when all alternatives to capitalism ceased to exist.
+<span className="note"><small>"There is no alternative" (TINA) is a political slogan arguing that capitalism is the only viable system of social organization. It was used by Margaret Thatcher in a speech. Together with Ronald Reagan, they began the era of neoliberal austerity and laissez-faire globalization.</small> "There is no alternative to capitalism"<span className="text">.</span></span>[^thatcher]
+<span className="audio">, and echoed by David Cameron:</span>
+The age finally materialized with the fall of the Berlin Wall, when all alternatives to capitalism ceased to exist.
 
 The temporal modality of this age is **Spectacular time**, with the perception of time itself as a consumable commodity.
-Spectacular time is generalized across the globe as a repetition of the same day, a Groundhog Day[^groundhog], a uniform and equal amount of time fully allocated to the production and consumption of commodities, and the reproduction of itself.
+Spectacular time is generalized across the globe as a repetition of the same day, a Groundhog Day[^groundhog],
+<span className="audio">spectacular time is</span>
+a uniform and equal amount of time fully allocated to the production and consumption of commodities, and the reproduction of itself.
 This is a time that can only be organized by the specialized interest groups who own the production of commodities.
 Just as irreversible time was democratized during the Age of Economic Production, the Age of the Autonomous Spectacle democratizes chronological time by granting individuals the ability to create and consume commodities in the general economy (whereas it was once limited to the social elite).
 This is participation with the historical record, albeit limited to the production and consumption of commodities that _increasingly becomes_ the totality of lived experience.
@@ -287,7 +293,7 @@ Corporations are the dominant zeitgeber in the daily lives of individuals.
 They provide the infrastructure for wages, health care, perks, and even define when, where, and who people socialize with.
 The corporation is the predominant institution that organizes society.
 The rise of corporate sociality is built upon the graveyard of community.
-The ideal worker in the Age of the Autonomous Spectacle is the knowledge worker, the self-starter, whose primary task is to produce one's own psyche: an
+The ideal worker in the Age of the Autonomous Spectacle is the knowledge worker, the self-starter, who has paid for their own training and whose primary task is to produce their own psyche: an
 <span className="note"><small>The achievement-subject refers to individuals who have transitioned from being obedience-subjects in a disciplinary society to entrepreneurs of themselves in an achievement society. These individuals are driven by a task-oriented compulsion towards constant productivity, self-improvement, and overachievement. They are guided by a positive social milieu that emphasizes "Yes, we can". This condition ultimately leads to anxiety, exhaustion, burnout, and depression (Han 2015).</small>achievement-subject</span>[^han]
 who is expected to have little inputs and produce maximum outputs, with little management, and produce surplus value that consistently goes beyond 'meets expectations'.
 
@@ -383,6 +389,7 @@ Reproductive time is presented as the realm of the domestic, as feminine, and as
 Reproductive time is, in fact, the opposite--
 <span className="note"><small>To quote Marx describing the revolutionary proletarian: _'I am nothing and I should be everything.'_ (Marx 1975, p. 254).</small>it produces the visible workforce,</span>
 and a lot of emotion and thought is put into care for the people who become the fundamental basis of the economy.[^garbes]
+<span className="audio">According to Angela Garbes:</span>
 <span className="note"><small>Garbes 2022, p. 14.</small><q>Love and care, like social change, are slow and follow circuitous paths that take days not hours, years not months. The work may seem inefficient, but love doesn't play by the same rules as the economy.</q></span>[^garbes]
 While work is perceived as 'apart from life', and 'free time' remains perceived as 'more authentically real life', the lived experience of reproductive time is cut off from 'real life', remaining undocumented and unaccounted for on any personal narrative.
 This deprives daily life of language and as a formal concept, and it lacks any analysis of what events occurred within its own past.
@@ -410,7 +417,7 @@ These projects may not lead to a predetermined goal, but gradually _become_ unto
 When we say we "have lost track of time", it is often due to the experience of lived time.
 The feeling of lived time at its most intense can be depersonalizing, we only realize how absorbed we are when we emerge from it.
 Lived time is never scheduled and always late.
-Lived time It is here where we abandon the utility-value of time as money, and it is where past, present and future coalesce into duration[^pandt12]--the perception of memorable times distilled into a narrative that chronicles one's life.
+It is here where we abandon the utility-value of time as money, and it is where past, present and future coalesce into duration[^pandt12]--the perception of memorable times distilled into a narrative that chronicles one's life.
 Lived time is fundamentally useless, ephemeral, disposable, and therefore cherished--that singular characteristic beyond value.
 Lived time is experienced for its own sake--not guided by instrumentality or utility.
 It is a time that uniquely gives us a sense of our own mortality.[^pandt12]
@@ -434,7 +441,9 @@ Our lives increasingly exist in the perpetual present, where moments are sold ac
 Time is money, time is getting things done, and yet, at the end of the day we cannot account for where our time went.
 A society dominated by continual busyness is a social life that is permanently anxious and
 <span className="note"><small>"It's easier to imagine the end of the world than the end of capitalism" a quote attributed to Fredric Jameson and Slavoj Žižek (Fisher 2009).</small>too distracted to imagine a future.</span>[^fisher1][^fisher-2014]
-The perpetual present is haunted by
+The perpetual present is haunted
+<span className="audio">, according to Mark Fisher,</span>
+<span className="text">by</span>
 <q>lost futures that the twentieth century taught us to anticipate...
 the disappearance of the future meant the deterioration of a whole mode of social imagination:
 the capacity to conceive of a world radically different from the one in which we currently live.
@@ -502,9 +511,11 @@ We have been seduced into the culture of hustle & grind, we have worked so many 
 >
 > <figcaption>Robert Louis Stevenson <cite>An Apology for Idlers</cite></figcaption>
 
+<span className="audio">said Robert Louis Stevenson. Accordinng to Han, </span>
 <span className="note"><small>Han 2015, p. 50.</small><q>When life is devoid of value, it must be kept healthy at any cost, health becomes self-referential without any greater purpose.
 Health is the new goodness in a society that doesn’t know what good is...
 The people of the achievement society are zombies, they are too healthy to die, and yet too dead to live.</q></span>[^han]
+<span className="audio">This is all to say,</span>
 We are all _Leonard_, we are--**the zeitzombie**.
 
 **Zeitzombie** zeit·zom·bie, IPA /ˈzaɪtˌzɑmbi/ A conjunction of the German _zeit_ for 'time' and the Kikongo word *zumbi* for 'fetish'.
@@ -518,10 +529,12 @@ Other symptoms include a resistance to sociality, a fear of daydreaming, and the
 The zeitzombie is the product of our collective proclivity to say 'yes', it's an
 <span className="note"><small>Positivity, according to Han, is "the societal focus on positivity and achievement can lead to an excess of pressure and expectations, making it difficult for individuals to manage negative experiences and ultimately resulting in burnout." (Han 2015, p. 1). Cf. Fisher 2014 who calls it a "permanently multitasking, permanently distracted state of being".</small>excess of positivity.</span>[^han][^fisher-2014]
 As the achievement-subject, we say 'yes' to the urgency of the perpetual present, we say 'yes' to performance improvements at work, we say 'yes' to optimizing our health, we say 'yes' to answering late night work requests, we say 'yes' and pickup those side jobs.
-<span className="note"><small>Odell 2019, p. 15.</small><q>every waking moment has become the time in which we make our living... time becomes an economic resource that we can no longer justify spending on 'nothing'.</q></span>[^odell-2019]
+<span className="audio">According to Jenny Odell:</span>
+<span className="note"><small>Odell 2019, p. 15.</small><q>Every waking moment has become the time in which we make our living... time becomes an economic resource that we can no longer justify spending on 'nothing'.</q></span>[^odell-2019]
 
 There is no 'work-life balance' for the zeitzombie, when all of life is work:
 producing our work, producing our bodies to better produce work, producing our psychologies to identify with the production of work.
+<span className="audio">According to Fisher:</span>
 <span className="note"><small>Fisher 2009, p. 34.</small>
 <q>Work and life become inseparable.
 Capital follows you when you dream.
@@ -530,15 +543,20 @@ To function effectively as a component of just-in-time production you must devel
 
 There is a type of zeitzombie that exists merely to solve 'real world problems'--the techno-optimist.
 This species goes as far to claim that even
-<q>death can be fixed with AI</q>[^techno]--presupposing death as a problem in need of a solution,
+<q>death can be fixed with AI</q>[^techno]
+<span className="audio">to quote Andreessen</span>
+--presupposing death as a problem in need of a solution,
 and yet offering no vision for what _life_ could be.
 <q>Give us a real world problem, and we can invent technology that will solve it.</q>[^techno]
 they say. Everything is a problem to be solved, and technology is the solution to every problem,
 and yet the zeitzombies propose no reason other than for the sake of inventing new technology.
 They offer no vision for a _good social life_--only a world in which
 <span className="note"><small>Emphasis in the original. For the techno-optimists, work _is_ heaven, and in their manifesto there is no meaning, nor life, in their section called "The Meaning of Life", cf. Andreessen 2023.</small><q>man was meant to be **useful**, to be **productive**.</q></span>[^techno]
+<span className="audio">, in their words.</span>
 For the zeitzombie, there _is no life outside of work_, and death is a problem that needs to be solved in order to guarantee future productivity.
-The zeitzombie is the techno-zealot--<q>we believe intrinsic motivations– the satisfaction of building something new...,
+The zeitzombie is the techno-zealot--
+<span className="audio">quoting him again,</span>
+<q>we believe intrinsic motivations– the satisfaction of building something new...,
 the achievement of becoming a better version of oneself</q>,
 these are the words of the achievement-subject, true believers in the coming of the
 <span className="note"><small>Their techno-Messiah is the General Artificial Intelligence (AGI). "We believe Artificial Intelligence is our alchemy... [AI] can save lives" (Andreessen 2023).</small>AI techno-Messiah</span>[^roko]
@@ -572,8 +590,11 @@ That which was formerly private space is no longer a place of _refuge_.
 Depression, Attention Deficit Hyperactivity Disorder (ADHD), Borderline Personality Disorder, and burnout are the dominant psychological pathologies at the beginning of the twenty-first century.[^han]
 The zeitzombie is ultimately _a victim_ of a society that privatizes social problems,
 <span className="note"><small>Fisher 2015, p. 21.</small><q>treating them as if they were caused only by chemical imbalances in the individual's neurology and/or by their family background--any question of social systemic causation is ruled out.</q></span>[^fisher1]
+<span className="audio">says Fisher.</span>
 Society puts the responsibility of managing social problems onto the individual as personal failures.
-Failure to socialize, failure to manage time, failure to manage one's own mental health--and yet depression is the
+Failure to socialize, failure to manage time, failure to manage one's own mental health--and yet depression is
+<span className="text">the</span>
+<span className="audio">, according to Han:</span>
 <span className="note"><small>Han 2015, p. 10.</small><q>pathological symptom of late modern human beings failure to become himself.</q></span>[^han]
 
 Thus, as we forfeit our claim to time, and forfeit our claim to space, we forfeit our claim to memory, we forfeit our claim to life--and thus we all become the zeitzombie.
@@ -591,7 +612,7 @@ The intense competition and high-pressure environment led some individuals to wi
 The
 <span className="note"><small>The 996 working hour system (<span lang="zh-CN">996工作制</span>) in China requires employees to work from 9:00 am to 9:00 pm, 12 hours per day for 6 days per week; i.e. 72 hours per week. It is still widespread as of 2024.</small>996 working hour system</span>
 in China resulted in exhaustion, burnout, mental health conditions, and strained personal relationships among workers.
-This lead to the emergence of the
+This led to the emergence of the
 <ruby lang="zh-CN"><ruby>躺<rt>lying</rt></ruby><rt>tǎng</rt><rb><ruby>平<rt>flat</rt></ruby></rb><rt>píng</rt></ruby>
 movement in the spring of 2021.
 Tang ping reflects a growing discontent among Chinese youth with the intense work expectations and lifestyle sacrifices demanded by the dominant work culture.
@@ -624,6 +645,7 @@ We say 'No' and refuse to give more time.
 When we think of time in terms of hours, minutes, and seconds, we mistake these mere referents as the _thing in itself_--which is to say, we mistake the map for the territory.
 The result of this perception is a collection of social problems caused by
 <span className="note"><small>Odell 2023, p. 120, cf. Bergson 1944</small><q>conceiving of the true nature of time as stemming from wanting to imagine discrete moments sitting side by side in space.</q></span>[^odell2][^bergson1]
+<span className="audio">said Bergson.</span>
 This thinking traps us into the anxiety of 'losing time', of 'time passing', and the loss of productivity that motivates the achievement-subject to produce their own self-exploitation.
 Many of our contemporary social conditions come from auto-disciplining ourselves into an inability to say 'No'.
 
@@ -638,7 +660,7 @@ which is to say--we can become who we want, as we want, in our own time.
 
 ![Parking garage sign that commands us to 'GO SLOW'.](/static/images/2024-05-01-go-slow.jpg)
 
-What can 'save' us, is thinking.
+What can revitalize us, is thinking.
 Thinking takes time that requires lingering, deliberating, weighing up possible alternatives, and patience.
 All these are active forms of 'No' that resist attempts to turn us into passive beings that obey without resistance.
 If we don't, we face hyperactivity and its consequences: anxiety, depression, exhaustion, and burnout.
@@ -686,7 +708,7 @@ What can 'save' us is leisure.
 True leisure is the experience of free and undetermined Lived time.
 By free we mean freedom, a mode of living that is not determined, modes of life free from necessity and purpose.[^pandt13]
 This is a leisure that is the opposite of
-<span className="note"><small>Vacation became _instrumentalized leisure_, sold as a packaged product to refresh us for our next stint of work.</small>vacation.</span>
+vacation, which became _instrumentalized leisure_, sold as a packaged product to refresh us for our next stint of work.
 Leisure provides
 <span className="note"><small>Odell 2023, p. 106.</small><q>a moment of perspective on the grander reality</q></span>[^odell2]
 where we can engage with both past and future.

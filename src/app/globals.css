@@ -426,3 +426,12 @@ aside {
   background: inherit;
   color: inherit;
 }
+
+/* audio
+small,
+sup,
+.note::after
+*/
+.audio {
+  display: none !important;
+}
