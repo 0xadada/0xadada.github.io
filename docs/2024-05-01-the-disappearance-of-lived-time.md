@@ -306,7 +306,7 @@ The dominant temporality of any society is determined by its stage of human soci
 During the Age of Cyclical Nature, time was humanized and therefore any individual was able to participate in the historical events of their own time.
 After the emergence of irreversible time, the individual could no longer meaningfully participate in the lived historical events of their own period, as those events are no longer controlled by those at the base of society.
 
-**Cyclical time** directly confronts naturally cyclical conditions, repeating with the seasons and according to the patterns of local flora and fauna.
+**Cyclical time** shaped peoples understanding of time as they encountered naturally cyclical seasons, and according to the patterns of local flora and fauna.
 It is a perception of time as the passage of the labors of a people in sync with naturally occurring transitions.
 
 **Mythical time** is perceptually the same as Cyclical time, but underwritten by a claim to ownership of that time by a nobility that has taken ownership of the historical record.
