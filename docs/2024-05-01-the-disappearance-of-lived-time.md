@@ -33,8 +33,7 @@ tags:
 ](/static/images/2024-05-01-lauterbrunnen-lived-time-vs-spectacular-time.png)
 
 <figure>
-  <audio controls src="/media/2024-05-01-the-disappearance-of-lived-time.mp3"></audio>
-  <figcaption>Listen to this essay</figcaption>
+<iframe src="https://open.spotify.com/embed/episode/6T57esZAMTBmuQBS7ZYq4p?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowFullScreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 </figure>
 
 <a id="introduction"></a>
