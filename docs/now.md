@@ -6,16 +6,12 @@ title: Now
   Say what you’d tell a friend you hadn’t seen in a year.
 </aside>
 
-
-For the last 3 years I've been woolgathering thoughts for a new essay on leisure,
-idleness, lived time, and the attention economy.
-I'm currently writing the rough draft--and I'm very excited about this project.
+In March I started a new role as Software Engineer at a cybersecurity company.
 
 I wasn't [working for the 160 days between October and March](/2024/02/25/a-year-of-tech-layoffs/).
-It was a profoundly important period because it provided some much needed space to reflect on life and otherwise do things that i didn't have time for.
-It was also stressful since the job market was very competitive.
+It was a profoundly important and stressful period that opened some much needed space to reflect on life and otherwise do things that I didn't have time for.
+One of those things was an essay I'd been woolgathering ideas on for a few years:
+an essay on leisure, idleness, Spectacle, lived time, and the attention economy that is now on the blog:
+[The Disappearance of Lived Time](https://0xadada.pub/2024/05/01/the-disappearance-of-lived-time/)
 
-I recently started a new role as Software Engineer at a cybersecurity company
-<img src="data:image/vndmicrosofticon;base64,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" alt="CS" title="CS" height="16" />.
-
-<aside>Updated March 27th, 2024. The now page is part of [nownownow](https://nownownow.com/p/HxjF).</aside>
+<aside>Updated May 1st, 2024. This page is part of the [nownownow](https://nownownow.com/p/HxjF) network.</aside>
