@@ -719,6 +719,14 @@ We demand a leisure of the commune, a leisure that isn't the personal responsibi
 This is leisure-as-public-park: where we
 <span className="note"><small>Odell 2023, p. 95.</small><q>have demarcated space as one free from private ownership... free from the work of optimizing oneself.</q></span>[^odell2]
 
+We recognize that the loss of lived time is the contemporary condition for all individuals who have been separated from the means of independently maintaining their own existence,
+and who are thus forced to work for a wage--a condition that now pertains to practically everyone within society.
+We recognize a world in which the needs of survival can be met through automation, and yet we are separated from the fruits of these labors
+as equally as we are separated from the means of independently shaping our own lives.[^bunyard1]
+We recognize a life that, regardless of their degree of wealth,
+_all_ are obliged to live a life moulded by the distractions and behavioral tropes demanded by an increasingly obsolete and alien economic system.
+We recognize that no reformist position can solve these problems except for the complete disollution of the social relations engendered by _capitalism and socialism_ that reproduce the autonomous economy.
+
 What can save us is to **Never Work!**
 
 We _have_ time, let's make it ours.
