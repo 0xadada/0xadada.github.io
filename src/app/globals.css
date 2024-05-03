@@ -265,6 +265,7 @@ article h2 {
 .note p,
 .note small,
 small {
+  display: none;
   font-family: var(--sans-serif);
   font-size: 0.6em;
   opacity: 0.75;
@@ -299,6 +300,7 @@ small {
 
   .note small {
     /* sidenote */
+    display: inline;
     opacity: 1;
     width: calc(var(--sideNoteWidth) - 2rem);
     float: right;
@@ -427,10 +429,20 @@ aside {
   color: inherit;
 }
 
-/* audio
+/* audio */
+/*
+aside,
+header,
+footer,
+h2,
+h3,
+h4,
+figure,
+table,
 small,
 sup,
-.note::after
+.footnotes,
+.note::after,
 */
 .audio {
   display: none !important;
