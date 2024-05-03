@@ -728,6 +728,13 @@ This is leisure-as-public-park: where we
 <span className="note"><small>Odell 2023, p. 95.</small><q>have demarcated space as one free from private ownership... free from the work of optimizing oneself.</q></span>[^odell2]
 
 What can save us is to **Never Work!**
+To never work is to recognize our universal condition of separation from
+<span className="note"><small>Bunyard 2018, p. 259.</small>the means of maintaining our own existence, and are thus forced to work for a wage.</span>[^bunyard1]
+This, despite living in a civilization of abundance
+<span className="note"><small>C.f. Bunyard 2018, p. 259 (altered)</small>in which the needs of survival could be met through automation, and yet we are all separated from the means of independently shaping our own lives.</span>
+This is not to propose reformist social changes to capitalism
+<span className="note"><small>C.f. Bunyard 2018, p. 278.</small>_via_ the economy,</span>
+nor an advocacy for socialism, but an escape _from_ social relations mediated by the economy, tout court.
 
 We _have_ the time, let's make it ours.
 
