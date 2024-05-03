@@ -461,8 +461,15 @@ Leonard has anterograde amnesia, a result of a violent home invasion that left h
 The traumatic memory of this murder drives Leonard's quest for revenge.
 Despite his condition, Leonard is portrayed as smart, determined, and capable.
 He is the exemplar of the achievement-subject: someone focused on achievement for its own sake, the task of increased achievement.
-Leonard exists in a perpetual present brought on by amnesia. Spoilers: <span className="spoiler">once he has gotten his revenge, he must answer for himself: What is next, and to what end? To this, he refuses to answer, and instead changes his own memory by editing the notes that document his own past.
-His perpetual present is constructed with lies and selective memory.</span>
+Leonard exists in a perpetual present brought on by amnesia.
+<span className="text">Spoilers:</span>
+<span className="audio">spoiler alert in three... -- two ... -- one ... --</span>
+<span className="spoiler">
+once he has gotten his revenge, he must answer for himself:
+What is next, and to what end?
+To this, he refuses to answer, and instead changes his own memory by editing the notes that document his own past.
+His perpetual present is constructed with lies and selective memory.
+</span>
 He continues his task beyond completion, beyond achievement.
 Leonard is the achievement-subject taken to its logical conclusion.
 
@@ -624,7 +631,8 @@ echoes the American hippie counterculture movement of the late 1960s, and it is 
 Quiet quitting gained traction during the COVID-19 pandemic, where employees fulfill their job requirements but do not go above and beyond, rejecting the idea that work should consume their lives and choosing not to exceed the expectations outlined in their job descriptions.
 They're setting boundaries, avoiding overtime, and focusing on completing tasks within designated working hours.
 
-To resist the dominance of spectacular time and the perpetual present, we must collectively take responsibility to determine how we use time & space--and to what ends, otherwise the instrumentarian power will allocate our lives to its own ends.
+To resist the dominance of spectacular time and the perpetual present,
+we must collectively take responsibility to determine how we use time & space--and to what ends, otherwise the instrumentarian power will allocate our lives to its own ends.
 To do so, we can try embracing negativity.
 By _negativity_ we don't mean melancholy or pessimism, but rather our ability to self-determine one's life by negation, or the change of what we _are_ with a view to _being or becoming_ something else.
 Without negativity we do not have freedom.[^han]
@@ -719,17 +727,9 @@ We demand a leisure of the commune, a leisure that isn't the personal responsibi
 This is leisure-as-public-park: where we
 <span className="note"><small>Odell 2023, p. 95.</small><q>have demarcated space as one free from private ownership... free from the work of optimizing oneself.</q></span>[^odell2]
 
-We recognize that the loss of lived time is the contemporary condition for all individuals who have been separated from the means of independently maintaining their own existence,
-and who are thus forced to work for a wage--a condition that now pertains to practically everyone within society.
-We recognize a world in which the needs of survival can be met through automation, and yet we are separated from the fruits of these labors
-as equally as we are separated from the means of independently shaping our own lives.[^bunyard1]
-We recognize a life that, regardless of their degree of wealth,
-_all_ are obliged to live a life moulded by the distractions and behavioral tropes demanded by an increasingly obsolete and alien economic system.
-We recognize that no reformist position can solve these problems except for the complete disollution of the social relations engendered by _capitalism and socialism_ that reproduce the autonomous economy.
-
 What can save us is to **Never Work!**
 
-We _have_ time, let's make it ours.
+We _have_ the time, let's make it ours.
 
 <aside>
 This is part of a series exploring idleness, time, attention, and lived experience.
