@@ -525,7 +525,9 @@ The people of the achievement society are zombies, they are too healthy to die, 
 We are all _Leonard_, we are--**the zeitzombie**.
 
 **Zeitzombie** zeit·zom·bie, IPA /ˈzaɪtˌzɑmbi/ A conjunction of the German _zeit_ for 'time' and the Kikongo word *zumbi* for 'fetish'.
-A living corpse reanimated by productivity and busyness.
+The zeitzombie
+<span className="note"><small>A form of commodity fetishism applied to time: as "the confused identification of particular objects [time] with the attributes that are accorded to them as a result of the social relations in which they are located". Bunyard 2018, p. 296.</small>confuses their time with money.</span>
+The zeitzombie is a living corpse reanimated by productivity and busyness.
 They are those who claim to have no time.
 The zeitzombie is created when a life is drained by the vampire of neoliberal capitalism, converting living flesh into
 <span className="note"><small>Dead labor is labor power that has been expended into a product, a widget, a machine, or even a factory (Marx 1867).</small>dead labor.</span>[^marx-1867]
