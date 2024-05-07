@@ -645,11 +645,12 @@ The power of 'No' is predicated upon the increases of productivity in the last 4
 American households are working more overall today compared to 1980, putting in an average of nearly 4 more weeks of work annually.
 This is driven by increased hours and weeks worked by women who have shifted from reproductive labor to employment.[^pew]
 This increase in productive-time yields surpluses in the form of profits for corporations, and yet lost time for ourselves.
+According to Marx,
+<span className="note"><small>Marx 1973, p. 628. C.f. Debord 2021 [thesis 1](https://unredacted-word.pub/spectacle/#section).</small><q>The wealth of societies in which the capitalist mode of production prevails presents itself as an immense accumulation of commodities.</q></span>[^marx-1973]
 The real measure of wealth in a society that calls itself 'developed' is not money nor commodities,
-<span className="note"><small>Marx 1973, p. 628.</small><q>but rather, disposable time</q></span>[^marx-1973]
-which is to say the
+but rather, disposable time--which is to say the
 <span className="note"><small>Bunyard 2018, p. 220.</small><q>collective potential to actualize qualitatively differentiated moments of lived experience.</q></span>[^bunyard1]
-We say 'No' and refuse to give more time.
+We say 'No' and refuse to give more time to the production and consumption of commodities.
 
 When we think of time in terms of hours, minutes, and seconds, we mistake these mere referents as the _thing in itself_--which is to say, we mistake the map for the territory.
 The result of this perception is a collection of social problems caused by
