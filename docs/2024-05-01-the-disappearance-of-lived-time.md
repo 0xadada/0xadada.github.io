@@ -666,7 +666,7 @@ A path forward may be to extend the collective understanding of leisure as a way
 <span className="note"><small>Bunyard 2018, p. 211.</small><q>a condition of unity between conscious human agents (subject) and their own objective historical existence (object)</q>,</span>
 which is to say--we can become who we want, as we want, in our own time.
 
-![Parking garage sign that commands us to 'GO SLOW'.](/static/images/2024-05-01-go-slow.jpg)
+![Sarah Connor, hero of the Terminator films and the Patron Saint of temporal self-determinacy.](/static/images/2024-05-01-sarah-connor.jpg)
 
 What can revitalize us, is thinking.
 Thinking takes time that requires lingering, deliberating, weighing up possible alternatives, and patience.
@@ -703,6 +703,8 @@ Idleness and imagination are essential to our wellbeing, they're the wellspring 
 Idleness is the _space of play_, it opens a time that engages all the senses and full participation.
 It allows for activity for its own sake, without ends or instrumental reasoning.
 The activity is self-determined and open-ended.
+
+![Parking garage sign that commands us to 'GO SLOW'.](/static/images/2024-05-01-go-slow.jpg)
 
 What can 'save' us is boredom.
 Boredom is the peak of mental relaxation[^han] and acts as a gravity well for contemplation.
