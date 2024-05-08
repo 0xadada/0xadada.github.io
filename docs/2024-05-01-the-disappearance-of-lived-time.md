@@ -628,8 +628,10 @@ Tang ping advocated for a recognition of the slavery inherent to existing workin
 Tang ping and its spiritual successor
 <ruby lang="zh-CN"><ruby>摆<rt>let it</rt></ruby><rt>bǎi</rt><rb><ruby>烂<rt>rot</rt></ruby></rb><rt>làn</rt></ruby>
 echoes the American hippie counterculture movement of the late 1960s, and it is the contemporary analog to the Quiet quitting phenomenon in the US.
-Quiet quitting gained traction during the COVID-19 pandemic, where employees fulfill their job requirements but do not go above and beyond, rejecting the idea that work should consume their lives and choosing not to exceed the expectations outlined in their job descriptions.
+Quiet quitting gained traction during the COVID-19 pandemic, where employees fulfill their job requirements but do not go above and beyond,
+rejecting the idea that work should consume their lives and choosing not to exceed the expectations outlined in their job descriptions.
 They're setting boundaries, avoiding overtime, and focusing on completing tasks within designated working hours.
+Taken together, these conditions are a conscious or unconscious withdrawl from society in what Berardi calls 'desertion'.[^berardi-2024]
 
 To resist the dominance of spectacular time and the perpetual present,
 we must collectively take responsibility to determine how we use time & space--and to what ends, otherwise the instrumentarian power will allocate our lives to its own ends.
@@ -661,12 +663,20 @@ The power of 'No' allows us to move towards temporal self-determinacy.
 This is temporal negativity, a 'No' to things that hijack our time, a 'No' to instrumentarian power.
 The task of 'No' is to consciously (and collectively) self-determine the goal of human activity and act towards the realization of that goal.
 The individual's concrete activity in leisure (the means) is directly connected to its own action (the ends), which is to say, it is done for its own sake.
-This is the fulfillment of a unity between theory and praxis.
+This is the fulfillment of unity between theory and praxis that moves beyond the economic determinism of the autonomous economy to our own,
+communal, self actualization in time and history.
 A path forward may be to extend the collective understanding of leisure as a way to establish
 <span className="note"><small>Bunyard 2018, p. 211.</small><q>a condition of unity between conscious human agents (subject) and their own objective historical existence (object)</q>,</span>
 which is to say--we can become who we want, as we want, in our own time.
 
 ![Sarah Connor, hero of the Terminator films and the Patron Saint of temporal self-determinacy.](/static/images/2024-05-01-sarah-connor.jpg)
+
+> ‟Rather, her [Sarah Connor] knowledge of the material conditions that produce this awful future have radicalized her,
+> she has embraced her situation not as a passive observer,
+> but as an agent active within history,
+> fully conscious of the power that the present has over the future.”[^jones-2024]
+>
+> <figcaption>Adam C. Jones <cite>[Radicalized by the Future: Are We All Sarah Connor?](https://www.youtube.com/watch?v=tlHVV22ZW7c)</cite></figcaption>
 
 What can revitalize us, is thinking.
 Thinking takes time that requires lingering, deliberating, weighing up possible alternatives, and patience.
@@ -755,6 +765,7 @@ Thanks to Jenna,
 [^techno]: Andreessen, Marc. October 16, 2023. "[The Techno-Optimist Manifesto](https://a16z.com/the-techno-optimist-manifesto/)." _Andreessen Horowitz_ (blog). a16z.com.
 [^tangpingist-2021]: Tangpingist, Anonymous. April 1, 2021. "[Tangpingist Manifesto](https://chi.st/bugs/tangpingist-manifesto.)." _Bugs - Chi.st_ (blog). chi.st.
 [^augustine2]: Augustine. & Dods, M. 1993. *The city of god*. New York: Modern Library.
+[^berardi-2024]: Berardi, Franco 'Bifo'. 2024. Forthcoming. _Quit Everything: Interpreting Depression_. Repeater.
 [^bergson1]: Bergson, Henri., & Mitchell, A. (1944) 1907. *Creative evolution*. The Modern library.
 [^bernays]: Bernays, Edward L. (1928) 2005. _Propaganda: With an Introduction by Mark Crispin Miller_. New York: Ig publishing.
 [^braudel1]: Fernand Braudel. 1995. _A History of Civilizations_. New York, N.Y., U.S.A.: Penguin Books.
@@ -782,6 +793,7 @@ Thanks to Jenna,
 [^han]: Han, Byung Chul. 2015. _The burnout society_. Stanford Briefs, an Imprint of Stanford University Press.
 [^heidegger1]: Heidegger, Martin, John Macquarrie, and Edward Schouten Robinson. 1962. _Being and Time_. Harper and Row.
 [^jappe]: Jappe, Anselm, Donald Nicholson-Smith, and T J Clark. 1999. _Guy Debord_. University of California Press.
+[^jones-2024]: Jones, Adam C. February 14, 2024. [We're All Running from The Terminator: The Radical Left Versus Capitalism](https://youtube.com/watch?v=tlHVV22ZW7c). YouTube.
 [^kuzm]: Kuzmanović, Maja, and Nik Gaffney. 2024. “[Fallowing](https://anarchive.fo.am/wabisabi/fallowing/).” _anarchive_. Accessed March 24, 2024. anarchive.fo.am.
 [^leone]: Leone, Sergio, dir. 1966. _The Good, the Bad and the Ugly_. Archive.org. Produzioni Europee Associate.
 [^marx-1867]: Marx, Karl. (1867) 1990. _Capital: A Critique of Political Economy. / Vol. 1._ Harmondsworth: Penguin in Association with New Left Review.

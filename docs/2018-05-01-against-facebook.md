@@ -716,6 +716,8 @@ This is part of a series exploring idleness, time, attention, and lived experien
 
 <aside>Disponible en español. [Contra Facebook, Parte 1](https://nadarespetable.com/2020/03/25/contra-facebook-parte-1/), [Contra Facebook, Parte 2](https://nadarespetable.com/2020/03/26/contra-facebook-parte-2/)</aside>
 
+## Bibliography
+
 <div className="hanging-indent">
 
 Angwin, Julia. Mattu, Surya. Parris Jr, Terry. (December 27, 2016). [Facebook Doesn't Tell Users Everything It Really Knows About Them](https://www.propublica.org/article/facebook-doesnt-tell-users-everything-it-really-knows-about-them) (Retrieved April 21, 2018).
