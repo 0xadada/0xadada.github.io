@@ -464,12 +464,10 @@ He is the exemplar of the achievement-subject: someone focused on achievement fo
 Leonard exists in a perpetual present brought on by amnesia.
 <span className="text">Spoilers:</span>
 <span className="audio">spoiler alert in three... -- two ... -- one ... --</span>
-<span className="spoiler">
-once he has gotten his revenge, he must answer for himself:
+<span className="spoiler">once he has gotten his revenge, he must answer for himself:
 What is next, and to what end?
 To this, he refuses to answer, and instead changes his own memory by editing the notes that document his own past.
-His perpetual present is constructed with lies and selective memory.
-</span>
+His perpetual present is constructed with lies and selective memory.</span>
 He continues his task beyond completion, beyond achievement.
 Leonard is the achievement-subject taken to its logical conclusion.
 
