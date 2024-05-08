@@ -714,10 +714,7 @@ This is part of a series exploring idleness, time, attention, and lived experien
 4. [The Disappearance of Lived Time](/2024/05/01/the-disappearance-of-lived-time/)
 </aside>
 
-<aside>Disponible en español.
-  [Contra Facebook, Parte 1](https://nadarespetable.com/2020/03/25/contra-facebook-parte-1/),
-  [Contra Facebook, Parte 2](https://nadarespetable.com/2020/03/26/contra-facebook-parte-2/)
-</aside>
+<aside>Disponible en español. [Contra Facebook, Parte 1](https://nadarespetable.com/2020/03/25/contra-facebook-parte-1/), [Contra Facebook, Parte 2](https://nadarespetable.com/2020/03/26/contra-facebook-parte-2/)</aside>
 
 <div className="hanging-indent">
 
