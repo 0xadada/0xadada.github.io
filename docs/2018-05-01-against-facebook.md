@@ -1,6 +1,6 @@
 ---
 title: "Against Facebook"
-description:
+subtitle:
   "On the commodification of attention, the abuses of unpaid microwork and
   strategies of resistance."
 image: /static/images/2018-04-24-against-facebook-preview.jpg
