@@ -7,14 +7,6 @@ image: /static/images/2018-04-24-against-facebook-preview.jpg
 tags: [essays, privacy, facebook]
 ---
 
-<aside>
-  [Contra Facebook, Parte 1](https://nadarespetable.com/2020/03/25/contra-facebook-parte-1/),
-  [Contra Facebook, Parte 2](https://nadarespetable.com/2020/03/26/contra-facebook-parte-2/)
-</aside>
-
-On the commodification of attention, the abuses of unpaid microwork and
-strategies of resistance.
-
 ![Against Facebook](/static/images/2018-05-01-against-facebook-title.jpg)
 
 _Alarm goes off, time to wake up. Snooze alarm, and then repeat: check email,
@@ -720,6 +712,11 @@ This is part of a series exploring idleness, time, attention, and lived experien
 2. [Against Facebook](/2018/05/01/against-facebook/)
 3. [I am not a software developer](/2022/04/01/i-am-not-a-software-developer/)
 4. [The Disappearance of Lived Time](/2024/05/01/the-disappearance-of-lived-time/)
+</aside>
+
+<aside>Disponible en español.
+  [Contra Facebook, Parte 1](https://nadarespetable.com/2020/03/25/contra-facebook-parte-1/),
+  [Contra Facebook, Parte 2](https://nadarespetable.com/2020/03/26/contra-facebook-parte-2/)
 </aside>
 
 <div className="hanging-indent">
