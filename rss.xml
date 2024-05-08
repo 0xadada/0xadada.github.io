@@ -4,7 +4,7 @@
         <description><![CDATA[0xADADA]]></description>
         <link>https://0xadada.pub</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 08 May 2024 16:32:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 May 2024 20:30:45 GMT</lastBuildDate>
         <atom:link href="https://0xadada.pub/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The Disappearance of Lived Time]]></title>
@@ -3254,9 +3254,7 @@ console.log(
         </item>
         <item>
             <title><![CDATA[Against Facebook]]></title>
-            <description><![CDATA[<p>On the commodification of attention, the abuses of unpaid microwork and
-strategies of resistance.</p>
-<p><img src="/static/images/2018-05-01-against-facebook-title.jpg" alt="Against Facebook"></p>
+            <description><![CDATA[<p><img src="/static/images/2018-05-01-against-facebook-title.jpg" alt="Against Facebook"></p>
 <p><em>Alarm goes off, time to wake up. Snooze alarm, and then repeat: check email,
 check Facebook, check Twitter, check Snapchat, rinse; repeat again; no new
 posts? Check again. No second spared to compose a thought; dreams fade away. Day
