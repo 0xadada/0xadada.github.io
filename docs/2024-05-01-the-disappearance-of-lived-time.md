@@ -747,7 +747,7 @@ This is leisure-as-public-park: where we
 
 What can save us is to **Never Work!**
 
-We _have_ the time, let's make it ours.
+<p><span className="note"><small>Cf. Debord 2021, [ch. VI](https://unredacted-word.pub/spectacle/#vi.-spectacular-time).</small>We _have nothing_ but time, let's make it our own.</span></p>
 
 <aside>
 This is part of a series exploring idleness, time, attention, and lived experience.
