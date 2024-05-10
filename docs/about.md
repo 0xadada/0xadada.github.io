@@ -6,24 +6,18 @@ image: /static/images/meta/apple-touch-icon.png
 
 <figure>
   <img style={{borderRadius: '50%', border: '1rem solid #222'}} src="/static/images/meta/avatar.svg" />
-  <figcaption>
-    0xADADA, (On the Internet, nobody knows you're a dog) 
-  </figcaption>
+  <figcaption>Artistic rendition approximating the likeness of 0xADADA.</figcaption>
 </figure>
 
-0xADADA is a Software Engineer / Writer / Motorsports Driver exploring the impact of the attention economy on idleness,
-time, and lived experience. 🧑‍💻🔧🚗✍️🔒
+0xADADA writes software, does motorsports, and writes essays about the impact of the attention economy on idleness, time, and lived experience. ✍️🧑‍💻🔧🚗⏳🔒
 
 0xADADA works on open source, web, and cybersecurity projects from the Boston area; graduated from Northeastern
-University with degrees in Computer Science and Cognitive Psychology focusing on Artificial Intelligence &
+University with degrees in Computer Science and Cognitive Psychology--focusing on Artificial Intelligence &
 Human-Centered Computing.
 
 ## My book
 
-<figure className="note">
-  <img src="/static/images/2021-04-01-the-society-of-the-spectacle-cover.png" alt="Cover design" />
-  <figcaption>Cover design for The Society of the Spectacle</figcaption>
-</figure>
+![Cover design for The Society of the Spectacle](/static/images/2021-04-01-the-society-of-the-spectacle-cover.png)
 
 I've written a book, a new English translation of Guy Debords' 1967 work of philosophy and critical theory,
 _The Society of The Spectacle_. My edition isn’t as much a straight translation as it is an elaboration, or
