@@ -239,7 +239,12 @@ Papaïoannou is more optimistic, saying "a time of [historical] arrest is not th
 refusal of the progression of any major historical divergence from our extant social organization and temporalities.
 It is an indefinite postponement of the future.
 This is an age characterized by commodities that exist for their own sake, external to any human desires, or even society itself.
-This is an age where the economy becomes autonomous--organizing social activity in order to reproduce itself.[^jappe]
+This is an age where the
+<span className="note"><small>“Because value shapes the actions and interactions of individuals within capitalist society,
+and because such social activity takes place according to its needs...
+human agents become confronted and dominated by an antagonistic counter [the economy] that governs society in their stead.”
+(Bunyard 2018, p. 316, altered).</small>economy becomes autonomous--organizing social activity</span>[^bunyard1]
+in order to reproduce itself.[^jappe]
 This age was inaugurated with the publishing of
 <span className="note"><small>_Propaganda_, was written by Edward Bernays in 1928, incorporated the literature from social science and psychology for the techniques of public communication for the manipulation of the masses. (Bernays 2005).</small>_Propaganda_</span>[^bernays]
 in 1928[^debord2], it developed with the ubiquity of television and radio.
@@ -275,7 +280,7 @@ Whereas power in the Age of Economic Production was determined by nation-states,
 The invention of the smartphone is the key development (after the emergence of the internet) that established the ubiquity of spectacular time and cyberspace.
 The smartphone locates us on the internet all the time.
 We previously _went to the place_ of the internet and took things away with us, but smartphones push us over a threshold where we need to opt-out of
-<span className="note"><small>Named 'cyberspace-time', cf. Fisher 2020 00:08:30.</small>spectacular time.</span>
+<span className="note"><small>Named 'cyberspace-time', cf. Fisher 2020, T00:08:30.</small>spectacular time.</span>
 With the internet in our hands, in the ubiquitous non-place of cyberspace--we've lost the ability to opt-out.[^fisher2]
 <span className="note"><small>Airspace is a term coined by Kyle Chayka (Chayka 2016).</small>Airspace</span>[^chayka1]
 is the spatial modality of this age:
