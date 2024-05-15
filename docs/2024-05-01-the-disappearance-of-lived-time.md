@@ -406,7 +406,10 @@ The ideological goal of these actions is twofold: shift the burden of reproducti
 
 <span className="note"><small>I chose to use Debordian term 'Lived time' because it has the connotation of actually living. Other have used the Greek word 'kairos' to describe such moments, see Odell 2023.</small>**Lived time**</span>
 is the freest, most fun, most creative mode of time experienced.[^debord1]
-Lived time is the **Kairos**[^odell2]--those nonlinear and qualitative moments that dynamically stretch and contract with our emotions, engage all our senses, and requires full participation.
+Lived time is the **Kairos**,
+<span className="note"><small>Debord 2004, p. 62.</small>those strategic points in which we are obliged to sieze the moment and act,</span>[^debord-2004]
+those nonlinear and qualitative moments that dynamically stretch and contract with our emotions,
+engage all our senses, and requires full participation.[^odell2]
 Lived time are those
 <span className="note"><small>Known as 'ecstatic time' in _Being and Time_, the word comes from the Greek *ékstasis*--to be 'outside of oneself'. See Heidegger 1962.</small>moments of ecstasy</span>
 experienced during leisure, play, focus, intense emotions, and erotic rapture.[^heidegger1]
@@ -780,6 +783,7 @@ Thanks to Jenna,
 [^bunyard1]: Bunyard, Tom. 2019. _Debord, time and spectacle : Hegelian Marxism and situationist theory_. Haymarket Books.
 [^debord1]: Debord, Guy. & Adams, Ron. 2021. _The society of the spectacle_. Unredacted Word.
 [^debord2]: Debord, Guy. & Imrie, Malcolm. 1998. *Comments on the society of the spectacle*. London New York: Verso.
+[^debord-2004]: Debord, Guy. 2004. _Panegyric, Volumes 1 & 2_, translated by James Brook and John McHale. London New York: Verso.
 [^evans]: Dylan Evans. 1996. _An Introductory Dictionary of Lacanian Psychoanalysis_. Routledge.
 [^chayka1]: Chayka, Kyle. August 16, 2016. “[Welcome to Airspace](https://www.theverge.com/2016/8/3/12325104/airbnb-aesthetic-global-minimalism-startup-gentrification)”. _The Verge_ (blog). theverge.com.
 [^chayka-2024]: Chayka, Kyle. 2024. _Filterworld_. Doubleday.
