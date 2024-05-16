@@ -748,9 +748,13 @@ We demand a leisure of the commune, a leisure that isn't the personal responsibi
 This is leisure-as-public-park: where we
 <span className="note"><small>Odell 2023, p. 95.</small><q>have demarcated space as one free from private ownership... free from the work of optimizing oneself.</q></span>[^odell2]
 
-What can save us is to **Never Work!**
+What can save us is to
+<span className="note"><small>Income inequality is to such a degree that no amount of working reduces ones poverty.
+So our question remains, _why work?_
+"the same question is about to be posed again everwhere: how can we make the poor work, when illusion has disappointed
+and when force has been defeated? (Debord 2021, [Preface to the Third French Edition](https://unredacted-word.pub/spectacle/#preface-to-the-third-french-edition))</small>**Never Work!**</span>[^debord1]
 
-<p><span className="note"><small>Cf. Debord 2021, [ch. VI](https://unredacted-word.pub/spectacle/#vi.-spectacular-time).</small>We _have nothing_ but time, let's make it our own.</span></p>
+<p><span className="note"><small>Cf. Baltasar Gracián, see Debord 2021, [ch. VI](https://unredacted-word.pub/spectacle/#vi.-spectacular-time).</small>We _have nothing_ but time, let's make it our own.</span></p>
 
 <aside>
 This is part of a series exploring idleness, time, attention, and lived experience.
