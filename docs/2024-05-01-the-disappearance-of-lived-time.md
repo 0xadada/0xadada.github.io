@@ -32,10 +32,6 @@ tags:
   The north face of The Mönch from Lauterbrunnen valley in Switzerland. Photo by the author, 2016; art by Cole Carson 2024.
 ](/static/images/2024-05-01-lauterbrunnen-lived-time-vs-spectacular-time.png)
 
-<figure>
-<iframe src="https://open.spotify.com/embed/episode/6T57esZAMTBmuQBS7ZYq4p?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowFullScreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-</figure>
-
 <a id="introduction"></a>
 We stand on the brink of a precipice.
 In front of us lies a society driven for the sake of productivity, the mechanics increasingly directed by artificial intelligence to serve corporate interests.
@@ -60,6 +56,11 @@ I propose points of resistance to a dominant social order that seeks to continua
 At this juncture, society can collectively decide what the future will hold for humanity--we can determine what that looks like, what we're building, and to what ends.
 If we do not rise to this challenge, then the instrumental power that has emerged out of neoliberal capitalism will decide our future for its own banal ends.
 Together we can decide if we want increases in productivity to appear in the form of profits for the few, or as surplus time allocated to the many--the latter of which can be used for leisure and the concrete activity of creating a brighter future for all.
+
+<figure style={{margin: "3rem 0"}}>
+<iframe src="https://open.spotify.com/embed/episode/6T57esZAMTBmuQBS7ZYq4p?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowFullScreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+  <figcaption>Listen to this essay on Spotify</figcaption>
+</figure>
 
 <span className="note"><small>"The greatest difficulty with most subjects is to do them well; therefore, please to remember this is an apology. It is certain that much may be judiciously argued in favour of diligence; only there is something to be said against it..." (Stevenson 2023, p. 1).</small>The greatest difficulty with most subjects is to do them well,</span>[^stevenson]
 and they say that to become an expert you must have done 10,000 hours.[^gladwell]
