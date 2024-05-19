@@ -652,7 +652,7 @@ Negativity is the opposite, it is the power of 'No'--the power to choose.
 
 The power of 'No' is predicated upon the increases of productivity in the last 40 years without a corresponding increase in wages or a decrease in time spent working.
 American households are working more overall today compared to 1980, putting in an average of nearly 4 more weeks of work annually.
-This is driven by increased hours and weeks worked by women who have shifted from reproductive labor to employment.[^pew]
+This is largely a result of women having shifted from reproductive labor to employment.[^pew]
 This increase in productive-time yields surpluses in the form of profits for corporations, and yet lost time for ourselves.
 According to Marx,
 <span className="note"><small>Marx 1973, p. 628. C.f. Debord 2021 [thesis 1](https://unredacted-word.pub/spectacle/#section).</small><q>The wealth of societies in which the capitalist mode of production prevails presents itself as an immense accumulation of commodities.</q></span>[^marx-1973]
