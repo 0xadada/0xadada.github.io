@@ -396,6 +396,7 @@ Reproductive time is, in fact, the opposite--
 and a lot of emotion and thought is put into care for the people who become the fundamental basis of the economy.[^garbes]
 <span className="audio">According to Angela Garbes:</span>
 <span className="note"><small>Garbes 2022, p. 14.</small><q>Love and care, like social change, are slow and follow circuitous paths that take days not hours, years not months. The work may seem inefficient, but love doesn't play by the same rules as the economy.</q></span>[^garbes]
+As a form of human care, reproductive labor is ill suited to the efficiencies of capitalism because doing so would entail a reduction in care.[^hester-2023]
 While work is perceived as 'apart from life', and 'free time' remains perceived as 'more authentically real life', the lived experience of reproductive time is cut off from 'real life', remaining undocumented and unaccounted for on any personal narrative.
 This deprives daily life of language and as a formal concept, and it lacks any analysis of what events occurred within its own past.
 Reproductive time is the real time of life, but one that is misunderstood, smothered, and forgotten--to the benefit of the false consciousness of spectacular time that is the memory of the unmemorable.[^debord1]
@@ -698,7 +699,16 @@ from intrusive thoughts.[^han]
 We need contemplation: the mode of
 <span className="note"><small>Merrifield 2008, p. 165.</small>holistic thinking that considers everything,</span>
 the thinking that is the product of daydreaming, adventures in the mind, meditative thinking that is often useless but done for its own sake.[^merrifield-2008]
-We need activity of thought--the non-time of thinking without rules, without best practices, using intuition which brings into existence new territories of ideas, language, and actions that could never have been predicted.
+We need activity of thought--the non-time of thinking without rules, without best practices,
+using intuition which brings into existence new territories of ideas, language, and actions that could never have been predicted.
+
+To say 'No' is a recognition of reproductive time _as work_ that must be considered labor--even if unpaid.
+To say 'No' is to insist on the reduction and redistribution of reproductive work, _not_ because it lets people take on more waged
+labor (trading one form of unfreedom for another),
+<span className="note"><small>Hester & Srnicek, pp 10-11.</small>
+but to expand the availability of free time that is a prerequisite for any meaningful conception of freedom.</span>[^hester-2023]
+It is a recognition of wage labor as a form of domination, oppression, and exploitation that should be abolished.
+It is a fight for free time that allows us to determine what to do with our finite lives.
 
 To say 'No' is to reject the dominant temporality and embrace time for its own sake, a time that is _ours_.
 
@@ -806,6 +816,7 @@ Thanks to Jenna,
 [^groundhog]: Ramis, Harold, dir. 1993. _Groundhog Day_. Columbia Pictures.
 [^han]: Han, Byung Chul. 2015. _The burnout society_. Stanford Briefs, an Imprint of Stanford University Press.
 [^heidegger1]: Heidegger, Martin, John Macquarrie, and Edward Schouten Robinson. 1962. _Being and Time_. Harper and Row.
+[^hester-2023]: Hester, Helen & Srnicek, Nick. 2023. _After work: A history of the home and the fight for free time_. Verso.
 [^jappe]: Jappe, Anselm, Donald Nicholson-Smith, and T J Clark. 1999. _Guy Debord_. University of California Press.
 [^jones-2024]: Jones, Adam C. February 14, 2024. [We're All Running from The Terminator: The Radical Left Versus Capitalism](https://youtube.com/watch?v=tlHVV22ZW7c). YouTube.
 [^kuzm]: Kuzmanović, Maja, and Nik Gaffney. 2024. “[Fallowing](https://anarchive.fo.am/wabisabi/fallowing/).” _anarchive_. Accessed March 24, 2024. anarchive.fo.am.
