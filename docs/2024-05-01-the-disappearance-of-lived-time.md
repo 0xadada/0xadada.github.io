@@ -488,6 +488,7 @@ Pursuing this logic leads to the imposition of an unattainable burden, resulting
 Leonard's amnesia inoculates him from burnout.
 Without memory, without any meaningful sense of the past, Leonard maintains an infinite state of productivity without burnout.
 The TV show _Severance_ expands upon this idea, where employees volunteer to have their brains surgically segmented, thus splitting one's work life from their personal life--they, quite literally, have no memory of their workday.
+<span className="audio">In the show,</span>
 The procedure is legitimated as beneficial to mental health, and its' effect produces a docile, burnout-free workforce.[^severance]
 
 _We are all Leonard_ in the perpetual present that is continually demanding 'more'.
