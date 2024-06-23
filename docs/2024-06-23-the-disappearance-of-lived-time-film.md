@@ -30,5 +30,5 @@ tags:
 
 <figure>
 <iframe width="100%" height="520" src="https://www.youtube.com/embed/q_wNxAoBWKY?si=s8Pl4WVrfVTCQ4xT" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" referrerPolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>
-<figcaption>"Down here it's our time, it's _our_ time down here."[^goonies] Mikey <cite>The Goonies</cite></figcaption>
+<figcaption>Film available on YouTube</figcaption>
 </figure>
