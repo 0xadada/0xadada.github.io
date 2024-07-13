@@ -62,13 +62,10 @@ Together we can decide if we want increases in productivity to appear in the for
   <figcaption>Listen to this essay on Spotify</figcaption>
 </figure>
 
-<span className="note"><small>"The greatest difficulty with most subjects is to do them well; therefore, please to remember this is an apology. It is certain that much may be judiciously argued in favour of diligence; only there is something to be said against it..." (Stevenson 2023, p. 1).</small>The greatest difficulty with most subjects is to do them well,</span>[^stevenson]
-and they say that to become an expert you must have done 10,000 hours.[^gladwell]
-There is something to be said, however, against the professional, the expert, the overachiever.
-I will do my best to argue for the idler, the amateur, the layabout–for they are the experts of idleness.
-I hope to join their ranks one day, and as such,
-<span className="note"><small>"ground the basis of my cause and claims on nothing" (Debord 2021, [thesis 208](https://unredacted-word.pub/spectacle/#section-200)), cf. Stirner 1995, cf. Goethe n.d.</small>I ground the basis of my cause and claims on nothing</span>[^debord1][^stirner][^goethe]
-but its own self-evident truth--one that is deeply felt.
+<figure>
+<iframe width="100%" height="520" src="https://www.youtube.com/embed/9vtDN0Gdk7w?si=IftxpmKXqIXyXyla" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" referrerPolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>
+<figcaption>Film available on YouTube</figcaption>
+</figure>
 
 <aside>
   <details>
@@ -799,9 +796,7 @@ Thanks to Jenna,
 [^fisher-2014]: Fisher, Mark. 2014. _"Mark Fisher: The Slow Cancellation of the Future."_ [YouTube](https://www.youtube.com/watch?v=aCgkLICTskQ).
 [^fukuyama-1992]: Fukuyama, Francis. 1992. _The End of History and the Last Man_. New York, N.Y. ; London: Free Press.
 [^garbes]: Garbes, Angela. 2022. _Essential labor_. HarperCollins.
-[^gladwell]: Gladwell, Malcolm. 2008. _Outliers: The story of success_. Back Bay Books.
 [^goonies]: Donner, Richard, dir. 1985. _The Goonies_. Warner Bros.
-[^goethe]: Goethe, Johann Wolfgang von. n.d. "[Vanitas! Vanitatum Vanitas!](https://kalliope.org/en/text/goethe2019010801)" _Kalliope.org_ (blog). Accessed March 30, 2024. kalliope.org.
 [^graeber1]: Graeber, David. 2015. _The utopia of rules: on technology, stupidity, and the secret joys of bureaucracy_. Melville House Publishing.
 [^graeber2]: Graeber, David. 2011. *Debt: the first 5,000 years*. Melville House.
 [^groundhog]: Ramis, Harold, dir. 1993. _Groundhog Day_. Columbia Pictures.
@@ -824,7 +819,6 @@ Thanks to Jenna,
 [^poe]: Poe, Edgar Allen. February 3, 2022. “[The Imp of the Perverse](https://poemuseum.org/the-imp-of-the-perverse/).” _The Poe Museum_ (blog). poemuseum.org.
 [^roko]: Roko. March 24, 2022. "[Roko's Basilisk](https://www.lesswrong.com/tag/rokos-basilisk)". _LessWrong_ (blog). (Retrieved 24 March 2022).
 [^russell]: Russell, Bertrand. 1972. _In praise of idleness, and other essays_. Simon & Schuster.
-[^stirner]: Stirner, Max. 1995. _Stirner: The Ego and Its Own_. Cambridge University Press.
 [^stevenson]: Stevenson, Robert Louis. 2023. _[An apology for idlers](https://www.gutenberg.org/files/69825/69825-h/69825-h.htm)_. gutenberg.org. (Retrieved March 8, 2024).
 [^severance]: Stiller, Ben Stiller, and Aoife McArdle. 2022. _Severance_. TV Series. Apple TV+.
 [^thatcher]: Thatcher, Margaret. 1980. "[Speech to Conservative Women's Conference](https://www.margaretthatcher.org/document/104368)". _margaretthatcher.org_. Margaret Thatcher Foundation. (Retrieved March 20, 2024).
