@@ -1,11 +1,11 @@
 ---
-title: "Your Own Happiness: BRZ Type RA 2022 Spec"
+title: "Your Own Happiness: BRZ Type RA 2024 Spec"
 description: "Progress on my 2017 Subaru BRZ track build."
 image: /static/images/2022-10-05-brz-typera-2022-spec-00.jpg
 tags: [notes, motorsports, subaru]
 ---
 
-![2017 Subaru BRZ Type RA at Palmer Motorsports Park. Photo by Robert Badar.](/static/images/2022-10-05-brz-typera-2022-spec-00.jpg)
+![2017 Subaru BRZ Type RA at Thompson Speedway](/static/images/2022-10-05-brz-typera-2022-spec-hero.jpg)
 
 In 2020 [I wrote about the potential of the Subaru
 BRZ](/2020/10/20/the-type-ra-subaru-cant-build/) but its lack of a
@@ -17,7 +17,7 @@ track-oriented trim level:
 
 … so I built one myself.
 
-![Your Own Happiness](/static/images/2022-10-05-brz-typera-2022-spec-02.jpg)
+![2017 Subaru BRZ Type RA at Palmer Motorsports Park. Photo by Robert Badar.](/static/images/2022-10-05-brz-typera-2022-spec-00.jpg)
 
 It had been five years since I had owned a track car, it was the early months of
 the COVID-19 pandemic, I was languishing, and my wife said "You need to do
@@ -66,14 +66,19 @@ What is yours?
 
 ## Engine
 
+![Engines room](/static/images/2022-10-05-brz-typera-2022-spec-engines-room.jpg)
+
 Tomei Japan EXPREME Ti equal-length manifold,
 Fujitsubo Authorize R TypeS cat back exhaust,
 ECUTek tune (188hp/145.6tq) by [R Tuned](https://getrtuned.com) at Kinetic Motorsports,
 HKS oil cooler,
 Odyssey PC1100 battery,
-Beat Rush sound generator delete.
+Beat Rush sound generator delete,
+Perrin fuel rail brackets.
 
 ## Drivetrain
+
+![Transmission with BattleGarage RS throwout bearing and Verus clutch fork](/static/images/2022-10-05-brz-typera-2022-spec-drivetrain.jpg)
 
 Cusco engine mounts,
 Cusco steering rack bushings,
@@ -107,22 +112,30 @@ Muteki SR48 open-ended lug nuts.
 
 ## Wheels/Tires
 
+![Enkei RPF1](/static/images/2022-10-05-brz-typera-2022-spec-wheel-enkei-rpf1.jpg)
+![Enkei GTC-02](/static/images/2022-10-05-brz-typera-2022-spec-wheel-enkei-gtc02.jpg)
+
+![WedsSport TC-105X](/static/images/2022-10-05-brz-typera-2022-spec-wheel-wedssports-tc105x.jpg)
+![Rays Engineering Volk Racing TE-37 Saga SL](/static/images/2022-10-05-brz-typera-2022-spec-wheels-rays-eng-te-37.jpg)
+
+ENKEI RPF-1 17x9+35 in Matte Black on Bridgestone POTENZA RE-71RS in 225/45R17.
+
 Enkei GTC02 in Hyper Silver F 17x7.5+38 R 17x9+43 on Goodyear Eagle Exhilarate F 215/45/R17 R 225/45R17.
 
 WedsSports TC-105X EJ Titan 17x9+35 square on Yokohama ADVAN A052 225/45R17.
 
-ENKEI RPF-1 17x9+35 in Matte Black on Bridgestone POTENZA RE-71RS in 225/45R17.
-
 Rays Engineering VOLK Racing TE-37 Saga SL 17x9.5+45 on Michelin Pilot Sport 4S in 245/40/R17.
 
 ## Exterior
+
+![Front 3/4 view](/static/images/2022-10-05-brz-typera-2022-spec-front.jpg)
 
 Subaru STI bumper lip and lip skirt,
 CLEiB carbon fiber side skirts,
 Cusco tow strap,
 Verus Engineering carbon fiber side markers,
 Aerocatch hood pins,
-<ins dateTime="2023-04">Vermont Sportscar Carbon Fiber hood vents & gurney flaps</ins>,
+Vermont Sportscar Carbon Fiber hood vents & gurney flaps,
 Quik-Latch front bumper release,
 Audi Q3 overfenders,
 Perrin license plate bracket,
@@ -130,12 +143,23 @@ Subaru 'Type RA' badge (from WRX STI).
 
 ## Interior
 
+![Interior](/static/images/2022-10-05-brz-typera-2022-spec-interior.jpg)
+
 Bride Zeta IV seat,
-MOMO Type 78 steering wheel on Works Bell quick release with steering controls relocation switch kit,
+MOMO Type 78 steering wheel on Works Bell quick release with steering controls relocation switch kit.
+
+![BRIDE Zeta IV seat](/static/images/2022-10-05-brz-typera-2022-spec-seat.jpg)
+
 Verus Engineering throttle pedal spacer,
 P3 v3 ODB gauge,
-Safety Restore seatbelt webbing,
+Safety Restore Ferrari-red custom seatbelt webbing,
 JDM Toyota/Subaru OEM interior trim & door handles,
 Amerex & Element fire extinguishers.
 
-<aside>Article updated to reflect changes for the 2023 season.</aside>
+## Gallery
+
+![Drifting at Thompson with Lock City](/static/images/2022-10-05-brz-typera-2022-spec-thompson-lock-city.jpg)
+
+![Your Own Happiness](/static/images/2022-10-05-brz-typera-2022-spec-02.jpg)
+
+<aside>Article updated to reflect changes for the 2024 season.</aside>
