@@ -221,9 +221,6 @@ figure figcaption {
 img {
   max-width: 100%;
 }
-figure img {
-  max-height: 100vh;
-}
 
 header,
 footer,
@@ -391,6 +388,8 @@ aside {
   margin-right: calc(
     0rem - var(--bodyPadding) + calc(0rem - var(--sideNoteWidth))
   );
+  max-width: 100%;
+  max-width: calc(100% + var(--bodyPadding) * 2);
 }
 .rehype-figure-container .rehype-figure {
   position: relative;
