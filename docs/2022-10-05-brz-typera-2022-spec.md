@@ -5,6 +5,10 @@ image: /static/images/2022-10-05-brz-typera-2022-spec-00.jpg
 tags: [notes, motorsports, subaru]
 ---
 
+Throughout its history, a certain Japanese automaker has offered its customers stripped-back,
+homologation models ready for the track.
+This Subaru BRZ is a nod to those cars.
+
 ![2017 Subaru BRZ Type RA at Thompson Speedway](/static/images/2022-10-05-brz-typera-2022-spec-hero.jpg)
 
 In 2020 [I wrote about the potential of the Subaru
@@ -40,7 +44,7 @@ I've given myself a few principals to guide the build:
 - Drive it to the track & back
 - Make power with 93 Octane
 
-After a six-month search for a used Crystal White Pearl Kouki (2017-2020)
+After a six-month search for a used Crystal White Pearl kouki (2017-2020)
 BRZ or 86, I found one on the Subaru Certified Pre-Owned web portal in Annapolis
 Subaru. I called them and immediately put down a deposit. I rented a car and
 drove 11 hours on a Friday night, starting at 10pm, arriving at 9am Saturday
